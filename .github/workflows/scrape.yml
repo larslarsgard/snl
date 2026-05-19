@@ -3,7 +3,7 @@ name: Daily SNL Scraper
 on:
   schedule:
     # Runs at 07:00 UTC (08:00 or 09:00 Norwegian time depending on DST) everyday
-    - cron: '0 7 * * *'
+    - cron: '0 4 * * *'
   workflow_dispatch: # Allows you to manually click a button to test run it anytime
 
 jobs:
