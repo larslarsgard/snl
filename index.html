@@ -7,16 +7,16 @@
     <style>
         :root {
             --bg-color: #ffffff;
-            --text-color: #1a1a1a;
-            --accent-color: #0066cc;
+            --text-color: #2c2c2e;
+            --accent-color: #007aff;
             --card-bg: #f5f5f7;
         }
         /* Dark mode support if your phone uses it */
         @media (prefers-color-scheme: dark) {
             :root {
                 --bg-color: #1c1c1e;
-                --text-color: #f5f5f7;
-                --accent-color: #2f95dc;
+                --text-color: #f2f2f7;
+                --accent-color: #58a6ff;
                 --card-bg: #2c2c2e;
             }
         }
@@ -41,6 +41,10 @@
             background: var(--card-bg);
             padding: 10px;
             border-radius: 10px;
+            width: 500px;
+            box-sizing: border-box;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
         }
         .section-title {
             font-size: 14px;
@@ -95,7 +99,26 @@
 
                     const title = document.createElement('h2');
                     title.className = 'section-title';
-                    title.innerText = sectionName;
+                    
+                    // Parse YYYY-MM-DD to dd.mm.yy
+                    let formattedDate = "";
+                    if (data.date) {
+                        const parts = data.date.split("-"); // [YYYY, MM, DD]
+                        if (parts.length === 3) {
+                            const yy = parts[0].slice(-2);  // Last two digits of year
+                            const mm = parts[1];
+                            const dd = parts[2];
+                            formattedDate = ` (${dd}.${mm}.${yy})`;
+                        }
+                    }
+                    
+                    // Check if it's the specific header and append the date
+                    if (sectionName === "Mest lest i går") {
+                        title.innerText = `${sectionName}${formattedDate}`;
+                    } else {
+                        title.innerText = sectionName;
+                    }
+                    
                     section.appendChild(title);
 
                     const list = document.createElement('ul');
