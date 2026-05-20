@@ -81,5 +81,88 @@
         "url": "https://snl.no/%C5%8Cgai_Mori"
       }
     ]
+  },
+  "2026-05-20": {
+    "Mest lest i går": [
+      {
+        "category": "Bunad, kofter og folkedrakt",
+        "title": "bunadskategoriar",
+        "url": "https://snl.no/bunadskategoriar"
+      },
+      {
+        "category": "Virus",
+        "title": "hantavirus",
+        "url": "https://sml.snl.no/hantavirus"
+      },
+      {
+        "category": "Andre verdenskrig",
+        "title": "andre verdenskrig",
+        "url": "https://snl.no/andre_verdenskrig"
+      },
+      {
+        "category": "Bunad, kofter og folkedrakt",
+        "title": "bunad",
+        "url": "https://snl.no/bunad"
+      },
+      {
+        "category": "Virussykdommer",
+        "title": "ebola",
+        "url": "https://sml.snl.no/ebola"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Norsk kjøkken",
+        "title": "goro",
+        "url": "https://snl.no/goro"
+      },
+      {
+        "category": "Klesdesignere og motehus",
+        "title": "John Galliano",
+        "url": "https://snl.no/John_Galliano"
+      },
+      {
+        "category": "Buekorps",
+        "title": "buekorps",
+        "url": "https://snl.no/buekorps"
+      },
+      {
+        "category": "Bunader fra Hordaland",
+        "title": "Fanabunad – kvinne",
+        "url": "https://snl.no/Fanabunad_-_kvinne"
+      },
+      {
+        "category": "Bunader fra Trøndelag",
+        "title": "Trøndelagsbunader",
+        "url": "https://snl.no/Tr%C3%B8ndelagsbunader"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Storbritannia og Nord-Irlands nyere litteratur",
+        "title": "Alexander McCall Smith",
+        "url": "https://snl.no/Alexander_McCall_Smith"
+      },
+      {
+        "category": "Fly- og helikopterprodusenter",
+        "title": "Westland Aircraft",
+        "url": "https://snl.no/Westland_Aircraft"
+      },
+      {
+        "category": "Biografier i 1600-tallets filosofi",
+        "title": "Anne Conway",
+        "url": "https://snl.no/Anne_Conway"
+      },
+      {
+        "category": "Begreper i bakteriologi",
+        "title": "lukten etter regn",
+        "url": "https://snl.no/lukten_etter_regn"
+      },
+      {
+        "category": "Sovjetunionens historie",
+        "title": "Inessa Armand",
+        "url": "https://snl.no/Inessa_Armand"
+      }
+    ]
   }
 }

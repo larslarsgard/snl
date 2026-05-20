@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-19",
+  "date": "2026-05-20",
   "categories": {
     "Mest lest i går": [
       {
@@ -13,73 +13,73 @@
         "url": "https://sml.snl.no/hantavirus"
       },
       {
+        "category": "Andre verdenskrig",
+        "title": "andre verdenskrig",
+        "url": "https://snl.no/andre_verdenskrig"
+      },
+      {
         "category": "Bunad, kofter og folkedrakt",
         "title": "bunad",
         "url": "https://snl.no/bunad"
       },
       {
-        "category": "Bunader fra Akershus",
-        "title": "Bunader fra Akershus",
-        "url": "https://snl.no/Bunader_fra_Akershus"
-      },
-      {
-        "category": "Bunader fra Troms og Finnmark",
-        "title": "Bunader og norske folkedrakter fra Troms og Finnmark",
-        "url": "https://snl.no/Bunader_og_norske_folkedrakter_fra_Troms_og_Finnmark"
+        "category": "Virussykdommer",
+        "title": "ebola",
+        "url": "https://sml.snl.no/ebola"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Bunader fra Oslo",
-        "title": "Bunader fra Oslo",
-        "url": "https://snl.no/Bunader_fra_Oslo"
+        "category": "Norsk kjøkken",
+        "title": "goro",
+        "url": "https://snl.no/goro"
       },
       {
-        "category": "Bunader fra Nordland",
-        "title": "Bunader og norske folkedrakter fra Nordland",
-        "url": "https://snl.no/Bunader_og_norske_folkedrakter_fra_Nordland"
+        "category": "Klesdesignere og motehus",
+        "title": "John Galliano",
+        "url": "https://snl.no/John_Galliano"
       },
       {
-        "category": "Bunader fra Akershus",
-        "title": "Bærumsbunad – kvinne",
-        "url": "https://snl.no/B%C3%A6rumsbunad_-_kvinne"
+        "category": "Buekorps",
+        "title": "buekorps",
+        "url": "https://snl.no/buekorps"
       },
       {
-        "category": "Bunader fra Akershus",
-        "title": "Bunader frå Asker og Bærum",
-        "url": "https://snl.no/Bunader_fr%C3%A5_Asker_og_B%C3%A6rum"
+        "category": "Bunader fra Hordaland",
+        "title": "Fanabunad – kvinne",
+        "url": "https://snl.no/Fanabunad_-_kvinne"
       },
       {
-        "category": "Bunader fra Buskerud",
-        "title": "Skjælestakk fra Numedal – kvinne",
-        "url": "https://snl.no/Skj%C3%A6lestakk_fra_Numedal_-_kvinne"
+        "category": "Bunader fra Trøndelag",
+        "title": "Trøndelagsbunader",
+        "url": "https://snl.no/Tr%C3%B8ndelagsbunader"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Gjenstanders kulturhistorie",
-        "title": "tønne",
-        "url": "https://snl.no/t%C3%B8nne"
+        "category": "Storbritannia og Nord-Irlands nyere litteratur",
+        "title": "Alexander McCall Smith",
+        "url": "https://snl.no/Alexander_McCall_Smith"
       },
       {
-        "category": "Jødedom",
-        "title": "mizrahim",
-        "url": "https://snl.no/mizrahim"
+        "category": "Fly- og helikopterprodusenter",
+        "title": "Westland Aircraft",
+        "url": "https://snl.no/Westland_Aircraft"
       },
       {
-        "category": "Kvinnebevegelsen i Norge",
-        "title": "Norske Kvinneorganisasjoners Samarbeidsnemnd",
-        "url": "https://snl.no/Norske_Kvinneorganisasjoners_Samarbeidsnemnd"
+        "category": "Biografier i 1600-tallets filosofi",
+        "title": "Anne Conway",
+        "url": "https://snl.no/Anne_Conway"
       },
       {
-        "category": "Data- og informasjonssikkerhet",
-        "title": "tjenestenekt",
-        "url": "https://snl.no/tjenestenekt"
+        "category": "Begreper i bakteriologi",
+        "title": "lukten etter regn",
+        "url": "https://snl.no/lukten_etter_regn"
       },
       {
-        "category": "Japans litteratur",
-        "title": "Ōgai Mori",
-        "url": "https://snl.no/%C5%8Cgai_Mori"
+        "category": "Sovjetunionens historie",
+        "title": "Inessa Armand",
+        "url": "https://snl.no/Inessa_Armand"
       }
     ]
   }
