@@ -164,5 +164,88 @@
         "url": "https://snl.no/Inessa_Armand"
       }
     ]
+  },
+  "2026-05-21": {
+    "Mest lest i går": [
+      {
+        "category": "Internasjonal tekstilindustri",
+        "title": "fast fashion",
+        "url": "https://snl.no/fast_fashion"
+      },
+      {
+        "category": "Zimbabwes geografi",
+        "title": "Zimbabwe",
+        "url": "https://snl.no/Zimbabwe"
+      },
+      {
+        "category": "Bunad, kofter og folkedrakt",
+        "title": "bunadskategoriar",
+        "url": "https://snl.no/bunadskategoriar"
+      },
+      {
+        "category": "Andre verdenskrig",
+        "title": "andre verdenskrig",
+        "url": "https://snl.no/andre_verdenskrig"
+      },
+      {
+        "category": "Virus",
+        "title": "hantavirus",
+        "url": "https://sml.snl.no/hantavirus"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Zimbabwes samtidshistorie",
+        "title": "Robert Mugabe",
+        "url": "https://snl.no/Robert_Mugabe"
+      },
+      {
+        "category": "Norsk kjøkken",
+        "title": "goro",
+        "url": "https://snl.no/goro"
+      },
+      {
+        "category": "Internasjonal tekstilindustri",
+        "title": "Shein",
+        "url": "https://snl.no/Shein"
+      },
+      {
+        "category": "Fysiologi",
+        "title": "muskelarbeid",
+        "url": "https://sml.snl.no/muskelarbeid"
+      },
+      {
+        "category": "Løp",
+        "title": "Usain Bolt",
+        "url": "https://snl.no/Usain_Bolt"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Frankrikes nyere litteratur",
+        "title": "Maryse Condé",
+        "url": "https://snl.no/Maryse_Cond%C3%A9"
+      },
+      {
+        "category": "Internasjonal teknologi- og industrihistorie",
+        "title": "sprayboks",
+        "url": "https://snl.no/sprayboks"
+      },
+      {
+        "category": "Russlands samtidshistorie",
+        "title": "St. Petersburgdemningen",
+        "url": "https://snl.no/St._Petersburgdemningen"
+      },
+      {
+        "category": "Det gamle Egypt",
+        "title": "Shashotep",
+        "url": "https://snl.no/Shashotep"
+      },
+      {
+        "category": "Havrett",
+        "title": "havrettskonvensjonen",
+        "url": "https://snl.no/havrettskonvensjonen"
+      }
+    ]
   }
 }
