@@ -1,85 +1,85 @@
 {
-  "date": "2026-05-21",
+  "date": "2026-05-22",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Internasjonal tekstilindustri",
-        "title": "fast fashion",
-        "url": "https://snl.no/fast_fashion"
+        "category": "Lyrikk",
+        "title": "poesi",
+        "url": "https://snl.no/poesi"
       },
       {
-        "category": "Zimbabwes geografi",
-        "title": "Zimbabwe",
-        "url": "https://snl.no/Zimbabwe"
+        "category": "Verk i norsk litteratur",
+        "title": "Kristin Lavransdatter",
+        "url": "https://snl.no/Kristin_Lavransdatter"
       },
       {
-        "category": "Bunad, kofter og folkedrakt",
-        "title": "bunadskategoriar",
-        "url": "https://snl.no/bunadskategoriar"
+        "category": "Språkvitenskapens grunnbegreper",
+        "title": "språk",
+        "url": "https://snl.no/spr%C3%A5k"
       },
       {
-        "category": "Andre verdenskrig",
-        "title": "andre verdenskrig",
-        "url": "https://snl.no/andre_verdenskrig"
+        "category": "Sosiolingvistikk",
+        "title": "sosiolekt",
+        "url": "https://snl.no/sosiolekt"
       },
       {
-        "category": "Virus",
-        "title": "hantavirus",
-        "url": "https://sml.snl.no/hantavirus"
+        "category": "Utviklingspsykologi",
+        "title": "identitet",
+        "url": "https://snl.no/identitet"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Zimbabwes samtidshistorie",
-        "title": "Robert Mugabe",
-        "url": "https://snl.no/Robert_Mugabe"
+        "category": "Litterære uttrykk",
+        "title": "trilogi",
+        "url": "https://snl.no/trilogi"
       },
       {
-        "category": "Norsk kjøkken",
-        "title": "goro",
-        "url": "https://snl.no/goro"
+        "category": "Retorikk",
+        "title": "språklig kommunikasjon",
+        "url": "https://snl.no/spr%C3%A5klig_kommunikasjon"
       },
       {
-        "category": "Internasjonal tekstilindustri",
-        "title": "Shein",
-        "url": "https://snl.no/Shein"
+        "category": "Norske dialekter",
+        "title": "Tromsø bymål",
+        "url": "https://snl.no/Troms%C3%B8_bym%C3%A5l"
       },
       {
-        "category": "Fysiologi",
-        "title": "muskelarbeid",
-        "url": "https://sml.snl.no/muskelarbeid"
+        "category": "Grue",
+        "title": "Grue",
+        "url": "https://snl.no/Grue"
       },
       {
-        "category": "Løp",
-        "title": "Usain Bolt",
-        "url": "https://snl.no/Usain_Bolt"
+        "category": "Bunader fra Oppland",
+        "title": "Jordebunaden",
+        "url": "https://snl.no/Jordebunaden"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Frankrikes nyere litteratur",
-        "title": "Maryse Condé",
-        "url": "https://snl.no/Maryse_Cond%C3%A9"
+        "category": "Guatemalas samtidshistorie",
+        "title": "Rigoberta Menchú Tum",
+        "url": "https://snl.no/Rigoberta_Mench%C3%BA_Tum"
       },
       {
-        "category": "Internasjonal teknologi- og industrihistorie",
-        "title": "sprayboks",
-        "url": "https://snl.no/sprayboks"
+        "category": "Tidligere aviser på Østlandet",
+        "title": "Patrouillen",
+        "url": "https://snl.no/Patrouillen"
       },
       {
-        "category": "Russlands samtidshistorie",
-        "title": "St. Petersburgdemningen",
-        "url": "https://snl.no/St._Petersburgdemningen"
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "pikrinsyre",
+        "url": "https://snl.no/pikrinsyre"
       },
       {
-        "category": "Det gamle Egypt",
-        "title": "Shashotep",
-        "url": "https://snl.no/Shashotep"
+        "category": "Jentenavn",
+        "title": "Betty – kvinnenamn",
+        "url": "https://snl.no/Betty_-_kvinnenamn"
       },
       {
-        "category": "Havrett",
-        "title": "havrettskonvensjonen",
-        "url": "https://snl.no/havrettskonvensjonen"
+        "category": "Afrikanske språk",
+        "title": "tamasjek",
+        "url": "https://snl.no/tamasjek"
       }
     ]
   }

@@ -247,5 +247,88 @@
         "url": "https://snl.no/havrettskonvensjonen"
       }
     ]
+  },
+  "2026-05-22": {
+    "Mest lest i går": [
+      {
+        "category": "Lyrikk",
+        "title": "poesi",
+        "url": "https://snl.no/poesi"
+      },
+      {
+        "category": "Verk i norsk litteratur",
+        "title": "Kristin Lavransdatter",
+        "url": "https://snl.no/Kristin_Lavransdatter"
+      },
+      {
+        "category": "Språkvitenskapens grunnbegreper",
+        "title": "språk",
+        "url": "https://snl.no/spr%C3%A5k"
+      },
+      {
+        "category": "Sosiolingvistikk",
+        "title": "sosiolekt",
+        "url": "https://snl.no/sosiolekt"
+      },
+      {
+        "category": "Utviklingspsykologi",
+        "title": "identitet",
+        "url": "https://snl.no/identitet"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Litterære uttrykk",
+        "title": "trilogi",
+        "url": "https://snl.no/trilogi"
+      },
+      {
+        "category": "Retorikk",
+        "title": "språklig kommunikasjon",
+        "url": "https://snl.no/spr%C3%A5klig_kommunikasjon"
+      },
+      {
+        "category": "Norske dialekter",
+        "title": "Tromsø bymål",
+        "url": "https://snl.no/Troms%C3%B8_bym%C3%A5l"
+      },
+      {
+        "category": "Grue",
+        "title": "Grue",
+        "url": "https://snl.no/Grue"
+      },
+      {
+        "category": "Bunader fra Oppland",
+        "title": "Jordebunaden",
+        "url": "https://snl.no/Jordebunaden"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Guatemalas samtidshistorie",
+        "title": "Rigoberta Menchú Tum",
+        "url": "https://snl.no/Rigoberta_Mench%C3%BA_Tum"
+      },
+      {
+        "category": "Tidligere aviser på Østlandet",
+        "title": "Patrouillen",
+        "url": "https://snl.no/Patrouillen"
+      },
+      {
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "pikrinsyre",
+        "url": "https://snl.no/pikrinsyre"
+      },
+      {
+        "category": "Jentenavn",
+        "title": "Betty – kvinnenamn",
+        "url": "https://snl.no/Betty_-_kvinnenamn"
+      },
+      {
+        "category": "Afrikanske språk",
+        "title": "tamasjek",
+        "url": "https://snl.no/tamasjek"
+      }
+    ]
   }
 }
