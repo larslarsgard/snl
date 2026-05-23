@@ -330,5 +330,88 @@
         "url": "https://snl.no/tamasjek"
       }
     ]
+  },
+  "2026-05-23": {
+    "Mest lest i går": [
+      {
+        "category": "Lyrikk",
+        "title": "poesi",
+        "url": "https://snl.no/poesi"
+      },
+      {
+        "category": "Verk i norsk litteratur",
+        "title": "Kristin Lavransdatter",
+        "url": "https://snl.no/Kristin_Lavransdatter"
+      },
+      {
+        "category": "Språkvitenskapens grunnbegreper",
+        "title": "språk",
+        "url": "https://snl.no/spr%C3%A5k"
+      },
+      {
+        "category": "Sosiolingvistikk",
+        "title": "sosiolekt",
+        "url": "https://snl.no/sosiolekt"
+      },
+      {
+        "category": "Utviklingspsykologi",
+        "title": "identitet",
+        "url": "https://snl.no/identitet"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Litterære uttrykk",
+        "title": "trilogi",
+        "url": "https://snl.no/trilogi"
+      },
+      {
+        "category": "Retorikk",
+        "title": "språklig kommunikasjon",
+        "url": "https://snl.no/spr%C3%A5klig_kommunikasjon"
+      },
+      {
+        "category": "Norske dialekter",
+        "title": "Tromsø bymål",
+        "url": "https://snl.no/Troms%C3%B8_bym%C3%A5l"
+      },
+      {
+        "category": "Grue",
+        "title": "Grue",
+        "url": "https://snl.no/Grue"
+      },
+      {
+        "category": "Bunader fra Oppland",
+        "title": "Jordebunaden",
+        "url": "https://snl.no/Jordebunaden"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Biografier i luftfart",
+        "title": "Bernt Balchen",
+        "url": "https://snl.no/Bernt_Balchen"
+      },
+      {
+        "category": "Wales’ historie",
+        "title": "Owen Glendower",
+        "url": "https://snl.no/Owen_Glendower"
+      },
+      {
+        "category": "Tidligere aviser på Østlandet",
+        "title": "Akershusposten",
+        "url": "https://snl.no/Akershusposten"
+      },
+      {
+        "category": "Andre krigsskip",
+        "title": "rokanonbåt",
+        "url": "https://snl.no/rokanonb%C3%A5t"
+      },
+      {
+        "category": "Tysk fotball",
+        "title": "tysk fotball",
+        "url": "https://snl.no/tysk_fotball"
+      }
+    ]
   }
 }

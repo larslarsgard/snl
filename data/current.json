@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-22",
+  "date": "2026-05-23",
   "categories": {
     "Mest lest i går": [
       {
@@ -57,29 +57,29 @@
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Guatemalas samtidshistorie",
-        "title": "Rigoberta Menchú Tum",
-        "url": "https://snl.no/Rigoberta_Mench%C3%BA_Tum"
+        "category": "Biografier i luftfart",
+        "title": "Bernt Balchen",
+        "url": "https://snl.no/Bernt_Balchen"
+      },
+      {
+        "category": "Wales’ historie",
+        "title": "Owen Glendower",
+        "url": "https://snl.no/Owen_Glendower"
       },
       {
         "category": "Tidligere aviser på Østlandet",
-        "title": "Patrouillen",
-        "url": "https://snl.no/Patrouillen"
+        "title": "Akershusposten",
+        "url": "https://snl.no/Akershusposten"
       },
       {
-        "category": "Energetiske materialer og sprengningsteknikk",
-        "title": "pikrinsyre",
-        "url": "https://snl.no/pikrinsyre"
+        "category": "Andre krigsskip",
+        "title": "rokanonbåt",
+        "url": "https://snl.no/rokanonb%C3%A5t"
       },
       {
-        "category": "Jentenavn",
-        "title": "Betty – kvinnenamn",
-        "url": "https://snl.no/Betty_-_kvinnenamn"
-      },
-      {
-        "category": "Afrikanske språk",
-        "title": "tamasjek",
-        "url": "https://snl.no/tamasjek"
+        "category": "Tysk fotball",
+        "title": "tysk fotball",
+        "url": "https://snl.no/tysk_fotball"
       }
     ]
   }
