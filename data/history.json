@@ -413,5 +413,88 @@
         "url": "https://snl.no/tysk_fotball"
       }
     ]
+  },
+  "2026-05-24": {
+    "Mest lest i går": [
+      {
+        "category": "Kristne ritualer og symboler",
+        "title": "pinse",
+        "url": "https://snl.no/pinse"
+      },
+      {
+        "category": "Virus",
+        "title": "enterovirus",
+        "url": "https://sml.snl.no/enterovirus"
+      },
+      {
+        "category": "Virussykdommer",
+        "title": "ebola",
+        "url": "https://sml.snl.no/ebola"
+      },
+      {
+        "category": "Norske fotballspillere",
+        "title": "Tom Lund",
+        "url": "https://snl.no/Tom_Lund"
+      },
+      {
+        "category": "Bunad, kofter og folkedrakt",
+        "title": "bunadskategoriar",
+        "url": "https://snl.no/bunadskategoriar"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Politisk teori",
+        "title": "oligarkiets jernlov",
+        "url": "https://snl.no/oligarkiets_jernlov"
+      },
+      {
+        "category": "Barnemusikk",
+        "title": "Maj Britt Andersen",
+        "url": "https://snl.no/Maj_Britt_Andersen"
+      },
+      {
+        "category": "Visesang",
+        "title": "Kari Bremnes",
+        "url": "https://snl.no/Kari_Bremnes"
+      },
+      {
+        "category": "Syreslekta",
+        "title": "høymole",
+        "url": "https://snl.no/h%C3%B8ymole"
+      },
+      {
+        "category": "Bunader fra Vestfold",
+        "title": "Fylkesdrakt for Vestfold",
+        "url": "https://snl.no/Fylkesdrakt_for_Vestfold"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Bolivias samtidshistorie",
+        "title": "Evo Morales",
+        "url": "https://snl.no/Evo_Morales"
+      },
+      {
+        "category": "Tidligere aviser på Østlandet",
+        "title": "Fredrikshalds avis",
+        "url": "https://snl.no/Fredrikshalds_avis"
+      },
+      {
+        "category": "Norske arkitekter fram til 1900",
+        "title": "arkitektfagets historie i Norge",
+        "url": "https://snl.no/arkitektfagets_historie_i_Norge"
+      },
+      {
+        "category": "Utenlandske slekter",
+        "title": "Braunschweig-Lüneburg – fyrstehus",
+        "url": "https://snl.no/Braunschweig-L%C3%BCneburg_-_fyrstehus"
+      },
+      {
+        "category": "Tysklands nyere litteratur",
+        "title": "Birgit Weyhe",
+        "url": "https://snl.no/Birgit_Weyhe"
+      }
+    ]
   }
 }

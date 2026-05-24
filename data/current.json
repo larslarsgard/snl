@@ -1,85 +1,85 @@
 {
-  "date": "2026-05-23",
+  "date": "2026-05-24",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Lyrikk",
-        "title": "poesi",
-        "url": "https://snl.no/poesi"
+        "category": "Kristne ritualer og symboler",
+        "title": "pinse",
+        "url": "https://snl.no/pinse"
       },
       {
-        "category": "Verk i norsk litteratur",
-        "title": "Kristin Lavransdatter",
-        "url": "https://snl.no/Kristin_Lavransdatter"
+        "category": "Virus",
+        "title": "enterovirus",
+        "url": "https://sml.snl.no/enterovirus"
       },
       {
-        "category": "Språkvitenskapens grunnbegreper",
-        "title": "språk",
-        "url": "https://snl.no/spr%C3%A5k"
+        "category": "Virussykdommer",
+        "title": "ebola",
+        "url": "https://sml.snl.no/ebola"
       },
       {
-        "category": "Sosiolingvistikk",
-        "title": "sosiolekt",
-        "url": "https://snl.no/sosiolekt"
+        "category": "Norske fotballspillere",
+        "title": "Tom Lund",
+        "url": "https://snl.no/Tom_Lund"
       },
       {
-        "category": "Utviklingspsykologi",
-        "title": "identitet",
-        "url": "https://snl.no/identitet"
+        "category": "Bunad, kofter og folkedrakt",
+        "title": "bunadskategoriar",
+        "url": "https://snl.no/bunadskategoriar"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Litterære uttrykk",
-        "title": "trilogi",
-        "url": "https://snl.no/trilogi"
+        "category": "Politisk teori",
+        "title": "oligarkiets jernlov",
+        "url": "https://snl.no/oligarkiets_jernlov"
       },
       {
-        "category": "Retorikk",
-        "title": "språklig kommunikasjon",
-        "url": "https://snl.no/spr%C3%A5klig_kommunikasjon"
+        "category": "Barnemusikk",
+        "title": "Maj Britt Andersen",
+        "url": "https://snl.no/Maj_Britt_Andersen"
       },
       {
-        "category": "Norske dialekter",
-        "title": "Tromsø bymål",
-        "url": "https://snl.no/Troms%C3%B8_bym%C3%A5l"
+        "category": "Visesang",
+        "title": "Kari Bremnes",
+        "url": "https://snl.no/Kari_Bremnes"
       },
       {
-        "category": "Grue",
-        "title": "Grue",
-        "url": "https://snl.no/Grue"
+        "category": "Syreslekta",
+        "title": "høymole",
+        "url": "https://snl.no/h%C3%B8ymole"
       },
       {
-        "category": "Bunader fra Oppland",
-        "title": "Jordebunaden",
-        "url": "https://snl.no/Jordebunaden"
+        "category": "Bunader fra Vestfold",
+        "title": "Fylkesdrakt for Vestfold",
+        "url": "https://snl.no/Fylkesdrakt_for_Vestfold"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Biografier i luftfart",
-        "title": "Bernt Balchen",
-        "url": "https://snl.no/Bernt_Balchen"
-      },
-      {
-        "category": "Wales’ historie",
-        "title": "Owen Glendower",
-        "url": "https://snl.no/Owen_Glendower"
+        "category": "Bolivias samtidshistorie",
+        "title": "Evo Morales",
+        "url": "https://snl.no/Evo_Morales"
       },
       {
         "category": "Tidligere aviser på Østlandet",
-        "title": "Akershusposten",
-        "url": "https://snl.no/Akershusposten"
+        "title": "Fredrikshalds avis",
+        "url": "https://snl.no/Fredrikshalds_avis"
       },
       {
-        "category": "Andre krigsskip",
-        "title": "rokanonbåt",
-        "url": "https://snl.no/rokanonb%C3%A5t"
+        "category": "Norske arkitekter fram til 1900",
+        "title": "arkitektfagets historie i Norge",
+        "url": "https://snl.no/arkitektfagets_historie_i_Norge"
       },
       {
-        "category": "Tysk fotball",
-        "title": "tysk fotball",
-        "url": "https://snl.no/tysk_fotball"
+        "category": "Utenlandske slekter",
+        "title": "Braunschweig-Lüneburg – fyrstehus",
+        "url": "https://snl.no/Braunschweig-L%C3%BCneburg_-_fyrstehus"
+      },
+      {
+        "category": "Tysklands nyere litteratur",
+        "title": "Birgit Weyhe",
+        "url": "https://snl.no/Birgit_Weyhe"
       }
     ]
   }
