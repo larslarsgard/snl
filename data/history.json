@@ -496,5 +496,88 @@
         "url": "https://snl.no/Birgit_Weyhe"
       }
     ]
+  },
+  "2026-05-25": {
+    "Mest lest i går": [
+      {
+        "category": "Kristne ritualer og symboler",
+        "title": "pinse",
+        "url": "https://snl.no/pinse"
+      },
+      {
+        "category": "Påfuglspinnere",
+        "title": "nattpåfugløye",
+        "url": "https://snl.no/nattp%C3%A5fugl%C3%B8ye"
+      },
+      {
+        "category": "Virussykdommer",
+        "title": "ebola",
+        "url": "https://sml.snl.no/ebola"
+      },
+      {
+        "category": "Bunad, kofter og folkedrakt",
+        "title": "bunadskategoriar",
+        "url": "https://snl.no/bunadskategoriar"
+      },
+      {
+        "category": "Virus",
+        "title": "enterovirus",
+        "url": "https://sml.snl.no/enterovirus"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Fluesnapperfamilien",
+        "title": "halsbåndfluesnapper",
+        "url": "https://snl.no/halsb%C3%A5ndfluesnapper"
+      },
+      {
+        "category": "Bedrifter og organisasjoner i norsk reiseliv",
+        "title": "Edvard Moseid",
+        "url": "https://snl.no/Edvard_Moseid"
+      },
+      {
+        "category": "Mineraler",
+        "title": "radioaktive mineraler",
+        "url": "https://snl.no/radioaktive_mineraler"
+      },
+      {
+        "category": "Kvannslekta",
+        "title": "kvann",
+        "url": "https://snl.no/kvann"
+      },
+      {
+        "category": "Norske fotballspillere",
+        "title": "Tom Lund",
+        "url": "https://snl.no/Tom_Lund"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Odontologi",
+        "title": "tannrengjøring",
+        "url": "https://sml.snl.no/tannrengj%C3%B8ring"
+      },
+      {
+        "category": "Biografier medisinsk historie",
+        "title": "Knut Aukland",
+        "url": "https://snl.no/Knut_Aukland"
+      },
+      {
+        "category": "Midtøstens gamle kulturer",
+        "title": "Gibea",
+        "url": "https://snl.no/Gibea"
+      },
+      {
+        "category": "Musikkterapi",
+        "title": "musikkterapi",
+        "url": "https://snl.no/musikkterapi"
+      },
+      {
+        "category": "Svalbard",
+        "title": "The Northern Exploration Company",
+        "url": "https://snl.no/The_Northern_Exploration_Company"
+      }
+    ]
   }
 }
