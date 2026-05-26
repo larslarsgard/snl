@@ -1,16 +1,16 @@
 {
-  "date": "2026-05-25",
+  "date": "2026-05-26",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Bunad, kofter og folkedrakt",
+        "title": "bunadskategoriar",
+        "url": "https://snl.no/bunadskategoriar"
+      },
       {
         "category": "Kristne ritualer og symboler",
         "title": "pinse",
         "url": "https://snl.no/pinse"
-      },
-      {
-        "category": "Påfuglspinnere",
-        "title": "nattpåfugløye",
-        "url": "https://snl.no/nattp%C3%A5fugl%C3%B8ye"
       },
       {
         "category": "Virussykdommer",
@@ -18,26 +18,21 @@
         "url": "https://sml.snl.no/ebola"
       },
       {
-        "category": "Bunad, kofter og folkedrakt",
-        "title": "bunadskategoriar",
-        "url": "https://snl.no/bunadskategoriar"
+        "category": "Den kalde krigen",
+        "title": "den kalde krigen",
+        "url": "https://snl.no/den_kalde_krigen"
       },
       {
-        "category": "Virus",
-        "title": "enterovirus",
-        "url": "https://sml.snl.no/enterovirus"
+        "category": "Vietnams historie",
+        "title": "Vietnamkrigen",
+        "url": "https://snl.no/Vietnamkrigen"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Fluesnapperfamilien",
-        "title": "halsbåndfluesnapper",
-        "url": "https://snl.no/halsb%C3%A5ndfluesnapper"
-      },
-      {
-        "category": "Bedrifter og organisasjoner i norsk reiseliv",
-        "title": "Edvard Moseid",
-        "url": "https://snl.no/Edvard_Moseid"
+        "category": "Storbritannia og Nord-Irlands litteratur på 1900-tallet",
+        "title": "William Wymark Jacobs",
+        "url": "https://snl.no/William_Wymark_Jacobs"
       },
       {
         "category": "Mineraler",
@@ -45,9 +40,14 @@
         "url": "https://snl.no/radioaktive_mineraler"
       },
       {
-        "category": "Kvannslekta",
-        "title": "kvann",
-        "url": "https://snl.no/kvann"
+        "category": "Internasjonal pop og rock",
+        "title": "John Lennon",
+        "url": "https://snl.no/John_Lennon"
+      },
+      {
+        "category": "Kriminalsaker",
+        "title": "Rolf Erling Knutsen",
+        "url": "https://snl.no/Rolf_Erling_Knutsen"
       },
       {
         "category": "Norske fotballspillere",
@@ -57,29 +57,29 @@
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Odontologi",
-        "title": "tannrengjøring",
-        "url": "https://sml.snl.no/tannrengj%C3%B8ring"
+        "category": "Argentinas litteratur",
+        "title": "Adolfo Bioy Casares",
+        "url": "https://snl.no/Adolfo_Bioy_Casares"
       },
       {
-        "category": "Biografier medisinsk historie",
-        "title": "Knut Aukland",
-        "url": "https://snl.no/Knut_Aukland"
+        "category": "Sag og høvleri",
+        "title": "høvelmaskin",
+        "url": "https://snl.no/h%C3%B8velmaskin"
       },
       {
-        "category": "Midtøstens gamle kulturer",
-        "title": "Gibea",
-        "url": "https://snl.no/Gibea"
+        "category": "Norsk jernverksindustri",
+        "title": "jernverk",
+        "url": "https://snl.no/jernverk"
       },
       {
-        "category": "Musikkterapi",
-        "title": "musikkterapi",
-        "url": "https://snl.no/musikkterapi"
+        "category": "Middelalderkunst",
+        "title": "middelalderen – gotisk skulptur og maleri",
+        "url": "https://snl.no/middelalderen_-_gotisk_skulptur_og_maleri"
       },
       {
-        "category": "Svalbard",
-        "title": "The Northern Exploration Company",
-        "url": "https://snl.no/The_Northern_Exploration_Company"
+        "category": "Belarus’ samtidshistorie",
+        "title": "Koordineringsrådet",
+        "url": "https://snl.no/Koordineringsr%C3%A5det"
       }
     ]
   }

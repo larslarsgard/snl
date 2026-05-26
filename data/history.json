@@ -579,5 +579,88 @@
         "url": "https://snl.no/The_Northern_Exploration_Company"
       }
     ]
+  },
+  "2026-05-26": {
+    "Mest lest i går": [
+      {
+        "category": "Bunad, kofter og folkedrakt",
+        "title": "bunadskategoriar",
+        "url": "https://snl.no/bunadskategoriar"
+      },
+      {
+        "category": "Kristne ritualer og symboler",
+        "title": "pinse",
+        "url": "https://snl.no/pinse"
+      },
+      {
+        "category": "Virussykdommer",
+        "title": "ebola",
+        "url": "https://sml.snl.no/ebola"
+      },
+      {
+        "category": "Den kalde krigen",
+        "title": "den kalde krigen",
+        "url": "https://snl.no/den_kalde_krigen"
+      },
+      {
+        "category": "Vietnams historie",
+        "title": "Vietnamkrigen",
+        "url": "https://snl.no/Vietnamkrigen"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Storbritannia og Nord-Irlands litteratur på 1900-tallet",
+        "title": "William Wymark Jacobs",
+        "url": "https://snl.no/William_Wymark_Jacobs"
+      },
+      {
+        "category": "Mineraler",
+        "title": "radioaktive mineraler",
+        "url": "https://snl.no/radioaktive_mineraler"
+      },
+      {
+        "category": "Internasjonal pop og rock",
+        "title": "John Lennon",
+        "url": "https://snl.no/John_Lennon"
+      },
+      {
+        "category": "Kriminalsaker",
+        "title": "Rolf Erling Knutsen",
+        "url": "https://snl.no/Rolf_Erling_Knutsen"
+      },
+      {
+        "category": "Norske fotballspillere",
+        "title": "Tom Lund",
+        "url": "https://snl.no/Tom_Lund"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Argentinas litteratur",
+        "title": "Adolfo Bioy Casares",
+        "url": "https://snl.no/Adolfo_Bioy_Casares"
+      },
+      {
+        "category": "Sag og høvleri",
+        "title": "høvelmaskin",
+        "url": "https://snl.no/h%C3%B8velmaskin"
+      },
+      {
+        "category": "Norsk jernverksindustri",
+        "title": "jernverk",
+        "url": "https://snl.no/jernverk"
+      },
+      {
+        "category": "Middelalderkunst",
+        "title": "middelalderen – gotisk skulptur og maleri",
+        "url": "https://snl.no/middelalderen_-_gotisk_skulptur_og_maleri"
+      },
+      {
+        "category": "Belarus’ samtidshistorie",
+        "title": "Koordineringsrådet",
+        "url": "https://snl.no/Koordineringsr%C3%A5det"
+      }
+    ]
   }
 }
