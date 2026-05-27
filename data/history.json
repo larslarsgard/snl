@@ -662,5 +662,88 @@
         "url": "https://snl.no/Koordineringsr%C3%A5det"
       }
     ]
+  },
+  "2026-05-27": {
+    "Mest lest i går": [
+      {
+        "category": "Bunad, kofter og folkedrakt",
+        "title": "bunadskategoriar",
+        "url": "https://snl.no/bunadskategoriar"
+      },
+      {
+        "category": "Andre verdenskrig",
+        "title": "andre verdenskrig",
+        "url": "https://snl.no/andre_verdenskrig"
+      },
+      {
+        "category": "Virussykdommer",
+        "title": "ebola",
+        "url": "https://sml.snl.no/ebola"
+      },
+      {
+        "category": "Kristne ritualer og symboler",
+        "title": "pinse",
+        "url": "https://snl.no/pinse"
+      },
+      {
+        "category": "Den kalde krigen",
+        "title": "den kalde krigen",
+        "url": "https://snl.no/den_kalde_krigen"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Borgerkrigstiden",
+        "title": "Erling Skakke",
+        "url": "https://snl.no/Erling_Skakke"
+      },
+      {
+        "category": "Makroøkonomi",
+        "title": "verdiskaping",
+        "url": "https://snl.no/verdiskaping"
+      },
+      {
+        "category": "Ritualer og uttrykk i islam",
+        "title": "id al-adha",
+        "url": "https://snl.no/id_al-adha"
+      },
+      {
+        "category": "Norske fotballspillere",
+        "title": "Tom Lund",
+        "url": "https://snl.no/Tom_Lund"
+      },
+      {
+        "category": "Ritualer og uttrykk i islam",
+        "title": "id",
+        "url": "https://snl.no/id"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Romanias samtidshistorie",
+        "title": "Traian Băsescu",
+        "url": "https://snl.no/Traian_B%C4%83sescu"
+      },
+      {
+        "category": "Stavkirker",
+        "title": "Røldal stavkirke",
+        "url": "https://snl.no/R%C3%B8ldal_stavkirke"
+      },
+      {
+        "category": "Stavkirker",
+        "title": "Torpo stavkirke",
+        "url": "https://snl.no/Torpo_stavkirke"
+      },
+      {
+        "category": "Bærum",
+        "title": "Sandviksvassdraget",
+        "url": "https://snl.no/Sandviksvassdraget"
+      },
+      {
+        "category": "Norske arkitekturinstitusjoner",
+        "title": "Yngre Arkitektforening",
+        "url": "https://snl.no/Yngre_Arkitektforening"
+      }
+    ]
   }
 }
