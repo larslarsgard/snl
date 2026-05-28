@@ -745,5 +745,88 @@
         "url": "https://snl.no/Yngre_Arkitektforening"
       }
     ]
+  },
+  "2026-05-28": {
+    "Mest lest i går": [
+      {
+        "category": "Ritualer og uttrykk i islam",
+        "title": "id al-adha",
+        "url": "https://snl.no/id_al-adha"
+      },
+      {
+        "category": "Ritualer og uttrykk i islam",
+        "title": "id",
+        "url": "https://snl.no/id"
+      },
+      {
+        "category": "Virussykdommer",
+        "title": "ebola",
+        "url": "https://sml.snl.no/ebola"
+      },
+      {
+        "category": "Den kalde krigen",
+        "title": "den kalde krigen",
+        "url": "https://snl.no/den_kalde_krigen"
+      },
+      {
+        "category": "Andre verdenskrig",
+        "title": "andre verdenskrig",
+        "url": "https://snl.no/andre_verdenskrig"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Fylker og kommuner i Sverige",
+        "title": "Malå",
+        "url": "https://snl.no/Mal%C3%A5"
+      },
+      {
+        "category": "Utlendingsrett",
+        "title": "kirkeasyl",
+        "url": "https://snl.no/kirkeasyl"
+      },
+      {
+        "category": "Redere og biografier i sjøfarten",
+        "title": "Anette Olsen",
+        "url": "https://snl.no/Anette_Olsen"
+      },
+      {
+        "category": "Nålefisker",
+        "title": "kantnåler",
+        "url": "https://snl.no/kantn%C3%A5ler"
+      },
+      {
+        "category": "Ritualer og uttrykk i islam",
+        "title": "id al-fitr",
+        "url": "https://snl.no/id_al-fitr"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Kålslekta",
+        "title": "blomkål",
+        "url": "https://snl.no/blomk%C3%A5l"
+      },
+      {
+        "category": "Motiver i bildende kunst",
+        "title": "død – bildekunst",
+        "url": "https://snl.no/d%C3%B8d_-_bildekunst"
+      },
+      {
+        "category": "Zoologi",
+        "title": "hyperparasitt",
+        "url": "https://snl.no/hyperparasitt"
+      },
+      {
+        "category": "Skulptur og mosaikk i renessansen og barokken",
+        "title": "Andrea Contucci dal Sansovino",
+        "url": "https://snl.no/Andrea_Contucci_dal_Sansovino"
+      },
+      {
+        "category": "Glasskunstnere og keramikere",
+        "title": "Brit Dyrnes",
+        "url": "https://snl.no/Brit_Dyrnes"
+      }
+    ]
   }
 }

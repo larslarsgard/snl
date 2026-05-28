@@ -1,16 +1,16 @@
 {
-  "date": "2026-05-27",
+  "date": "2026-05-28",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Bunad, kofter og folkedrakt",
-        "title": "bunadskategoriar",
-        "url": "https://snl.no/bunadskategoriar"
+        "category": "Ritualer og uttrykk i islam",
+        "title": "id al-adha",
+        "url": "https://snl.no/id_al-adha"
       },
       {
-        "category": "Andre verdenskrig",
-        "title": "andre verdenskrig",
-        "url": "https://snl.no/andre_verdenskrig"
+        "category": "Ritualer og uttrykk i islam",
+        "title": "id",
+        "url": "https://snl.no/id"
       },
       {
         "category": "Virussykdommer",
@@ -18,68 +18,68 @@
         "url": "https://sml.snl.no/ebola"
       },
       {
-        "category": "Kristne ritualer og symboler",
-        "title": "pinse",
-        "url": "https://snl.no/pinse"
-      },
-      {
         "category": "Den kalde krigen",
         "title": "den kalde krigen",
         "url": "https://snl.no/den_kalde_krigen"
+      },
+      {
+        "category": "Andre verdenskrig",
+        "title": "andre verdenskrig",
+        "url": "https://snl.no/andre_verdenskrig"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Borgerkrigstiden",
-        "title": "Erling Skakke",
-        "url": "https://snl.no/Erling_Skakke"
+        "category": "Fylker og kommuner i Sverige",
+        "title": "Malå",
+        "url": "https://snl.no/Mal%C3%A5"
       },
       {
-        "category": "Makroøkonomi",
-        "title": "verdiskaping",
-        "url": "https://snl.no/verdiskaping"
+        "category": "Utlendingsrett",
+        "title": "kirkeasyl",
+        "url": "https://snl.no/kirkeasyl"
+      },
+      {
+        "category": "Redere og biografier i sjøfarten",
+        "title": "Anette Olsen",
+        "url": "https://snl.no/Anette_Olsen"
+      },
+      {
+        "category": "Nålefisker",
+        "title": "kantnåler",
+        "url": "https://snl.no/kantn%C3%A5ler"
       },
       {
         "category": "Ritualer og uttrykk i islam",
-        "title": "id al-adha",
-        "url": "https://snl.no/id_al-adha"
-      },
-      {
-        "category": "Norske fotballspillere",
-        "title": "Tom Lund",
-        "url": "https://snl.no/Tom_Lund"
-      },
-      {
-        "category": "Ritualer og uttrykk i islam",
-        "title": "id",
-        "url": "https://snl.no/id"
+        "title": "id al-fitr",
+        "url": "https://snl.no/id_al-fitr"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Romanias samtidshistorie",
-        "title": "Traian Băsescu",
-        "url": "https://snl.no/Traian_B%C4%83sescu"
+        "category": "Kålslekta",
+        "title": "blomkål",
+        "url": "https://snl.no/blomk%C3%A5l"
       },
       {
-        "category": "Stavkirker",
-        "title": "Røldal stavkirke",
-        "url": "https://snl.no/R%C3%B8ldal_stavkirke"
+        "category": "Motiver i bildende kunst",
+        "title": "død – bildekunst",
+        "url": "https://snl.no/d%C3%B8d_-_bildekunst"
       },
       {
-        "category": "Stavkirker",
-        "title": "Torpo stavkirke",
-        "url": "https://snl.no/Torpo_stavkirke"
+        "category": "Zoologi",
+        "title": "hyperparasitt",
+        "url": "https://snl.no/hyperparasitt"
       },
       {
-        "category": "Bærum",
-        "title": "Sandviksvassdraget",
-        "url": "https://snl.no/Sandviksvassdraget"
+        "category": "Skulptur og mosaikk i renessansen og barokken",
+        "title": "Andrea Contucci dal Sansovino",
+        "url": "https://snl.no/Andrea_Contucci_dal_Sansovino"
       },
       {
-        "category": "Norske arkitekturinstitusjoner",
-        "title": "Yngre Arkitektforening",
-        "url": "https://snl.no/Yngre_Arkitektforening"
+        "category": "Glasskunstnere og keramikere",
+        "title": "Brit Dyrnes",
+        "url": "https://snl.no/Brit_Dyrnes"
       }
     ]
   }
