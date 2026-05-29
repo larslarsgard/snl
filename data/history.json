@@ -828,5 +828,88 @@
         "url": "https://snl.no/Brit_Dyrnes"
       }
     ]
+  },
+  "2026-05-29": {
+    "Mest lest i går": [
+      {
+        "category": "Andre verdenskrig",
+        "title": "andre verdenskrig",
+        "url": "https://snl.no/andre_verdenskrig"
+      },
+      {
+        "category": "Jødeforfølgelse i moderne tid",
+        "title": "Holocaust",
+        "url": "https://snl.no/Holocaust"
+      },
+      {
+        "category": "Kristen teologi og troslære",
+        "title": "kristendom",
+        "url": "https://snl.no/kristendom"
+      },
+      {
+        "category": "Jødedom",
+        "title": "jødedom",
+        "url": "https://snl.no/j%C3%B8dedom"
+      },
+      {
+        "category": "Islam",
+        "title": "islam",
+        "url": "https://snl.no/islam"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Ritualer og uttrykk i islam",
+        "title": "id al-adha",
+        "url": "https://snl.no/id_al-adha"
+      },
+      {
+        "category": "Ritualer og uttrykk i islam",
+        "title": "id",
+        "url": "https://snl.no/id"
+      },
+      {
+        "category": "Løvetannslekta",
+        "title": "løvetann",
+        "url": "https://snl.no/l%C3%B8vetann"
+      },
+      {
+        "category": "Biografier innen politisk og økonomisk filosofi",
+        "title": "Hannah Arendt",
+        "url": "https://snl.no/Hannah_Arendt"
+      },
+      {
+        "category": "Økologi",
+        "title": "økosystem",
+        "url": "https://snl.no/%C3%B8kosystem"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "USAs nyere lyrikk",
+        "title": "John Ashbery",
+        "url": "https://snl.no/John_Ashbery"
+      },
+      {
+        "category": "Gospel",
+        "title": "Mahalia Jackson",
+        "url": "https://snl.no/Mahalia_Jackson"
+      },
+      {
+        "category": "Utdanning i Sør-Amerika",
+        "title": "Skole og utdanning i Surinam",
+        "url": "https://snl.no/Skole_og_utdanning_i_Surinam"
+      },
+      {
+        "category": "Økonomisk politikk",
+        "title": "statlig eierskap",
+        "url": "https://snl.no/statlig_eierskap"
+      },
+      {
+        "category": "Internasjonal samtidsmusikk",
+        "title": "Sunleif Rasmussen",
+        "url": "https://snl.no/Sunleif_Rasmussen"
+      }
+    ]
   }
 }

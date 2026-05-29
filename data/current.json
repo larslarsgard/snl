@@ -1,7 +1,34 @@
 {
-  "date": "2026-05-28",
+  "date": "2026-05-29",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Andre verdenskrig",
+        "title": "andre verdenskrig",
+        "url": "https://snl.no/andre_verdenskrig"
+      },
+      {
+        "category": "Jødeforfølgelse i moderne tid",
+        "title": "Holocaust",
+        "url": "https://snl.no/Holocaust"
+      },
+      {
+        "category": "Kristen teologi og troslære",
+        "title": "kristendom",
+        "url": "https://snl.no/kristendom"
+      },
+      {
+        "category": "Jødedom",
+        "title": "jødedom",
+        "url": "https://snl.no/j%C3%B8dedom"
+      },
+      {
+        "category": "Islam",
+        "title": "islam",
+        "url": "https://snl.no/islam"
+      }
+    ],
+    "Uvanlig mye lest": [
       {
         "category": "Ritualer og uttrykk i islam",
         "title": "id al-adha",
@@ -13,73 +40,46 @@
         "url": "https://snl.no/id"
       },
       {
-        "category": "Virussykdommer",
-        "title": "ebola",
-        "url": "https://sml.snl.no/ebola"
+        "category": "Løvetannslekta",
+        "title": "løvetann",
+        "url": "https://snl.no/l%C3%B8vetann"
       },
       {
-        "category": "Den kalde krigen",
-        "title": "den kalde krigen",
-        "url": "https://snl.no/den_kalde_krigen"
+        "category": "Biografier innen politisk og økonomisk filosofi",
+        "title": "Hannah Arendt",
+        "url": "https://snl.no/Hannah_Arendt"
       },
       {
-        "category": "Andre verdenskrig",
-        "title": "andre verdenskrig",
-        "url": "https://snl.no/andre_verdenskrig"
-      }
-    ],
-    "Uvanlig mye lest": [
-      {
-        "category": "Fylker og kommuner i Sverige",
-        "title": "Malå",
-        "url": "https://snl.no/Mal%C3%A5"
-      },
-      {
-        "category": "Utlendingsrett",
-        "title": "kirkeasyl",
-        "url": "https://snl.no/kirkeasyl"
-      },
-      {
-        "category": "Redere og biografier i sjøfarten",
-        "title": "Anette Olsen",
-        "url": "https://snl.no/Anette_Olsen"
-      },
-      {
-        "category": "Nålefisker",
-        "title": "kantnåler",
-        "url": "https://snl.no/kantn%C3%A5ler"
-      },
-      {
-        "category": "Ritualer og uttrykk i islam",
-        "title": "id al-fitr",
-        "url": "https://snl.no/id_al-fitr"
+        "category": "Økologi",
+        "title": "økosystem",
+        "url": "https://snl.no/%C3%B8kosystem"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Kålslekta",
-        "title": "blomkål",
-        "url": "https://snl.no/blomk%C3%A5l"
+        "category": "USAs nyere lyrikk",
+        "title": "John Ashbery",
+        "url": "https://snl.no/John_Ashbery"
       },
       {
-        "category": "Motiver i bildende kunst",
-        "title": "død – bildekunst",
-        "url": "https://snl.no/d%C3%B8d_-_bildekunst"
+        "category": "Gospel",
+        "title": "Mahalia Jackson",
+        "url": "https://snl.no/Mahalia_Jackson"
       },
       {
-        "category": "Zoologi",
-        "title": "hyperparasitt",
-        "url": "https://snl.no/hyperparasitt"
+        "category": "Utdanning i Sør-Amerika",
+        "title": "Skole og utdanning i Surinam",
+        "url": "https://snl.no/Skole_og_utdanning_i_Surinam"
       },
       {
-        "category": "Skulptur og mosaikk i renessansen og barokken",
-        "title": "Andrea Contucci dal Sansovino",
-        "url": "https://snl.no/Andrea_Contucci_dal_Sansovino"
+        "category": "Økonomisk politikk",
+        "title": "statlig eierskap",
+        "url": "https://snl.no/statlig_eierskap"
       },
       {
-        "category": "Glasskunstnere og keramikere",
-        "title": "Brit Dyrnes",
-        "url": "https://snl.no/Brit_Dyrnes"
+        "category": "Internasjonal samtidsmusikk",
+        "title": "Sunleif Rasmussen",
+        "url": "https://snl.no/Sunleif_Rasmussen"
       }
     ]
   }
