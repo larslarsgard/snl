@@ -1,31 +1,31 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Butikk og salg",
+        "title": "kremmer",
+        "url": "https://snl.no/kremmer"
+      },
       {
         "category": "Andre verdenskrig",
         "title": "andre verdenskrig",
         "url": "https://snl.no/andre_verdenskrig"
       },
       {
-        "category": "Jødeforfølgelse i moderne tid",
-        "title": "Holocaust",
-        "url": "https://snl.no/Holocaust"
+        "category": "Biografier innen rettshistorie",
+        "title": "Lucy Smith",
+        "url": "https://snl.no/Lucy_Smith"
       },
       {
-        "category": "Kristen teologi og troslære",
-        "title": "kristendom",
-        "url": "https://snl.no/kristendom"
+        "category": "Den kalde krigen",
+        "title": "den kalde krigen",
+        "url": "https://snl.no/den_kalde_krigen"
       },
       {
-        "category": "Jødedom",
-        "title": "jødedom",
-        "url": "https://snl.no/j%C3%B8dedom"
-      },
-      {
-        "category": "Islam",
-        "title": "islam",
-        "url": "https://snl.no/islam"
+        "category": "Høyesterettsdommere",
+        "title": "Carsten Smith",
+        "url": "https://snl.no/Carsten_Smith"
       }
     ],
     "Uvanlig mye lest": [
@@ -57,29 +57,29 @@
     ],
     "Sørgelig lite lest": [
       {
-        "category": "USAs nyere lyrikk",
-        "title": "John Ashbery",
-        "url": "https://snl.no/John_Ashbery"
+        "category": "Internasjonale dirigenter",
+        "title": "Eleazar de Carvalho",
+        "url": "https://snl.no/Eleazar_de_Carvalho"
       },
       {
-        "category": "Gospel",
-        "title": "Mahalia Jackson",
-        "url": "https://snl.no/Mahalia_Jackson"
+        "category": "Polare ekspedisjoner og oppdagere",
+        "title": "Richard Chancellor",
+        "url": "https://snl.no/Richard_Chancellor"
       },
       {
-        "category": "Utdanning i Sør-Amerika",
-        "title": "Skole og utdanning i Surinam",
-        "url": "https://snl.no/Skole_og_utdanning_i_Surinam"
+        "category": "Norske festninger og militæranlegg",
+        "title": "Kristiansten festning",
+        "url": "https://snl.no/Kristiansten_festning"
       },
       {
-        "category": "Økonomisk politikk",
-        "title": "statlig eierskap",
-        "url": "https://snl.no/statlig_eierskap"
+        "category": "Qatar historie",
+        "title": "Qatars historie",
+        "url": "https://snl.no/Qatars_historie"
       },
       {
-        "category": "Internasjonal samtidsmusikk",
-        "title": "Sunleif Rasmussen",
-        "url": "https://snl.no/Sunleif_Rasmussen"
+        "category": "Leddbladordenen",
+        "title": "leddbladfamilien",
+        "url": "https://snl.no/leddbladfamilien"
       }
     ]
   }

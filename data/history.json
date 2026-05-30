@@ -911,5 +911,88 @@
         "url": "https://snl.no/Sunleif_Rasmussen"
       }
     ]
+  },
+  "2026-05-30": {
+    "Mest lest i går": [
+      {
+        "category": "Butikk og salg",
+        "title": "kremmer",
+        "url": "https://snl.no/kremmer"
+      },
+      {
+        "category": "Andre verdenskrig",
+        "title": "andre verdenskrig",
+        "url": "https://snl.no/andre_verdenskrig"
+      },
+      {
+        "category": "Biografier innen rettshistorie",
+        "title": "Lucy Smith",
+        "url": "https://snl.no/Lucy_Smith"
+      },
+      {
+        "category": "Den kalde krigen",
+        "title": "den kalde krigen",
+        "url": "https://snl.no/den_kalde_krigen"
+      },
+      {
+        "category": "Høyesterettsdommere",
+        "title": "Carsten Smith",
+        "url": "https://snl.no/Carsten_Smith"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Ritualer og uttrykk i islam",
+        "title": "id al-adha",
+        "url": "https://snl.no/id_al-adha"
+      },
+      {
+        "category": "Ritualer og uttrykk i islam",
+        "title": "id",
+        "url": "https://snl.no/id"
+      },
+      {
+        "category": "Løvetannslekta",
+        "title": "løvetann",
+        "url": "https://snl.no/l%C3%B8vetann"
+      },
+      {
+        "category": "Biografier innen politisk og økonomisk filosofi",
+        "title": "Hannah Arendt",
+        "url": "https://snl.no/Hannah_Arendt"
+      },
+      {
+        "category": "Økologi",
+        "title": "økosystem",
+        "url": "https://snl.no/%C3%B8kosystem"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Internasjonale dirigenter",
+        "title": "Eleazar de Carvalho",
+        "url": "https://snl.no/Eleazar_de_Carvalho"
+      },
+      {
+        "category": "Polare ekspedisjoner og oppdagere",
+        "title": "Richard Chancellor",
+        "url": "https://snl.no/Richard_Chancellor"
+      },
+      {
+        "category": "Norske festninger og militæranlegg",
+        "title": "Kristiansten festning",
+        "url": "https://snl.no/Kristiansten_festning"
+      },
+      {
+        "category": "Qatar historie",
+        "title": "Qatars historie",
+        "url": "https://snl.no/Qatars_historie"
+      },
+      {
+        "category": "Leddbladordenen",
+        "title": "leddbladfamilien",
+        "url": "https://snl.no/leddbladfamilien"
+      }
+    ]
   }
 }
