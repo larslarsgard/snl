@@ -994,5 +994,88 @@
         "url": "https://snl.no/leddbladfamilien"
       }
     ]
+  },
+  "2026-05-31": {
+    "Mest lest i går": [
+      {
+        "category": "Internasjonale mesterskap",
+        "title": "ishockey – verdensmestere",
+        "url": "https://snl.no/ishockey_-_verdensmestere"
+      },
+      {
+        "category": "Virus",
+        "title": "ebola",
+        "url": "https://sml.snl.no/ebola"
+      },
+      {
+        "category": "Måkefamilien",
+        "title": "måker",
+        "url": "https://snl.no/m%C3%A5ker"
+      },
+      {
+        "category": "Norsk fotball",
+        "title": "Norges tropp til fotball-VM i 2026",
+        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_2026"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Mesterligaen",
+        "url": "https://snl.no/Mesterligaen"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Offentlige utvalg",
+        "title": "Brochmann-utvalget",
+        "url": "https://snl.no/Brochmann-utvalget"
+      },
+      {
+        "category": "Fransk fotball",
+        "title": "Paris Saint-Germain F.C.",
+        "url": "https://snl.no/Paris_Saint-Germain_F.C."
+      },
+      {
+        "category": "Norsk pop og rock",
+        "title": "Synne Vo",
+        "url": "https://snl.no/Synne_Vo"
+      },
+      {
+        "category": "Buekorps",
+        "title": "buekorps",
+        "url": "https://snl.no/buekorps"
+      },
+      {
+        "category": "Lungemedisin",
+        "title": "lungefibrose",
+        "url": "https://sml.snl.no/lungefibrose"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Internasjonale dirigenter",
+        "title": "Kirill Kondrasjin",
+        "url": "https://snl.no/Kirill_Kondrasjin"
+      },
+      {
+        "category": "Biologisk psykologi",
+        "title": "løgndetektor",
+        "url": "https://snl.no/l%C3%B8gndetektor"
+      },
+      {
+        "category": "Senegals samtidshistorie",
+        "title": "Macky Sall",
+        "url": "https://snl.no/Macky_Sall"
+      },
+      {
+        "category": "Forsvarets historie",
+        "title": "Norges forsvar fra 1800 til 1814",
+        "url": "https://snl.no/Norges_forsvar_fra_1800_til_1814"
+      },
+      {
+        "category": "Afrikanske språk",
+        "title": "kabylsk",
+        "url": "https://snl.no/kabylsk"
+      }
+    ]
   }
 }

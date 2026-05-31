@@ -1,85 +1,85 @@
 {
-  "date": "2026-05-30",
+  "date": "2026-05-31",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Butikk og salg",
-        "title": "kremmer",
-        "url": "https://snl.no/kremmer"
+        "category": "Internasjonale mesterskap",
+        "title": "ishockey – verdensmestere",
+        "url": "https://snl.no/ishockey_-_verdensmestere"
       },
       {
-        "category": "Andre verdenskrig",
-        "title": "andre verdenskrig",
-        "url": "https://snl.no/andre_verdenskrig"
+        "category": "Virus",
+        "title": "ebola",
+        "url": "https://sml.snl.no/ebola"
       },
       {
-        "category": "Biografier innen rettshistorie",
-        "title": "Lucy Smith",
-        "url": "https://snl.no/Lucy_Smith"
+        "category": "Måkefamilien",
+        "title": "måker",
+        "url": "https://snl.no/m%C3%A5ker"
       },
       {
-        "category": "Den kalde krigen",
-        "title": "den kalde krigen",
-        "url": "https://snl.no/den_kalde_krigen"
+        "category": "Norsk fotball",
+        "title": "Norges tropp til fotball-VM i 2026",
+        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_2026"
       },
       {
-        "category": "Høyesterettsdommere",
-        "title": "Carsten Smith",
-        "url": "https://snl.no/Carsten_Smith"
+        "category": "Internasjonal fotball",
+        "title": "Mesterligaen",
+        "url": "https://snl.no/Mesterligaen"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Ritualer og uttrykk i islam",
-        "title": "id al-adha",
-        "url": "https://snl.no/id_al-adha"
+        "category": "Offentlige utvalg",
+        "title": "Brochmann-utvalget",
+        "url": "https://snl.no/Brochmann-utvalget"
       },
       {
-        "category": "Ritualer og uttrykk i islam",
-        "title": "id",
-        "url": "https://snl.no/id"
+        "category": "Fransk fotball",
+        "title": "Paris Saint-Germain F.C.",
+        "url": "https://snl.no/Paris_Saint-Germain_F.C."
       },
       {
-        "category": "Løvetannslekta",
-        "title": "løvetann",
-        "url": "https://snl.no/l%C3%B8vetann"
+        "category": "Norsk pop og rock",
+        "title": "Synne Vo",
+        "url": "https://snl.no/Synne_Vo"
       },
       {
-        "category": "Biografier innen politisk og økonomisk filosofi",
-        "title": "Hannah Arendt",
-        "url": "https://snl.no/Hannah_Arendt"
+        "category": "Buekorps",
+        "title": "buekorps",
+        "url": "https://snl.no/buekorps"
       },
       {
-        "category": "Økologi",
-        "title": "økosystem",
-        "url": "https://snl.no/%C3%B8kosystem"
+        "category": "Lungemedisin",
+        "title": "lungefibrose",
+        "url": "https://sml.snl.no/lungefibrose"
       }
     ],
     "Sørgelig lite lest": [
       {
         "category": "Internasjonale dirigenter",
-        "title": "Eleazar de Carvalho",
-        "url": "https://snl.no/Eleazar_de_Carvalho"
+        "title": "Kirill Kondrasjin",
+        "url": "https://snl.no/Kirill_Kondrasjin"
       },
       {
-        "category": "Polare ekspedisjoner og oppdagere",
-        "title": "Richard Chancellor",
-        "url": "https://snl.no/Richard_Chancellor"
+        "category": "Biologisk psykologi",
+        "title": "løgndetektor",
+        "url": "https://snl.no/l%C3%B8gndetektor"
       },
       {
-        "category": "Norske festninger og militæranlegg",
-        "title": "Kristiansten festning",
-        "url": "https://snl.no/Kristiansten_festning"
+        "category": "Senegals samtidshistorie",
+        "title": "Macky Sall",
+        "url": "https://snl.no/Macky_Sall"
       },
       {
-        "category": "Qatar historie",
-        "title": "Qatars historie",
-        "url": "https://snl.no/Qatars_historie"
+        "category": "Forsvarets historie",
+        "title": "Norges forsvar fra 1800 til 1814",
+        "url": "https://snl.no/Norges_forsvar_fra_1800_til_1814"
       },
       {
-        "category": "Leddbladordenen",
-        "title": "leddbladfamilien",
-        "url": "https://snl.no/leddbladfamilien"
+        "category": "Afrikanske språk",
+        "title": "kabylsk",
+        "url": "https://snl.no/kabylsk"
       }
     ]
   }
