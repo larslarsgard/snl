@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-31",
+  "date": "2026-06-01",
   "categories": {
     "Mest lest i går": [
       {
@@ -8,14 +8,9 @@
         "url": "https://snl.no/ishockey_-_verdensmestere"
       },
       {
-        "category": "Virus",
-        "title": "ebola",
-        "url": "https://sml.snl.no/ebola"
-      },
-      {
-        "category": "Måkefamilien",
-        "title": "måker",
-        "url": "https://snl.no/m%C3%A5ker"
+        "category": "Bunad, kofter og folkedrakt",
+        "title": "bunad",
+        "url": "https://snl.no/bunad"
       },
       {
         "category": "Norsk fotball",
@@ -23,63 +18,68 @@
         "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_2026"
       },
       {
-        "category": "Internasjonal fotball",
-        "title": "Mesterligaen",
-        "url": "https://snl.no/Mesterligaen"
+        "category": "Ishockey",
+        "title": "Petter Thoresen – ishockeytrener",
+        "url": "https://snl.no/Petter_Thoresen_-_ishockeytrener"
+      },
+      {
+        "category": "Ishockey",
+        "title": "Jim Marthinsen",
+        "url": "https://snl.no/Jim_Marthinsen"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Offentlige utvalg",
-        "title": "Brochmann-utvalget",
-        "url": "https://snl.no/Brochmann-utvalget"
+        "category": "Botanikere",
+        "title": "Thekla Resvoll",
+        "url": "https://snl.no/Thekla_Resvoll"
       },
       {
-        "category": "Fransk fotball",
-        "title": "Paris Saint-Germain F.C.",
-        "url": "https://snl.no/Paris_Saint-Germain_F.C."
+        "category": "Smykkekunstnere",
+        "title": "Uni David-Andersen",
+        "url": "https://snl.no/Uni_David-Andersen"
+      },
+      {
+        "category": "Homobevegelse",
+        "title": "pride",
+        "url": "https://snl.no/pride"
+      },
+      {
+        "category": "Homobevegelse",
+        "title": "regnbogeflagget",
+        "url": "https://snl.no/regnbogeflagget"
       },
       {
         "category": "Norsk pop og rock",
         "title": "Synne Vo",
         "url": "https://snl.no/Synne_Vo"
-      },
-      {
-        "category": "Buekorps",
-        "title": "buekorps",
-        "url": "https://snl.no/buekorps"
-      },
-      {
-        "category": "Lungemedisin",
-        "title": "lungefibrose",
-        "url": "https://sml.snl.no/lungefibrose"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Internasjonale dirigenter",
-        "title": "Kirill Kondrasjin",
-        "url": "https://snl.no/Kirill_Kondrasjin"
+        "category": "Termer og begreper i bildende kunst",
+        "title": "maleriets historie",
+        "url": "https://snl.no/maleriets_historie"
       },
       {
-        "category": "Biologisk psykologi",
-        "title": "løgndetektor",
-        "url": "https://snl.no/l%C3%B8gndetektor"
+        "category": "Byer i USA",
+        "title": "Wichita – by i Kansas, USA",
+        "url": "https://snl.no/Wichita_-_by_i_Kansas,_USA"
       },
       {
-        "category": "Senegals samtidshistorie",
-        "title": "Macky Sall",
-        "url": "https://snl.no/Macky_Sall"
+        "category": "Utforsking av solsystemet",
+        "title": "Perseverance",
+        "url": "https://snl.no/Perseverance"
       },
       {
-        "category": "Forsvarets historie",
-        "title": "Norges forsvar fra 1800 til 1814",
-        "url": "https://snl.no/Norges_forsvar_fra_1800_til_1814"
+        "category": "Klassisk musikk i barokken",
+        "title": "prélude non mesuré",
+        "url": "https://snl.no/pr%C3%A9lude_non_mesur%C3%A9"
       },
       {
-        "category": "Afrikanske språk",
-        "title": "kabylsk",
-        "url": "https://snl.no/kabylsk"
+        "category": "Programmering",
+        "title": "do-while-løkke (IT)",
+        "url": "https://snl.no/do-while-l%C3%B8kke_(IT)"
       }
     ]
   }

@@ -1077,5 +1077,88 @@
         "url": "https://snl.no/kabylsk"
       }
     ]
+  },
+  "2026-06-01": {
+    "Mest lest i går": [
+      {
+        "category": "Internasjonale mesterskap",
+        "title": "ishockey – verdensmestere",
+        "url": "https://snl.no/ishockey_-_verdensmestere"
+      },
+      {
+        "category": "Bunad, kofter og folkedrakt",
+        "title": "bunad",
+        "url": "https://snl.no/bunad"
+      },
+      {
+        "category": "Norsk fotball",
+        "title": "Norges tropp til fotball-VM i 2026",
+        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_2026"
+      },
+      {
+        "category": "Ishockey",
+        "title": "Petter Thoresen – ishockeytrener",
+        "url": "https://snl.no/Petter_Thoresen_-_ishockeytrener"
+      },
+      {
+        "category": "Ishockey",
+        "title": "Jim Marthinsen",
+        "url": "https://snl.no/Jim_Marthinsen"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Botanikere",
+        "title": "Thekla Resvoll",
+        "url": "https://snl.no/Thekla_Resvoll"
+      },
+      {
+        "category": "Smykkekunstnere",
+        "title": "Uni David-Andersen",
+        "url": "https://snl.no/Uni_David-Andersen"
+      },
+      {
+        "category": "Homobevegelse",
+        "title": "pride",
+        "url": "https://snl.no/pride"
+      },
+      {
+        "category": "Homobevegelse",
+        "title": "regnbogeflagget",
+        "url": "https://snl.no/regnbogeflagget"
+      },
+      {
+        "category": "Norsk pop og rock",
+        "title": "Synne Vo",
+        "url": "https://snl.no/Synne_Vo"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Termer og begreper i bildende kunst",
+        "title": "maleriets historie",
+        "url": "https://snl.no/maleriets_historie"
+      },
+      {
+        "category": "Byer i USA",
+        "title": "Wichita – by i Kansas, USA",
+        "url": "https://snl.no/Wichita_-_by_i_Kansas,_USA"
+      },
+      {
+        "category": "Utforsking av solsystemet",
+        "title": "Perseverance",
+        "url": "https://snl.no/Perseverance"
+      },
+      {
+        "category": "Klassisk musikk i barokken",
+        "title": "prélude non mesuré",
+        "url": "https://snl.no/pr%C3%A9lude_non_mesur%C3%A9"
+      },
+      {
+        "category": "Programmering",
+        "title": "do-while-løkke (IT)",
+        "url": "https://snl.no/do-while-l%C3%B8kke_(IT)"
+      }
+    ]
   }
 }
