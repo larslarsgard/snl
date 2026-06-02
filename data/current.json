@@ -1,21 +1,43 @@
 {
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Internasjonale mesterskap",
-        "title": "ishockey – verdensmestere",
-        "url": "https://snl.no/ishockey_-_verdensmestere"
-      },
-      {
-        "category": "Bunad, kofter og folkedrakt",
-        "title": "bunad",
-        "url": "https://snl.no/bunad"
-      },
       {
         "category": "Norsk fotball",
         "title": "Norges tropp til fotball-VM i 2026",
         "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_2026"
+      },
+      {
+        "category": "Andre verdenskrig",
+        "title": "andre verdenskrig",
+        "url": "https://snl.no/andre_verdenskrig"
+      },
+      {
+        "category": "Lungemedisin",
+        "title": "lungefibrose",
+        "url": "https://sml.snl.no/lungefibrose"
+      },
+      {
+        "category": "Islam",
+        "title": "islam",
+        "url": "https://snl.no/islam"
+      },
+      {
+        "category": "Kristen teologi og troslære",
+        "title": "kristendom",
+        "url": "https://snl.no/kristendom"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Psykiatriens historie",
+        "title": "cardiazolsjokkbehandling",
+        "url": "https://snl.no/cardiazolsjokkbehandling"
+      },
+      {
+        "category": "Restauranter og kokker i Norge",
+        "title": "Heidi Bjerkan",
+        "url": "https://snl.no/Heidi_Bjerkan"
       },
       {
         "category": "Ishockey",
@@ -23,63 +45,41 @@
         "url": "https://snl.no/Petter_Thoresen_-_ishockeytrener"
       },
       {
-        "category": "Ishockey",
-        "title": "Jim Marthinsen",
-        "url": "https://snl.no/Jim_Marthinsen"
-      }
-    ],
-    "Uvanlig mye lest": [
-      {
-        "category": "Botanikere",
-        "title": "Thekla Resvoll",
-        "url": "https://snl.no/Thekla_Resvoll"
-      },
-      {
-        "category": "Smykkekunstnere",
-        "title": "Uni David-Andersen",
-        "url": "https://snl.no/Uni_David-Andersen"
-      },
-      {
-        "category": "Homobevegelse",
-        "title": "pride",
-        "url": "https://snl.no/pride"
+        "category": "Transplantasjonsmedisin",
+        "title": "lungetransplantasjon",
+        "url": "https://sml.snl.no/lungetransplantasjon"
       },
       {
         "category": "Homobevegelse",
         "title": "regnbogeflagget",
         "url": "https://snl.no/regnbogeflagget"
-      },
-      {
-        "category": "Norsk pop og rock",
-        "title": "Synne Vo",
-        "url": "https://snl.no/Synne_Vo"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Termer og begreper i bildende kunst",
-        "title": "maleriets historie",
-        "url": "https://snl.no/maleriets_historie"
+        "category": "De ortodokse kirker",
+        "title": "Aleksij 1.",
+        "url": "https://snl.no/Aleksij_1."
       },
       {
-        "category": "Byer i USA",
-        "title": "Wichita – by i Kansas, USA",
-        "url": "https://snl.no/Wichita_-_by_i_Kansas,_USA"
+        "category": "Hus og hjem",
+        "title": "husarbeid",
+        "url": "https://snl.no/husarbeid"
       },
       {
-        "category": "Utforsking av solsystemet",
-        "title": "Perseverance",
-        "url": "https://snl.no/Perseverance"
+        "category": "Termer og begreper i idrett",
+        "title": "breddeidrett",
+        "url": "https://snl.no/breddeidrett"
       },
       {
-        "category": "Klassisk musikk i barokken",
-        "title": "prélude non mesuré",
-        "url": "https://snl.no/pr%C3%A9lude_non_mesur%C3%A9"
+        "category": "Tidligere aviser i Nord-Norge",
+        "title": "Tromsøposten",
+        "url": "https://snl.no/Troms%C3%B8posten"
       },
       {
-        "category": "Programmering",
-        "title": "do-while-løkke (IT)",
-        "url": "https://snl.no/do-while-l%C3%B8kke_(IT)"
+        "category": "Internasjonale teaterinstitusjoner",
+        "title": "Schauspielhaus Zürich",
+        "url": "https://snl.no/Schauspielhaus_Z%C3%BCrich"
       }
     ]
   }

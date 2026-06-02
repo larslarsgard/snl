@@ -1160,5 +1160,88 @@
         "url": "https://snl.no/do-while-l%C3%B8kke_(IT)"
       }
     ]
+  },
+  "2026-06-02": {
+    "Mest lest i går": [
+      {
+        "category": "Norsk fotball",
+        "title": "Norges tropp til fotball-VM i 2026",
+        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_2026"
+      },
+      {
+        "category": "Andre verdenskrig",
+        "title": "andre verdenskrig",
+        "url": "https://snl.no/andre_verdenskrig"
+      },
+      {
+        "category": "Lungemedisin",
+        "title": "lungefibrose",
+        "url": "https://sml.snl.no/lungefibrose"
+      },
+      {
+        "category": "Islam",
+        "title": "islam",
+        "url": "https://snl.no/islam"
+      },
+      {
+        "category": "Kristen teologi og troslære",
+        "title": "kristendom",
+        "url": "https://snl.no/kristendom"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Psykiatriens historie",
+        "title": "cardiazolsjokkbehandling",
+        "url": "https://snl.no/cardiazolsjokkbehandling"
+      },
+      {
+        "category": "Restauranter og kokker i Norge",
+        "title": "Heidi Bjerkan",
+        "url": "https://snl.no/Heidi_Bjerkan"
+      },
+      {
+        "category": "Ishockey",
+        "title": "Petter Thoresen – ishockeytrener",
+        "url": "https://snl.no/Petter_Thoresen_-_ishockeytrener"
+      },
+      {
+        "category": "Transplantasjonsmedisin",
+        "title": "lungetransplantasjon",
+        "url": "https://sml.snl.no/lungetransplantasjon"
+      },
+      {
+        "category": "Homobevegelse",
+        "title": "regnbogeflagget",
+        "url": "https://snl.no/regnbogeflagget"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "De ortodokse kirker",
+        "title": "Aleksij 1.",
+        "url": "https://snl.no/Aleksij_1."
+      },
+      {
+        "category": "Hus og hjem",
+        "title": "husarbeid",
+        "url": "https://snl.no/husarbeid"
+      },
+      {
+        "category": "Termer og begreper i idrett",
+        "title": "breddeidrett",
+        "url": "https://snl.no/breddeidrett"
+      },
+      {
+        "category": "Tidligere aviser i Nord-Norge",
+        "title": "Tromsøposten",
+        "url": "https://snl.no/Troms%C3%B8posten"
+      },
+      {
+        "category": "Internasjonale teaterinstitusjoner",
+        "title": "Schauspielhaus Zürich",
+        "url": "https://snl.no/Schauspielhaus_Z%C3%BCrich"
+      }
+    ]
   }
 }
