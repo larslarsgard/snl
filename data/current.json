@@ -1,16 +1,21 @@
 {
-  "date": "2026-06-02",
+  "date": "2026-06-03",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Andre verdenskrig",
+        "title": "andre verdenskrig",
+        "url": "https://snl.no/andre_verdenskrig"
+      },
       {
         "category": "Norsk fotball",
         "title": "Norges tropp til fotball-VM i 2026",
         "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_2026"
       },
       {
-        "category": "Andre verdenskrig",
-        "title": "andre verdenskrig",
-        "url": "https://snl.no/andre_verdenskrig"
+        "category": "Kristen teologi og troslære",
+        "title": "kristendom",
+        "url": "https://snl.no/kristendom"
       },
       {
         "category": "Lungemedisin",
@@ -18,31 +23,26 @@
         "url": "https://sml.snl.no/lungefibrose"
       },
       {
-        "category": "Islam",
-        "title": "islam",
-        "url": "https://snl.no/islam"
-      },
-      {
-        "category": "Kristen teologi og troslære",
-        "title": "kristendom",
-        "url": "https://snl.no/kristendom"
+        "category": "Den kalde krigen",
+        "title": "den kalde krigen",
+        "url": "https://snl.no/den_kalde_krigen"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Psykiatriens historie",
-        "title": "cardiazolsjokkbehandling",
-        "url": "https://snl.no/cardiazolsjokkbehandling"
+        "category": "Grønnalger",
+        "title": "fiolstein",
+        "url": "https://snl.no/fiolstein"
       },
       {
-        "category": "Restauranter og kokker i Norge",
-        "title": "Heidi Bjerkan",
-        "url": "https://snl.no/Heidi_Bjerkan"
+        "category": "Kristen teologi og troslære",
+        "title": "Antikrist",
+        "url": "https://snl.no/Antikrist"
       },
       {
-        "category": "Ishockey",
-        "title": "Petter Thoresen – ishockeytrener",
-        "url": "https://snl.no/Petter_Thoresen_-_ishockeytrener"
+        "category": "Homobevegelse",
+        "title": "regnbogeflagget",
+        "url": "https://snl.no/regnbogeflagget"
       },
       {
         "category": "Transplantasjonsmedisin",
@@ -51,35 +51,35 @@
       },
       {
         "category": "Homobevegelse",
-        "title": "regnbogeflagget",
-        "url": "https://snl.no/regnbogeflagget"
+        "title": "pride",
+        "url": "https://snl.no/pride"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "De ortodokse kirker",
-        "title": "Aleksij 1.",
-        "url": "https://snl.no/Aleksij_1."
+        "category": "Fjellflokkfamilien",
+        "title": "fjellflokkfamilien",
+        "url": "https://snl.no/fjellflokkfamilien"
       },
       {
-        "category": "Hus og hjem",
-        "title": "husarbeid",
-        "url": "https://snl.no/husarbeid"
+        "category": "Norsk polarhistorie",
+        "title": "Maud-ekspedisjonen",
+        "url": "https://snl.no/Maud-ekspedisjonen"
       },
       {
-        "category": "Termer og begreper i idrett",
-        "title": "breddeidrett",
-        "url": "https://snl.no/breddeidrett"
+        "category": "Natur og landemerker i Frankrike",
+        "title": "Seinen – elv",
+        "url": "https://snl.no/Seinen_-_elv"
       },
       {
-        "category": "Tidligere aviser i Nord-Norge",
-        "title": "Tromsøposten",
-        "url": "https://snl.no/Troms%C3%B8posten"
+        "category": "Leddormer",
+        "title": "urleddormer",
+        "url": "https://snl.no/urleddormer"
       },
       {
-        "category": "Internasjonale teaterinstitusjoner",
-        "title": "Schauspielhaus Zürich",
-        "url": "https://snl.no/Schauspielhaus_Z%C3%BCrich"
+        "category": "Glomeromycetes",
+        "title": "Glomales",
+        "url": "https://snl.no/Glomales"
       }
     ]
   }
