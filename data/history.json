@@ -1326,5 +1326,88 @@
         "url": "https://snl.no/Glomales"
       }
     ]
+  },
+  "2026-06-04": {
+    "Mest lest i går": [
+      {
+        "category": "Lungemedisin",
+        "title": "lungefibrose",
+        "url": "https://sml.snl.no/lungefibrose"
+      },
+      {
+        "category": "Andre verdenskrig",
+        "title": "andre verdenskrig",
+        "url": "https://snl.no/andre_verdenskrig"
+      },
+      {
+        "category": "Kristen teologi og troslære",
+        "title": "kristendom",
+        "url": "https://snl.no/kristendom"
+      },
+      {
+        "category": "Transplantasjonsmedisin",
+        "title": "lungetransplantasjon",
+        "url": "https://sml.snl.no/lungetransplantasjon"
+      },
+      {
+        "category": "Den kalde krigen",
+        "title": "den kalde krigen",
+        "url": "https://snl.no/den_kalde_krigen"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Hus og hjem",
+        "title": "flekkfjerning",
+        "url": "https://snl.no/flekkfjerning"
+      },
+      {
+        "category": "Homobevegelse",
+        "title": "regnbogeflagget",
+        "url": "https://snl.no/regnbogeflagget"
+      },
+      {
+        "category": "Homobevegelse",
+        "title": "pride",
+        "url": "https://snl.no/pride"
+      },
+      {
+        "category": "Legemidler som virker på hjertet og kretsløpet",
+        "title": "statiner",
+        "url": "https://sml.snl.no/statiner"
+      },
+      {
+        "category": "Flaggermus",
+        "title": "flaggermus",
+        "url": "https://snl.no/flaggermus"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Benins litteratur",
+        "title": "Benins litteratur",
+        "url": "https://snl.no/Benins_litteratur"
+      },
+      {
+        "category": "Norske skuespillere",
+        "title": "Maryon Eilertsen",
+        "url": "https://snl.no/Maryon_Eilertsen"
+      },
+      {
+        "category": "Hus og hjem",
+        "title": "husarbeid",
+        "url": "https://snl.no/husarbeid"
+      },
+      {
+        "category": "Saudi-Arabias historie",
+        "title": "Saudi-Arabias historie",
+        "url": "https://snl.no/Saudi-Arabias_historie"
+      },
+      {
+        "category": "Tidligere aviser på Østlandet",
+        "title": "Moss Tilskuer",
+        "url": "https://snl.no/Moss_Tilskuer"
+      }
+    ]
   }
 }

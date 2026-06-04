@@ -1,16 +1,16 @@
 {
-  "date": "2026-06-03",
+  "date": "2026-06-04",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Lungemedisin",
+        "title": "lungefibrose",
+        "url": "https://sml.snl.no/lungefibrose"
+      },
       {
         "category": "Andre verdenskrig",
         "title": "andre verdenskrig",
         "url": "https://snl.no/andre_verdenskrig"
-      },
-      {
-        "category": "Norsk fotball",
-        "title": "Norges tropp til fotball-VM i 2026",
-        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_2026"
       },
       {
         "category": "Kristen teologi og troslære",
@@ -18,9 +18,9 @@
         "url": "https://snl.no/kristendom"
       },
       {
-        "category": "Lungemedisin",
-        "title": "lungefibrose",
-        "url": "https://sml.snl.no/lungefibrose"
+        "category": "Transplantasjonsmedisin",
+        "title": "lungetransplantasjon",
+        "url": "https://sml.snl.no/lungetransplantasjon"
       },
       {
         "category": "Den kalde krigen",
@@ -30,14 +30,9 @@
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Grønnalger",
-        "title": "fiolstein",
-        "url": "https://snl.no/fiolstein"
-      },
-      {
-        "category": "Kristen teologi og troslære",
-        "title": "Antikrist",
-        "url": "https://snl.no/Antikrist"
+        "category": "Hus og hjem",
+        "title": "flekkfjerning",
+        "url": "https://snl.no/flekkfjerning"
       },
       {
         "category": "Homobevegelse",
@@ -45,41 +40,46 @@
         "url": "https://snl.no/regnbogeflagget"
       },
       {
-        "category": "Transplantasjonsmedisin",
-        "title": "lungetransplantasjon",
-        "url": "https://sml.snl.no/lungetransplantasjon"
-      },
-      {
         "category": "Homobevegelse",
         "title": "pride",
         "url": "https://snl.no/pride"
+      },
+      {
+        "category": "Legemidler som virker på hjertet og kretsløpet",
+        "title": "statiner",
+        "url": "https://sml.snl.no/statiner"
+      },
+      {
+        "category": "Flaggermus",
+        "title": "flaggermus",
+        "url": "https://snl.no/flaggermus"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Fjellflokkfamilien",
-        "title": "fjellflokkfamilien",
-        "url": "https://snl.no/fjellflokkfamilien"
+        "category": "Benins litteratur",
+        "title": "Benins litteratur",
+        "url": "https://snl.no/Benins_litteratur"
       },
       {
-        "category": "Norsk polarhistorie",
-        "title": "Maud-ekspedisjonen",
-        "url": "https://snl.no/Maud-ekspedisjonen"
+        "category": "Norske skuespillere",
+        "title": "Maryon Eilertsen",
+        "url": "https://snl.no/Maryon_Eilertsen"
       },
       {
-        "category": "Natur og landemerker i Frankrike",
-        "title": "Seinen – elv",
-        "url": "https://snl.no/Seinen_-_elv"
+        "category": "Hus og hjem",
+        "title": "husarbeid",
+        "url": "https://snl.no/husarbeid"
       },
       {
-        "category": "Leddormer",
-        "title": "urleddormer",
-        "url": "https://snl.no/urleddormer"
+        "category": "Saudi-Arabias historie",
+        "title": "Saudi-Arabias historie",
+        "url": "https://snl.no/Saudi-Arabias_historie"
       },
       {
-        "category": "Glomeromycetes",
-        "title": "Glomales",
-        "url": "https://snl.no/Glomales"
+        "category": "Tidligere aviser på Østlandet",
+        "title": "Moss Tilskuer",
+        "url": "https://snl.no/Moss_Tilskuer"
       }
     ]
   }
