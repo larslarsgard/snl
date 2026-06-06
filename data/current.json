@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-05",
+  "date": "2026-06-06",
   "categories": {
     "Mest lest i går": [
       {
@@ -8,24 +8,24 @@
         "url": "https://sml.snl.no/lungefibrose"
       },
       {
-        "category": "Dampskip",
-        "title": "Titanic",
-        "url": "https://snl.no/Titanic"
-      },
-      {
-        "category": "Andre verdenskrig",
-        "title": "andre verdenskrig",
-        "url": "https://snl.no/andre_verdenskrig"
-      },
-      {
         "category": "Transplantasjonsmedisin",
         "title": "lungetransplantasjon",
         "url": "https://sml.snl.no/lungetransplantasjon"
       },
       {
-        "category": "Den kalde krigen",
-        "title": "den kalde krigen",
-        "url": "https://snl.no/den_kalde_krigen"
+        "category": "Tysklands litteratur 1900–1950",
+        "title": "Bertolt Brecht",
+        "url": "https://snl.no/Bertolt_Brecht"
+      },
+      {
+        "category": "Sveriges litteratur 1960–2000",
+        "title": "Per Olov Enquist",
+        "url": "https://snl.no/Per_Olov_Enquist"
+      },
+      {
+        "category": "Storbritannia og Nord-Irlands litteratur på 1700-tallet",
+        "title": "Gullivers reiser",
+        "url": "https://snl.no/Gullivers_reiser"
       }
     ],
     "Uvanlig mye lest": [
@@ -57,29 +57,29 @@
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Tekstiler",
-        "title": "mikrofiber",
-        "url": "https://snl.no/mikrofiber"
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "heksogen",
+        "url": "https://snl.no/heksogen"
       },
       {
-        "category": "Internasjonale dirigenter",
-        "title": "George Szell",
-        "url": "https://snl.no/George_Szell"
+        "category": "Tunisias franskspråklige litteratur",
+        "title": "Albert Memmi",
+        "url": "https://snl.no/Albert_Memmi"
       },
       {
-        "category": "Sol og stjerner",
-        "title": "Ulysses – romsonde",
-        "url": "https://snl.no/Ulysses_-_romsonde"
+        "category": "Midtøstens gamle kulturer",
+        "title": "Det gamle Israels litteratur",
+        "url": "https://snl.no/Det_gamle_Israels_litteratur"
       },
       {
-        "category": "Skiskyting",
-        "title": "Tarjei Bø",
-        "url": "https://snl.no/Tarjei_B%C3%B8"
+        "category": "Paraguays samtidshistorie",
+        "title": "Horacio Cartes",
+        "url": "https://snl.no/Horacio_Cartes"
       },
       {
-        "category": "Chiles litteratur",
-        "title": "María Luisa Bombal",
-        "url": "https://snl.no/Mar%C3%ADa_Luisa_Bombal"
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "ammonal",
+        "url": "https://snl.no/ammonal"
       }
     ]
   }
