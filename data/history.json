@@ -1575,5 +1575,88 @@
         "url": "https://snl.no/ammonal"
       }
     ]
+  },
+  "2026-06-07": {
+    "Mest lest i går": [
+      {
+        "category": "Norske fotballspillere",
+        "title": "Oscar Bobb",
+        "url": "https://snl.no/Oscar_Bobb"
+      },
+      {
+        "category": "Lagenorhynchus",
+        "title": "kvitnos",
+        "url": "https://snl.no/kvitnos"
+      },
+      {
+        "category": "Lungemedisin",
+        "title": "lungefibrose",
+        "url": "https://sml.snl.no/lungefibrose"
+      },
+      {
+        "category": "Transplantasjonsmedisin",
+        "title": "lungetransplantasjon",
+        "url": "https://sml.snl.no/lungetransplantasjon"
+      },
+      {
+        "category": "Tysklands litteratur 1900–1950",
+        "title": "Bertolt Brecht",
+        "url": "https://snl.no/Bertolt_Brecht"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Sveriges historie",
+        "title": "Svenska flaggans dag",
+        "url": "https://snl.no/Svenska_flaggans_dag"
+      },
+      {
+        "category": "Tillandsia",
+        "title": "spansk mose",
+        "url": "https://snl.no/spansk_mose"
+      },
+      {
+        "category": "Norsk pop og rock",
+        "title": "Øystein Sunde",
+        "url": "https://snl.no/%C3%98ystein_Sunde"
+      },
+      {
+        "category": "Rubladfamilien",
+        "title": "rubladfamilien",
+        "url": "https://snl.no/rubladfamilien"
+      },
+      {
+        "category": "Norges historie fra 1884 til 1940",
+        "title": "7. juni",
+        "url": "https://snl.no/7._juni"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Guineas litteratur",
+        "title": "Guineas litteratur",
+        "url": "https://snl.no/Guineas_litteratur"
+      },
+      {
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "pikrinsyre",
+        "url": "https://snl.no/pikrinsyre"
+      },
+      {
+        "category": "Storbritannia og Nord-Irlands nyere litteratur",
+        "title": "Alexander McCall Smith",
+        "url": "https://snl.no/Alexander_McCall_Smith"
+      },
+      {
+        "category": "Romanias samtidshistorie",
+        "title": "Victor Ponta",
+        "url": "https://snl.no/Victor_Ponta"
+      },
+      {
+        "category": "Bestikk og dekketøy",
+        "title": "bestikk",
+        "url": "https://snl.no/bestikk"
+      }
+    ]
   }
 }

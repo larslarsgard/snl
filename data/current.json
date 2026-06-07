@@ -1,7 +1,17 @@
 {
-  "date": "2026-06-06",
+  "date": "2026-06-07",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Norske fotballspillere",
+        "title": "Oscar Bobb",
+        "url": "https://snl.no/Oscar_Bobb"
+      },
+      {
+        "category": "Lagenorhynchus",
+        "title": "kvitnos",
+        "url": "https://snl.no/kvitnos"
+      },
       {
         "category": "Lungemedisin",
         "title": "lungefibrose",
@@ -16,70 +26,60 @@
         "category": "Tysklands litteratur 1900–1950",
         "title": "Bertolt Brecht",
         "url": "https://snl.no/Bertolt_Brecht"
-      },
-      {
-        "category": "Sveriges litteratur 1960–2000",
-        "title": "Per Olov Enquist",
-        "url": "https://snl.no/Per_Olov_Enquist"
-      },
-      {
-        "category": "Storbritannia og Nord-Irlands litteratur på 1700-tallet",
-        "title": "Gullivers reiser",
-        "url": "https://snl.no/Gullivers_reiser"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Internasjonale klassiske komponister og verker i barokken",
-        "title": "Dido og Aeneas",
-        "url": "https://snl.no/Dido_og_Aeneas"
+        "category": "Sveriges historie",
+        "title": "Svenska flaggans dag",
+        "url": "https://snl.no/Svenska_flaggans_dag"
       },
       {
-        "category": "Homobevegelse",
-        "title": "regnbogeflagget",
-        "url": "https://snl.no/regnbogeflagget"
+        "category": "Tillandsia",
+        "title": "spansk mose",
+        "url": "https://snl.no/spansk_mose"
       },
       {
-        "category": "Homobevegelse",
-        "title": "pride",
-        "url": "https://snl.no/pride"
+        "category": "Norsk pop og rock",
+        "title": "Øystein Sunde",
+        "url": "https://snl.no/%C3%98ystein_Sunde"
       },
       {
-        "category": "Norsk fotball",
-        "title": "Norges tropp til fotball-VM i 1998",
-        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_1998"
+        "category": "Rubladfamilien",
+        "title": "rubladfamilien",
+        "url": "https://snl.no/rubladfamilien"
       },
       {
-        "category": "Ordforklaringer samfunn",
-        "title": "konflikt",
-        "url": "https://snl.no/konflikt"
+        "category": "Norges historie fra 1884 til 1940",
+        "title": "7. juni",
+        "url": "https://snl.no/7._juni"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Energetiske materialer og sprengningsteknikk",
-        "title": "heksogen",
-        "url": "https://snl.no/heksogen"
-      },
-      {
-        "category": "Tunisias franskspråklige litteratur",
-        "title": "Albert Memmi",
-        "url": "https://snl.no/Albert_Memmi"
-      },
-      {
-        "category": "Midtøstens gamle kulturer",
-        "title": "Det gamle Israels litteratur",
-        "url": "https://snl.no/Det_gamle_Israels_litteratur"
-      },
-      {
-        "category": "Paraguays samtidshistorie",
-        "title": "Horacio Cartes",
-        "url": "https://snl.no/Horacio_Cartes"
+        "category": "Guineas litteratur",
+        "title": "Guineas litteratur",
+        "url": "https://snl.no/Guineas_litteratur"
       },
       {
         "category": "Energetiske materialer og sprengningsteknikk",
-        "title": "ammonal",
-        "url": "https://snl.no/ammonal"
+        "title": "pikrinsyre",
+        "url": "https://snl.no/pikrinsyre"
+      },
+      {
+        "category": "Storbritannia og Nord-Irlands nyere litteratur",
+        "title": "Alexander McCall Smith",
+        "url": "https://snl.no/Alexander_McCall_Smith"
+      },
+      {
+        "category": "Romanias samtidshistorie",
+        "title": "Victor Ponta",
+        "url": "https://snl.no/Victor_Ponta"
+      },
+      {
+        "category": "Bestikk og dekketøy",
+        "title": "bestikk",
+        "url": "https://snl.no/bestikk"
       }
     ]
   }
