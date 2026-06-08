@@ -1658,5 +1658,88 @@
         "url": "https://snl.no/bestikk"
       }
     ]
+  },
+  "2026-06-08": {
+    "Mest lest i går": [
+      {
+        "category": "Marokkos geografi",
+        "title": "Marokko",
+        "url": "https://snl.no/Marokko"
+      },
+      {
+        "category": "Norges historie fra 1884 til 1940",
+        "title": "7. juni",
+        "url": "https://snl.no/7._juni"
+      },
+      {
+        "category": "Norges historie fra 1884 til 1940",
+        "title": "Unionsoppløsningen i 1905",
+        "url": "https://snl.no/Unionsoppl%C3%B8sningen_i_1905"
+      },
+      {
+        "category": "Norske fotballspillere",
+        "title": "Oscar Bobb",
+        "url": "https://snl.no/Oscar_Bobb"
+      },
+      {
+        "category": "Internasjonale klassiske verker på 1800-tallet",
+        "title": "Rosenkavaleren",
+        "url": "https://snl.no/Rosenkavaleren"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Datoartikler",
+        "title": "7. juni – dato",
+        "url": "https://snl.no/7._juni_-_dato"
+      },
+      {
+        "category": "Kardeborreslekta",
+        "title": "kardeborre",
+        "url": "https://snl.no/kardeborre"
+      },
+      {
+        "category": "Piggfinnefisker",
+        "title": "hestmakrell",
+        "url": "https://snl.no/hestmakrell"
+      },
+      {
+        "category": "Rubladfamilien",
+        "title": "rubladfamilien",
+        "url": "https://snl.no/rubladfamilien"
+      },
+      {
+        "category": "Høyesterettsdommere",
+        "title": "Elisabeth Schweigaard Selmer",
+        "url": "https://snl.no/Elisabeth_Schweigaard_Selmer"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Militant islamisme",
+        "title": "Sayyid Qutb",
+        "url": "https://snl.no/Sayyid_Qutb"
+      },
+      {
+        "category": "Utdanningsevaluering",
+        "title": "PIAAC",
+        "url": "https://snl.no/PIAAC"
+      },
+      {
+        "category": "Guttenavn",
+        "title": "Jonny – mannsnamn",
+        "url": "https://snl.no/Jonny_-_mannsnamn"
+      },
+      {
+        "category": "Havrett",
+        "title": "havrettskonvensjonen",
+        "url": "https://snl.no/havrettskonvensjonen"
+      },
+      {
+        "category": "Nord-Irlands historie",
+        "title": "Sunningdaleavtala",
+        "url": "https://snl.no/Sunningdaleavtala"
+      }
+    ]
   }
 }
