@@ -1741,5 +1741,88 @@
         "url": "https://snl.no/Sunningdaleavtala"
       }
     ]
+  },
+  "2026-06-09": {
+    "Mest lest i går": [
+      {
+        "category": "Andre verdenskrig",
+        "title": "andre verdenskrig",
+        "url": "https://snl.no/andre_verdenskrig"
+      },
+      {
+        "category": "Verdens historie",
+        "title": "den industrielle revolusjon",
+        "url": "https://snl.no/den_industrielle_revolusjon"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM i fotball – menn",
+        "url": "https://snl.no/VM_i_fotball_-_menn"
+      },
+      {
+        "category": "Kristen teologi og troslære",
+        "title": "kristendom",
+        "url": "https://snl.no/kristendom"
+      },
+      {
+        "category": "Den franske revolusjon",
+        "title": "den franske revolusjon",
+        "url": "https://snl.no/den_franske_revolusjon"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Slott og palasser i Sverige",
+        "title": "Koberg",
+        "url": "https://snl.no/Koberg"
+      },
+      {
+        "category": "Syrinslekta",
+        "title": "nikkesyrin",
+        "url": "https://snl.no/nikkesyrin"
+      },
+      {
+        "category": "Rubladfamilien",
+        "title": "rubladfamilien",
+        "url": "https://snl.no/rubladfamilien"
+      },
+      {
+        "category": "Norske fotballspillere",
+        "title": "Oscar Bobb",
+        "url": "https://snl.no/Oscar_Bobb"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Toppscorere i fotball-VM – menn",
+        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Skulptur og mosaikk i renessansen og barokken",
+        "title": "Filarete",
+        "url": "https://snl.no/Filarete"
+      },
+      {
+        "category": "Internasjonale klassiske komponister og verker 1900–1950",
+        "title": "Alberto Ginastera",
+        "url": "https://snl.no/Alberto_Ginastera"
+      },
+      {
+        "category": "Internasjonale klassiske komponister og verker 1950–2000",
+        "title": "Karlheinz Stockhausen",
+        "url": "https://snl.no/Karlheinz_Stockhausen"
+      },
+      {
+        "category": "Ekte salamandere",
+        "title": "ribbesalamander",
+        "url": "https://snl.no/ribbesalamander"
+      },
+      {
+        "category": "Nordnorske tradisjonsbåter",
+        "title": "den nordnorske båtreformen",
+        "url": "https://snl.no/den_nordnorske_b%C3%A5treformen"
+      }
+    ]
   }
 }

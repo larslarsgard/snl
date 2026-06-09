@@ -1,48 +1,43 @@
 {
-  "date": "2026-06-08",
+  "date": "2026-06-09",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Marokkos geografi",
-        "title": "Marokko",
-        "url": "https://snl.no/Marokko"
+        "category": "Andre verdenskrig",
+        "title": "andre verdenskrig",
+        "url": "https://snl.no/andre_verdenskrig"
       },
       {
-        "category": "Norges historie fra 1884 til 1940",
-        "title": "7. juni",
-        "url": "https://snl.no/7._juni"
+        "category": "Verdens historie",
+        "title": "den industrielle revolusjon",
+        "url": "https://snl.no/den_industrielle_revolusjon"
       },
       {
-        "category": "Norges historie fra 1884 til 1940",
-        "title": "Unionsoppløsningen i 1905",
-        "url": "https://snl.no/Unionsoppl%C3%B8sningen_i_1905"
+        "category": "Internasjonal fotball",
+        "title": "VM i fotball – menn",
+        "url": "https://snl.no/VM_i_fotball_-_menn"
       },
       {
-        "category": "Norske fotballspillere",
-        "title": "Oscar Bobb",
-        "url": "https://snl.no/Oscar_Bobb"
+        "category": "Kristen teologi og troslære",
+        "title": "kristendom",
+        "url": "https://snl.no/kristendom"
       },
       {
-        "category": "Internasjonale klassiske verker på 1800-tallet",
-        "title": "Rosenkavaleren",
-        "url": "https://snl.no/Rosenkavaleren"
+        "category": "Den franske revolusjon",
+        "title": "den franske revolusjon",
+        "url": "https://snl.no/den_franske_revolusjon"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Datoartikler",
-        "title": "7. juni – dato",
-        "url": "https://snl.no/7._juni_-_dato"
+        "category": "Slott og palasser i Sverige",
+        "title": "Koberg",
+        "url": "https://snl.no/Koberg"
       },
       {
-        "category": "Kardeborreslekta",
-        "title": "kardeborre",
-        "url": "https://snl.no/kardeborre"
-      },
-      {
-        "category": "Piggfinnefisker",
-        "title": "hestmakrell",
-        "url": "https://snl.no/hestmakrell"
+        "category": "Syrinslekta",
+        "title": "nikkesyrin",
+        "url": "https://snl.no/nikkesyrin"
       },
       {
         "category": "Rubladfamilien",
@@ -50,36 +45,41 @@
         "url": "https://snl.no/rubladfamilien"
       },
       {
-        "category": "Høyesterettsdommere",
-        "title": "Elisabeth Schweigaard Selmer",
-        "url": "https://snl.no/Elisabeth_Schweigaard_Selmer"
+        "category": "Norske fotballspillere",
+        "title": "Oscar Bobb",
+        "url": "https://snl.no/Oscar_Bobb"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Toppscorere i fotball-VM – menn",
+        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Militant islamisme",
-        "title": "Sayyid Qutb",
-        "url": "https://snl.no/Sayyid_Qutb"
+        "category": "Skulptur og mosaikk i renessansen og barokken",
+        "title": "Filarete",
+        "url": "https://snl.no/Filarete"
       },
       {
-        "category": "Utdanningsevaluering",
-        "title": "PIAAC",
-        "url": "https://snl.no/PIAAC"
+        "category": "Internasjonale klassiske komponister og verker 1900–1950",
+        "title": "Alberto Ginastera",
+        "url": "https://snl.no/Alberto_Ginastera"
       },
       {
-        "category": "Guttenavn",
-        "title": "Jonny – mannsnamn",
-        "url": "https://snl.no/Jonny_-_mannsnamn"
+        "category": "Internasjonale klassiske komponister og verker 1950–2000",
+        "title": "Karlheinz Stockhausen",
+        "url": "https://snl.no/Karlheinz_Stockhausen"
       },
       {
-        "category": "Havrett",
-        "title": "havrettskonvensjonen",
-        "url": "https://snl.no/havrettskonvensjonen"
+        "category": "Ekte salamandere",
+        "title": "ribbesalamander",
+        "url": "https://snl.no/ribbesalamander"
       },
       {
-        "category": "Nord-Irlands historie",
-        "title": "Sunningdaleavtala",
-        "url": "https://snl.no/Sunningdaleavtala"
+        "category": "Nordnorske tradisjonsbåter",
+        "title": "den nordnorske båtreformen",
+        "url": "https://snl.no/den_nordnorske_b%C3%A5treformen"
       }
     ]
   }
