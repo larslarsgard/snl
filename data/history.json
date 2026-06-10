@@ -1824,5 +1824,88 @@
         "url": "https://snl.no/den_nordnorske_b%C3%A5treformen"
       }
     ]
+  },
+  "2026-06-10": {
+    "Mest lest i går": [
+      {
+        "category": "Andre verdenskrig",
+        "title": "andre verdenskrig",
+        "url": "https://snl.no/andre_verdenskrig"
+      },
+      {
+        "category": "Moderne norsk språk og språkhistorie",
+        "title": "norsk språkhistorie",
+        "url": "https://snl.no/norsk_spr%C3%A5khistorie"
+      },
+      {
+        "category": "Regler og begreper i fotball",
+        "title": "Uttrykk i fotball",
+        "url": "https://snl.no/Uttrykk_i_fotball"
+      },
+      {
+        "category": "Pornografi",
+        "title": "Pornhub",
+        "url": "https://snl.no/Pornhub"
+      },
+      {
+        "category": "Kristen teologi og troslære",
+        "title": "kristendom",
+        "url": "https://snl.no/kristendom"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Franske sørterritorier",
+        "title": "Kerguelen",
+        "url": "https://snl.no/Kerguelen"
+      },
+      {
+        "category": "Norske fotballspillere",
+        "title": "Antonio Nusa",
+        "url": "https://snl.no/Antonio_Nusa"
+      },
+      {
+        "category": "Norske politikere",
+        "title": "Kamzy Gunaratnam",
+        "url": "https://snl.no/Kamzy_Gunaratnam"
+      },
+      {
+        "category": "Rusmidler",
+        "title": "crack",
+        "url": "https://snl.no/crack"
+      },
+      {
+        "category": "Beiarn",
+        "title": "Beiarn",
+        "url": "https://snl.no/Beiarn"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Latinske verk",
+        "title": "Breviarium Nidrosiense",
+        "url": "https://snl.no/Breviarium_Nidrosiense"
+      },
+      {
+        "category": "Svalbard",
+        "title": "Danskegattet",
+        "url": "https://snl.no/Danskegattet"
+      },
+      {
+        "category": "Qatars samtidshistorie",
+        "title": "Qatars samtidshistorie",
+        "url": "https://snl.no/Qatars_samtidshistorie"
+      },
+      {
+        "category": "Jødedom",
+        "title": "Sefer ha-Bahir",
+        "url": "https://snl.no/Sefer_ha-Bahir"
+      },
+      {
+        "category": "Biografier i Det tysk-romerske riket",
+        "title": "Albert Casimir – hertug av Teschen",
+        "url": "https://snl.no/Albert_Casimir_-_hertug_av_Teschen"
+      }
+    ]
   }
 }

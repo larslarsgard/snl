@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-09",
+  "date": "2026-06-10",
   "categories": {
     "Mest lest i går": [
       {
@@ -8,78 +8,78 @@
         "url": "https://snl.no/andre_verdenskrig"
       },
       {
-        "category": "Verdens historie",
-        "title": "den industrielle revolusjon",
-        "url": "https://snl.no/den_industrielle_revolusjon"
+        "category": "Moderne norsk språk og språkhistorie",
+        "title": "norsk språkhistorie",
+        "url": "https://snl.no/norsk_spr%C3%A5khistorie"
       },
       {
-        "category": "Internasjonal fotball",
-        "title": "VM i fotball – menn",
-        "url": "https://snl.no/VM_i_fotball_-_menn"
+        "category": "Regler og begreper i fotball",
+        "title": "Uttrykk i fotball",
+        "url": "https://snl.no/Uttrykk_i_fotball"
+      },
+      {
+        "category": "Pornografi",
+        "title": "Pornhub",
+        "url": "https://snl.no/Pornhub"
       },
       {
         "category": "Kristen teologi og troslære",
         "title": "kristendom",
         "url": "https://snl.no/kristendom"
-      },
-      {
-        "category": "Den franske revolusjon",
-        "title": "den franske revolusjon",
-        "url": "https://snl.no/den_franske_revolusjon"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Slott og palasser i Sverige",
-        "title": "Koberg",
-        "url": "https://snl.no/Koberg"
-      },
-      {
-        "category": "Syrinslekta",
-        "title": "nikkesyrin",
-        "url": "https://snl.no/nikkesyrin"
-      },
-      {
-        "category": "Rubladfamilien",
-        "title": "rubladfamilien",
-        "url": "https://snl.no/rubladfamilien"
+        "category": "Franske sørterritorier",
+        "title": "Kerguelen",
+        "url": "https://snl.no/Kerguelen"
       },
       {
         "category": "Norske fotballspillere",
-        "title": "Oscar Bobb",
-        "url": "https://snl.no/Oscar_Bobb"
+        "title": "Antonio Nusa",
+        "url": "https://snl.no/Antonio_Nusa"
       },
       {
-        "category": "Internasjonal fotball",
-        "title": "Toppscorere i fotball-VM – menn",
-        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
+        "category": "Norske politikere",
+        "title": "Kamzy Gunaratnam",
+        "url": "https://snl.no/Kamzy_Gunaratnam"
+      },
+      {
+        "category": "Rusmidler",
+        "title": "crack",
+        "url": "https://snl.no/crack"
+      },
+      {
+        "category": "Beiarn",
+        "title": "Beiarn",
+        "url": "https://snl.no/Beiarn"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Skulptur og mosaikk i renessansen og barokken",
-        "title": "Filarete",
-        "url": "https://snl.no/Filarete"
+        "category": "Latinske verk",
+        "title": "Breviarium Nidrosiense",
+        "url": "https://snl.no/Breviarium_Nidrosiense"
       },
       {
-        "category": "Internasjonale klassiske komponister og verker 1900–1950",
-        "title": "Alberto Ginastera",
-        "url": "https://snl.no/Alberto_Ginastera"
+        "category": "Svalbard",
+        "title": "Danskegattet",
+        "url": "https://snl.no/Danskegattet"
       },
       {
-        "category": "Internasjonale klassiske komponister og verker 1950–2000",
-        "title": "Karlheinz Stockhausen",
-        "url": "https://snl.no/Karlheinz_Stockhausen"
+        "category": "Qatars samtidshistorie",
+        "title": "Qatars samtidshistorie",
+        "url": "https://snl.no/Qatars_samtidshistorie"
       },
       {
-        "category": "Ekte salamandere",
-        "title": "ribbesalamander",
-        "url": "https://snl.no/ribbesalamander"
+        "category": "Jødedom",
+        "title": "Sefer ha-Bahir",
+        "url": "https://snl.no/Sefer_ha-Bahir"
       },
       {
-        "category": "Nordnorske tradisjonsbåter",
-        "title": "den nordnorske båtreformen",
-        "url": "https://snl.no/den_nordnorske_b%C3%A5treformen"
+        "category": "Biografier i Det tysk-romerske riket",
+        "title": "Albert Casimir – hertug av Teschen",
+        "url": "https://snl.no/Albert_Casimir_-_hertug_av_Teschen"
       }
     ]
   }
