@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-10",
+  "date": "2026-06-11",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Pornografi",
+        "title": "Pornhub",
+        "url": "https://snl.no/Pornhub"
+      },
       {
         "category": "Andre verdenskrig",
         "title": "andre verdenskrig",
         "url": "https://snl.no/andre_verdenskrig"
       },
       {
+        "category": "Den kalde krigen",
+        "title": "den kalde krigen",
+        "url": "https://snl.no/den_kalde_krigen"
+      },
+      {
         "category": "Moderne norsk språk og språkhistorie",
         "title": "norsk språkhistorie",
         "url": "https://snl.no/norsk_spr%C3%A5khistorie"
-      },
-      {
-        "category": "Regler og begreper i fotball",
-        "title": "Uttrykk i fotball",
-        "url": "https://snl.no/Uttrykk_i_fotball"
-      },
-      {
-        "category": "Pornografi",
-        "title": "Pornhub",
-        "url": "https://snl.no/Pornhub"
       },
       {
         "category": "Kristen teologi og troslære",
@@ -30,9 +30,19 @@
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Franske sørterritorier",
-        "title": "Kerguelen",
-        "url": "https://snl.no/Kerguelen"
+        "category": "Løp",
+        "title": "drømmemila",
+        "url": "https://snl.no/dr%C3%B8mmemila"
+      },
+      {
+        "category": "Skipstekniske begrep",
+        "title": "tyfon – signalapparat",
+        "url": "https://snl.no/tyfon_-_signalapparat"
+      },
+      {
+        "category": "Kast",
+        "title": "Trine Hattestad",
+        "url": "https://snl.no/Trine_Hattestad"
       },
       {
         "category": "Norske fotballspillere",
@@ -40,46 +50,36 @@
         "url": "https://snl.no/Antonio_Nusa"
       },
       {
-        "category": "Norske politikere",
-        "title": "Kamzy Gunaratnam",
-        "url": "https://snl.no/Kamzy_Gunaratnam"
-      },
-      {
-        "category": "Rusmidler",
-        "title": "crack",
-        "url": "https://snl.no/crack"
-      },
-      {
-        "category": "Beiarn",
-        "title": "Beiarn",
-        "url": "https://snl.no/Beiarn"
+        "category": "Beredskap og krisehåndtering",
+        "title": "Sivilforsvarets varslingssignaler",
+        "url": "https://snl.no/Sivilforsvarets_varslingssignaler"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Latinske verk",
-        "title": "Breviarium Nidrosiense",
-        "url": "https://snl.no/Breviarium_Nidrosiense"
+        "category": "Kvinnebevegelsen i Norge",
+        "title": "Margarete Bonnevie",
+        "url": "https://snl.no/Margarete_Bonnevie"
       },
       {
-        "category": "Svalbard",
-        "title": "Danskegattet",
-        "url": "https://snl.no/Danskegattet"
+        "category": "Termer og begreper i bildende kunst",
+        "title": "maleriets historie",
+        "url": "https://snl.no/maleriets_historie"
       },
       {
-        "category": "Qatars samtidshistorie",
-        "title": "Qatars samtidshistorie",
-        "url": "https://snl.no/Qatars_samtidshistorie"
+        "category": "Internasjonal barne- og ungdomslitteratur",
+        "title": "Ulf Stark",
+        "url": "https://snl.no/Ulf_Stark"
       },
       {
-        "category": "Jødedom",
-        "title": "Sefer ha-Bahir",
-        "url": "https://snl.no/Sefer_ha-Bahir"
+        "category": "Tidligere aviser i Trøndelag",
+        "title": "Stjørdalingen",
+        "url": "https://snl.no/Stj%C3%B8rdalingen"
       },
       {
-        "category": "Biografier i Det tysk-romerske riket",
-        "title": "Albert Casimir – hertug av Teschen",
-        "url": "https://snl.no/Albert_Casimir_-_hertug_av_Teschen"
+        "category": "Flyselskaper",
+        "title": "Air Greenland",
+        "url": "https://snl.no/Air_Greenland"
       }
     ]
   }
