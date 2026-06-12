@@ -1990,5 +1990,88 @@
         "url": "https://snl.no/Air_Greenland"
       }
     ]
+  },
+  "2026-06-12": {
+    "Mest lest i går": [
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM i fotball – menn",
+        "url": "https://snl.no/VM_i_fotball_-_menn"
+      },
+      {
+        "category": "Pornografi",
+        "title": "Pornhub",
+        "url": "https://snl.no/Pornhub"
+      },
+      {
+        "category": "Verdens historie",
+        "title": "den industrielle revolusjon",
+        "url": "https://snl.no/den_industrielle_revolusjon"
+      },
+      {
+        "category": "Den kalde krigen",
+        "title": "den kalde krigen",
+        "url": "https://snl.no/den_kalde_krigen"
+      },
+      {
+        "category": "Andre verdenskrig",
+        "title": "andre verdenskrig",
+        "url": "https://snl.no/andre_verdenskrig"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Internasjonale klassiske sangere",
+        "title": "Andrea Bocelli",
+        "url": "https://snl.no/Andrea_Bocelli"
+      },
+      {
+        "category": "Mexicos geografi",
+        "title": "Mexico by",
+        "url": "https://snl.no/Mexico_by"
+      },
+      {
+        "category": "Norske fotballspillere",
+        "title": "Antonio Nusa",
+        "url": "https://snl.no/Antonio_Nusa"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Toppscorere i fotball-VM – menn",
+        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Norsk fotball",
+        "title": "Norge i fotball-VM – menn",
+        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Senegals litteratur",
+        "title": "Birago Ismael Diop",
+        "url": "https://snl.no/Birago_Ismael_Diop"
+      },
+      {
+        "category": "Bilhistoriske biografier",
+        "title": "Broder Lysholm Krohg",
+        "url": "https://snl.no/Broder_Lysholm_Krohg"
+      },
+      {
+        "category": "Postverk",
+        "title": "postkasse",
+        "url": "https://snl.no/postkasse"
+      },
+      {
+        "category": "Tysklands litteratur 1950–2000",
+        "title": "Carl Zuckmayer",
+        "url": "https://snl.no/Carl_Zuckmayer"
+      },
+      {
+        "category": "Energi og ressurs",
+        "title": "IEA – Det internasjonale energibyrået",
+        "url": "https://snl.no/IEA_-_Det_internasjonale_energibyr%C3%A5et"
+      }
+    ]
   }
 }
