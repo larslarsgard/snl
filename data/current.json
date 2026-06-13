@@ -1,7 +1,12 @@
 {
-  "date": "2026-06-12",
+  "date": "2026-06-13",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Bosnia-Hercegovinas samtidshistorie",
+        "title": "Bosnia-Hercegovina",
+        "url": "https://snl.no/Bosnia-Hercegovina"
+      },
       {
         "category": "Internasjonal fotball",
         "title": "VM i fotball – menn",
@@ -13,41 +18,9 @@
         "url": "https://snl.no/Pornhub"
       },
       {
-        "category": "Verdens historie",
-        "title": "den industrielle revolusjon",
-        "url": "https://snl.no/den_industrielle_revolusjon"
-      },
-      {
-        "category": "Den kalde krigen",
-        "title": "den kalde krigen",
-        "url": "https://snl.no/den_kalde_krigen"
-      },
-      {
-        "category": "Andre verdenskrig",
-        "title": "andre verdenskrig",
-        "url": "https://snl.no/andre_verdenskrig"
-      }
-    ],
-    "Uvanlig mye lest": [
-      {
-        "category": "Internasjonale klassiske sangere",
-        "title": "Andrea Bocelli",
-        "url": "https://snl.no/Andrea_Bocelli"
-      },
-      {
-        "category": "Mexicos geografi",
-        "title": "Mexico by",
-        "url": "https://snl.no/Mexico_by"
-      },
-      {
-        "category": "Norske fotballspillere",
-        "title": "Antonio Nusa",
-        "url": "https://snl.no/Antonio_Nusa"
-      },
-      {
-        "category": "Internasjonal fotball",
-        "title": "Toppscorere i fotball-VM – menn",
-        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
+        "category": "Canadas geografi",
+        "title": "Canada",
+        "url": "https://snl.no/Canada"
       },
       {
         "category": "Norsk fotball",
@@ -55,31 +28,58 @@
         "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
       }
     ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Irlands engelskspråklige litteratur",
+        "title": "Colm Tóibín",
+        "url": "https://snl.no/Colm_T%C3%B3ib%C3%ADn"
+      },
+      {
+        "category": "Øvrig europeisk malerkunst 1400–1750",
+        "title": "Georges de La Tour",
+        "url": "https://snl.no/Georges_de_La_Tour"
+      },
+      {
+        "category": "Vedbukker",
+        "title": "furubukk",
+        "url": "https://snl.no/furubukk"
+      },
+      {
+        "category": "Norske fotballspillere",
+        "title": "Antonio Nusa",
+        "url": "https://snl.no/Antonio_Nusa"
+      },
+      {
+        "category": "Canadas geografi",
+        "title": "Canadas befolkning",
+        "url": "https://snl.no/Canadas_befolkning"
+      }
+    ],
     "Sørgelig lite lest": [
       {
-        "category": "Senegals litteratur",
-        "title": "Birago Ismael Diop",
-        "url": "https://snl.no/Birago_Ismael_Diop"
+        "category": "Sittemøbler",
+        "title": "stol",
+        "url": "https://snl.no/stol"
       },
       {
-        "category": "Bilhistoriske biografier",
-        "title": "Broder Lysholm Krohg",
-        "url": "https://snl.no/Broder_Lysholm_Krohg"
+        "category": "Byer og områder i Sveits",
+        "title": "Scuol",
+        "url": "https://snl.no/Scuol"
       },
       {
-        "category": "Postverk",
-        "title": "postkasse",
-        "url": "https://snl.no/postkasse"
+        "category": "Matematisk analyse",
+        "title": "wavelets",
+        "url": "https://snl.no/wavelets"
       },
       {
-        "category": "Tysklands litteratur 1950–2000",
-        "title": "Carl Zuckmayer",
-        "url": "https://snl.no/Carl_Zuckmayer"
+        "category": "Norske arkitekter fram til 1900",
+        "title": "arkitektfagets historie i Norge",
+        "url": "https://snl.no/arkitektfagets_historie_i_Norge"
       },
       {
-        "category": "Energi og ressurs",
-        "title": "IEA – Det internasjonale energibyrået",
-        "url": "https://snl.no/IEA_-_Det_internasjonale_energibyr%C3%A5et"
+        "category": "Amerikanske urfolkspråk",
+        "title": "kikapú – språk",
+        "url": "https://snl.no/kikap%C3%BA_-_spr%C3%A5k"
       }
     ]
   }

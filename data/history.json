@@ -2073,5 +2073,88 @@
         "url": "https://snl.no/IEA_-_Det_internasjonale_energibyr%C3%A5et"
       }
     ]
+  },
+  "2026-06-13": {
+    "Mest lest i går": [
+      {
+        "category": "Bosnia-Hercegovinas samtidshistorie",
+        "title": "Bosnia-Hercegovina",
+        "url": "https://snl.no/Bosnia-Hercegovina"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM i fotball – menn",
+        "url": "https://snl.no/VM_i_fotball_-_menn"
+      },
+      {
+        "category": "Pornografi",
+        "title": "Pornhub",
+        "url": "https://snl.no/Pornhub"
+      },
+      {
+        "category": "Canadas geografi",
+        "title": "Canada",
+        "url": "https://snl.no/Canada"
+      },
+      {
+        "category": "Norsk fotball",
+        "title": "Norge i fotball-VM – menn",
+        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Irlands engelskspråklige litteratur",
+        "title": "Colm Tóibín",
+        "url": "https://snl.no/Colm_T%C3%B3ib%C3%ADn"
+      },
+      {
+        "category": "Øvrig europeisk malerkunst 1400–1750",
+        "title": "Georges de La Tour",
+        "url": "https://snl.no/Georges_de_La_Tour"
+      },
+      {
+        "category": "Vedbukker",
+        "title": "furubukk",
+        "url": "https://snl.no/furubukk"
+      },
+      {
+        "category": "Norske fotballspillere",
+        "title": "Antonio Nusa",
+        "url": "https://snl.no/Antonio_Nusa"
+      },
+      {
+        "category": "Canadas geografi",
+        "title": "Canadas befolkning",
+        "url": "https://snl.no/Canadas_befolkning"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Sittemøbler",
+        "title": "stol",
+        "url": "https://snl.no/stol"
+      },
+      {
+        "category": "Byer og områder i Sveits",
+        "title": "Scuol",
+        "url": "https://snl.no/Scuol"
+      },
+      {
+        "category": "Matematisk analyse",
+        "title": "wavelets",
+        "url": "https://snl.no/wavelets"
+      },
+      {
+        "category": "Norske arkitekter fram til 1900",
+        "title": "arkitektfagets historie i Norge",
+        "url": "https://snl.no/arkitektfagets_historie_i_Norge"
+      },
+      {
+        "category": "Amerikanske urfolkspråk",
+        "title": "kikapú – språk",
+        "url": "https://snl.no/kikap%C3%BA_-_spr%C3%A5k"
+      }
+    ]
   }
 }
