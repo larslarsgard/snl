@@ -2156,5 +2156,88 @@
         "url": "https://snl.no/kikap%C3%BA_-_spr%C3%A5k"
       }
     ]
+  },
+  "2026-06-14": {
+    "Mest lest i går": [
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM i fotball – menn",
+        "url": "https://snl.no/VM_i_fotball_-_menn"
+      },
+      {
+        "category": "Pornografi",
+        "title": "Pornhub",
+        "url": "https://snl.no/Pornhub"
+      },
+      {
+        "category": "Qatars samtidshistorie",
+        "title": "Qatar",
+        "url": "https://snl.no/Qatar"
+      },
+      {
+        "category": "Internasjonal barne- og ungdomslitteratur",
+        "title": "Vi på Saltkråkan",
+        "url": "https://snl.no/Vi_p%C3%A5_Saltkr%C3%A5kan"
+      },
+      {
+        "category": "Sveriges kongehus",
+        "title": "Silvia – dronning",
+        "url": "https://snl.no/Silvia_-_dronning"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Irlands engelskspråklige litteratur",
+        "title": "Colm Tóibín",
+        "url": "https://snl.no/Colm_T%C3%B3ib%C3%ADn"
+      },
+      {
+        "category": "Norsk pop og rock",
+        "title": "Donkeyboy",
+        "url": "https://snl.no/Donkeyboy"
+      },
+      {
+        "category": "Nederlandsk Karibia",
+        "title": "Curaçao",
+        "url": "https://snl.no/Cura%C3%A7ao"
+      },
+      {
+        "category": "Paraguays geografi",
+        "title": "Paraguay",
+        "url": "https://snl.no/Paraguay"
+      },
+      {
+        "category": "Sveriges kongehus",
+        "title": "Det svenske kongehuset",
+        "url": "https://snl.no/Det_svenske_kongehuset"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Pingvinfamilien",
+        "title": "adeliepingvin",
+        "url": "https://snl.no/adeliepingvin"
+      },
+      {
+        "category": "Bilhistoriske biografier",
+        "title": "Christian Vilhelm Bergh",
+        "url": "https://snl.no/Christian_Vilhelm_Bergh"
+      },
+      {
+        "category": "Midtøstens gamle kulturer",
+        "title": "Gezer",
+        "url": "https://snl.no/Gezer"
+      },
+      {
+        "category": "Personer i IT-historie",
+        "title": "Pål Spilling",
+        "url": "https://snl.no/P%C3%A5l_Spilling"
+      },
+      {
+        "category": "Glasskunstnere og keramikere",
+        "title": "Kyllikki Salmenhaara",
+        "url": "https://snl.no/Kyllikki_Salmenhaara"
+      }
+    ]
   }
 }

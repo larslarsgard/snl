@@ -1,12 +1,7 @@
 {
-  "date": "2026-06-13",
+  "date": "2026-06-14",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Bosnia-Hercegovinas samtidshistorie",
-        "title": "Bosnia-Hercegovina",
-        "url": "https://snl.no/Bosnia-Hercegovina"
-      },
       {
         "category": "Internasjonal fotball",
         "title": "VM i fotball – menn",
@@ -18,14 +13,19 @@
         "url": "https://snl.no/Pornhub"
       },
       {
-        "category": "Canadas geografi",
-        "title": "Canada",
-        "url": "https://snl.no/Canada"
+        "category": "Qatars samtidshistorie",
+        "title": "Qatar",
+        "url": "https://snl.no/Qatar"
       },
       {
-        "category": "Norsk fotball",
-        "title": "Norge i fotball-VM – menn",
-        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
+        "category": "Internasjonal barne- og ungdomslitteratur",
+        "title": "Vi på Saltkråkan",
+        "url": "https://snl.no/Vi_p%C3%A5_Saltkr%C3%A5kan"
+      },
+      {
+        "category": "Sveriges kongehus",
+        "title": "Silvia – dronning",
+        "url": "https://snl.no/Silvia_-_dronning"
       }
     ],
     "Uvanlig mye lest": [
@@ -35,51 +35,51 @@
         "url": "https://snl.no/Colm_T%C3%B3ib%C3%ADn"
       },
       {
-        "category": "Øvrig europeisk malerkunst 1400–1750",
-        "title": "Georges de La Tour",
-        "url": "https://snl.no/Georges_de_La_Tour"
+        "category": "Norsk pop og rock",
+        "title": "Donkeyboy",
+        "url": "https://snl.no/Donkeyboy"
       },
       {
-        "category": "Vedbukker",
-        "title": "furubukk",
-        "url": "https://snl.no/furubukk"
+        "category": "Nederlandsk Karibia",
+        "title": "Curaçao",
+        "url": "https://snl.no/Cura%C3%A7ao"
       },
       {
-        "category": "Norske fotballspillere",
-        "title": "Antonio Nusa",
-        "url": "https://snl.no/Antonio_Nusa"
+        "category": "Paraguays geografi",
+        "title": "Paraguay",
+        "url": "https://snl.no/Paraguay"
       },
       {
-        "category": "Canadas geografi",
-        "title": "Canadas befolkning",
-        "url": "https://snl.no/Canadas_befolkning"
+        "category": "Sveriges kongehus",
+        "title": "Det svenske kongehuset",
+        "url": "https://snl.no/Det_svenske_kongehuset"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Sittemøbler",
-        "title": "stol",
-        "url": "https://snl.no/stol"
+        "category": "Pingvinfamilien",
+        "title": "adeliepingvin",
+        "url": "https://snl.no/adeliepingvin"
       },
       {
-        "category": "Byer og områder i Sveits",
-        "title": "Scuol",
-        "url": "https://snl.no/Scuol"
+        "category": "Bilhistoriske biografier",
+        "title": "Christian Vilhelm Bergh",
+        "url": "https://snl.no/Christian_Vilhelm_Bergh"
       },
       {
-        "category": "Matematisk analyse",
-        "title": "wavelets",
-        "url": "https://snl.no/wavelets"
+        "category": "Midtøstens gamle kulturer",
+        "title": "Gezer",
+        "url": "https://snl.no/Gezer"
       },
       {
-        "category": "Norske arkitekter fram til 1900",
-        "title": "arkitektfagets historie i Norge",
-        "url": "https://snl.no/arkitektfagets_historie_i_Norge"
+        "category": "Personer i IT-historie",
+        "title": "Pål Spilling",
+        "url": "https://snl.no/P%C3%A5l_Spilling"
       },
       {
-        "category": "Amerikanske urfolkspråk",
-        "title": "kikapú – språk",
-        "url": "https://snl.no/kikap%C3%BA_-_spr%C3%A5k"
+        "category": "Glasskunstnere og keramikere",
+        "title": "Kyllikki Salmenhaara",
+        "url": "https://snl.no/Kyllikki_Salmenhaara"
       }
     ]
   }
