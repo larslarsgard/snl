@@ -1,11 +1,21 @@
 {
-  "date": "2026-06-14",
+  "date": "2026-06-15",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Nederlandsk Karibia",
+        "title": "Curaçao",
+        "url": "https://snl.no/Cura%C3%A7ao"
+      },
       {
         "category": "Internasjonal fotball",
         "title": "VM i fotball – menn",
         "url": "https://snl.no/VM_i_fotball_-_menn"
+      },
+      {
+        "category": "Amerikansk politikk",
+        "title": "USAs politiske system",
+        "url": "https://snl.no/USAs_politiske_system"
       },
       {
         "category": "Pornografi",
@@ -13,9 +23,26 @@
         "url": "https://snl.no/Pornhub"
       },
       {
-        "category": "Qatars samtidshistorie",
-        "title": "Qatar",
-        "url": "https://snl.no/Qatar"
+        "category": "Virussykdommer",
+        "title": "ebola",
+        "url": "https://sml.snl.no/ebola"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Sedimentologi",
+        "title": "marleik",
+        "url": "https://snl.no/marleik"
+      },
+      {
+        "category": "Brennevin",
+        "title": "curaçao – likør",
+        "url": "https://snl.no/cura%C3%A7ao_-_lik%C3%B8r"
+      },
+      {
+        "category": "Nederlandsk Karibia",
+        "title": "Sint Maarten",
+        "url": "https://snl.no/Sint_Maarten"
       },
       {
         "category": "Internasjonal barne- og ungdomslitteratur",
@@ -23,63 +50,36 @@
         "url": "https://snl.no/Vi_p%C3%A5_Saltkr%C3%A5kan"
       },
       {
-        "category": "Sveriges kongehus",
-        "title": "Silvia – dronning",
-        "url": "https://snl.no/Silvia_-_dronning"
-      }
-    ],
-    "Uvanlig mye lest": [
-      {
         "category": "Irlands engelskspråklige litteratur",
         "title": "Colm Tóibín",
         "url": "https://snl.no/Colm_T%C3%B3ib%C3%ADn"
-      },
-      {
-        "category": "Norsk pop og rock",
-        "title": "Donkeyboy",
-        "url": "https://snl.no/Donkeyboy"
-      },
-      {
-        "category": "Nederlandsk Karibia",
-        "title": "Curaçao",
-        "url": "https://snl.no/Cura%C3%A7ao"
-      },
-      {
-        "category": "Paraguays geografi",
-        "title": "Paraguay",
-        "url": "https://snl.no/Paraguay"
-      },
-      {
-        "category": "Sveriges kongehus",
-        "title": "Det svenske kongehuset",
-        "url": "https://snl.no/Det_svenske_kongehuset"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Pingvinfamilien",
-        "title": "adeliepingvin",
-        "url": "https://snl.no/adeliepingvin"
+        "category": "Tsjekkias og Tsjekkoslovakias litteratur",
+        "title": "Otokar Březina",
+        "url": "https://snl.no/Otokar_B%C5%99ezina"
       },
       {
-        "category": "Bilhistoriske biografier",
-        "title": "Christian Vilhelm Bergh",
-        "url": "https://snl.no/Christian_Vilhelm_Bergh"
+        "category": "Folkegrupper i Sør-Amerika",
+        "title": "muisca",
+        "url": "https://snl.no/muisca"
       },
       {
-        "category": "Midtøstens gamle kulturer",
-        "title": "Gezer",
-        "url": "https://snl.no/Gezer"
+        "category": "Norske kirkebygg",
+        "title": "Skrukkeli kapell",
+        "url": "https://snl.no/Skrukkeli_kapell"
       },
       {
-        "category": "Personer i IT-historie",
-        "title": "Pål Spilling",
-        "url": "https://snl.no/P%C3%A5l_Spilling"
+        "category": "Militær teori",
+        "title": "militærteori",
+        "url": "https://snl.no/milit%C3%A6rteori"
       },
       {
-        "category": "Glasskunstnere og keramikere",
-        "title": "Kyllikki Salmenhaara",
-        "url": "https://snl.no/Kyllikki_Salmenhaara"
+        "category": "Svalbard",
+        "title": "Arthur S. Lewin",
+        "url": "https://snl.no/Arthur_S._Lewin"
       }
     ]
   }
