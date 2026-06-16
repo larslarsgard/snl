@@ -2322,5 +2322,88 @@
         "url": "https://snl.no/Arthur_S._Lewin"
       }
     ]
+  },
+  "2026-06-16": {
+    "Mest lest i går": [
+      {
+        "category": "Kapp Verdes geografi",
+        "title": "Kapp Verde",
+        "url": "https://snl.no/Kapp_Verde"
+      },
+      {
+        "category": "Nederlandsk Karibia",
+        "title": "Curaçao",
+        "url": "https://snl.no/Cura%C3%A7ao"
+      },
+      {
+        "category": "Kriminalomsorg og fengsel",
+        "title": "fengselsår",
+        "url": "https://snl.no/fengsels%C3%A5r"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM i fotball – menn",
+        "url": "https://snl.no/VM_i_fotball_-_menn"
+      },
+      {
+        "category": "Pornografi",
+        "title": "Pornhub",
+        "url": "https://snl.no/Pornhub"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Hønsegrasslekta",
+        "title": "vasslirekne",
+        "url": "https://snl.no/vasslirekne"
+      },
+      {
+        "category": "Øvrig europeisk fotball",
+        "title": "Romelu Lukaku",
+        "url": "https://snl.no/Romelu_Lukaku"
+      },
+      {
+        "category": "Kapp Verdes geografi",
+        "title": "Kapp Verdes befolkning",
+        "url": "https://snl.no/Kapp_Verdes_befolkning"
+      },
+      {
+        "category": "Norske fotballspillere",
+        "title": "Freddy dos Santos",
+        "url": "https://snl.no/Freddy_dos_Santos"
+      },
+      {
+        "category": "Straffeprosess",
+        "title": "anke – straffedommer",
+        "url": "https://snl.no/anke_-_straffedommer"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Saudi-Arabias historie",
+        "title": "Saudi-Arabias historie",
+        "url": "https://snl.no/Saudi-Arabias_historie"
+      },
+      {
+        "category": "De forente arabiske emiraters samtidshistorie",
+        "title": "Medier i De forente arabiske emirater",
+        "url": "https://snl.no/Medier_i_De_forente_arabiske_emirater"
+      },
+      {
+        "category": "Jentenavn",
+        "title": "Malena – kvinnenamn",
+        "url": "https://snl.no/Malena_-_kvinnenamn"
+      },
+      {
+        "category": "Jødedom",
+        "title": "Sefer ha-Bahir",
+        "url": "https://snl.no/Sefer_ha-Bahir"
+      },
+      {
+        "category": "Historiske religioner",
+        "title": "jomfrugudinner",
+        "url": "https://snl.no/jomfrugudinner"
+      }
+    ]
   }
 }

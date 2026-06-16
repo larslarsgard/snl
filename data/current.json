@@ -1,11 +1,21 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Kapp Verdes geografi",
+        "title": "Kapp Verde",
+        "url": "https://snl.no/Kapp_Verde"
+      },
       {
         "category": "Nederlandsk Karibia",
         "title": "Curaçao",
         "url": "https://snl.no/Cura%C3%A7ao"
+      },
+      {
+        "category": "Kriminalomsorg og fengsel",
+        "title": "fengselsår",
+        "url": "https://snl.no/fengsels%C3%A5r"
       },
       {
         "category": "Internasjonal fotball",
@@ -13,73 +23,63 @@
         "url": "https://snl.no/VM_i_fotball_-_menn"
       },
       {
-        "category": "Amerikansk politikk",
-        "title": "USAs politiske system",
-        "url": "https://snl.no/USAs_politiske_system"
-      },
-      {
         "category": "Pornografi",
         "title": "Pornhub",
         "url": "https://snl.no/Pornhub"
-      },
-      {
-        "category": "Virussykdommer",
-        "title": "ebola",
-        "url": "https://sml.snl.no/ebola"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Sedimentologi",
-        "title": "marleik",
-        "url": "https://snl.no/marleik"
+        "category": "Hønsegrasslekta",
+        "title": "vasslirekne",
+        "url": "https://snl.no/vasslirekne"
       },
       {
-        "category": "Brennevin",
-        "title": "curaçao – likør",
-        "url": "https://snl.no/cura%C3%A7ao_-_lik%C3%B8r"
+        "category": "Øvrig europeisk fotball",
+        "title": "Romelu Lukaku",
+        "url": "https://snl.no/Romelu_Lukaku"
       },
       {
-        "category": "Nederlandsk Karibia",
-        "title": "Sint Maarten",
-        "url": "https://snl.no/Sint_Maarten"
+        "category": "Kapp Verdes geografi",
+        "title": "Kapp Verdes befolkning",
+        "url": "https://snl.no/Kapp_Verdes_befolkning"
       },
       {
-        "category": "Internasjonal barne- og ungdomslitteratur",
-        "title": "Vi på Saltkråkan",
-        "url": "https://snl.no/Vi_p%C3%A5_Saltkr%C3%A5kan"
+        "category": "Norske fotballspillere",
+        "title": "Freddy dos Santos",
+        "url": "https://snl.no/Freddy_dos_Santos"
       },
       {
-        "category": "Irlands engelskspråklige litteratur",
-        "title": "Colm Tóibín",
-        "url": "https://snl.no/Colm_T%C3%B3ib%C3%ADn"
+        "category": "Straffeprosess",
+        "title": "anke – straffedommer",
+        "url": "https://snl.no/anke_-_straffedommer"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Tsjekkias og Tsjekkoslovakias litteratur",
-        "title": "Otokar Březina",
-        "url": "https://snl.no/Otokar_B%C5%99ezina"
+        "category": "Saudi-Arabias historie",
+        "title": "Saudi-Arabias historie",
+        "url": "https://snl.no/Saudi-Arabias_historie"
       },
       {
-        "category": "Folkegrupper i Sør-Amerika",
-        "title": "muisca",
-        "url": "https://snl.no/muisca"
+        "category": "De forente arabiske emiraters samtidshistorie",
+        "title": "Medier i De forente arabiske emirater",
+        "url": "https://snl.no/Medier_i_De_forente_arabiske_emirater"
       },
       {
-        "category": "Norske kirkebygg",
-        "title": "Skrukkeli kapell",
-        "url": "https://snl.no/Skrukkeli_kapell"
+        "category": "Jentenavn",
+        "title": "Malena – kvinnenamn",
+        "url": "https://snl.no/Malena_-_kvinnenamn"
       },
       {
-        "category": "Militær teori",
-        "title": "militærteori",
-        "url": "https://snl.no/milit%C3%A6rteori"
+        "category": "Jødedom",
+        "title": "Sefer ha-Bahir",
+        "url": "https://snl.no/Sefer_ha-Bahir"
       },
       {
-        "category": "Svalbard",
-        "title": "Arthur S. Lewin",
-        "url": "https://snl.no/Arthur_S._Lewin"
+        "category": "Historiske religioner",
+        "title": "jomfrugudinner",
+        "url": "https://snl.no/jomfrugudinner"
       }
     ]
   }
