@@ -2405,5 +2405,88 @@
         "url": "https://snl.no/jomfrugudinner"
       }
     ]
+  },
+  "2026-06-17": {
+    "Mest lest i går": [
+      {
+        "category": "Senegals geografi",
+        "title": "Senegal",
+        "url": "https://snl.no/Senegal"
+      },
+      {
+        "category": "Norsk fotball",
+        "title": "Norges tropp til fotball-VM i 1998",
+        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_1998"
+      },
+      {
+        "category": "Kapp Verdes geografi",
+        "title": "Kapp Verde",
+        "url": "https://snl.no/Kapp_Verde"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM i fotball – menn",
+        "url": "https://snl.no/VM_i_fotball_-_menn"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Toppscorere i fotball-VM – menn",
+        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Plantesykdommer",
+        "title": "knartbær",
+        "url": "https://snl.no/knartb%C3%A6r"
+      },
+      {
+        "category": "Klesdesignere og motehus",
+        "title": "Karl Lagerfeld",
+        "url": "https://snl.no/Karl_Lagerfeld"
+      },
+      {
+        "category": "Plantesykdommer",
+        "title": "stikkelsbærdreper",
+        "url": "https://snl.no/stikkelsb%C3%A6rdreper"
+      },
+      {
+        "category": "Norske skuespillere",
+        "title": "Bente Børsum",
+        "url": "https://snl.no/Bente_B%C3%B8rsum"
+      },
+      {
+        "category": "Senegals historie",
+        "title": "Senegals historie",
+        "url": "https://snl.no/Senegals_historie"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Bilhistoriske biografier",
+        "title": "Nicolai Frederik Krogh",
+        "url": "https://snl.no/Nicolai_Frederik_Krogh"
+      },
+      {
+        "category": "Madagaskars litteratur",
+        "title": "Madagaskars litteratur",
+        "url": "https://snl.no/Madagaskars_litteratur"
+      },
+      {
+        "category": "Postverk",
+        "title": "postkasse",
+        "url": "https://snl.no/postkasse"
+      },
+      {
+        "category": "Skihopping",
+        "title": "Hoppuka",
+        "url": "https://snl.no/Hoppuka"
+      },
+      {
+        "category": "Erkjennelsesteori",
+        "title": "lukningsprinsippet",
+        "url": "https://snl.no/lukningsprinsippet"
+      }
+    ]
   }
 }

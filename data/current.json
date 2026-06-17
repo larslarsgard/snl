@@ -1,21 +1,21 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Senegals geografi",
+        "title": "Senegal",
+        "url": "https://snl.no/Senegal"
+      },
+      {
+        "category": "Norsk fotball",
+        "title": "Norges tropp til fotball-VM i 1998",
+        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_1998"
+      },
       {
         "category": "Kapp Verdes geografi",
         "title": "Kapp Verde",
         "url": "https://snl.no/Kapp_Verde"
-      },
-      {
-        "category": "Nederlandsk Karibia",
-        "title": "Curaçao",
-        "url": "https://snl.no/Cura%C3%A7ao"
-      },
-      {
-        "category": "Kriminalomsorg og fengsel",
-        "title": "fengselsår",
-        "url": "https://snl.no/fengsels%C3%A5r"
       },
       {
         "category": "Internasjonal fotball",
@@ -23,63 +23,63 @@
         "url": "https://snl.no/VM_i_fotball_-_menn"
       },
       {
-        "category": "Pornografi",
-        "title": "Pornhub",
-        "url": "https://snl.no/Pornhub"
+        "category": "Internasjonal fotball",
+        "title": "Toppscorere i fotball-VM – menn",
+        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Hønsegrasslekta",
-        "title": "vasslirekne",
-        "url": "https://snl.no/vasslirekne"
+        "category": "Plantesykdommer",
+        "title": "knartbær",
+        "url": "https://snl.no/knartb%C3%A6r"
       },
       {
-        "category": "Øvrig europeisk fotball",
-        "title": "Romelu Lukaku",
-        "url": "https://snl.no/Romelu_Lukaku"
+        "category": "Klesdesignere og motehus",
+        "title": "Karl Lagerfeld",
+        "url": "https://snl.no/Karl_Lagerfeld"
       },
       {
-        "category": "Kapp Verdes geografi",
-        "title": "Kapp Verdes befolkning",
-        "url": "https://snl.no/Kapp_Verdes_befolkning"
+        "category": "Plantesykdommer",
+        "title": "stikkelsbærdreper",
+        "url": "https://snl.no/stikkelsb%C3%A6rdreper"
       },
       {
-        "category": "Norske fotballspillere",
-        "title": "Freddy dos Santos",
-        "url": "https://snl.no/Freddy_dos_Santos"
+        "category": "Norske skuespillere",
+        "title": "Bente Børsum",
+        "url": "https://snl.no/Bente_B%C3%B8rsum"
       },
       {
-        "category": "Straffeprosess",
-        "title": "anke – straffedommer",
-        "url": "https://snl.no/anke_-_straffedommer"
+        "category": "Senegals historie",
+        "title": "Senegals historie",
+        "url": "https://snl.no/Senegals_historie"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Saudi-Arabias historie",
-        "title": "Saudi-Arabias historie",
-        "url": "https://snl.no/Saudi-Arabias_historie"
+        "category": "Bilhistoriske biografier",
+        "title": "Nicolai Frederik Krogh",
+        "url": "https://snl.no/Nicolai_Frederik_Krogh"
       },
       {
-        "category": "De forente arabiske emiraters samtidshistorie",
-        "title": "Medier i De forente arabiske emirater",
-        "url": "https://snl.no/Medier_i_De_forente_arabiske_emirater"
+        "category": "Madagaskars litteratur",
+        "title": "Madagaskars litteratur",
+        "url": "https://snl.no/Madagaskars_litteratur"
       },
       {
-        "category": "Jentenavn",
-        "title": "Malena – kvinnenamn",
-        "url": "https://snl.no/Malena_-_kvinnenamn"
+        "category": "Postverk",
+        "title": "postkasse",
+        "url": "https://snl.no/postkasse"
       },
       {
-        "category": "Jødedom",
-        "title": "Sefer ha-Bahir",
-        "url": "https://snl.no/Sefer_ha-Bahir"
+        "category": "Skihopping",
+        "title": "Hoppuka",
+        "url": "https://snl.no/Hoppuka"
       },
       {
-        "category": "Historiske religioner",
-        "title": "jomfrugudinner",
-        "url": "https://snl.no/jomfrugudinner"
+        "category": "Erkjennelsesteori",
+        "title": "lukningsprinsippet",
+        "url": "https://snl.no/lukningsprinsippet"
       }
     ]
   }
