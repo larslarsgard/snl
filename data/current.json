@@ -1,21 +1,21 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Senegals geografi",
-        "title": "Senegal",
-        "url": "https://snl.no/Senegal"
+        "category": "Internasjonal fotball",
+        "title": "Toppscorere i fotball-VM – menn",
+        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Transplantasjonsmedisin",
+        "title": "lungetransplantasjon",
+        "url": "https://sml.snl.no/lungetransplantasjon"
       },
       {
         "category": "Norsk fotball",
-        "title": "Norges tropp til fotball-VM i 1998",
-        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_1998"
-      },
-      {
-        "category": "Kapp Verdes geografi",
-        "title": "Kapp Verde",
-        "url": "https://snl.no/Kapp_Verde"
+        "title": "Norge i fotball-VM – menn",
+        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
       },
       {
         "category": "Internasjonal fotball",
@@ -23,53 +23,48 @@
         "url": "https://snl.no/VM_i_fotball_-_menn"
       },
       {
-        "category": "Internasjonal fotball",
-        "title": "Toppscorere i fotball-VM – menn",
-        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
+        "category": "Norsk fotball",
+        "title": "Norges tropp til fotball-VM i 1998",
+        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_1998"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Plantesykdommer",
-        "title": "knartbær",
-        "url": "https://snl.no/knartb%C3%A6r"
+        "category": "Norske fotballspillere",
+        "title": "Leo Skiri Østigård",
+        "url": "https://snl.no/Leo_Skiri_%C3%98stig%C3%A5rd"
       },
       {
-        "category": "Klesdesignere og motehus",
-        "title": "Karl Lagerfeld",
-        "url": "https://snl.no/Karl_Lagerfeld"
+        "category": "Øvrig europeisk fotball",
+        "title": "Luka Modrić",
+        "url": "https://snl.no/Luka_Modri%C4%87"
       },
       {
-        "category": "Plantesykdommer",
-        "title": "stikkelsbærdreper",
-        "url": "https://snl.no/stikkelsb%C3%A6rdreper"
+        "category": "Ondartede blodsykdommer",
+        "title": "myelogen leukemi",
+        "url": "https://sml.snl.no/myelogen_leukemi"
       },
       {
-        "category": "Norske skuespillere",
-        "title": "Bente Børsum",
-        "url": "https://snl.no/Bente_B%C3%B8rsum"
+        "category": "Ondartede blodsykdommer",
+        "title": "akutt myelogen leukemi",
+        "url": "https://sml.snl.no/akutt_myelogen_leukemi"
       },
       {
-        "category": "Senegals historie",
-        "title": "Senegals historie",
-        "url": "https://snl.no/Senegals_historie"
+        "category": "Regler og begreper i fotball",
+        "title": "hat-trick",
+        "url": "https://snl.no/hat-trick"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Bilhistoriske biografier",
-        "title": "Nicolai Frederik Krogh",
-        "url": "https://snl.no/Nicolai_Frederik_Krogh"
+        "category": "Stavkirker",
+        "title": "Haltdalen stavkirke",
+        "url": "https://snl.no/Haltdalen_stavkirke"
       },
       {
-        "category": "Madagaskars litteratur",
-        "title": "Madagaskars litteratur",
-        "url": "https://snl.no/Madagaskars_litteratur"
-      },
-      {
-        "category": "Postverk",
-        "title": "postkasse",
-        "url": "https://snl.no/postkasse"
+        "category": "Storbritannia og Nord-Irlands litteratur på 1600-tallet",
+        "title": "Ben Jonson",
+        "url": "https://snl.no/Ben_Jonson"
       },
       {
         "category": "Skihopping",
@@ -77,9 +72,14 @@
         "url": "https://snl.no/Hoppuka"
       },
       {
-        "category": "Erkjennelsesteori",
-        "title": "lukningsprinsippet",
-        "url": "https://snl.no/lukningsprinsippet"
+        "category": "Storbritannia og Nord-Irlands litteratur på 1800-tallet",
+        "title": "Mary Augusta Ward",
+        "url": "https://snl.no/Mary_Augusta_Ward"
+      },
+      {
+        "category": "Storbritannia og Nord-Irlands nyere litteratur",
+        "title": "Sarah Waters",
+        "url": "https://snl.no/Sarah_Waters"
       }
     ]
   }

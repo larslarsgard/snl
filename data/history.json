@@ -2488,5 +2488,88 @@
         "url": "https://snl.no/lukningsprinsippet"
       }
     ]
+  },
+  "2026-06-18": {
+    "Mest lest i går": [
+      {
+        "category": "Internasjonal fotball",
+        "title": "Toppscorere i fotball-VM – menn",
+        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Transplantasjonsmedisin",
+        "title": "lungetransplantasjon",
+        "url": "https://sml.snl.no/lungetransplantasjon"
+      },
+      {
+        "category": "Norsk fotball",
+        "title": "Norge i fotball-VM – menn",
+        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM i fotball – menn",
+        "url": "https://snl.no/VM_i_fotball_-_menn"
+      },
+      {
+        "category": "Norsk fotball",
+        "title": "Norges tropp til fotball-VM i 1998",
+        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_1998"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Norske fotballspillere",
+        "title": "Leo Skiri Østigård",
+        "url": "https://snl.no/Leo_Skiri_%C3%98stig%C3%A5rd"
+      },
+      {
+        "category": "Øvrig europeisk fotball",
+        "title": "Luka Modrić",
+        "url": "https://snl.no/Luka_Modri%C4%87"
+      },
+      {
+        "category": "Ondartede blodsykdommer",
+        "title": "myelogen leukemi",
+        "url": "https://sml.snl.no/myelogen_leukemi"
+      },
+      {
+        "category": "Ondartede blodsykdommer",
+        "title": "akutt myelogen leukemi",
+        "url": "https://sml.snl.no/akutt_myelogen_leukemi"
+      },
+      {
+        "category": "Regler og begreper i fotball",
+        "title": "hat-trick",
+        "url": "https://snl.no/hat-trick"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Stavkirker",
+        "title": "Haltdalen stavkirke",
+        "url": "https://snl.no/Haltdalen_stavkirke"
+      },
+      {
+        "category": "Storbritannia og Nord-Irlands litteratur på 1600-tallet",
+        "title": "Ben Jonson",
+        "url": "https://snl.no/Ben_Jonson"
+      },
+      {
+        "category": "Skihopping",
+        "title": "Hoppuka",
+        "url": "https://snl.no/Hoppuka"
+      },
+      {
+        "category": "Storbritannia og Nord-Irlands litteratur på 1800-tallet",
+        "title": "Mary Augusta Ward",
+        "url": "https://snl.no/Mary_Augusta_Ward"
+      },
+      {
+        "category": "Storbritannia og Nord-Irlands nyere litteratur",
+        "title": "Sarah Waters",
+        "url": "https://snl.no/Sarah_Waters"
+      }
+    ]
   }
 }
