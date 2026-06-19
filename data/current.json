@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "categories": {
     "Mest lest i går": [
       {
@@ -13,11 +13,6 @@
         "url": "https://sml.snl.no/lungetransplantasjon"
       },
       {
-        "category": "Norsk fotball",
-        "title": "Norge i fotball-VM – menn",
-        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
-      },
-      {
         "category": "Internasjonal fotball",
         "title": "VM i fotball – menn",
         "url": "https://snl.no/VM_i_fotball_-_menn"
@@ -26,60 +21,65 @@
         "category": "Norsk fotball",
         "title": "Norges tropp til fotball-VM i 1998",
         "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_1998"
+      },
+      {
+        "category": "Politisk teori",
+        "title": "maktfordelingsprinsippet",
+        "url": "https://snl.no/maktfordelingsprinsippet"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Norske fotballspillere",
-        "title": "Leo Skiri Østigård",
-        "url": "https://snl.no/Leo_Skiri_%C3%98stig%C3%A5rd"
+        "category": "Piggfinnefisker",
+        "title": "storsil",
+        "url": "https://snl.no/storsil"
       },
       {
-        "category": "Øvrig europeisk fotball",
-        "title": "Luka Modrić",
-        "url": "https://snl.no/Luka_Modri%C4%87"
+        "category": "Kognitiv psykologi",
+        "title": "Svein Magnussen",
+        "url": "https://snl.no/Svein_Magnussen"
       },
       {
-        "category": "Ondartede blodsykdommer",
-        "title": "myelogen leukemi",
-        "url": "https://sml.snl.no/myelogen_leukemi"
+        "category": "Bunader fra Oppland",
+        "title": "Rekonstruert Gudbrandsdalsbunad – kvinne",
+        "url": "https://snl.no/Rekonstruert_Gudbrandsdalsbunad_-_kvinne"
       },
       {
-        "category": "Ondartede blodsykdommer",
-        "title": "akutt myelogen leukemi",
-        "url": "https://sml.snl.no/akutt_myelogen_leukemi"
+        "category": "Bosnia-Hercegovinas samtidshistorie",
+        "title": "Bosnia-Hercegovina",
+        "url": "https://snl.no/Bosnia-Hercegovina"
       },
       {
-        "category": "Regler og begreper i fotball",
-        "title": "hat-trick",
-        "url": "https://snl.no/hat-trick"
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "midtsommer",
+        "url": "https://snl.no/midtsommer"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Stavkirker",
-        "title": "Haltdalen stavkirke",
-        "url": "https://snl.no/Haltdalen_stavkirke"
+        "category": "Internasjonale tegnekunstnere",
+        "title": "John Flaxman",
+        "url": "https://snl.no/John_Flaxman"
       },
       {
-        "category": "Storbritannia og Nord-Irlands litteratur på 1600-tallet",
-        "title": "Ben Jonson",
-        "url": "https://snl.no/Ben_Jonson"
+        "category": "Norske kunstinstitusjoner",
+        "title": "Kunstnernes Hus",
+        "url": "https://snl.no/Kunstnernes_Hus"
       },
       {
-        "category": "Skihopping",
-        "title": "Hoppuka",
-        "url": "https://snl.no/Hoppuka"
+        "category": "Vind og atmosfæriske bølger",
+        "title": "solgangsvind",
+        "url": "https://snl.no/solgangsvind"
       },
       {
-        "category": "Storbritannia og Nord-Irlands litteratur på 1800-tallet",
-        "title": "Mary Augusta Ward",
-        "url": "https://snl.no/Mary_Augusta_Ward"
+        "category": "Termer og begreper i bildende kunst",
+        "title": "di sotto in sù",
+        "url": "https://snl.no/di_sotto_in_s%C3%B9"
       },
       {
-        "category": "Storbritannia og Nord-Irlands nyere litteratur",
-        "title": "Sarah Waters",
-        "url": "https://snl.no/Sarah_Waters"
+        "category": "Tidligere aviser på Østlandet",
+        "title": "Indlandsposten",
+        "url": "https://snl.no/Indlandsposten"
       }
     ]
   }
