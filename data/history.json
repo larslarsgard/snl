@@ -2654,5 +2654,88 @@
         "url": "https://snl.no/Indlandsposten"
       }
     ]
+  },
+  "2026-06-20": {
+    "Mest lest i går": [
+      {
+        "category": "Festmusikk",
+        "title": "Kirsti Sparboe",
+        "url": "https://snl.no/Kirsti_Sparboe"
+      },
+      {
+        "category": "USAs nyere litteratur",
+        "title": "Philip Roth",
+        "url": "https://snl.no/Philip_Roth"
+      },
+      {
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "midtsommer",
+        "url": "https://snl.no/midtsommer"
+      },
+      {
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "sankthans",
+        "url": "https://snl.no/sankthans"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM i fotball – menn",
+        "url": "https://snl.no/VM_i_fotball_-_menn"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Folketro",
+        "title": "svensk midtsommer",
+        "url": "https://snl.no/svensk_midtsommer"
+      },
+      {
+        "category": "Dyphavsgroper",
+        "title": "Tongagropen",
+        "url": "https://snl.no/Tongagropen"
+      },
+      {
+        "category": "Galopp",
+        "title": "Terje Dahl",
+        "url": "https://snl.no/Terje_Dahl"
+      },
+      {
+        "category": "Søramerikansk fotball",
+        "title": "Mauricio Pochettino",
+        "url": "https://snl.no/Mauricio_Pochettino"
+      },
+      {
+        "category": "Internasjonal pop og rock",
+        "title": "Benny Borg",
+        "url": "https://snl.no/Benny_Borg"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Skotsk fotball",
+        "title": "Kenny Dalglish",
+        "url": "https://snl.no/Kenny_Dalglish"
+      },
+      {
+        "category": "Leddormer",
+        "title": "urleddormer",
+        "url": "https://snl.no/urleddormer"
+      },
+      {
+        "category": "Tidligere aviser i Trøndelag",
+        "title": "Stjørdalingen",
+        "url": "https://snl.no/Stj%C3%B8rdalingen"
+      },
+      {
+        "category": "Lydkunst",
+        "title": "Asbjørn Blokkum Flø",
+        "url": "https://snl.no/Asbj%C3%B8rn_Blokkum_Fl%C3%B8"
+      },
+      {
+        "category": "Grafisk industrihistorie",
+        "title": "boktrykkeri – historikk",
+        "url": "https://snl.no/boktrykkeri_-_historikk"
+      }
+    ]
   }
 }
