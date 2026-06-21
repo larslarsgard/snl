@@ -2737,5 +2737,88 @@
         "url": "https://snl.no/boktrykkeri_-_historikk"
       }
     ]
+  },
+  "2026-06-21": {
+    "Mest lest i går": [
+      {
+        "category": "Elfenbenskystens geografi",
+        "title": "Elfenbenskysten",
+        "url": "https://snl.no/Elfenbenskysten"
+      },
+      {
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "sankthans",
+        "url": "https://snl.no/sankthans"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM i fotball – menn",
+        "url": "https://snl.no/VM_i_fotball_-_menn"
+      },
+      {
+        "category": "Biografier i Englands historie",
+        "title": "Henrik 8.",
+        "url": "https://snl.no/Henrik_8."
+      },
+      {
+        "category": "Biografier i Englands historie",
+        "title": "Thomas Cromwell",
+        "url": "https://snl.no/Thomas_Cromwell"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM-finaler i fotball – menn",
+        "url": "https://snl.no/VM-finaler_i_fotball_-_menn"
+      },
+      {
+        "category": "Dyphavsgroper",
+        "title": "Tongagropen",
+        "url": "https://snl.no/Tongagropen"
+      },
+      {
+        "category": "Nasjonalsanger",
+        "title": "Tysklands nasjonalsang",
+        "url": "https://snl.no/Tysklands_nasjonalsang"
+      },
+      {
+        "category": "USAs nyere litteratur",
+        "title": "Philip Roth",
+        "url": "https://snl.no/Philip_Roth"
+      },
+      {
+        "category": "Tidsregning",
+        "title": "sommersolverv",
+        "url": "https://snl.no/sommersolverv"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Stavkirker",
+        "title": "Flesberg stavkirke",
+        "url": "https://snl.no/Flesberg_stavkirke"
+      },
+      {
+        "category": "Internasjonale tegnekunstnere",
+        "title": "Achton Friis",
+        "url": "https://snl.no/Achton_Friis"
+      },
+      {
+        "category": "Bokkunst",
+        "title": "illustrasjon",
+        "url": "https://snl.no/illustrasjon"
+      },
+      {
+        "category": "Plantenes biokjemi",
+        "title": "planteslim",
+        "url": "https://snl.no/planteslim"
+      },
+      {
+        "category": "Slovenias litteratur",
+        "title": "Francè Prešeren",
+        "url": "https://snl.no/Franc%C3%A8_Pre%C5%A1eren"
+      }
+    ]
   }
 }

@@ -1,21 +1,11 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Festmusikk",
-        "title": "Kirsti Sparboe",
-        "url": "https://snl.no/Kirsti_Sparboe"
-      },
-      {
-        "category": "USAs nyere litteratur",
-        "title": "Philip Roth",
-        "url": "https://snl.no/Philip_Roth"
-      },
-      {
-        "category": "Folkelige skikker og tradisjoner",
-        "title": "midtsommer",
-        "url": "https://snl.no/midtsommer"
+        "category": "Elfenbenskystens geografi",
+        "title": "Elfenbenskysten",
+        "url": "https://snl.no/Elfenbenskysten"
       },
       {
         "category": "Folkelige skikker og tradisjoner",
@@ -26,13 +16,23 @@
         "category": "Internasjonal fotball",
         "title": "VM i fotball – menn",
         "url": "https://snl.no/VM_i_fotball_-_menn"
+      },
+      {
+        "category": "Biografier i Englands historie",
+        "title": "Henrik 8.",
+        "url": "https://snl.no/Henrik_8."
+      },
+      {
+        "category": "Biografier i Englands historie",
+        "title": "Thomas Cromwell",
+        "url": "https://snl.no/Thomas_Cromwell"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Folketro",
-        "title": "svensk midtsommer",
-        "url": "https://snl.no/svensk_midtsommer"
+        "category": "Internasjonal fotball",
+        "title": "VM-finaler i fotball – menn",
+        "url": "https://snl.no/VM-finaler_i_fotball_-_menn"
       },
       {
         "category": "Dyphavsgroper",
@@ -40,46 +40,46 @@
         "url": "https://snl.no/Tongagropen"
       },
       {
-        "category": "Galopp",
-        "title": "Terje Dahl",
-        "url": "https://snl.no/Terje_Dahl"
+        "category": "Nasjonalsanger",
+        "title": "Tysklands nasjonalsang",
+        "url": "https://snl.no/Tysklands_nasjonalsang"
       },
       {
-        "category": "Søramerikansk fotball",
-        "title": "Mauricio Pochettino",
-        "url": "https://snl.no/Mauricio_Pochettino"
+        "category": "USAs nyere litteratur",
+        "title": "Philip Roth",
+        "url": "https://snl.no/Philip_Roth"
       },
       {
-        "category": "Internasjonal pop og rock",
-        "title": "Benny Borg",
-        "url": "https://snl.no/Benny_Borg"
+        "category": "Tidsregning",
+        "title": "sommersolverv",
+        "url": "https://snl.no/sommersolverv"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Skotsk fotball",
-        "title": "Kenny Dalglish",
-        "url": "https://snl.no/Kenny_Dalglish"
+        "category": "Stavkirker",
+        "title": "Flesberg stavkirke",
+        "url": "https://snl.no/Flesberg_stavkirke"
       },
       {
-        "category": "Leddormer",
-        "title": "urleddormer",
-        "url": "https://snl.no/urleddormer"
+        "category": "Internasjonale tegnekunstnere",
+        "title": "Achton Friis",
+        "url": "https://snl.no/Achton_Friis"
       },
       {
-        "category": "Tidligere aviser i Trøndelag",
-        "title": "Stjørdalingen",
-        "url": "https://snl.no/Stj%C3%B8rdalingen"
+        "category": "Bokkunst",
+        "title": "illustrasjon",
+        "url": "https://snl.no/illustrasjon"
       },
       {
-        "category": "Lydkunst",
-        "title": "Asbjørn Blokkum Flø",
-        "url": "https://snl.no/Asbj%C3%B8rn_Blokkum_Fl%C3%B8"
+        "category": "Plantenes biokjemi",
+        "title": "planteslim",
+        "url": "https://snl.no/planteslim"
       },
       {
-        "category": "Grafisk industrihistorie",
-        "title": "boktrykkeri – historikk",
-        "url": "https://snl.no/boktrykkeri_-_historikk"
+        "category": "Slovenias litteratur",
+        "title": "Francè Prešeren",
+        "url": "https://snl.no/Franc%C3%A8_Pre%C5%A1eren"
       }
     ]
   }
