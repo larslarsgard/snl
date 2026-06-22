@@ -2820,5 +2820,88 @@
         "url": "https://snl.no/Franc%C3%A8_Pre%C5%A1eren"
       }
     ]
+  },
+  "2026-06-22": {
+    "Mest lest i går": [
+      {
+        "category": "Nederlandsk Karibia",
+        "title": "Curaçao",
+        "url": "https://snl.no/Cura%C3%A7ao"
+      },
+      {
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "sankthans",
+        "url": "https://snl.no/sankthans"
+      },
+      {
+        "category": "Fiskers anatomi og fysiologi",
+        "title": "mopsehode",
+        "url": "https://snl.no/mopsehode"
+      },
+      {
+        "category": "Russekålslekta",
+        "title": "russekål",
+        "url": "https://snl.no/russek%C3%A5l"
+      },
+      {
+        "category": "Toksikologi",
+        "title": "botulisme",
+        "url": "https://sml.snl.no/botulisme"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Visesang",
+        "title": "Svein Tang Wa",
+        "url": "https://snl.no/Svein_Tang_Wa"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM-finaler i fotball – menn",
+        "url": "https://snl.no/VM-finaler_i_fotball_-_menn"
+      },
+      {
+        "category": "Nederlands samtidshistorie",
+        "title": "Máxima",
+        "url": "https://snl.no/M%C3%A1xima"
+      },
+      {
+        "category": "Tidsregning",
+        "title": "sommersolverv",
+        "url": "https://snl.no/sommersolverv"
+      },
+      {
+        "category": "Øvrig europeisk fotball",
+        "title": "Romelu Lukaku",
+        "url": "https://snl.no/Romelu_Lukaku"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Norges historie fra 1300 til 1660",
+        "title": "Arvid Ingjeldsson",
+        "url": "https://snl.no/Arvid_Ingjeldsson"
+      },
+      {
+        "category": "Kvinnebevegelsen i Norge",
+        "title": "Margarete Bonnevie",
+        "url": "https://snl.no/Margarete_Bonnevie"
+      },
+      {
+        "category": "Internasjonale dirigenter",
+        "title": "Eugene Ormandy",
+        "url": "https://snl.no/Eugene_Ormandy"
+      },
+      {
+        "category": "Fototeknikk",
+        "title": "Ilford Photo",
+        "url": "https://snl.no/Ilford_Photo"
+      },
+      {
+        "category": "Samfunnsgeografiske prosesser",
+        "title": "energifattigdom",
+        "url": "https://snl.no/energifattigdom"
+      }
+    ]
   }
 }
