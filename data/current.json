@@ -1,11 +1,21 @@
 {
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Nederlandsk Karibia",
-        "title": "Curaçao",
-        "url": "https://snl.no/Cura%C3%A7ao"
+        "category": "Internasjonal fotball",
+        "title": "Toppscorere i fotball-VM – menn",
+        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Senegals geografi",
+        "title": "Senegal",
+        "url": "https://snl.no/Senegal"
+      },
+      {
+        "category": "Kapp Verdes geografi",
+        "title": "Kapp Verde",
+        "url": "https://snl.no/Kapp_Verde"
       },
       {
         "category": "Folkelige skikker og tradisjoner",
@@ -13,26 +23,16 @@
         "url": "https://snl.no/sankthans"
       },
       {
-        "category": "Fiskers anatomi og fysiologi",
-        "title": "mopsehode",
-        "url": "https://snl.no/mopsehode"
-      },
-      {
-        "category": "Russekålslekta",
-        "title": "russekål",
-        "url": "https://snl.no/russek%C3%A5l"
-      },
-      {
-        "category": "Toksikologi",
-        "title": "botulisme",
-        "url": "https://sml.snl.no/botulisme"
+        "category": "Internasjonal fotball",
+        "title": "VM i fotball – menn",
+        "url": "https://snl.no/VM_i_fotball_-_menn"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Visesang",
-        "title": "Svein Tang Wa",
-        "url": "https://snl.no/Svein_Tang_Wa"
+        "category": "Vulpes",
+        "title": "korsrev",
+        "url": "https://snl.no/korsrev"
       },
       {
         "category": "Internasjonal fotball",
@@ -40,46 +40,46 @@
         "url": "https://snl.no/VM-finaler_i_fotball_-_menn"
       },
       {
-        "category": "Nederlands samtidshistorie",
-        "title": "Máxima",
-        "url": "https://snl.no/M%C3%A1xima"
+        "category": "Fiskers anatomi og fysiologi",
+        "title": "mopsehode",
+        "url": "https://snl.no/mopsehode"
       },
       {
-        "category": "Tidsregning",
-        "title": "sommersolverv",
-        "url": "https://snl.no/sommersolverv"
+        "category": "Storbritannias samtidshistorie",
+        "title": "Statsministre i Storbritannia",
+        "url": "https://snl.no/Statsministre_i_Storbritannia"
       },
       {
-        "category": "Øvrig europeisk fotball",
-        "title": "Romelu Lukaku",
-        "url": "https://snl.no/Romelu_Lukaku"
+        "category": "Toksikologi",
+        "title": "botulisme",
+        "url": "https://sml.snl.no/botulisme"
       }
     ],
     "Sørgelig lite lest": [
       {
+        "category": "Malis litteratur",
+        "title": "Seydou Badian Kouyaté",
+        "url": "https://snl.no/Seydou_Badian_Kouyat%C3%A9"
+      },
+      {
+        "category": "Kulturhistorikere, etnologer og folklorister",
+        "title": "Rikard Berge",
+        "url": "https://snl.no/Rikard_Berge"
+      },
+      {
+        "category": "Nautiske og maritime begrep",
+        "title": "havn",
+        "url": "https://snl.no/havn"
+      },
+      {
         "category": "Norges historie fra 1300 til 1660",
-        "title": "Arvid Ingjeldsson",
-        "url": "https://snl.no/Arvid_Ingjeldsson"
+        "title": "Trond Gardarsson",
+        "url": "https://snl.no/Trond_Gardarsson"
       },
       {
-        "category": "Kvinnebevegelsen i Norge",
-        "title": "Margarete Bonnevie",
-        "url": "https://snl.no/Margarete_Bonnevie"
-      },
-      {
-        "category": "Internasjonale dirigenter",
-        "title": "Eugene Ormandy",
-        "url": "https://snl.no/Eugene_Ormandy"
-      },
-      {
-        "category": "Fototeknikk",
-        "title": "Ilford Photo",
-        "url": "https://snl.no/Ilford_Photo"
-      },
-      {
-        "category": "Samfunnsgeografiske prosesser",
-        "title": "energifattigdom",
-        "url": "https://snl.no/energifattigdom"
+        "category": "Ny mediekunst",
+        "title": "Trine Lise Nedreaas",
+        "url": "https://snl.no/Trine_Lise_Nedreaas"
       }
     ]
   }
