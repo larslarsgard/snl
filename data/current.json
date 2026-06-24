@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "categories": {
     "Mest lest i går": [
       {
@@ -8,31 +8,31 @@
         "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
       },
       {
-        "category": "Senegals geografi",
-        "title": "Senegal",
-        "url": "https://snl.no/Senegal"
-      },
-      {
-        "category": "Kapp Verdes geografi",
-        "title": "Kapp Verde",
-        "url": "https://snl.no/Kapp_Verde"
-      },
-      {
         "category": "Folkelige skikker og tradisjoner",
         "title": "sankthans",
         "url": "https://snl.no/sankthans"
       },
       {
-        "category": "Internasjonal fotball",
-        "title": "VM i fotball – menn",
-        "url": "https://snl.no/VM_i_fotball_-_menn"
+        "category": "Senegals geografi",
+        "title": "Senegal",
+        "url": "https://snl.no/Senegal"
+      },
+      {
+        "category": "Norsk fotball",
+        "title": "Norge i fotball-VM – menn",
+        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Norsk fotball",
+        "title": "Norges tropp til fotball-VM i 1998",
+        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_1998"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Vulpes",
-        "title": "korsrev",
-        "url": "https://snl.no/korsrev"
+        "category": "Usbekistans geografi",
+        "title": "Usbekistan",
+        "url": "https://snl.no/Usbekistan"
       },
       {
         "category": "Internasjonal fotball",
@@ -40,46 +40,46 @@
         "url": "https://snl.no/VM-finaler_i_fotball_-_menn"
       },
       {
-        "category": "Fiskers anatomi og fysiologi",
-        "title": "mopsehode",
-        "url": "https://snl.no/mopsehode"
+        "category": "Passasjerfly",
+        "title": "Airbus A380",
+        "url": "https://snl.no/Airbus_A380"
       },
       {
-        "category": "Storbritannias samtidshistorie",
-        "title": "Statsministre i Storbritannia",
-        "url": "https://snl.no/Statsministre_i_Storbritannia"
+        "category": "Norske fotballspillere",
+        "title": "Alfie Haaland",
+        "url": "https://snl.no/Alfie_Haaland"
       },
       {
-        "category": "Toksikologi",
-        "title": "botulisme",
-        "url": "https://sml.snl.no/botulisme"
+        "category": "Det nye testamentet",
+        "title": "døperen Johannes",
+        "url": "https://snl.no/d%C3%B8peren_Johannes"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Malis litteratur",
-        "title": "Seydou Badian Kouyaté",
-        "url": "https://snl.no/Seydou_Badian_Kouyat%C3%A9"
+        "category": "Personer i IT-historie",
+        "title": "Fredrik Rosing Bull",
+        "url": "https://snl.no/Fredrik_Rosing_Bull"
       },
       {
-        "category": "Kulturhistorikere, etnologer og folklorister",
-        "title": "Rikard Berge",
-        "url": "https://snl.no/Rikard_Berge"
+        "category": "Folkegrupper i Sør-Amerika",
+        "title": "muisca",
+        "url": "https://snl.no/muisca"
       },
       {
-        "category": "Nautiske og maritime begrep",
-        "title": "havn",
-        "url": "https://snl.no/havn"
+        "category": "Tunisias franskspråklige litteratur",
+        "title": "Albert Memmi",
+        "url": "https://snl.no/Albert_Memmi"
       },
       {
-        "category": "Norges historie fra 1300 til 1660",
-        "title": "Trond Gardarsson",
-        "url": "https://snl.no/Trond_Gardarsson"
+        "category": "Militant islamisme",
+        "title": "Fathi al-Shiqaqi",
+        "url": "https://snl.no/Fathi_al-Shiqaqi"
       },
       {
-        "category": "Ny mediekunst",
-        "title": "Trine Lise Nedreaas",
-        "url": "https://snl.no/Trine_Lise_Nedreaas"
+        "category": "Tidligere aviser i Nord-Norge",
+        "title": "Áššu",
+        "url": "https://snl.no/%C3%81%C5%A1%C5%A1u"
       }
     ]
   }
