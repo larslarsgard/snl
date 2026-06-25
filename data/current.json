@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "categories": {
     "Mest lest i går": [
       {
@@ -8,14 +8,14 @@
         "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
       },
       {
+        "category": "Fabrikkerte forstyrrelser",
+        "title": "Münchhausen by proxy",
+        "url": "https://sml.snl.no/M%C3%BCnchhausen_by_proxy"
+      },
+      {
         "category": "Folkelige skikker og tradisjoner",
         "title": "sankthans",
         "url": "https://snl.no/sankthans"
-      },
-      {
-        "category": "Senegals geografi",
-        "title": "Senegal",
-        "url": "https://snl.no/Senegal"
       },
       {
         "category": "Norsk fotball",
@@ -23,21 +23,16 @@
         "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
       },
       {
-        "category": "Norsk fotball",
-        "title": "Norges tropp til fotball-VM i 1998",
-        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_1998"
+        "category": "Pornografi",
+        "title": "Pornhub",
+        "url": "https://snl.no/Pornhub"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Usbekistans geografi",
-        "title": "Usbekistan",
-        "url": "https://snl.no/Usbekistan"
-      },
-      {
-        "category": "Internasjonal fotball",
-        "title": "VM-finaler i fotball – menn",
-        "url": "https://snl.no/VM-finaler_i_fotball_-_menn"
+        "category": "Norske politikere",
+        "title": "Eigil Knutsen",
+        "url": "https://snl.no/Eigil_Knutsen"
       },
       {
         "category": "Passasjerfly",
@@ -45,41 +40,46 @@
         "url": "https://snl.no/Airbus_A380"
       },
       {
-        "category": "Norske fotballspillere",
-        "title": "Alfie Haaland",
-        "url": "https://snl.no/Alfie_Haaland"
+        "category": "Rettskrivingsreformer i norsk",
+        "title": "Rettskrivingsreforma av 1917",
+        "url": "https://snl.no/Rettskrivingsreforma_av_1917"
       },
       {
-        "category": "Det nye testamentet",
-        "title": "døperen Johannes",
-        "url": "https://snl.no/d%C3%B8peren_Johannes"
+        "category": "Fabrikkerte forstyrrelser",
+        "title": "Münchhausens syndrom",
+        "url": "https://sml.snl.no/M%C3%BCnchhausens_syndrom"
+      },
+      {
+        "category": "Russlands eldre historie",
+        "title": "Grigorij Rasputin",
+        "url": "https://snl.no/Grigorij_Rasputin"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Personer i IT-historie",
-        "title": "Fredrik Rosing Bull",
-        "url": "https://snl.no/Fredrik_Rosing_Bull"
+        "category": "Irlands engelskspråklige litteratur",
+        "title": "Sean O'Casey",
+        "url": "https://snl.no/Sean_O'Casey"
       },
       {
-        "category": "Folkegrupper i Sør-Amerika",
-        "title": "muisca",
-        "url": "https://snl.no/muisca"
+        "category": "Biografier i luftfart",
+        "title": "Viggo Widerøe",
+        "url": "https://snl.no/Viggo_Wider%C3%B8e"
       },
       {
-        "category": "Tunisias franskspråklige litteratur",
-        "title": "Albert Memmi",
-        "url": "https://snl.no/Albert_Memmi"
+        "category": "Byer i USA",
+        "title": "Wichita – by i Kansas, USA",
+        "url": "https://snl.no/Wichita_-_by_i_Kansas,_USA"
       },
       {
-        "category": "Militant islamisme",
-        "title": "Fathi al-Shiqaqi",
-        "url": "https://snl.no/Fathi_al-Shiqaqi"
+        "category": "Komposisjon og arrangering",
+        "title": "algoritmisk komposisjon",
+        "url": "https://snl.no/algoritmisk_komposisjon"
       },
       {
-        "category": "Tidligere aviser i Nord-Norge",
-        "title": "Áššu",
-        "url": "https://snl.no/%C3%81%C5%A1%C5%A1u"
+        "category": "Konseptkunst og postkonseptualisme",
+        "title": "Judy Chicago",
+        "url": "https://snl.no/Judy_Chicago"
       }
     ]
   }

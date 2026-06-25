@@ -3069,5 +3069,88 @@
         "url": "https://snl.no/%C3%81%C5%A1%C5%A1u"
       }
     ]
+  },
+  "2026-06-25": {
+    "Mest lest i går": [
+      {
+        "category": "Internasjonal fotball",
+        "title": "Toppscorere i fotball-VM – menn",
+        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Fabrikkerte forstyrrelser",
+        "title": "Münchhausen by proxy",
+        "url": "https://sml.snl.no/M%C3%BCnchhausen_by_proxy"
+      },
+      {
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "sankthans",
+        "url": "https://snl.no/sankthans"
+      },
+      {
+        "category": "Norsk fotball",
+        "title": "Norge i fotball-VM – menn",
+        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Pornografi",
+        "title": "Pornhub",
+        "url": "https://snl.no/Pornhub"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Norske politikere",
+        "title": "Eigil Knutsen",
+        "url": "https://snl.no/Eigil_Knutsen"
+      },
+      {
+        "category": "Passasjerfly",
+        "title": "Airbus A380",
+        "url": "https://snl.no/Airbus_A380"
+      },
+      {
+        "category": "Rettskrivingsreformer i norsk",
+        "title": "Rettskrivingsreforma av 1917",
+        "url": "https://snl.no/Rettskrivingsreforma_av_1917"
+      },
+      {
+        "category": "Fabrikkerte forstyrrelser",
+        "title": "Münchhausens syndrom",
+        "url": "https://sml.snl.no/M%C3%BCnchhausens_syndrom"
+      },
+      {
+        "category": "Russlands eldre historie",
+        "title": "Grigorij Rasputin",
+        "url": "https://snl.no/Grigorij_Rasputin"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Irlands engelskspråklige litteratur",
+        "title": "Sean O'Casey",
+        "url": "https://snl.no/Sean_O'Casey"
+      },
+      {
+        "category": "Biografier i luftfart",
+        "title": "Viggo Widerøe",
+        "url": "https://snl.no/Viggo_Wider%C3%B8e"
+      },
+      {
+        "category": "Byer i USA",
+        "title": "Wichita – by i Kansas, USA",
+        "url": "https://snl.no/Wichita_-_by_i_Kansas,_USA"
+      },
+      {
+        "category": "Komposisjon og arrangering",
+        "title": "algoritmisk komposisjon",
+        "url": "https://snl.no/algoritmisk_komposisjon"
+      },
+      {
+        "category": "Konseptkunst og postkonseptualisme",
+        "title": "Judy Chicago",
+        "url": "https://snl.no/Judy_Chicago"
+      }
+    ]
   }
 }
