@@ -1,11 +1,16 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Internasjonal fotball",
-        "title": "Toppscorere i fotball-VM – menn",
-        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
+        "category": "Bakterier",
+        "title": "Yersinia",
+        "url": "https://sml.snl.no/Yersinia"
+      },
+      {
+        "category": "Nederlandsk Karibia",
+        "title": "Curaçao",
+        "url": "https://snl.no/Cura%C3%A7ao"
       },
       {
         "category": "Fabrikkerte forstyrrelser",
@@ -13,14 +18,9 @@
         "url": "https://sml.snl.no/M%C3%BCnchhausen_by_proxy"
       },
       {
-        "category": "Folkelige skikker og tradisjoner",
-        "title": "sankthans",
-        "url": "https://snl.no/sankthans"
-      },
-      {
-        "category": "Norsk fotball",
-        "title": "Norge i fotball-VM – menn",
-        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
+        "category": "Rettskrivingsreformer i norsk",
+        "title": "Rettskrivingsreforma av 1917",
+        "url": "https://snl.no/Rettskrivingsreforma_av_1917"
       },
       {
         "category": "Pornografi",
@@ -30,56 +30,56 @@
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Norske politikere",
-        "title": "Eigil Knutsen",
-        "url": "https://snl.no/Eigil_Knutsen"
+        "category": "Internasjonal pop og rock",
+        "title": "k.d. lang",
+        "url": "https://snl.no/k.d._lang"
       },
       {
-        "category": "Passasjerfly",
-        "title": "Airbus A380",
-        "url": "https://snl.no/Airbus_A380"
+        "category": "Bakterier",
+        "title": "Yersinia enterocolitica",
+        "url": "https://sml.snl.no/Yersinia_enterocolitica"
       },
       {
-        "category": "Rettskrivingsreformer i norsk",
-        "title": "Rettskrivingsreforma av 1917",
-        "url": "https://snl.no/Rettskrivingsreforma_av_1917"
+        "category": "Internasjonal pop og rock",
+        "title": "Leonard Cohen",
+        "url": "https://snl.no/Leonard_Cohen"
+      },
+      {
+        "category": "Nasjonalsanger",
+        "title": "Tysklands nasjonalsang",
+        "url": "https://snl.no/Tysklands_nasjonalsang"
       },
       {
         "category": "Fabrikkerte forstyrrelser",
         "title": "Münchhausens syndrom",
         "url": "https://sml.snl.no/M%C3%BCnchhausens_syndrom"
-      },
-      {
-        "category": "Russlands eldre historie",
-        "title": "Grigorij Rasputin",
-        "url": "https://snl.no/Grigorij_Rasputin"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Irlands engelskspråklige litteratur",
-        "title": "Sean O'Casey",
-        "url": "https://snl.no/Sean_O'Casey"
+        "category": "Jentenavn",
+        "title": "Jannike – kvinnenamn",
+        "url": "https://snl.no/Jannike_-_kvinnenamn"
       },
       {
-        "category": "Biografier i luftfart",
-        "title": "Viggo Widerøe",
-        "url": "https://snl.no/Viggo_Wider%C3%B8e"
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "kloratsprengstoffer",
+        "url": "https://snl.no/kloratsprengstoffer"
       },
       {
-        "category": "Byer i USA",
-        "title": "Wichita – by i Kansas, USA",
-        "url": "https://snl.no/Wichita_-_by_i_Kansas,_USA"
+        "category": "Stavkirker",
+        "title": "Røldal stavkirke",
+        "url": "https://snl.no/R%C3%B8ldal_stavkirke"
       },
       {
-        "category": "Komposisjon og arrangering",
-        "title": "algoritmisk komposisjon",
-        "url": "https://snl.no/algoritmisk_komposisjon"
+        "category": "Belgias franskspråklige litteratur",
+        "title": "François Weyergans",
+        "url": "https://snl.no/Fran%C3%A7ois_Weyergans"
       },
       {
-        "category": "Konseptkunst og postkonseptualisme",
-        "title": "Judy Chicago",
-        "url": "https://snl.no/Judy_Chicago"
+        "category": "Rettskrivingsreformer i norsk",
+        "title": "Rettskrivingsreforma av 1941",
+        "url": "https://snl.no/Rettskrivingsreforma_av_1941"
       }
     ]
   }

@@ -3152,5 +3152,88 @@
         "url": "https://snl.no/Judy_Chicago"
       }
     ]
+  },
+  "2026-06-26": {
+    "Mest lest i går": [
+      {
+        "category": "Bakterier",
+        "title": "Yersinia",
+        "url": "https://sml.snl.no/Yersinia"
+      },
+      {
+        "category": "Nederlandsk Karibia",
+        "title": "Curaçao",
+        "url": "https://snl.no/Cura%C3%A7ao"
+      },
+      {
+        "category": "Fabrikkerte forstyrrelser",
+        "title": "Münchhausen by proxy",
+        "url": "https://sml.snl.no/M%C3%BCnchhausen_by_proxy"
+      },
+      {
+        "category": "Rettskrivingsreformer i norsk",
+        "title": "Rettskrivingsreforma av 1917",
+        "url": "https://snl.no/Rettskrivingsreforma_av_1917"
+      },
+      {
+        "category": "Pornografi",
+        "title": "Pornhub",
+        "url": "https://snl.no/Pornhub"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Internasjonal pop og rock",
+        "title": "k.d. lang",
+        "url": "https://snl.no/k.d._lang"
+      },
+      {
+        "category": "Bakterier",
+        "title": "Yersinia enterocolitica",
+        "url": "https://sml.snl.no/Yersinia_enterocolitica"
+      },
+      {
+        "category": "Internasjonal pop og rock",
+        "title": "Leonard Cohen",
+        "url": "https://snl.no/Leonard_Cohen"
+      },
+      {
+        "category": "Nasjonalsanger",
+        "title": "Tysklands nasjonalsang",
+        "url": "https://snl.no/Tysklands_nasjonalsang"
+      },
+      {
+        "category": "Fabrikkerte forstyrrelser",
+        "title": "Münchhausens syndrom",
+        "url": "https://sml.snl.no/M%C3%BCnchhausens_syndrom"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Jentenavn",
+        "title": "Jannike – kvinnenamn",
+        "url": "https://snl.no/Jannike_-_kvinnenamn"
+      },
+      {
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "kloratsprengstoffer",
+        "url": "https://snl.no/kloratsprengstoffer"
+      },
+      {
+        "category": "Stavkirker",
+        "title": "Røldal stavkirke",
+        "url": "https://snl.no/R%C3%B8ldal_stavkirke"
+      },
+      {
+        "category": "Belgias franskspråklige litteratur",
+        "title": "François Weyergans",
+        "url": "https://snl.no/Fran%C3%A7ois_Weyergans"
+      },
+      {
+        "category": "Rettskrivingsreformer i norsk",
+        "title": "Rettskrivingsreforma av 1941",
+        "url": "https://snl.no/Rettskrivingsreforma_av_1941"
+      }
+    ]
   }
 }
