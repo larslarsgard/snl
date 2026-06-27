@@ -1,31 +1,31 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Bakterier",
-        "title": "Yersinia",
-        "url": "https://sml.snl.no/Yersinia"
+        "category": "Norsk fotball",
+        "title": "Norge i fotball-VM – menn",
+        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
       },
       {
-        "category": "Nederlandsk Karibia",
-        "title": "Curaçao",
-        "url": "https://snl.no/Cura%C3%A7ao"
+        "category": "Norsk fotball",
+        "title": "Norges tropp til fotball-VM i 1998",
+        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_1998"
       },
       {
-        "category": "Fabrikkerte forstyrrelser",
-        "title": "Münchhausen by proxy",
-        "url": "https://sml.snl.no/M%C3%BCnchhausen_by_proxy"
+        "category": "Norsk fotball",
+        "title": "Norges tropp til fotball-VM i 2026",
+        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_2026"
       },
       {
-        "category": "Rettskrivingsreformer i norsk",
-        "title": "Rettskrivingsreforma av 1917",
-        "url": "https://snl.no/Rettskrivingsreforma_av_1917"
+        "category": "Norske fotballspillere",
+        "title": "Oscar Bobb",
+        "url": "https://snl.no/Oscar_Bobb"
       },
       {
-        "category": "Pornografi",
-        "title": "Pornhub",
-        "url": "https://snl.no/Pornhub"
+        "category": "Internasjonal fotball",
+        "title": "Toppscorere i fotball-VM – menn",
+        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
       }
     ],
     "Uvanlig mye lest": [
@@ -57,29 +57,29 @@
     ],
     "Sørgelig lite lest": [
       {
+        "category": "Fotohistoriske biografier",
+        "title": "Eugène Atget",
+        "url": "https://snl.no/Eug%C3%A8ne_Atget"
+      },
+      {
         "category": "Jentenavn",
-        "title": "Jannike – kvinnenamn",
-        "url": "https://snl.no/Jannike_-_kvinnenamn"
+        "title": "Judit – kvinnenamn",
+        "url": "https://snl.no/Judit_-_kvinnenamn"
       },
       {
-        "category": "Energetiske materialer og sprengningsteknikk",
-        "title": "kloratsprengstoffer",
-        "url": "https://snl.no/kloratsprengstoffer"
+        "category": "Postverk",
+        "title": "postkasse",
+        "url": "https://snl.no/postkasse"
       },
       {
-        "category": "Stavkirker",
-        "title": "Røldal stavkirke",
-        "url": "https://snl.no/R%C3%B8ldal_stavkirke"
+        "category": "Tidligere aviser på Østlandet",
+        "title": "Drammens Blad",
+        "url": "https://snl.no/Drammens_Blad"
       },
       {
-        "category": "Belgias franskspråklige litteratur",
-        "title": "François Weyergans",
-        "url": "https://snl.no/Fran%C3%A7ois_Weyergans"
-      },
-      {
-        "category": "Rettskrivingsreformer i norsk",
-        "title": "Rettskrivingsreforma av 1941",
-        "url": "https://snl.no/Rettskrivingsreforma_av_1941"
+        "category": "Barne- og ungdomslitteratur",
+        "title": "guttebøker",
+        "url": "https://snl.no/gutteb%C3%B8ker"
       }
     ]
   }
