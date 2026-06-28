@@ -3318,5 +3318,88 @@
         "url": "https://snl.no/gutteb%C3%B8ker"
       }
     ]
+  },
+  "2026-06-28": {
+    "Mest lest i går": [
+      {
+        "category": "Elfenbenskystens geografi",
+        "title": "Elfenbenskysten",
+        "url": "https://snl.no/Elfenbenskysten"
+      },
+      {
+        "category": "Danseband",
+        "title": "Ole Ivars",
+        "url": "https://snl.no/Ole_Ivars"
+      },
+      {
+        "category": "Kapp Verdes geografi",
+        "title": "Kapp Verde",
+        "url": "https://snl.no/Kapp_Verde"
+      },
+      {
+        "category": "Norsk fotball",
+        "title": "Norge i fotball-VM – menn",
+        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Pornografi",
+        "title": "Pornhub",
+        "url": "https://snl.no/Pornhub"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Klokkeslekta",
+        "title": "prakttoppklokke",
+        "url": "https://snl.no/prakttoppklokke"
+      },
+      {
+        "category": "Geomorfologi",
+        "title": "jettegryte",
+        "url": "https://snl.no/jettegryte"
+      },
+      {
+        "category": "Frankrikes litteratur på 1800-tallet",
+        "title": "Alexandre Dumas",
+        "url": "https://snl.no/Alexandre_Dumas"
+      },
+      {
+        "category": "Midtøstens gamle kulturer",
+        "title": "Kanaan",
+        "url": "https://snl.no/Kanaan"
+      },
+      {
+        "category": "Norske fotballspillere",
+        "title": "Thelo Aasgaard",
+        "url": "https://snl.no/Thelo_Aasgaard"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Nord-Amerikanske jazzutøvere og -ensembler, 1980 til i dag",
+        "title": "Robert Glasper",
+        "url": "https://snl.no/Robert_Glasper"
+      },
+      {
+        "category": "Danmarks nyere litteratur",
+        "title": "Christina Hesselholdt",
+        "url": "https://snl.no/Christina_Hesselholdt"
+      },
+      {
+        "category": "Stavkirker",
+        "title": "Lomen stavkirke",
+        "url": "https://snl.no/Lomen_stavkirke"
+      },
+      {
+        "category": "Personnavn",
+        "title": "den nordiske namnerenessansen",
+        "url": "https://snl.no/den_nordiske_namnerenessansen"
+      },
+      {
+        "category": "Norske arkitekturinstitusjoner",
+        "title": "Yngre Arkitektforening",
+        "url": "https://snl.no/Yngre_Arkitektforening"
+      }
+    ]
   }
 }
