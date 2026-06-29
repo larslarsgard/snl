@@ -3401,5 +3401,88 @@
         "url": "https://snl.no/Yngre_Arkitektforening"
       }
     ]
+  },
+  "2026-06-29": {
+    "Mest lest i går": [
+      {
+        "category": "Internasjonal fotball",
+        "title": "Toppscorere i fotball-VM – menn",
+        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Norsk fotball",
+        "title": "Norge i fotball-VM – menn",
+        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Pornografi",
+        "title": "Pornhub",
+        "url": "https://snl.no/Pornhub"
+      },
+      {
+        "category": "Elfenbenskystens geografi",
+        "title": "Elfenbenskysten",
+        "url": "https://snl.no/Elfenbenskysten"
+      },
+      {
+        "category": "Allergologi",
+        "title": "anafylaksi",
+        "url": "https://sml.snl.no/anafylaksi"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Operasjon asfalt",
+        "url": "https://snl.no/Operasjon_asfalt"
+      },
+      {
+        "category": "Geomorfologi",
+        "title": "jettegryte",
+        "url": "https://snl.no/jettegryte"
+      },
+      {
+        "category": "Bjørnebærslekta",
+        "title": "blåbringebær",
+        "url": "https://snl.no/bl%C3%A5bringeb%C3%A6r"
+      },
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Halldis Neegård Østbye",
+        "url": "https://snl.no/Halldis_Neeg%C3%A5rd_%C3%98stbye"
+      },
+      {
+        "category": "Lønnefamilien",
+        "title": "lønnefamilien",
+        "url": "https://snl.no/l%C3%B8nnefamilien"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Forsvarets historie",
+        "title": "K-soldater",
+        "url": "https://snl.no/K-soldater"
+      },
+      {
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "pikrinsyre",
+        "url": "https://snl.no/pikrinsyre"
+      },
+      {
+        "category": "Perus samtidshistorie",
+        "title": "Martín Vizcarra",
+        "url": "https://snl.no/Mart%C3%ADn_Vizcarra"
+      },
+      {
+        "category": "Guttenavn",
+        "title": "Jonny – mannsnamn",
+        "url": "https://snl.no/Jonny_-_mannsnamn"
+      },
+      {
+        "category": "Uralske språk",
+        "title": "erzia",
+        "url": "https://snl.no/erzia"
+      }
+    ]
   }
 }

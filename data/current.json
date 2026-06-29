@@ -1,21 +1,11 @@
 {
-  "date": "2026-06-28",
+  "date": "2026-06-29",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Elfenbenskystens geografi",
-        "title": "Elfenbenskysten",
-        "url": "https://snl.no/Elfenbenskysten"
-      },
-      {
-        "category": "Danseband",
-        "title": "Ole Ivars",
-        "url": "https://snl.no/Ole_Ivars"
-      },
-      {
-        "category": "Kapp Verdes geografi",
-        "title": "Kapp Verde",
-        "url": "https://snl.no/Kapp_Verde"
+        "category": "Internasjonal fotball",
+        "title": "Toppscorere i fotball-VM – menn",
+        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
       },
       {
         "category": "Norsk fotball",
@@ -26,13 +16,23 @@
         "category": "Pornografi",
         "title": "Pornhub",
         "url": "https://snl.no/Pornhub"
+      },
+      {
+        "category": "Elfenbenskystens geografi",
+        "title": "Elfenbenskysten",
+        "url": "https://snl.no/Elfenbenskysten"
+      },
+      {
+        "category": "Allergologi",
+        "title": "anafylaksi",
+        "url": "https://sml.snl.no/anafylaksi"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Klokkeslekta",
-        "title": "prakttoppklokke",
-        "url": "https://snl.no/prakttoppklokke"
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Operasjon asfalt",
+        "url": "https://snl.no/Operasjon_asfalt"
       },
       {
         "category": "Geomorfologi",
@@ -40,46 +40,46 @@
         "url": "https://snl.no/jettegryte"
       },
       {
-        "category": "Frankrikes litteratur på 1800-tallet",
-        "title": "Alexandre Dumas",
-        "url": "https://snl.no/Alexandre_Dumas"
+        "category": "Bjørnebærslekta",
+        "title": "blåbringebær",
+        "url": "https://snl.no/bl%C3%A5bringeb%C3%A6r"
       },
       {
-        "category": "Midtøstens gamle kulturer",
-        "title": "Kanaan",
-        "url": "https://snl.no/Kanaan"
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Halldis Neegård Østbye",
+        "url": "https://snl.no/Halldis_Neeg%C3%A5rd_%C3%98stbye"
       },
       {
-        "category": "Norske fotballspillere",
-        "title": "Thelo Aasgaard",
-        "url": "https://snl.no/Thelo_Aasgaard"
+        "category": "Lønnefamilien",
+        "title": "lønnefamilien",
+        "url": "https://snl.no/l%C3%B8nnefamilien"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Nord-Amerikanske jazzutøvere og -ensembler, 1980 til i dag",
-        "title": "Robert Glasper",
-        "url": "https://snl.no/Robert_Glasper"
+        "category": "Forsvarets historie",
+        "title": "K-soldater",
+        "url": "https://snl.no/K-soldater"
       },
       {
-        "category": "Danmarks nyere litteratur",
-        "title": "Christina Hesselholdt",
-        "url": "https://snl.no/Christina_Hesselholdt"
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "pikrinsyre",
+        "url": "https://snl.no/pikrinsyre"
       },
       {
-        "category": "Stavkirker",
-        "title": "Lomen stavkirke",
-        "url": "https://snl.no/Lomen_stavkirke"
+        "category": "Perus samtidshistorie",
+        "title": "Martín Vizcarra",
+        "url": "https://snl.no/Mart%C3%ADn_Vizcarra"
       },
       {
-        "category": "Personnavn",
-        "title": "den nordiske namnerenessansen",
-        "url": "https://snl.no/den_nordiske_namnerenessansen"
+        "category": "Guttenavn",
+        "title": "Jonny – mannsnamn",
+        "url": "https://snl.no/Jonny_-_mannsnamn"
       },
       {
-        "category": "Norske arkitekturinstitusjoner",
-        "title": "Yngre Arkitektforening",
-        "url": "https://snl.no/Yngre_Arkitektforening"
+        "category": "Uralske språk",
+        "title": "erzia",
+        "url": "https://snl.no/erzia"
       }
     ]
   }
