@@ -3484,5 +3484,88 @@
         "url": "https://snl.no/erzia"
       }
     ]
+  },
+  "2026-06-30": {
+    "Mest lest i går": [
+      {
+        "category": "Festmusikk",
+        "title": "Kirsti Sparboe",
+        "url": "https://snl.no/Kirsti_Sparboe"
+      },
+      {
+        "category": "Paraguays geografi",
+        "title": "Paraguay",
+        "url": "https://snl.no/Paraguay"
+      },
+      {
+        "category": "Norsk fotball",
+        "title": "Norge i fotball-VM – menn",
+        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Elfenbenskystens geografi",
+        "title": "Elfenbenskysten",
+        "url": "https://snl.no/Elfenbenskysten"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM i fotball – menn",
+        "url": "https://snl.no/VM_i_fotball_-_menn"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Glasskunstnere og keramikere",
+        "title": "Willy Johansson",
+        "url": "https://snl.no/Willy_Johansson"
+      },
+      {
+        "category": "Galopp",
+        "title": "Terje Dahl",
+        "url": "https://snl.no/Terje_Dahl"
+      },
+      {
+        "category": "Internasjonal pop og rock",
+        "title": "Benny Borg",
+        "url": "https://snl.no/Benny_Borg"
+      },
+      {
+        "category": "Nasjonalsanger",
+        "title": "Tysklands nasjonalsang",
+        "url": "https://snl.no/Tysklands_nasjonalsang"
+      },
+      {
+        "category": "Geomorfologi",
+        "title": "jettegryte",
+        "url": "https://snl.no/jettegryte"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "eksplosjon",
+        "url": "https://snl.no/eksplosjon"
+      },
+      {
+        "category": "Interiør- og møbeldesignere",
+        "title": "Michele de Lucchi",
+        "url": "https://snl.no/Michele_de_Lucchi"
+      },
+      {
+        "category": "Folkerepublikken Kinas historie",
+        "title": "Qiao Shi",
+        "url": "https://snl.no/Qiao_Shi"
+      },
+      {
+        "category": "Norske kunstinstitusjoner",
+        "title": "Landsdekkende program",
+        "url": "https://snl.no/Landsdekkende_program"
+      },
+      {
+        "category": "Skiskyting",
+        "title": "Marte Olsbu Røiseland",
+        "url": "https://snl.no/Marte_Olsbu_R%C3%B8iseland"
+      }
+    ]
   }
 }

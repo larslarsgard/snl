@@ -1,11 +1,16 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Internasjonal fotball",
-        "title": "Toppscorere i fotball-VM – menn",
-        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
+        "category": "Festmusikk",
+        "title": "Kirsti Sparboe",
+        "url": "https://snl.no/Kirsti_Sparboe"
+      },
+      {
+        "category": "Paraguays geografi",
+        "title": "Paraguay",
+        "url": "https://snl.no/Paraguay"
       },
       {
         "category": "Norsk fotball",
@@ -13,73 +18,68 @@
         "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
       },
       {
-        "category": "Pornografi",
-        "title": "Pornhub",
-        "url": "https://snl.no/Pornhub"
-      },
-      {
         "category": "Elfenbenskystens geografi",
         "title": "Elfenbenskysten",
         "url": "https://snl.no/Elfenbenskysten"
       },
       {
-        "category": "Allergologi",
-        "title": "anafylaksi",
-        "url": "https://sml.snl.no/anafylaksi"
+        "category": "Internasjonal fotball",
+        "title": "VM i fotball – menn",
+        "url": "https://snl.no/VM_i_fotball_-_menn"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Norges historie fra 1940 til 1945",
-        "title": "Operasjon asfalt",
-        "url": "https://snl.no/Operasjon_asfalt"
+        "category": "Glasskunstnere og keramikere",
+        "title": "Willy Johansson",
+        "url": "https://snl.no/Willy_Johansson"
+      },
+      {
+        "category": "Galopp",
+        "title": "Terje Dahl",
+        "url": "https://snl.no/Terje_Dahl"
+      },
+      {
+        "category": "Internasjonal pop og rock",
+        "title": "Benny Borg",
+        "url": "https://snl.no/Benny_Borg"
+      },
+      {
+        "category": "Nasjonalsanger",
+        "title": "Tysklands nasjonalsang",
+        "url": "https://snl.no/Tysklands_nasjonalsang"
       },
       {
         "category": "Geomorfologi",
         "title": "jettegryte",
         "url": "https://snl.no/jettegryte"
-      },
-      {
-        "category": "Bjørnebærslekta",
-        "title": "blåbringebær",
-        "url": "https://snl.no/bl%C3%A5bringeb%C3%A6r"
-      },
-      {
-        "category": "Norges historie fra 1940 til 1945",
-        "title": "Halldis Neegård Østbye",
-        "url": "https://snl.no/Halldis_Neeg%C3%A5rd_%C3%98stbye"
-      },
-      {
-        "category": "Lønnefamilien",
-        "title": "lønnefamilien",
-        "url": "https://snl.no/l%C3%B8nnefamilien"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Forsvarets historie",
-        "title": "K-soldater",
-        "url": "https://snl.no/K-soldater"
-      },
-      {
         "category": "Energetiske materialer og sprengningsteknikk",
-        "title": "pikrinsyre",
-        "url": "https://snl.no/pikrinsyre"
+        "title": "eksplosjon",
+        "url": "https://snl.no/eksplosjon"
       },
       {
-        "category": "Perus samtidshistorie",
-        "title": "Martín Vizcarra",
-        "url": "https://snl.no/Mart%C3%ADn_Vizcarra"
+        "category": "Interiør- og møbeldesignere",
+        "title": "Michele de Lucchi",
+        "url": "https://snl.no/Michele_de_Lucchi"
       },
       {
-        "category": "Guttenavn",
-        "title": "Jonny – mannsnamn",
-        "url": "https://snl.no/Jonny_-_mannsnamn"
+        "category": "Folkerepublikken Kinas historie",
+        "title": "Qiao Shi",
+        "url": "https://snl.no/Qiao_Shi"
       },
       {
-        "category": "Uralske språk",
-        "title": "erzia",
-        "url": "https://snl.no/erzia"
+        "category": "Norske kunstinstitusjoner",
+        "title": "Landsdekkende program",
+        "url": "https://snl.no/Landsdekkende_program"
+      },
+      {
+        "category": "Skiskyting",
+        "title": "Marte Olsbu Røiseland",
+        "url": "https://snl.no/Marte_Olsbu_R%C3%B8iseland"
       }
     ]
   }
