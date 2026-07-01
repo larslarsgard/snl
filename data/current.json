@@ -1,16 +1,11 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Festmusikk",
-        "title": "Kirsti Sparboe",
-        "url": "https://snl.no/Kirsti_Sparboe"
-      },
-      {
-        "category": "Paraguays geografi",
-        "title": "Paraguay",
-        "url": "https://snl.no/Paraguay"
+        "category": "Elfenbenskystens geografi",
+        "title": "Elfenbenskysten",
+        "url": "https://snl.no/Elfenbenskysten"
       },
       {
         "category": "Norsk fotball",
@@ -18,68 +13,73 @@
         "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
       },
       {
-        "category": "Elfenbenskystens geografi",
-        "title": "Elfenbenskysten",
-        "url": "https://snl.no/Elfenbenskysten"
+        "category": "Internasjonal fotball",
+        "title": "Fotball-VM i 1998",
+        "url": "https://snl.no/Fotball-VM_i_1998"
       },
       {
-        "category": "Internasjonal fotball",
-        "title": "VM i fotball – menn",
-        "url": "https://snl.no/VM_i_fotball_-_menn"
+        "category": "Norske fotballspillere",
+        "title": "Antonio Nusa",
+        "url": "https://snl.no/Antonio_Nusa"
+      },
+      {
+        "category": "Norsk fotball",
+        "title": "Norges tropp til fotball-VM i 1998",
+        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_1998"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Glasskunstnere og keramikere",
-        "title": "Willy Johansson",
-        "url": "https://snl.no/Willy_Johansson"
+        "category": "Norsk samtidskunst",
+        "title": "Unni Askeland",
+        "url": "https://snl.no/Unni_Askeland"
       },
       {
-        "category": "Galopp",
-        "title": "Terje Dahl",
-        "url": "https://snl.no/Terje_Dahl"
+        "category": "Elfenbenskystens geografi",
+        "title": "Elfenbenskystens befolkning",
+        "url": "https://snl.no/Elfenbenskystens_befolkning"
       },
       {
-        "category": "Internasjonal pop og rock",
-        "title": "Benny Borg",
-        "url": "https://snl.no/Benny_Borg"
+        "category": "Lands flagg og våpen",
+        "title": "Elfenbenskystens flagg og våpen",
+        "url": "https://snl.no/Elfenbenskystens_flagg_og_v%C3%A5pen"
       },
       {
-        "category": "Nasjonalsanger",
-        "title": "Tysklands nasjonalsang",
-        "url": "https://snl.no/Tysklands_nasjonalsang"
+        "category": "Termer og begreper i idrett",
+        "title": "kvartfinale",
+        "url": "https://snl.no/kvartfinale"
       },
       {
-        "category": "Geomorfologi",
-        "title": "jettegryte",
-        "url": "https://snl.no/jettegryte"
+        "category": "Norske fotballspillere",
+        "title": "Ørjan Håskjold Nyland",
+        "url": "https://snl.no/%C3%98rjan_H%C3%A5skjold_Nyland"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Energetiske materialer og sprengningsteknikk",
-        "title": "eksplosjon",
-        "url": "https://snl.no/eksplosjon"
+        "category": "Postimpresjonisme, symbolisme og art nouveau",
+        "title": "Paul Sérusier",
+        "url": "https://snl.no/Paul_S%C3%A9rusier"
       },
       {
-        "category": "Interiør- og møbeldesignere",
-        "title": "Michele de Lucchi",
-        "url": "https://snl.no/Michele_de_Lucchi"
+        "category": "Bombefly",
+        "title": "B-26 Marauder",
+        "url": "https://snl.no/B-26_Marauder"
       },
       {
-        "category": "Folkerepublikken Kinas historie",
-        "title": "Qiao Shi",
-        "url": "https://snl.no/Qiao_Shi"
+        "category": "Traktater",
+        "title": "traktaten om forbud mot atomvåpen",
+        "url": "https://snl.no/traktaten_om_forbud_mot_atomv%C3%A5pen"
       },
       {
-        "category": "Norske kunstinstitusjoner",
-        "title": "Landsdekkende program",
-        "url": "https://snl.no/Landsdekkende_program"
+        "category": "Lydkunst",
+        "title": "lydkunst",
+        "url": "https://snl.no/lydkunst"
       },
       {
-        "category": "Skiskyting",
-        "title": "Marte Olsbu Røiseland",
-        "url": "https://snl.no/Marte_Olsbu_R%C3%B8iseland"
+        "category": "Nord-Irlands historie",
+        "title": "Sunningdaleavtala",
+        "url": "https://snl.no/Sunningdaleavtala"
       }
     ]
   }
