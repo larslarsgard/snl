@@ -3650,5 +3650,88 @@
         "url": "https://snl.no/Sunningdaleavtala"
       }
     ]
+  },
+  "2026-07-02": {
+    "Mest lest i går": [
+      {
+        "category": "Norsk fotball",
+        "title": "Norge i fotball-VM – menn",
+        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Fotball-VM i 1998",
+        "url": "https://snl.no/Fotball-VM_i_1998"
+      },
+      {
+        "category": "Elfenbenskystens geografi",
+        "title": "Elfenbenskysten",
+        "url": "https://snl.no/Elfenbenskysten"
+      },
+      {
+        "category": "Norske fotballspillere",
+        "title": "Oscar Bobb",
+        "url": "https://snl.no/Oscar_Bobb"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Toppscorere i fotball-VM – menn",
+        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM-vinnere i fotball – menn",
+        "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
+      },
+      {
+        "category": "Afrika generelt",
+        "title": "Kongo",
+        "url": "https://snl.no/Kongo"
+      },
+      {
+        "category": "Engelske fotballspillere",
+        "title": "Harry Kane",
+        "url": "https://snl.no/Harry_Kane"
+      },
+      {
+        "category": "Republikken Kongos geografi",
+        "title": "Kongo – R Kongo, Brazzaville",
+        "url": "https://snl.no/Kongo_-_R_Kongo,_Brazzaville"
+      },
+      {
+        "category": "Termer og begreper i idrett",
+        "title": "kvartfinale",
+        "url": "https://snl.no/kvartfinale"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Internasjonale dirigenter",
+        "title": "Albert Coates",
+        "url": "https://snl.no/Albert_Coates"
+      },
+      {
+        "category": "Internasjonal pop og rock",
+        "title": "Ian Dury",
+        "url": "https://snl.no/Ian_Dury"
+      },
+      {
+        "category": "Vinterminologi",
+        "title": "hybride druesorter",
+        "url": "https://snl.no/hybride_druesorter"
+      },
+      {
+        "category": "Polens samtidshistorie",
+        "title": "Aleksander Kwaśniewski",
+        "url": "https://snl.no/Aleksander_Kwa%C5%9Bniewski"
+      },
+      {
+        "category": "Internasjonal teknologi- og industrihistorie",
+        "title": "sprayboks",
+        "url": "https://snl.no/sprayboks"
+      }
+    ]
   }
 }
