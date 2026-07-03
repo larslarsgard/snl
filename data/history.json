@@ -3733,5 +3733,88 @@
         "url": "https://snl.no/sprayboks"
       }
     ]
+  },
+  "2026-07-03": {
+    "Mest lest i går": [
+      {
+        "category": "Norsk fotball",
+        "title": "Norge i fotball-VM – menn",
+        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Fotball-VM i 1998",
+        "url": "https://snl.no/Fotball-VM_i_1998"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM-vinnere i fotball – menn",
+        "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
+      },
+      {
+        "category": "Norsk fotball",
+        "title": "Norges tropp til fotball-VM i 1998",
+        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_1998"
+      },
+      {
+        "category": "Seismologi",
+        "title": "jordskjelv i Norge",
+        "url": "https://snl.no/jordskjelv_i_Norge"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Spansk fotball",
+        "title": "Lamine Yamal",
+        "url": "https://snl.no/Lamine_Yamal"
+      },
+      {
+        "category": "Termer og begreper i idrett",
+        "title": "åttedelsfinale",
+        "url": "https://snl.no/%C3%A5ttedelsfinale"
+      },
+      {
+        "category": "Avisjournalister",
+        "title": "Per Vassbotn",
+        "url": "https://snl.no/Per_Vassbotn"
+      },
+      {
+        "category": "Norsk hiphop",
+        "title": "Karpe",
+        "url": "https://snl.no/Karpe"
+      },
+      {
+        "category": "Kjønnsidentitet",
+        "title": "transperson",
+        "url": "https://sml.snl.no/transperson"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Gjødsel og plantevern",
+        "title": "Den internasjonale plantevernkonvensjon",
+        "url": "https://snl.no/Den_internasjonale_plantevernkonvensjon"
+      },
+      {
+        "category": "Buskspurvfamilien",
+        "title": "sibirspurv",
+        "url": "https://snl.no/sibirspurv"
+      },
+      {
+        "category": "Georgias samtidshistorie",
+        "title": "Zurab Zjvania",
+        "url": "https://snl.no/Zurab_Zjvania"
+      },
+      {
+        "category": "Libyas historie",
+        "title": "Libyas samtidshistorie",
+        "url": "https://snl.no/Libyas_samtidshistorie"
+      },
+      {
+        "category": "Ølbrygging",
+        "title": "ølbrygging",
+        "url": "https://snl.no/%C3%B8lbrygging"
+      }
+    ]
   }
 }

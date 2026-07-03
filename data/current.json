@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "categories": {
     "Mest lest i går": [
       {
@@ -13,73 +13,73 @@
         "url": "https://snl.no/Fotball-VM_i_1998"
       },
       {
-        "category": "Elfenbenskystens geografi",
-        "title": "Elfenbenskysten",
-        "url": "https://snl.no/Elfenbenskysten"
-      },
-      {
-        "category": "Norske fotballspillere",
-        "title": "Oscar Bobb",
-        "url": "https://snl.no/Oscar_Bobb"
-      },
-      {
-        "category": "Internasjonal fotball",
-        "title": "Toppscorere i fotball-VM – menn",
-        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
-      }
-    ],
-    "Uvanlig mye lest": [
-      {
         "category": "Internasjonal fotball",
         "title": "VM-vinnere i fotball – menn",
         "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
       },
       {
-        "category": "Afrika generelt",
-        "title": "Kongo",
-        "url": "https://snl.no/Kongo"
+        "category": "Norsk fotball",
+        "title": "Norges tropp til fotball-VM i 1998",
+        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_1998"
       },
       {
-        "category": "Engelske fotballspillere",
-        "title": "Harry Kane",
-        "url": "https://snl.no/Harry_Kane"
-      },
+        "category": "Seismologi",
+        "title": "jordskjelv i Norge",
+        "url": "https://snl.no/jordskjelv_i_Norge"
+      }
+    ],
+    "Uvanlig mye lest": [
       {
-        "category": "Republikken Kongos geografi",
-        "title": "Kongo – R Kongo, Brazzaville",
-        "url": "https://snl.no/Kongo_-_R_Kongo,_Brazzaville"
+        "category": "Spansk fotball",
+        "title": "Lamine Yamal",
+        "url": "https://snl.no/Lamine_Yamal"
       },
       {
         "category": "Termer og begreper i idrett",
-        "title": "kvartfinale",
-        "url": "https://snl.no/kvartfinale"
+        "title": "åttedelsfinale",
+        "url": "https://snl.no/%C3%A5ttedelsfinale"
+      },
+      {
+        "category": "Avisjournalister",
+        "title": "Per Vassbotn",
+        "url": "https://snl.no/Per_Vassbotn"
+      },
+      {
+        "category": "Norsk hiphop",
+        "title": "Karpe",
+        "url": "https://snl.no/Karpe"
+      },
+      {
+        "category": "Kjønnsidentitet",
+        "title": "transperson",
+        "url": "https://sml.snl.no/transperson"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Internasjonale dirigenter",
-        "title": "Albert Coates",
-        "url": "https://snl.no/Albert_Coates"
+        "category": "Gjødsel og plantevern",
+        "title": "Den internasjonale plantevernkonvensjon",
+        "url": "https://snl.no/Den_internasjonale_plantevernkonvensjon"
       },
       {
-        "category": "Internasjonal pop og rock",
-        "title": "Ian Dury",
-        "url": "https://snl.no/Ian_Dury"
+        "category": "Buskspurvfamilien",
+        "title": "sibirspurv",
+        "url": "https://snl.no/sibirspurv"
       },
       {
-        "category": "Vinterminologi",
-        "title": "hybride druesorter",
-        "url": "https://snl.no/hybride_druesorter"
+        "category": "Georgias samtidshistorie",
+        "title": "Zurab Zjvania",
+        "url": "https://snl.no/Zurab_Zjvania"
       },
       {
-        "category": "Polens samtidshistorie",
-        "title": "Aleksander Kwaśniewski",
-        "url": "https://snl.no/Aleksander_Kwa%C5%9Bniewski"
+        "category": "Libyas historie",
+        "title": "Libyas samtidshistorie",
+        "url": "https://snl.no/Libyas_samtidshistorie"
       },
       {
-        "category": "Internasjonal teknologi- og industrihistorie",
-        "title": "sprayboks",
-        "url": "https://snl.no/sprayboks"
+        "category": "Ølbrygging",
+        "title": "ølbrygging",
+        "url": "https://snl.no/%C3%B8lbrygging"
       }
     ]
   }
