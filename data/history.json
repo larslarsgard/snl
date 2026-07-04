@@ -3816,5 +3816,88 @@
         "url": "https://snl.no/%C3%B8lbrygging"
       }
     ]
+  },
+  "2026-07-04": {
+    "Mest lest i går": [
+      {
+        "category": "Norsk fotball",
+        "title": "Norge i fotball-VM – menn",
+        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Fotball-VM i 1998",
+        "url": "https://snl.no/Fotball-VM_i_1998"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM-vinnere i fotball – menn",
+        "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
+      },
+      {
+        "category": "Norsk fotball",
+        "title": "Norges tropp til fotball-VM i 1998",
+        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_1998"
+      },
+      {
+        "category": "Seismologi",
+        "title": "jordskjelv i Norge",
+        "url": "https://snl.no/jordskjelv_i_Norge"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Spansk fotball",
+        "title": "Lamine Yamal",
+        "url": "https://snl.no/Lamine_Yamal"
+      },
+      {
+        "category": "Termer og begreper i idrett",
+        "title": "åttedelsfinale",
+        "url": "https://snl.no/%C3%A5ttedelsfinale"
+      },
+      {
+        "category": "Avisjournalister",
+        "title": "Per Vassbotn",
+        "url": "https://snl.no/Per_Vassbotn"
+      },
+      {
+        "category": "Norsk hiphop",
+        "title": "Karpe",
+        "url": "https://snl.no/Karpe"
+      },
+      {
+        "category": "Kjønnsidentitet",
+        "title": "transperson",
+        "url": "https://sml.snl.no/transperson"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Kroatias litteratur",
+        "title": "Marin Držić",
+        "url": "https://snl.no/Marin_Dr%C5%BEi%C4%87"
+      },
+      {
+        "category": "Historiske religioner",
+        "title": "fruktbarhetskult",
+        "url": "https://snl.no/fruktbarhetskult"
+      },
+      {
+        "category": "Elfenbenskystens litteratur",
+        "title": "Ahmadou Kourouma",
+        "url": "https://snl.no/Ahmadou_Kourouma"
+      },
+      {
+        "category": "Biografier i nyere norsk historie",
+        "title": "Finn Lied",
+        "url": "https://snl.no/Finn_Lied"
+      },
+      {
+        "category": "Nord-Amerikanske jazzutøvere og -ensembler, 1980 til i dag",
+        "title": "Brad Mehldau",
+        "url": "https://snl.no/Brad_Mehldau"
+      }
+    ]
   }
 }
