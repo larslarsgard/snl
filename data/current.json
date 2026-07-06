@@ -1,21 +1,16 @@
 {
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Kapp Verdes geografi",
-        "title": "Kapp Verde",
-        "url": "https://snl.no/Kapp_Verde"
-      },
-      {
-        "category": "Paraguays geografi",
-        "title": "Paraguay",
-        "url": "https://snl.no/Paraguay"
-      },
       {
         "category": "Norsk fotball",
         "title": "Norge i fotball-VM – menn",
         "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Norsk fotball",
+        "title": "Norges tropp til fotball-VM i 1998",
+        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_1998"
       },
       {
         "category": "Internasjonal fotball",
@@ -23,21 +18,26 @@
         "url": "https://snl.no/Fotball-VM_i_1998"
       },
       {
-        "category": "Norsk fotball",
-        "title": "Norges tropp til fotball-VM i 1998",
-        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_1998"
+        "category": "Norske fotballspillere",
+        "title": "Oscar Bobb",
+        "url": "https://snl.no/Oscar_Bobb"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM-vinnere i fotball – menn",
+        "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Lusfluer",
-        "title": "hjortelusflue",
-        "url": "https://snl.no/hjortelusflue"
+        "category": "Skøytesport",
+        "title": "Lasse Efskind",
+        "url": "https://snl.no/Lasse_Efskind"
       },
       {
-        "category": "Østerrikes nyere litteratur",
-        "title": "Arno Geiger",
-        "url": "https://snl.no/Arno_Geiger"
+        "category": "Avisredaktører",
+        "title": "Trygve Hegnar",
+        "url": "https://snl.no/Trygve_Hegnar"
       },
       {
         "category": "Termer og begreper i idrett",
@@ -45,41 +45,41 @@
         "url": "https://snl.no/%C3%A5ttedelsfinale"
       },
       {
-        "category": "Internasjonal pop og rock",
-        "title": "Benny Borg",
-        "url": "https://snl.no/Benny_Borg"
+        "category": "Østerrikes nyere litteratur",
+        "title": "Arno Geiger",
+        "url": "https://snl.no/Arno_Geiger"
       },
       {
-        "category": "Lyn og torden",
-        "title": "torden",
-        "url": "https://snl.no/torden"
+        "category": "Lusfluer",
+        "title": "hjortelusflue",
+        "url": "https://snl.no/hjortelusflue"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Republikken Kongos litteratur",
-        "title": "Emmanuel Dongala",
-        "url": "https://snl.no/Emmanuel_Dongala"
+        "category": "Sudans samtidshistorie",
+        "title": "Jaafar Mohammed al- Nimeiri",
+        "url": "https://snl.no/Jaafar_Mohammed_al-_Nimeiri"
       },
       {
-        "category": "Landeveissykling",
-        "title": "Tour de France – Frankrike rundt",
-        "url": "https://snl.no/Tour_de_France_-_Frankrike_rundt"
+        "category": "Biografier i luftfart",
+        "title": "Viggo Widerøe",
+        "url": "https://snl.no/Viggo_Wider%C3%B8e"
       },
       {
-        "category": "Midtøstens gamle kulturer",
-        "title": "Gezer",
-        "url": "https://snl.no/Gezer"
+        "category": "Forsvarets historie",
+        "title": "Norges forsvar fra 1800 til 1814",
+        "url": "https://snl.no/Norges_forsvar_fra_1800_til_1814"
       },
       {
-        "category": "Mauritanias litteratur",
-        "title": "Mauritanias litteratur",
-        "url": "https://snl.no/Mauritanias_litteratur"
+        "category": "Presidentvalg i Frankrike",
+        "title": "Presidentvalget i Frankrike 2017",
+        "url": "https://snl.no/Presidentvalget_i_Frankrike_2017"
       },
       {
-        "category": "Midtøsten",
-        "title": "kafalasystemet",
-        "url": "https://snl.no/kafalasystemet"
+        "category": "Ulike lands teatertradisjoner",
+        "title": "Teater i Ukraina",
+        "url": "https://snl.no/Teater_i_Ukraina"
       }
     ]
   }
