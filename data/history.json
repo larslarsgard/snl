@@ -4065,5 +4065,88 @@
         "url": "https://snl.no/Teater_i_Ukraina"
       }
     ]
+  },
+  "2026-07-07": {
+    "Mest lest i går": [
+      {
+        "category": "Norsk fotball",
+        "title": "Norge i fotball-VM – menn",
+        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Toppscorere i fotball-VM – menn",
+        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM-vinnere i fotball – menn",
+        "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
+      },
+      {
+        "category": "Norsk fotball",
+        "title": "Norges tropp til fotball-VM i 1998",
+        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_1998"
+      },
+      {
+        "category": "Termer og begreper i idrett",
+        "title": "kvartfinale",
+        "url": "https://snl.no/kvartfinale"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Norske skuespillere",
+        "title": "Janne Formoe",
+        "url": "https://snl.no/Janne_Formoe"
+      },
+      {
+        "category": "Brasils samtidshistorie",
+        "title": "Medier i Brasil",
+        "url": "https://snl.no/Medier_i_Brasil"
+      },
+      {
+        "category": "Nautiske og maritime begrep",
+        "title": "skåte",
+        "url": "https://snl.no/sk%C3%A5te"
+      },
+      {
+        "category": "Termer og begreper i idrett",
+        "title": "semifinale",
+        "url": "https://snl.no/semifinale"
+      },
+      {
+        "category": "Norske fotballspillere",
+        "title": "Andreas Schjelderup",
+        "url": "https://snl.no/Andreas_Schjelderup"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Tidligere norske aviser",
+        "title": "Folket – avis 1919–2006",
+        "url": "https://snl.no/Folket_-_avis_1919%E2%80%932006"
+      },
+      {
+        "category": "Stavkirker",
+        "title": "Reinli stavkirke",
+        "url": "https://snl.no/Reinli_stavkirke"
+      },
+      {
+        "category": "Ulike lands kunst og kunsttradisjoner",
+        "title": "Kunst i USA",
+        "url": "https://snl.no/Kunst_i_USA"
+      },
+      {
+        "category": "USAs nyere lyrikk",
+        "title": "Claudia Rankine",
+        "url": "https://snl.no/Claudia_Rankine"
+      },
+      {
+        "category": "Øvrige språk og språkfamilier",
+        "title": "dyirbal",
+        "url": "https://snl.no/dyirbal"
+      }
+    ]
   }
 }
