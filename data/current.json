@@ -1,7 +1,17 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-10",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Marokkos geografi",
+        "title": "Marokko",
+        "url": "https://snl.no/Marokko"
+      },
+      {
+        "category": "Giftliljefamilien",
+        "title": "finnmarksnyserot",
+        "url": "https://snl.no/finnmarksnyserot"
+      },
       {
         "category": "Norsk fotball",
         "title": "Norge i fotball-VM – menn",
@@ -16,70 +26,60 @@
         "category": "Internasjonal fotball",
         "title": "VM-vinnere i fotball – menn",
         "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
-      },
-      {
-        "category": "Norsk fotball",
-        "title": "Norges tropp til fotball-VM i 1998",
-        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_1998"
-      },
-      {
-        "category": "Termer og begreper i idrett",
-        "title": "kvartfinale",
-        "url": "https://snl.no/kvartfinale"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Norske skuespillere",
-        "title": "Janne Formoe",
-        "url": "https://snl.no/Janne_Formoe"
+        "category": "Folkegrupper i Nord-Amerika",
+        "title": "osage",
+        "url": "https://snl.no/osage"
       },
       {
-        "category": "Brasils samtidshistorie",
-        "title": "Medier i Brasil",
-        "url": "https://snl.no/Medier_i_Brasil"
+        "category": "Internasjonal pop og rock",
+        "title": "Bonnie Tyler",
+        "url": "https://snl.no/Bonnie_Tyler"
       },
       {
-        "category": "Nautiske og maritime begrep",
-        "title": "skåte",
-        "url": "https://snl.no/sk%C3%A5te"
+        "category": "Selsnepeslekta",
+        "title": "selsnepe",
+        "url": "https://snl.no/selsnepe"
       },
       {
-        "category": "Termer og begreper i idrett",
-        "title": "semifinale",
-        "url": "https://snl.no/semifinale"
+        "category": "Bjørnekjeksslekta",
+        "title": "bjørnekjeks",
+        "url": "https://snl.no/bj%C3%B8rnekjeks"
       },
       {
-        "category": "Norske fotballspillere",
-        "title": "Andreas Schjelderup",
-        "url": "https://snl.no/Andreas_Schjelderup"
+        "category": "Nasjonalsanger",
+        "title": "Frankrikes nasjonalsang",
+        "url": "https://snl.no/Frankrikes_nasjonalsang"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Forsvarets historie",
-        "title": "K-soldater",
-        "url": "https://snl.no/K-soldater"
+        "category": "Utenlandske språkforskere",
+        "title": "Peder Ivarssøn Borch",
+        "url": "https://snl.no/Peder_Ivarss%C3%B8n_Borch"
       },
       {
-        "category": "Sveriges litteratur på 1500- og 1600-tallet",
-        "title": "Olaus Magnus",
-        "url": "https://snl.no/Olaus_Magnus"
+        "category": "Glass og keramikk – begreper",
+        "title": "Norgesglass",
+        "url": "https://snl.no/Norgesglass"
       },
       {
-        "category": "IT-historie",
-        "title": "Utvalg for matematikkmaskiner",
-        "url": "https://snl.no/Utvalg_for_matematikkmaskiner"
+        "category": "Rederier",
+        "title": "Peninsular and Oriental Steam Navigation Company",
+        "url": "https://snl.no/Peninsular_and_Oriental_Steam_Navigation_Company"
       },
       {
-        "category": "Folkemusikk",
-        "title": "Ole Rønning",
-        "url": "https://snl.no/Ole_R%C3%B8nning"
+        "category": "Internasjonale tegnekunstnere",
+        "title": "Norman Rockwell",
+        "url": "https://snl.no/Norman_Rockwell"
       },
       {
-        "category": "Internasjonale klassiske instrumentalister",
-        "title": "Tabea Zimmermann",
-        "url": "https://snl.no/Tabea_Zimmermann"
+        "category": "Fotohistoriske biografier",
+        "title": "Edward Steichen",
+        "url": "https://snl.no/Edward_Steichen"
       }
     ]
   }

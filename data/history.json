@@ -4231,5 +4231,88 @@
         "url": "https://snl.no/Tabea_Zimmermann"
       }
     ]
+  },
+  "2026-07-10": {
+    "Mest lest i går": [
+      {
+        "category": "Marokkos geografi",
+        "title": "Marokko",
+        "url": "https://snl.no/Marokko"
+      },
+      {
+        "category": "Giftliljefamilien",
+        "title": "finnmarksnyserot",
+        "url": "https://snl.no/finnmarksnyserot"
+      },
+      {
+        "category": "Norsk fotball",
+        "title": "Norge i fotball-VM – menn",
+        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Toppscorere i fotball-VM – menn",
+        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM-vinnere i fotball – menn",
+        "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Folkegrupper i Nord-Amerika",
+        "title": "osage",
+        "url": "https://snl.no/osage"
+      },
+      {
+        "category": "Internasjonal pop og rock",
+        "title": "Bonnie Tyler",
+        "url": "https://snl.no/Bonnie_Tyler"
+      },
+      {
+        "category": "Selsnepeslekta",
+        "title": "selsnepe",
+        "url": "https://snl.no/selsnepe"
+      },
+      {
+        "category": "Bjørnekjeksslekta",
+        "title": "bjørnekjeks",
+        "url": "https://snl.no/bj%C3%B8rnekjeks"
+      },
+      {
+        "category": "Nasjonalsanger",
+        "title": "Frankrikes nasjonalsang",
+        "url": "https://snl.no/Frankrikes_nasjonalsang"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Utenlandske språkforskere",
+        "title": "Peder Ivarssøn Borch",
+        "url": "https://snl.no/Peder_Ivarss%C3%B8n_Borch"
+      },
+      {
+        "category": "Glass og keramikk – begreper",
+        "title": "Norgesglass",
+        "url": "https://snl.no/Norgesglass"
+      },
+      {
+        "category": "Rederier",
+        "title": "Peninsular and Oriental Steam Navigation Company",
+        "url": "https://snl.no/Peninsular_and_Oriental_Steam_Navigation_Company"
+      },
+      {
+        "category": "Internasjonale tegnekunstnere",
+        "title": "Norman Rockwell",
+        "url": "https://snl.no/Norman_Rockwell"
+      },
+      {
+        "category": "Fotohistoriske biografier",
+        "title": "Edward Steichen",
+        "url": "https://snl.no/Edward_Steichen"
+      }
+    ]
   }
 }
