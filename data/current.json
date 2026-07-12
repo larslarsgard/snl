@@ -1,17 +1,7 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Marokkos geografi",
-        "title": "Marokko",
-        "url": "https://snl.no/Marokko"
-      },
-      {
-        "category": "Giftliljefamilien",
-        "title": "finnmarksnyserot",
-        "url": "https://snl.no/finnmarksnyserot"
-      },
       {
         "category": "Norsk fotball",
         "title": "Norge i fotball-VM – menn",
@@ -19,13 +9,23 @@
       },
       {
         "category": "Internasjonal fotball",
+        "title": "VM-vinnere i fotball – menn",
+        "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
+      },
+      {
+        "category": "Tekstilkunst",
+        "title": "Bayeuxteppet",
+        "url": "https://snl.no/Bayeuxteppet"
+      },
+      {
+        "category": "Internasjonal fotball",
         "title": "Toppscorere i fotball-VM – menn",
         "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
       },
       {
-        "category": "Internasjonal fotball",
-        "title": "VM-vinnere i fotball – menn",
-        "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
+        "category": "Flaggermus",
+        "title": "småflaggermus",
+        "url": "https://snl.no/sm%C3%A5flaggermus"
       }
     ],
     "Uvanlig mye lest": [
@@ -35,51 +35,51 @@
         "url": "https://snl.no/osage"
       },
       {
-        "category": "Internasjonal pop og rock",
-        "title": "Bonnie Tyler",
-        "url": "https://snl.no/Bonnie_Tyler"
+        "category": "Internasjonale klassiske sangere",
+        "title": "Andrea Bocelli",
+        "url": "https://snl.no/Andrea_Bocelli"
       },
       {
-        "category": "Selsnepeslekta",
-        "title": "selsnepe",
-        "url": "https://snl.no/selsnepe"
+        "category": "Storbritannia og Nord-Irlands nyere litteratur",
+        "title": "Ian McEwan",
+        "url": "https://snl.no/Ian_McEwan"
       },
       {
-        "category": "Bjørnekjeksslekta",
-        "title": "bjørnekjeks",
-        "url": "https://snl.no/bj%C3%B8rnekjeks"
+        "category": "Øvrig europeisk fotball",
+        "title": "Kevin De Bruyne",
+        "url": "https://snl.no/Kevin_De_Bruyne"
       },
       {
-        "category": "Nasjonalsanger",
-        "title": "Frankrikes nasjonalsang",
-        "url": "https://snl.no/Frankrikes_nasjonalsang"
+        "category": "Øvrig europeisk fotball",
+        "title": "Thibaut Courtois",
+        "url": "https://snl.no/Thibaut_Courtois"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Tysk fotball",
-        "title": "Bayern München",
-        "url": "https://snl.no/Bayern_M%C3%BCnchen"
+        "category": "Redere og biografier i sjøfarten",
+        "title": "Eilert Bull Simonsen",
+        "url": "https://snl.no/Eilert_Bull_Simonsen"
       },
       {
-        "category": "Storbritannia og Nord-Irlands litteratur på 1900-tallet",
-        "title": "Edward Thomas",
-        "url": "https://snl.no/Edward_Thomas"
+        "category": "Bahrains historie",
+        "title": "Bahrains samtidshistorie",
+        "url": "https://snl.no/Bahrains_samtidshistorie"
       },
       {
-        "category": "Personer i IT-historie",
-        "title": "Pål Spilling",
-        "url": "https://snl.no/P%C3%A5l_Spilling"
+        "category": "Iraks historie",
+        "title": "Iraks samtidshistorie",
+        "url": "https://snl.no/Iraks_samtidshistorie"
       },
       {
-        "category": "Tidligere aviser på Østlandet",
-        "title": "Breviks Dagblad",
-        "url": "https://snl.no/Breviks_Dagblad"
+        "category": "Utforsking av solsystemet",
+        "title": "InSight",
+        "url": "https://snl.no/InSight"
       },
       {
-        "category": "Internasjonale arkitekter fra 1600 til 1900",
-        "title": "Friedrich Eisenlohr",
-        "url": "https://snl.no/Friedrich_Eisenlohr"
+        "category": "Animasjonsfilm",
+        "title": "Mikrofilm – animasjonsstudio",
+        "url": "https://snl.no/Mikrofilm_-_animasjonsstudio"
       }
     ]
   }

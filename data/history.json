@@ -4397,5 +4397,88 @@
         "url": "https://snl.no/Friedrich_Eisenlohr"
       }
     ]
+  },
+  "2026-07-12": {
+    "Mest lest i går": [
+      {
+        "category": "Norsk fotball",
+        "title": "Norge i fotball-VM – menn",
+        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM-vinnere i fotball – menn",
+        "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
+      },
+      {
+        "category": "Tekstilkunst",
+        "title": "Bayeuxteppet",
+        "url": "https://snl.no/Bayeuxteppet"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Toppscorere i fotball-VM – menn",
+        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Flaggermus",
+        "title": "småflaggermus",
+        "url": "https://snl.no/sm%C3%A5flaggermus"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Folkegrupper i Nord-Amerika",
+        "title": "osage",
+        "url": "https://snl.no/osage"
+      },
+      {
+        "category": "Internasjonale klassiske sangere",
+        "title": "Andrea Bocelli",
+        "url": "https://snl.no/Andrea_Bocelli"
+      },
+      {
+        "category": "Storbritannia og Nord-Irlands nyere litteratur",
+        "title": "Ian McEwan",
+        "url": "https://snl.no/Ian_McEwan"
+      },
+      {
+        "category": "Øvrig europeisk fotball",
+        "title": "Kevin De Bruyne",
+        "url": "https://snl.no/Kevin_De_Bruyne"
+      },
+      {
+        "category": "Øvrig europeisk fotball",
+        "title": "Thibaut Courtois",
+        "url": "https://snl.no/Thibaut_Courtois"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Redere og biografier i sjøfarten",
+        "title": "Eilert Bull Simonsen",
+        "url": "https://snl.no/Eilert_Bull_Simonsen"
+      },
+      {
+        "category": "Bahrains historie",
+        "title": "Bahrains samtidshistorie",
+        "url": "https://snl.no/Bahrains_samtidshistorie"
+      },
+      {
+        "category": "Iraks historie",
+        "title": "Iraks samtidshistorie",
+        "url": "https://snl.no/Iraks_samtidshistorie"
+      },
+      {
+        "category": "Utforsking av solsystemet",
+        "title": "InSight",
+        "url": "https://snl.no/InSight"
+      },
+      {
+        "category": "Animasjonsfilm",
+        "title": "Mikrofilm – animasjonsstudio",
+        "url": "https://snl.no/Mikrofilm_-_animasjonsstudio"
+      }
+    ]
   }
 }
