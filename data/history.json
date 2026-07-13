@@ -4480,5 +4480,88 @@
         "url": "https://snl.no/Mikrofilm_-_animasjonsstudio"
       }
     ]
+  },
+  "2026-07-13": {
+    "Mest lest i går": [
+      {
+        "category": "Norsk fotball",
+        "title": "Norge i fotball-VM – menn",
+        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM-vinnere i fotball – menn",
+        "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
+      },
+      {
+        "category": "Norsk fotball",
+        "title": "Norges tropp til fotball-VM i 1998",
+        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_1998"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Fotball-VM i 1998",
+        "url": "https://snl.no/Fotball-VM_i_1998"
+      },
+      {
+        "category": "Norsk fotball",
+        "title": "Norges tropp til fotball-VM i 2026",
+        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_2026"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Landeveissykling",
+        "title": "Vinnere av Tour de France – Frankrike rundt",
+        "url": "https://snl.no/Vinnere_av_Tour_de_France_-_Frankrike_rundt"
+      },
+      {
+        "category": "Lands flagg og våpen",
+        "title": "Englands flagg og våpen",
+        "url": "https://snl.no/Englands_flagg_og_v%C3%A5pen"
+      },
+      {
+        "category": "Historiske biografier i norsk media",
+        "title": "Bjørge Lillelien",
+        "url": "https://snl.no/Bj%C3%B8rge_Lillelien"
+      },
+      {
+        "category": "Norske fotballspillere",
+        "title": "Andreas Schjelderup",
+        "url": "https://snl.no/Andreas_Schjelderup"
+      },
+      {
+        "category": "Engelske fotballspillere",
+        "title": "Harry Kane",
+        "url": "https://snl.no/Harry_Kane"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Renessansen",
+        "title": "Sofonisba Anguissola",
+        "url": "https://snl.no/Sofonisba_Anguissola"
+      },
+      {
+        "category": "Sveriges litteratur på 1500- og 1600-tallet",
+        "title": "Olaus Magnus",
+        "url": "https://snl.no/Olaus_Magnus"
+      },
+      {
+        "category": "Satellittkommunikasjon",
+        "title": "EDRS",
+        "url": "https://snl.no/EDRS"
+      },
+      {
+        "category": "Hellenismen",
+        "title": "Arsinoe 2. Filadelfos",
+        "url": "https://snl.no/Arsinoe_2._Filadelfos"
+      },
+      {
+        "category": "Teknologi- og industrifag",
+        "title": "bilpleier",
+        "url": "https://snl.no/bilpleier"
+      }
+    ]
   }
 }
