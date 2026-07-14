@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "categories": {
     "Mest lest i går": [
       {
@@ -8,31 +8,41 @@
         "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
       },
       {
+        "category": "Termer og begreper i idrett",
+        "title": "ekstraomganger",
+        "url": "https://snl.no/ekstraomganger"
+      },
+      {
         "category": "Internasjonal fotball",
         "title": "VM-vinnere i fotball – menn",
         "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
       },
       {
-        "category": "Norsk fotball",
-        "title": "Norges tropp til fotball-VM i 1998",
-        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_1998"
-      },
-      {
         "category": "Internasjonal fotball",
-        "title": "Fotball-VM i 1998",
-        "url": "https://snl.no/Fotball-VM_i_1998"
+        "title": "VM i fotball – menn",
+        "url": "https://snl.no/VM_i_fotball_-_menn"
       },
       {
-        "category": "Norsk fotball",
-        "title": "Norges tropp til fotball-VM i 2026",
-        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_2026"
+        "category": "Norske fotballspillere",
+        "title": "Andreas Schjelderup",
+        "url": "https://snl.no/Andreas_Schjelderup"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Landeveissykling",
-        "title": "Vinnere av Tour de France – Frankrike rundt",
-        "url": "https://snl.no/Vinnere_av_Tour_de_France_-_Frankrike_rundt"
+        "category": "Internasjonal fotball",
+        "title": "Nasjonsligaen",
+        "url": "https://snl.no/Nasjonsligaen"
+      },
+      {
+        "category": "Regler og begreper i fotball",
+        "title": "VAR – videodømming",
+        "url": "https://snl.no/VAR_-_videod%C3%B8mming"
+      },
+      {
+        "category": "Sør-Amerikas historie",
+        "title": "Falklandskrigen",
+        "url": "https://snl.no/Falklandskrigen"
       },
       {
         "category": "Lands flagg og våpen",
@@ -40,46 +50,36 @@
         "url": "https://snl.no/Englands_flagg_og_v%C3%A5pen"
       },
       {
-        "category": "Historiske biografier i norsk media",
-        "title": "Bjørge Lillelien",
-        "url": "https://snl.no/Bj%C3%B8rge_Lillelien"
-      },
-      {
-        "category": "Norske fotballspillere",
-        "title": "Andreas Schjelderup",
-        "url": "https://snl.no/Andreas_Schjelderup"
-      },
-      {
-        "category": "Engelske fotballspillere",
-        "title": "Harry Kane",
-        "url": "https://snl.no/Harry_Kane"
+        "category": "Internasjonal fotball",
+        "title": "FIFA",
+        "url": "https://snl.no/FIFA"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Renessansen",
-        "title": "Sofonisba Anguissola",
-        "url": "https://snl.no/Sofonisba_Anguissola"
+        "category": "Stavkirker",
+        "title": "Flesberg stavkirke",
+        "url": "https://snl.no/Flesberg_stavkirke"
       },
       {
-        "category": "Sveriges litteratur på 1500- og 1600-tallet",
-        "title": "Olaus Magnus",
-        "url": "https://snl.no/Olaus_Magnus"
+        "category": "Internasjonale tegnekunstnere",
+        "title": "Anton Hansen",
+        "url": "https://snl.no/Anton_Hansen"
       },
       {
-        "category": "Satellittkommunikasjon",
-        "title": "EDRS",
-        "url": "https://snl.no/EDRS"
+        "category": "Ulike lands filmindustri",
+        "title": "Film i Pakistan",
+        "url": "https://snl.no/Film_i_Pakistan"
       },
       {
-        "category": "Hellenismen",
-        "title": "Arsinoe 2. Filadelfos",
-        "url": "https://snl.no/Arsinoe_2._Filadelfos"
+        "category": "Militant islamisme",
+        "title": "Sayyid Qutb",
+        "url": "https://snl.no/Sayyid_Qutb"
       },
       {
-        "category": "Teknologi- og industrifag",
-        "title": "bilpleier",
-        "url": "https://snl.no/bilpleier"
+        "category": "Portugals litteratur",
+        "title": "Judith Teixeira",
+        "url": "https://snl.no/Judith_Teixeira"
       }
     ]
   }

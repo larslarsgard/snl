@@ -4563,5 +4563,88 @@
         "url": "https://snl.no/bilpleier"
       }
     ]
+  },
+  "2026-07-14": {
+    "Mest lest i går": [
+      {
+        "category": "Norsk fotball",
+        "title": "Norge i fotball-VM – menn",
+        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Termer og begreper i idrett",
+        "title": "ekstraomganger",
+        "url": "https://snl.no/ekstraomganger"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM-vinnere i fotball – menn",
+        "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM i fotball – menn",
+        "url": "https://snl.no/VM_i_fotball_-_menn"
+      },
+      {
+        "category": "Norske fotballspillere",
+        "title": "Andreas Schjelderup",
+        "url": "https://snl.no/Andreas_Schjelderup"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Internasjonal fotball",
+        "title": "Nasjonsligaen",
+        "url": "https://snl.no/Nasjonsligaen"
+      },
+      {
+        "category": "Regler og begreper i fotball",
+        "title": "VAR – videodømming",
+        "url": "https://snl.no/VAR_-_videod%C3%B8mming"
+      },
+      {
+        "category": "Sør-Amerikas historie",
+        "title": "Falklandskrigen",
+        "url": "https://snl.no/Falklandskrigen"
+      },
+      {
+        "category": "Lands flagg og våpen",
+        "title": "Englands flagg og våpen",
+        "url": "https://snl.no/Englands_flagg_og_v%C3%A5pen"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "FIFA",
+        "url": "https://snl.no/FIFA"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Stavkirker",
+        "title": "Flesberg stavkirke",
+        "url": "https://snl.no/Flesberg_stavkirke"
+      },
+      {
+        "category": "Internasjonale tegnekunstnere",
+        "title": "Anton Hansen",
+        "url": "https://snl.no/Anton_Hansen"
+      },
+      {
+        "category": "Ulike lands filmindustri",
+        "title": "Film i Pakistan",
+        "url": "https://snl.no/Film_i_Pakistan"
+      },
+      {
+        "category": "Militant islamisme",
+        "title": "Sayyid Qutb",
+        "url": "https://snl.no/Sayyid_Qutb"
+      },
+      {
+        "category": "Portugals litteratur",
+        "title": "Judith Teixeira",
+        "url": "https://snl.no/Judith_Teixeira"
+      }
+    ]
   }
 }
