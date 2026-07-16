@@ -4729,5 +4729,88 @@
         "url": "https://snl.no/Jette_-_kvinnenamn"
       }
     ]
+  },
+  "2026-07-16": {
+    "Mest lest i går": [
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM-vinnere i fotball – menn",
+        "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
+      },
+      {
+        "category": "Glatthaifamilien",
+        "title": "gråhai",
+        "url": "https://snl.no/gr%C3%A5hai"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM i fotball – menn",
+        "url": "https://snl.no/VM_i_fotball_-_menn"
+      },
+      {
+        "category": "Håbrannfamilien",
+        "title": "håbrann",
+        "url": "https://snl.no/h%C3%A5brann"
+      },
+      {
+        "category": "Kamtannhaifamilien",
+        "title": "kamtannhai",
+        "url": "https://snl.no/kamtannhai"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Svarthåfamilien",
+        "title": "svarthå",
+        "url": "https://snl.no/svarth%C3%A5"
+      },
+      {
+        "category": "Rødhaifamilien",
+        "title": "hågjel",
+        "url": "https://snl.no/h%C3%A5gjel"
+      },
+      {
+        "category": "Rødhaifamilien",
+        "title": "rødhaier",
+        "url": "https://snl.no/r%C3%B8dhaier"
+      },
+      {
+        "category": "Skogbiologi",
+        "title": "vridd vekst",
+        "url": "https://snl.no/vridd_vekst"
+      },
+      {
+        "category": "Pigghåfamilien",
+        "title": "pigghå",
+        "url": "https://snl.no/piggh%C3%A5"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Stavkirker",
+        "title": "Hegge stavkirke",
+        "url": "https://snl.no/Hegge_stavkirke"
+      },
+      {
+        "category": "Religionsvitenskap",
+        "title": "himmelfart",
+        "url": "https://snl.no/himmelfart"
+      },
+      {
+        "category": "Madagaskars litteratur",
+        "title": "Madagaskars litteratur",
+        "url": "https://snl.no/Madagaskars_litteratur"
+      },
+      {
+        "category": "Ugandas samtidshistorie",
+        "title": "Ugandas utenrikspolitikk",
+        "url": "https://snl.no/Ugandas_utenrikspolitikk"
+      },
+      {
+        "category": "Fly- og helikopterprodusenter",
+        "title": "Kamov",
+        "url": "https://snl.no/Kamov"
+      }
+    ]
   }
 }

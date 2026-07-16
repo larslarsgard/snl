@@ -1,85 +1,85 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Norsk fotball",
-        "title": "Norge i fotball-VM – menn",
-        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
+        "category": "Internasjonal fotball",
+        "title": "VM-vinnere i fotball – menn",
+        "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
       },
       {
-        "category": "Norsk fotball",
-        "title": "Norges tropp til fotball-VM i 2026",
-        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_2026"
+        "category": "Glatthaifamilien",
+        "title": "gråhai",
+        "url": "https://snl.no/gr%C3%A5hai"
       },
       {
         "category": "Internasjonal fotball",
-        "title": "VM i fotball – kvinner",
-        "url": "https://snl.no/VM_i_fotball_-_kvinner"
+        "title": "VM i fotball – menn",
+        "url": "https://snl.no/VM_i_fotball_-_menn"
       },
       {
-        "category": "Norske fotballspillere",
-        "title": "Andreas Schjelderup",
-        "url": "https://snl.no/Andreas_Schjelderup"
+        "category": "Håbrannfamilien",
+        "title": "håbrann",
+        "url": "https://snl.no/h%C3%A5brann"
       },
       {
-        "category": "Norsk fotball",
-        "title": "Norges tropp til fotball-VM i 1998",
-        "url": "https://snl.no/Norges_tropp_til_fotball-VM_i_1998"
+        "category": "Kamtannhaifamilien",
+        "title": "kamtannhai",
+        "url": "https://snl.no/kamtannhai"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Mekanikk",
-        "title": "gyroskop",
-        "url": "https://snl.no/gyroskop"
+        "category": "Svarthåfamilien",
+        "title": "svarthå",
+        "url": "https://snl.no/svarth%C3%A5"
       },
       {
-        "category": "Sør-Amerikas historie",
-        "title": "Falklandskrigen",
-        "url": "https://snl.no/Falklandskrigen"
+        "category": "Rødhaifamilien",
+        "title": "hågjel",
+        "url": "https://snl.no/h%C3%A5gjel"
       },
       {
-        "category": "Norske fotballspillere",
-        "title": "Ørjan Berg",
-        "url": "https://snl.no/%C3%98rjan_Berg"
+        "category": "Rødhaifamilien",
+        "title": "rødhaier",
+        "url": "https://snl.no/r%C3%B8dhaier"
       },
       {
-        "category": "Norske fotballspillere",
-        "title": "Julian Ryerson",
-        "url": "https://snl.no/Julian_Ryerson"
+        "category": "Skogbiologi",
+        "title": "vridd vekst",
+        "url": "https://snl.no/vridd_vekst"
       },
       {
-        "category": "Cyaneidae",
-        "title": "blå brennmanet",
-        "url": "https://snl.no/bl%C3%A5_brennmanet"
+        "category": "Pigghåfamilien",
+        "title": "pigghå",
+        "url": "https://snl.no/piggh%C3%A5"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Norrøn litteratur",
-        "title": "Sagaen om britane",
-        "url": "https://snl.no/Sagaen_om_britane"
+        "category": "Stavkirker",
+        "title": "Hegge stavkirke",
+        "url": "https://snl.no/Hegge_stavkirke"
       },
       {
-        "category": "Estlands geografi",
-        "title": "Ruhnu",
-        "url": "https://snl.no/Ruhnu"
+        "category": "Religionsvitenskap",
+        "title": "himmelfart",
+        "url": "https://snl.no/himmelfart"
       },
       {
-        "category": "Turisthytter",
-        "title": "turisthytte",
-        "url": "https://snl.no/turisthytte"
+        "category": "Madagaskars litteratur",
+        "title": "Madagaskars litteratur",
+        "url": "https://snl.no/Madagaskars_litteratur"
       },
       {
-        "category": "Filmsjangre",
-        "title": "western",
-        "url": "https://snl.no/western"
+        "category": "Ugandas samtidshistorie",
+        "title": "Ugandas utenrikspolitikk",
+        "url": "https://snl.no/Ugandas_utenrikspolitikk"
       },
       {
-        "category": "Jentenavn",
-        "title": "Jette – kvinnenamn",
-        "url": "https://snl.no/Jette_-_kvinnenamn"
+        "category": "Fly- og helikopterprodusenter",
+        "title": "Kamov",
+        "url": "https://snl.no/Kamov"
       }
     ]
   }
