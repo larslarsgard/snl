@@ -4812,5 +4812,88 @@
         "url": "https://snl.no/Kamov"
       }
     ]
+  },
+  "2026-07-17": {
+    "Mest lest i går": [
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM-vinnere i fotball – menn",
+        "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
+      },
+      {
+        "category": "Sør-Amerikas historie",
+        "title": "Falklandskrigen",
+        "url": "https://snl.no/Falklandskrigen"
+      },
+      {
+        "category": "Argentinas geografi",
+        "title": "Argentina",
+        "url": "https://snl.no/Argentina"
+      },
+      {
+        "category": "Falklandsøyene, Sør-Georgia og Sør-Sandwichøyene",
+        "title": "Falklandsøyene",
+        "url": "https://snl.no/Falklands%C3%B8yene"
+      },
+      {
+        "category": "Glatthaifamilien",
+        "title": "gråhai",
+        "url": "https://snl.no/gr%C3%A5hai"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Skyer og nedbør",
+        "title": "adveksjonståke",
+        "url": "https://snl.no/adveksjonst%C3%A5ke"
+      },
+      {
+        "category": "Svarthåfamilien",
+        "title": "svarthå",
+        "url": "https://snl.no/svarth%C3%A5"
+      },
+      {
+        "category": "Kamtannhaifamilien",
+        "title": "kamtannhai",
+        "url": "https://snl.no/kamtannhai"
+      },
+      {
+        "category": "Rødhaifamilien",
+        "title": "hågjel",
+        "url": "https://snl.no/h%C3%A5gjel"
+      },
+      {
+        "category": "Rødhaifamilien",
+        "title": "rødhaier",
+        "url": "https://snl.no/r%C3%B8dhaier"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Personer i IT-historie",
+        "title": "Fredrik Rosing Bull",
+        "url": "https://snl.no/Fredrik_Rosing_Bull"
+      },
+      {
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "pikrinsyre",
+        "url": "https://snl.no/pikrinsyre"
+      },
+      {
+        "category": "Norske kirkebygg",
+        "title": "Velfjord kirke",
+        "url": "https://snl.no/Velfjord_kirke"
+      },
+      {
+        "category": "Storbritannia og Nord-Irlands litteratur på 1800-tallet",
+        "title": "Sara Coleridge",
+        "url": "https://snl.no/Sara_Coleridge"
+      },
+      {
+        "category": "Barne- og ungdomsmedisin",
+        "title": "failure to thrive",
+        "url": "https://sml.snl.no/failure_to_thrive"
+      }
+    ]
   }
 }
