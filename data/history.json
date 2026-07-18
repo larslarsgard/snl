@@ -4895,5 +4895,88 @@
         "url": "https://sml.snl.no/failure_to_thrive"
       }
     ]
+  },
+  "2026-07-18": {
+    "Mest lest i går": [
+      {
+        "category": "Falklandsøyene, Sør-Georgia og Sør-Sandwichøyene",
+        "title": "Falklandsøyene",
+        "url": "https://snl.no/Falklands%C3%B8yene"
+      },
+      {
+        "category": "Sør-Amerikas historie",
+        "title": "Falklandskrigen",
+        "url": "https://snl.no/Falklandskrigen"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM-vinnere i fotball – menn",
+        "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
+      },
+      {
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odysseen",
+        "url": "https://snl.no/Odysseen"
+      },
+      {
+        "category": "Argentinas geografi",
+        "title": "Argentina",
+        "url": "https://snl.no/Argentina"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Rovteger",
+        "title": "rovteger",
+        "url": "https://snl.no/rovteger"
+      },
+      {
+        "category": "Den greske antikken",
+        "title": "trojanerkrigen",
+        "url": "https://snl.no/trojanerkrigen"
+      },
+      {
+        "category": "Gresk religion",
+        "title": "Poseidon",
+        "url": "https://snl.no/Poseidon"
+      },
+      {
+        "category": "Argentinas historie",
+        "title": "Argentinas historie før 2000",
+        "url": "https://snl.no/Argentinas_historie_f%C3%B8r_2000"
+      },
+      {
+        "category": "Tovinger",
+        "title": "klegg",
+        "url": "https://snl.no/klegg"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Guatemalas samtidshistorie",
+        "title": "Rigoberta Menchú Tum",
+        "url": "https://snl.no/Rigoberta_Mench%C3%BA_Tum"
+      },
+      {
+        "category": "Leksikonfag",
+        "title": "Gyldendals konversasjonsleksikon",
+        "url": "https://snl.no/Gyldendals_konversasjonsleksikon"
+      },
+      {
+        "category": "Rettskildelære",
+        "title": "automatisert lovgivning",
+        "url": "https://snl.no/automatisert_lovgivning"
+      },
+      {
+        "category": "Nord-Irlands historie",
+        "title": "John M. Andrews",
+        "url": "https://snl.no/John_M._Andrews"
+      },
+      {
+        "category": "Svalbard",
+        "title": "The Northern Exploration Company",
+        "url": "https://snl.no/The_Northern_Exploration_Company"
+      }
+    ]
   }
 }
