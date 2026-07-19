@@ -1,21 +1,16 @@
 {
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Falklandsøyene, Sør-Georgia og Sør-Sandwichøyene",
-        "title": "Falklandsøyene",
-        "url": "https://snl.no/Falklands%C3%B8yene"
+        "category": "TV- og radiopersoner",
+        "title": "Trond Kirkvaag",
+        "url": "https://snl.no/Trond_Kirkvaag"
       },
       {
-        "category": "Sør-Amerikas historie",
-        "title": "Falklandskrigen",
-        "url": "https://snl.no/Falklandskrigen"
-      },
-      {
-        "category": "Internasjonal fotball",
-        "title": "VM-vinnere i fotball – menn",
-        "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
+        "category": "Brann og brannvern",
+        "title": "norske storbranner",
+        "url": "https://snl.no/norske_storbranner"
       },
       {
         "category": "Hellas’ litteratur i antikken",
@@ -23,63 +18,68 @@
         "url": "https://snl.no/Odysseen"
       },
       {
-        "category": "Argentinas geografi",
-        "title": "Argentina",
-        "url": "https://snl.no/Argentina"
+        "category": "Internasjonal fotball",
+        "title": "VM-vinnere i fotball – menn",
+        "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
+      },
+      {
+        "category": "Sportsdans",
+        "title": "Cecilie Brinck Rygel",
+        "url": "https://snl.no/Cecilie_Brinck_Rygel"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Rovteger",
-        "title": "rovteger",
-        "url": "https://snl.no/rovteger"
+        "category": "Østerrikes nyere litteratur",
+        "title": "Daniel Kehlmann",
+        "url": "https://snl.no/Daniel_Kehlmann"
       },
       {
-        "category": "Den greske antikken",
-        "title": "trojanerkrigen",
-        "url": "https://snl.no/trojanerkrigen"
+        "category": "Øvrig europeisk malerkunst 1400–1750",
+        "title": "Le Nain",
+        "url": "https://snl.no/Le_Nain"
       },
       {
-        "category": "Gresk religion",
-        "title": "Poseidon",
-        "url": "https://snl.no/Poseidon"
+        "category": "Drammen",
+        "title": "Krokstadelva",
+        "url": "https://snl.no/Krokstadelva"
       },
       {
-        "category": "Argentinas historie",
-        "title": "Argentinas historie før 2000",
-        "url": "https://snl.no/Argentinas_historie_f%C3%B8r_2000"
+        "category": "Bilsport",
+        "title": "Formel 1 – Grand Prix-seire",
+        "url": "https://snl.no/Formel_1_-_Grand_Prix-seire"
       },
       {
-        "category": "Tovinger",
-        "title": "klegg",
-        "url": "https://snl.no/klegg"
+        "category": "Teger",
+        "title": "teger",
+        "url": "https://snl.no/teger"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Guatemalas samtidshistorie",
-        "title": "Rigoberta Menchú Tum",
-        "url": "https://snl.no/Rigoberta_Mench%C3%BA_Tum"
-      },
-      {
-        "category": "Leksikonfag",
-        "title": "Gyldendals konversasjonsleksikon",
-        "url": "https://snl.no/Gyldendals_konversasjonsleksikon"
-      },
-      {
-        "category": "Rettskildelære",
-        "title": "automatisert lovgivning",
-        "url": "https://snl.no/automatisert_lovgivning"
-      },
-      {
-        "category": "Nord-Irlands historie",
-        "title": "John M. Andrews",
-        "url": "https://snl.no/John_M._Andrews"
-      },
-      {
         "category": "Svalbard",
-        "title": "The Northern Exploration Company",
-        "url": "https://snl.no/The_Northern_Exploration_Company"
+        "title": "Næringsliv på Svalbard",
+        "url": "https://snl.no/N%C3%A6ringsliv_p%C3%A5_Svalbard"
+      },
+      {
+        "category": "Militant islamisme",
+        "title": "Palestinsk islamsk jihad",
+        "url": "https://snl.no/Palestinsk_islamsk_jihad"
+      },
+      {
+        "category": "Glasskunstnere og keramikere",
+        "title": "Magne Stueland",
+        "url": "https://snl.no/Magne_Stueland"
+      },
+      {
+        "category": "Jentenavn",
+        "title": "Betty – kvinnenamn",
+        "url": "https://snl.no/Betty_-_kvinnenamn"
+      },
+      {
+        "category": "Tidligere aviser i Nord-Norge",
+        "title": "Nordlands Arbeiderblad",
+        "url": "https://snl.no/Nordlands_Arbeiderblad"
       }
     ]
   }

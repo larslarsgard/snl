@@ -4978,5 +4978,88 @@
         "url": "https://snl.no/The_Northern_Exploration_Company"
       }
     ]
+  },
+  "2026-07-19": {
+    "Mest lest i går": [
+      {
+        "category": "TV- og radiopersoner",
+        "title": "Trond Kirkvaag",
+        "url": "https://snl.no/Trond_Kirkvaag"
+      },
+      {
+        "category": "Brann og brannvern",
+        "title": "norske storbranner",
+        "url": "https://snl.no/norske_storbranner"
+      },
+      {
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odysseen",
+        "url": "https://snl.no/Odysseen"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM-vinnere i fotball – menn",
+        "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
+      },
+      {
+        "category": "Sportsdans",
+        "title": "Cecilie Brinck Rygel",
+        "url": "https://snl.no/Cecilie_Brinck_Rygel"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Østerrikes nyere litteratur",
+        "title": "Daniel Kehlmann",
+        "url": "https://snl.no/Daniel_Kehlmann"
+      },
+      {
+        "category": "Øvrig europeisk malerkunst 1400–1750",
+        "title": "Le Nain",
+        "url": "https://snl.no/Le_Nain"
+      },
+      {
+        "category": "Drammen",
+        "title": "Krokstadelva",
+        "url": "https://snl.no/Krokstadelva"
+      },
+      {
+        "category": "Bilsport",
+        "title": "Formel 1 – Grand Prix-seire",
+        "url": "https://snl.no/Formel_1_-_Grand_Prix-seire"
+      },
+      {
+        "category": "Teger",
+        "title": "teger",
+        "url": "https://snl.no/teger"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Svalbard",
+        "title": "Næringsliv på Svalbard",
+        "url": "https://snl.no/N%C3%A6ringsliv_p%C3%A5_Svalbard"
+      },
+      {
+        "category": "Militant islamisme",
+        "title": "Palestinsk islamsk jihad",
+        "url": "https://snl.no/Palestinsk_islamsk_jihad"
+      },
+      {
+        "category": "Glasskunstnere og keramikere",
+        "title": "Magne Stueland",
+        "url": "https://snl.no/Magne_Stueland"
+      },
+      {
+        "category": "Jentenavn",
+        "title": "Betty – kvinnenamn",
+        "url": "https://snl.no/Betty_-_kvinnenamn"
+      },
+      {
+        "category": "Tidligere aviser i Nord-Norge",
+        "title": "Nordlands Arbeiderblad",
+        "url": "https://snl.no/Nordlands_Arbeiderblad"
+      }
+    ]
   }
 }
