@@ -1,85 +1,85 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "TV- og radiopersoner",
-        "title": "Trond Kirkvaag",
-        "url": "https://snl.no/Trond_Kirkvaag"
-      },
-      {
-        "category": "Brann og brannvern",
-        "title": "norske storbranner",
-        "url": "https://snl.no/norske_storbranner"
-      },
-      {
-        "category": "Hellas’ litteratur i antikken",
-        "title": "Odysseen",
-        "url": "https://snl.no/Odysseen"
-      },
       {
         "category": "Internasjonal fotball",
         "title": "VM-vinnere i fotball – menn",
         "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
       },
       {
-        "category": "Sportsdans",
-        "title": "Cecilie Brinck Rygel",
-        "url": "https://snl.no/Cecilie_Brinck_Rygel"
+        "category": "Argentinas geografi",
+        "title": "Argentina",
+        "url": "https://snl.no/Argentina"
+      },
+      {
+        "category": "Nettkultur",
+        "title": "mannosfæren",
+        "url": "https://snl.no/mannosf%C3%A6ren"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Toppscorere i fotball-VM – menn",
+        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Lokalforvaltning",
+        "title": "fylke",
+        "url": "https://snl.no/fylke"
       }
     ],
     "Uvanlig mye lest": [
+      {
+        "category": "Slott og palasser",
+        "title": "Schönbrunn",
+        "url": "https://snl.no/Sch%C3%B6nbrunn"
+      },
       {
         "category": "Østerrikes nyere litteratur",
         "title": "Daniel Kehlmann",
         "url": "https://snl.no/Daniel_Kehlmann"
       },
       {
-        "category": "Øvrig europeisk malerkunst 1400–1750",
-        "title": "Le Nain",
-        "url": "https://snl.no/Le_Nain"
+        "category": "Norges historie fra 1884 til 1940",
+        "title": "Ålesundsbrannen",
+        "url": "https://snl.no/%C3%85lesundsbrannen"
       },
       {
-        "category": "Drammen",
-        "title": "Krokstadelva",
-        "url": "https://snl.no/Krokstadelva"
+        "category": "Den greske antikken",
+        "title": "trojanerkrigen",
+        "url": "https://snl.no/trojanerkrigen"
       },
       {
-        "category": "Bilsport",
-        "title": "Formel 1 – Grand Prix-seire",
-        "url": "https://snl.no/Formel_1_-_Grand_Prix-seire"
-      },
-      {
-        "category": "Teger",
-        "title": "teger",
-        "url": "https://snl.no/teger"
+        "category": "Båndfisker",
+        "title": "sildekonge",
+        "url": "https://snl.no/sildekonge"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Svalbard",
-        "title": "Næringsliv på Svalbard",
-        "url": "https://snl.no/N%C3%A6ringsliv_p%C3%A5_Svalbard"
+        "category": "Nautiske og maritime begrep",
+        "title": "havn",
+        "url": "https://snl.no/havn"
       },
       {
-        "category": "Militant islamisme",
-        "title": "Palestinsk islamsk jihad",
-        "url": "https://snl.no/Palestinsk_islamsk_jihad"
+        "category": "Folkegrupper i Mellom-Amerika",
+        "title": "mam",
+        "url": "https://snl.no/mam"
       },
       {
-        "category": "Glasskunstnere og keramikere",
-        "title": "Magne Stueland",
-        "url": "https://snl.no/Magne_Stueland"
+        "category": "Stavkirker",
+        "title": "Torpo stavkirke",
+        "url": "https://snl.no/Torpo_stavkirke"
       },
       {
-        "category": "Jentenavn",
-        "title": "Betty – kvinnenamn",
-        "url": "https://snl.no/Betty_-_kvinnenamn"
+        "category": "Tysklands litteratur 1950–2000",
+        "title": "Arnold Zweig",
+        "url": "https://snl.no/Arnold_Zweig"
       },
       {
-        "category": "Tidligere aviser i Nord-Norge",
-        "title": "Nordlands Arbeiderblad",
-        "url": "https://snl.no/Nordlands_Arbeiderblad"
+        "category": "Tunisias franskspråklige litteratur",
+        "title": "Fawzi Mellah",
+        "url": "https://snl.no/Fawzi_Mellah"
       }
     ]
   }

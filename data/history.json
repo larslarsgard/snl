@@ -5061,5 +5061,88 @@
         "url": "https://snl.no/Nordlands_Arbeiderblad"
       }
     ]
+  },
+  "2026-07-20": {
+    "Mest lest i går": [
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM-vinnere i fotball – menn",
+        "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
+      },
+      {
+        "category": "Argentinas geografi",
+        "title": "Argentina",
+        "url": "https://snl.no/Argentina"
+      },
+      {
+        "category": "Nettkultur",
+        "title": "mannosfæren",
+        "url": "https://snl.no/mannosf%C3%A6ren"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Toppscorere i fotball-VM – menn",
+        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Lokalforvaltning",
+        "title": "fylke",
+        "url": "https://snl.no/fylke"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Slott og palasser",
+        "title": "Schönbrunn",
+        "url": "https://snl.no/Sch%C3%B6nbrunn"
+      },
+      {
+        "category": "Østerrikes nyere litteratur",
+        "title": "Daniel Kehlmann",
+        "url": "https://snl.no/Daniel_Kehlmann"
+      },
+      {
+        "category": "Norges historie fra 1884 til 1940",
+        "title": "Ålesundsbrannen",
+        "url": "https://snl.no/%C3%85lesundsbrannen"
+      },
+      {
+        "category": "Den greske antikken",
+        "title": "trojanerkrigen",
+        "url": "https://snl.no/trojanerkrigen"
+      },
+      {
+        "category": "Båndfisker",
+        "title": "sildekonge",
+        "url": "https://snl.no/sildekonge"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Nautiske og maritime begrep",
+        "title": "havn",
+        "url": "https://snl.no/havn"
+      },
+      {
+        "category": "Folkegrupper i Mellom-Amerika",
+        "title": "mam",
+        "url": "https://snl.no/mam"
+      },
+      {
+        "category": "Stavkirker",
+        "title": "Torpo stavkirke",
+        "url": "https://snl.no/Torpo_stavkirke"
+      },
+      {
+        "category": "Tysklands litteratur 1950–2000",
+        "title": "Arnold Zweig",
+        "url": "https://snl.no/Arnold_Zweig"
+      },
+      {
+        "category": "Tunisias franskspråklige litteratur",
+        "title": "Fawzi Mellah",
+        "url": "https://snl.no/Fawzi_Mellah"
+      }
+    ]
   }
 }
