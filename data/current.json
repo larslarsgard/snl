@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "categories": {
     "Mest lest i går": [
       {
@@ -30,56 +30,56 @@
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Slott og palasser",
-        "title": "Schönbrunn",
-        "url": "https://snl.no/Sch%C3%B6nbrunn"
+        "category": "Tekstilredskaper",
+        "title": "rennestikke",
+        "url": "https://snl.no/rennestikke"
       },
       {
-        "category": "Østerrikes nyere litteratur",
-        "title": "Daniel Kehlmann",
-        "url": "https://snl.no/Daniel_Kehlmann"
+        "category": "Tunneler i Norge",
+        "title": "Vatlandstunnelen",
+        "url": "https://snl.no/Vatlandstunnelen"
       },
       {
-        "category": "Norges historie fra 1884 til 1940",
-        "title": "Ålesundsbrannen",
-        "url": "https://snl.no/%C3%85lesundsbrannen"
+        "category": "Krigsfanger og fangeleire",
+        "title": "Sydspissen fangeleir",
+        "url": "https://snl.no/Sydspissen_fangeleir"
       },
       {
-        "category": "Den greske antikken",
-        "title": "trojanerkrigen",
-        "url": "https://snl.no/trojanerkrigen"
+        "category": "Nasjonalsanger",
+        "title": "Argentinas nasjonalsang",
+        "url": "https://snl.no/Argentinas_nasjonalsang"
       },
       {
-        "category": "Båndfisker",
-        "title": "sildekonge",
-        "url": "https://snl.no/sildekonge"
+        "category": "Nasjonalsanger",
+        "title": "Spanias nasjonalsang",
+        "url": "https://snl.no/Spanias_nasjonalsang"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Nautiske og maritime begrep",
-        "title": "havn",
-        "url": "https://snl.no/havn"
-      },
-      {
-        "category": "Folkegrupper i Mellom-Amerika",
-        "title": "mam",
-        "url": "https://snl.no/mam"
-      },
-      {
         "category": "Stavkirker",
-        "title": "Torpo stavkirke",
-        "url": "https://snl.no/Torpo_stavkirke"
+        "title": "Haltdalen stavkirke",
+        "url": "https://snl.no/Haltdalen_stavkirke"
       },
       {
-        "category": "Tysklands litteratur 1950–2000",
-        "title": "Arnold Zweig",
-        "url": "https://snl.no/Arnold_Zweig"
+        "category": "Norsk bildende kunst fra 1800–1945",
+        "title": "Haugianerne – maleri",
+        "url": "https://snl.no/Haugianerne_-_maleri"
       },
       {
-        "category": "Tunisias franskspråklige litteratur",
-        "title": "Fawzi Mellah",
-        "url": "https://snl.no/Fawzi_Mellah"
+        "category": "Østerrikes nyere litteratur",
+        "title": "Anna Mitgutsch",
+        "url": "https://snl.no/Anna_Mitgutsch"
+      },
+      {
+        "category": "Rwandas litteratur",
+        "title": "Rwandas franskspråklige litteratur",
+        "url": "https://snl.no/Rwandas_franskspr%C3%A5klige_litteratur"
+      },
+      {
+        "category": "Jentenavn",
+        "title": "Kristi – kvinnenamn",
+        "url": "https://snl.no/Kristi_-_kvinnenamn"
       }
     ]
   }
