@@ -5227,5 +5227,88 @@
         "url": "https://snl.no/Kristi_-_kvinnenamn"
       }
     ]
+  },
+  "2026-07-22": {
+    "Mest lest i går": [
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM-vinnere i fotball – menn",
+        "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
+      },
+      {
+        "category": "Lokalforvaltning",
+        "title": "fylke",
+        "url": "https://snl.no/fylke"
+      },
+      {
+        "category": "Argentinas geografi",
+        "title": "Argentina",
+        "url": "https://snl.no/Argentina"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Toppscorere i fotball-VM – menn",
+        "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM i fotball – menn",
+        "url": "https://snl.no/VM_i_fotball_-_menn"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Tekstilredskaper",
+        "title": "rennestikke",
+        "url": "https://snl.no/rennestikke"
+      },
+      {
+        "category": "Norske militære biografier",
+        "title": "Cort Adeler",
+        "url": "https://snl.no/Cort_Adeler"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Gullballen – beste spiller i fotball-VM",
+        "url": "https://snl.no/Gullballen_-_beste_spiller_i_fotball-VM"
+      },
+      {
+        "category": "Monarki",
+        "title": "Kongehuset i Spania",
+        "url": "https://snl.no/Kongehuset_i_Spania"
+      },
+      {
+        "category": "Skottlands geografi",
+        "title": "Hebridene",
+        "url": "https://snl.no/Hebridene"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Internasjonale klassiske komponister på 1800-tallet",
+        "title": "William Sterndale Bennett",
+        "url": "https://snl.no/William_Sterndale_Bennett"
+      },
+      {
+        "category": "Georgias samtidshistorie",
+        "title": "Nino Burdzjanadze",
+        "url": "https://snl.no/Nino_Burdzjanadze"
+      },
+      {
+        "category": "Biografier i forlagsbransjen",
+        "title": "Kolbjørn Fjeld",
+        "url": "https://snl.no/Kolbj%C3%B8rn_Fjeld"
+      },
+      {
+        "category": "Likestilling og diskriminering",
+        "title": "likestillingspolitikk",
+        "url": "https://snl.no/likestillingspolitikk"
+      },
+      {
+        "category": "Gullsmeder",
+        "title": "Georg Jensen A/S",
+        "url": "https://snl.no/Georg_Jensen_A/S"
+      }
+    ]
   }
 }

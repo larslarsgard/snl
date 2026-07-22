@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "categories": {
     "Mest lest i går": [
       {
@@ -8,14 +8,14 @@
         "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
       },
       {
+        "category": "Lokalforvaltning",
+        "title": "fylke",
+        "url": "https://snl.no/fylke"
+      },
+      {
         "category": "Argentinas geografi",
         "title": "Argentina",
         "url": "https://snl.no/Argentina"
-      },
-      {
-        "category": "Nettkultur",
-        "title": "mannosfæren",
-        "url": "https://snl.no/mannosf%C3%A6ren"
       },
       {
         "category": "Internasjonal fotball",
@@ -23,9 +23,9 @@
         "url": "https://snl.no/Toppscorere_i_fotball-VM_-_menn"
       },
       {
-        "category": "Lokalforvaltning",
-        "title": "fylke",
-        "url": "https://snl.no/fylke"
+        "category": "Internasjonal fotball",
+        "title": "VM i fotball – menn",
+        "url": "https://snl.no/VM_i_fotball_-_menn"
       }
     ],
     "Uvanlig mye lest": [
@@ -35,51 +35,51 @@
         "url": "https://snl.no/rennestikke"
       },
       {
-        "category": "Tunneler i Norge",
-        "title": "Vatlandstunnelen",
-        "url": "https://snl.no/Vatlandstunnelen"
+        "category": "Norske militære biografier",
+        "title": "Cort Adeler",
+        "url": "https://snl.no/Cort_Adeler"
       },
       {
-        "category": "Krigsfanger og fangeleire",
-        "title": "Sydspissen fangeleir",
-        "url": "https://snl.no/Sydspissen_fangeleir"
+        "category": "Internasjonal fotball",
+        "title": "Gullballen – beste spiller i fotball-VM",
+        "url": "https://snl.no/Gullballen_-_beste_spiller_i_fotball-VM"
       },
       {
-        "category": "Nasjonalsanger",
-        "title": "Argentinas nasjonalsang",
-        "url": "https://snl.no/Argentinas_nasjonalsang"
+        "category": "Monarki",
+        "title": "Kongehuset i Spania",
+        "url": "https://snl.no/Kongehuset_i_Spania"
       },
       {
-        "category": "Nasjonalsanger",
-        "title": "Spanias nasjonalsang",
-        "url": "https://snl.no/Spanias_nasjonalsang"
+        "category": "Skottlands geografi",
+        "title": "Hebridene",
+        "url": "https://snl.no/Hebridene"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Stavkirker",
-        "title": "Haltdalen stavkirke",
-        "url": "https://snl.no/Haltdalen_stavkirke"
+        "category": "Internasjonale klassiske komponister på 1800-tallet",
+        "title": "William Sterndale Bennett",
+        "url": "https://snl.no/William_Sterndale_Bennett"
       },
       {
-        "category": "Norsk bildende kunst fra 1800–1945",
-        "title": "Haugianerne – maleri",
-        "url": "https://snl.no/Haugianerne_-_maleri"
+        "category": "Georgias samtidshistorie",
+        "title": "Nino Burdzjanadze",
+        "url": "https://snl.no/Nino_Burdzjanadze"
       },
       {
-        "category": "Østerrikes nyere litteratur",
-        "title": "Anna Mitgutsch",
-        "url": "https://snl.no/Anna_Mitgutsch"
+        "category": "Biografier i forlagsbransjen",
+        "title": "Kolbjørn Fjeld",
+        "url": "https://snl.no/Kolbj%C3%B8rn_Fjeld"
       },
       {
-        "category": "Rwandas litteratur",
-        "title": "Rwandas franskspråklige litteratur",
-        "url": "https://snl.no/Rwandas_franskspr%C3%A5klige_litteratur"
+        "category": "Likestilling og diskriminering",
+        "title": "likestillingspolitikk",
+        "url": "https://snl.no/likestillingspolitikk"
       },
       {
-        "category": "Jentenavn",
-        "title": "Kristi – kvinnenamn",
-        "url": "https://snl.no/Kristi_-_kvinnenamn"
+        "category": "Gullsmeder",
+        "title": "Georg Jensen A/S",
+        "url": "https://snl.no/Georg_Jensen_A/S"
       }
     ]
   }
