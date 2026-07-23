@@ -5310,5 +5310,88 @@
         "url": "https://snl.no/Georg_Jensen_A/S"
       }
     ]
+  },
+  "2026-07-23": {
+    "Mest lest i går": [
+      {
+        "category": "Norske storgårder",
+        "title": "Hverven",
+        "url": "https://snl.no/Hverven"
+      },
+      {
+        "category": "Roing",
+        "title": "Olaf Tufte",
+        "url": "https://snl.no/Olaf_Tufte"
+      },
+      {
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odysseen",
+        "url": "https://snl.no/Odysseen"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "VM-vinnere i fotball – menn",
+        "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
+      },
+      {
+        "category": "Norges historie etter 1990",
+        "title": "terrorangrepene i Norge 22. juli 2011",
+        "url": "https://snl.no/terrorangrepene_i_Norge_22._juli_2011"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Internasjonal pop og rock",
+        "title": "Cat Stevens",
+        "url": "https://snl.no/Cat_Stevens"
+      },
+      {
+        "category": "Norske tegnekunstnere",
+        "title": "Ragnvald Blix",
+        "url": "https://snl.no/Ragnvald_Blix"
+      },
+      {
+        "category": "Svømmesport",
+        "title": "Alexander Dale Oen",
+        "url": "https://snl.no/Alexander_Dale_Oen"
+      },
+      {
+        "category": "Streder og sund",
+        "title": "Mandebstredet",
+        "url": "https://snl.no/Mandebstredet"
+      },
+      {
+        "category": "Rosefamilien",
+        "title": "kvede",
+        "url": "https://snl.no/kvede"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Zoologi",
+        "title": "hyperparasitt",
+        "url": "https://snl.no/hyperparasitt"
+      },
+      {
+        "category": "Ulike lands filmindustri",
+        "title": "Film i Kina",
+        "url": "https://snl.no/Film_i_Kina"
+      },
+      {
+        "category": "Mosambiks historie",
+        "title": "Samora Moises Machel",
+        "url": "https://snl.no/Samora_Moises_Machel"
+      },
+      {
+        "category": "Postverk",
+        "title": "postkasse",
+        "url": "https://snl.no/postkasse"
+      },
+      {
+        "category": "Militant islamisme",
+        "title": "Ayman al-Zawahiri",
+        "url": "https://snl.no/Ayman_al-Zawahiri"
+      }
+    ]
   }
 }
