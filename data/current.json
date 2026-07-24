@@ -1,43 +1,38 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Norske storgårder",
-        "title": "Hverven",
-        "url": "https://snl.no/Hverven"
-      },
-      {
-        "category": "Roing",
-        "title": "Olaf Tufte",
-        "url": "https://snl.no/Olaf_Tufte"
-      },
-      {
-        "category": "Hellas’ litteratur i antikken",
-        "title": "Odysseen",
-        "url": "https://snl.no/Odysseen"
-      },
-      {
-        "category": "Internasjonal fotball",
-        "title": "VM-vinnere i fotball – menn",
-        "url": "https://snl.no/VM-vinnere_i_fotball_-_menn"
+        "category": "Førstehjelp",
+        "title": "hjertestans",
+        "url": "https://sml.snl.no/hjertestans"
       },
       {
         "category": "Norges historie etter 1990",
         "title": "terrorangrepene i Norge 22. juli 2011",
         "url": "https://snl.no/terrorangrepene_i_Norge_22._juli_2011"
+      },
+      {
+        "category": "Biografier i nyere norsk historie",
+        "title": "Anders Behring Breivik",
+        "url": "https://snl.no/Anders_Behring_Breivik"
+      },
+      {
+        "category": "Norges historie etter 1990",
+        "title": "Massedrapet på Utøya",
+        "url": "https://snl.no/Massedrapet_p%C3%A5_Ut%C3%B8ya"
+      },
+      {
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odysseen",
+        "url": "https://snl.no/Odysseen"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Internasjonal pop og rock",
-        "title": "Cat Stevens",
-        "url": "https://snl.no/Cat_Stevens"
-      },
-      {
-        "category": "Norske tegnekunstnere",
-        "title": "Ragnvald Blix",
-        "url": "https://snl.no/Ragnvald_Blix"
+        "category": "Tidligere politikere",
+        "title": "Ina Libak",
+        "url": "https://snl.no/Ina_Libak"
       },
       {
         "category": "Svømmesport",
@@ -45,41 +40,46 @@
         "url": "https://snl.no/Alexander_Dale_Oen"
       },
       {
-        "category": "Streder og sund",
-        "title": "Mandebstredet",
-        "url": "https://snl.no/Mandebstredet"
+        "category": "Tidligere politikere",
+        "title": "Eskil Pedersen",
+        "url": "https://snl.no/Eskil_Pedersen"
       },
       {
-        "category": "Rosefamilien",
-        "title": "kvede",
-        "url": "https://snl.no/kvede"
+        "category": "Kriminalsaker",
+        "title": "Orderud-saken",
+        "url": "https://snl.no/Orderud-saken"
+      },
+      {
+        "category": "Norske politiske partier",
+        "title": "AUF",
+        "url": "https://snl.no/AUF"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Zoologi",
-        "title": "hyperparasitt",
-        "url": "https://snl.no/hyperparasitt"
+        "category": "Internasjonale tegnekunstnere",
+        "title": "Achton Friis",
+        "url": "https://snl.no/Achton_Friis"
       },
       {
-        "category": "Ulike lands filmindustri",
-        "title": "Film i Kina",
-        "url": "https://snl.no/Film_i_Kina"
+        "category": "Stavkirker",
+        "title": "Hopperstad stavkirke",
+        "url": "https://snl.no/Hopperstad_stavkirke"
       },
       {
-        "category": "Mosambiks historie",
-        "title": "Samora Moises Machel",
-        "url": "https://snl.no/Samora_Moises_Machel"
+        "category": "Jødedom",
+        "title": "mizrahim",
+        "url": "https://snl.no/mizrahim"
       },
       {
-        "category": "Postverk",
-        "title": "postkasse",
-        "url": "https://snl.no/postkasse"
+        "category": "Jagerfly og kampfly",
+        "title": "Attacker",
+        "url": "https://snl.no/Attacker"
       },
       {
-        "category": "Militant islamisme",
-        "title": "Ayman al-Zawahiri",
-        "url": "https://snl.no/Ayman_al-Zawahiri"
+        "category": "Menneskerettigheter",
+        "title": "NIM-loven",
+        "url": "https://snl.no/NIM-loven"
       }
     ]
   }
