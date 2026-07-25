@@ -5476,5 +5476,88 @@
         "url": "https://snl.no/NIM-loven"
       }
     ]
+  },
+  "2026-07-25": {
+    "Mest lest i går": [
+      {
+        "category": "Førstehjelp",
+        "title": "hjertestans",
+        "url": "https://sml.snl.no/hjertestans"
+      },
+      {
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odysseen",
+        "url": "https://snl.no/Odysseen"
+      },
+      {
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "hundedagene",
+        "url": "https://snl.no/hundedagene"
+      },
+      {
+        "category": "Kriminalsaker",
+        "title": "Orderud-saken",
+        "url": "https://snl.no/Orderud-saken"
+      },
+      {
+        "category": "Norges historie etter 1990",
+        "title": "terrorangrepene i Norge 22. juli 2011",
+        "url": "https://snl.no/terrorangrepene_i_Norge_22._juli_2011"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Hopp",
+        "title": "Hanne Haugland",
+        "url": "https://snl.no/Hanne_Haugland"
+      },
+      {
+        "category": "Jemens samtidshistorie",
+        "title": "Houthi-bevegelsen",
+        "url": "https://snl.no/Houthi-bevegelsen"
+      },
+      {
+        "category": "Svømmesport",
+        "title": "Alexander Dale Oen",
+        "url": "https://snl.no/Alexander_Dale_Oen"
+      },
+      {
+        "category": "Verdenshavene",
+        "title": "Rødehavet",
+        "url": "https://snl.no/R%C3%B8dehavet"
+      },
+      {
+        "category": "Den greske antikken",
+        "title": "trojanerkrigen",
+        "url": "https://snl.no/trojanerkrigen"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Internasjonale dirigenter",
+        "title": "Karl Böhm",
+        "url": "https://snl.no/Karl_B%C3%B6hm"
+      },
+      {
+        "category": "Norske klassiske komponister og verker 1900–1950",
+        "title": "Signe Lund",
+        "url": "https://snl.no/Signe_Lund"
+      },
+      {
+        "category": "Det bysantinske rike",
+        "title": "Mikael 8. Palaiologos",
+        "url": "https://snl.no/Mikael_8._Palaiologos"
+      },
+      {
+        "category": "Iraks historie",
+        "title": "Iraks samtidshistorie",
+        "url": "https://snl.no/Iraks_samtidshistorie"
+      },
+      {
+        "category": "Utforsking av solsystemet",
+        "title": "InSight",
+        "url": "https://snl.no/InSight"
+      }
+    ]
   }
 }
