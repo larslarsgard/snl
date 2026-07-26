@@ -1,85 +1,85 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Førstehjelp",
-        "title": "hjertestans",
-        "url": "https://sml.snl.no/hjertestans"
-      },
       {
         "category": "Hellas’ litteratur i antikken",
         "title": "Odysseen",
         "url": "https://snl.no/Odysseen"
       },
       {
-        "category": "Folkelige skikker og tradisjoner",
-        "title": "hundedagene",
-        "url": "https://snl.no/hundedagene"
-      },
-      {
-        "category": "Kriminalsaker",
-        "title": "Orderud-saken",
-        "url": "https://snl.no/Orderud-saken"
-      },
-      {
-        "category": "Norges historie etter 1990",
-        "title": "terrorangrepene i Norge 22. juli 2011",
-        "url": "https://snl.no/terrorangrepene_i_Norge_22._juli_2011"
-      }
-    ],
-    "Uvanlig mye lest": [
-      {
-        "category": "Hopp",
-        "title": "Hanne Haugland",
-        "url": "https://snl.no/Hanne_Haugland"
-      },
-      {
-        "category": "Jemens samtidshistorie",
-        "title": "Houthi-bevegelsen",
-        "url": "https://snl.no/Houthi-bevegelsen"
-      },
-      {
-        "category": "Svømmesport",
-        "title": "Alexander Dale Oen",
-        "url": "https://snl.no/Alexander_Dale_Oen"
-      },
-      {
-        "category": "Verdenshavene",
-        "title": "Rødehavet",
-        "url": "https://snl.no/R%C3%B8dehavet"
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
       },
       {
         "category": "Den greske antikken",
         "title": "trojanerkrigen",
         "url": "https://snl.no/trojanerkrigen"
+      },
+      {
+        "category": "Bjørnekjeksslekta",
+        "title": "tromsøpalme",
+        "url": "https://snl.no/troms%C3%B8palme"
+      },
+      {
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "Jakob våthatt",
+        "url": "https://snl.no/Jakob_v%C3%A5thatt"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Psykoser, schizofreni og paranoide tilstander",
+        "title": "dobbeltgalskap",
+        "url": "https://sml.snl.no/dobbeltgalskap"
+      },
+      {
+        "category": "Hest",
+        "title": "frisisk hest",
+        "url": "https://snl.no/frisisk_hest"
+      },
+      {
+        "category": "Straffeprosess",
+        "title": "tilståelsesdom",
+        "url": "https://snl.no/tilst%C3%A5elsesdom"
+      },
+      {
+        "category": "Porsslekta",
+        "title": "pors",
+        "url": "https://snl.no/pors"
+      },
+      {
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "hundedagene",
+        "url": "https://snl.no/hundedagene"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Internasjonale dirigenter",
-        "title": "Karl Böhm",
-        "url": "https://snl.no/Karl_B%C3%B6hm"
+        "category": "Biografier i luftfart",
+        "title": "Bernt Balchen",
+        "url": "https://snl.no/Bernt_Balchen"
       },
       {
-        "category": "Norske klassiske komponister og verker 1900–1950",
-        "title": "Signe Lund",
-        "url": "https://snl.no/Signe_Lund"
+        "category": "Tysklands litteratur 1950–2000",
+        "title": "Peter Härtling",
+        "url": "https://snl.no/Peter_H%C3%A4rtling"
       },
       {
-        "category": "Det bysantinske rike",
-        "title": "Mikael 8. Palaiologos",
-        "url": "https://snl.no/Mikael_8._Palaiologos"
+        "category": "Internasjonal pop og rock",
+        "title": "Richard Thompson",
+        "url": "https://snl.no/Richard_Thompson"
       },
       {
-        "category": "Iraks historie",
-        "title": "Iraks samtidshistorie",
-        "url": "https://snl.no/Iraks_samtidshistorie"
+        "category": "Afghanistans samtidshistorie",
+        "title": "Afghanistans samtidshistorie",
+        "url": "https://snl.no/Afghanistans_samtidshistorie"
       },
       {
-        "category": "Utforsking av solsystemet",
-        "title": "InSight",
-        "url": "https://snl.no/InSight"
+        "category": "Nanoteknologi",
+        "title": "hydrovoltaikk",
+        "url": "https://snl.no/hydrovoltaikk"
       }
     ]
   }
