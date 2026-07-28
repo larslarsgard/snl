@@ -5725,5 +5725,88 @@
         "url": "https://snl.no/George_Szell"
       }
     ]
+  },
+  "2026-07-28": {
+    "Mest lest i går": [
+      {
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odysseen",
+        "url": "https://snl.no/Odysseen"
+      },
+      {
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
+      },
+      {
+        "category": "Den greske antikken",
+        "title": "trojanerkrigen",
+        "url": "https://snl.no/trojanerkrigen"
+      },
+      {
+        "category": "Norsk kunstnerleksikon",
+        "title": "Olav Skjævesland",
+        "url": "https://nkl.snl.no/Olav_Skj%C3%A6vesland"
+      },
+      {
+        "category": "Folkediktning",
+        "title": "Robin Hood",
+        "url": "https://snl.no/Robin_Hood"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Avisredaktører",
+        "title": "Marie Simonsen",
+        "url": "https://snl.no/Marie_Simonsen"
+      },
+      {
+        "category": "Midtre Gauldal",
+        "title": "Midtre Gauldal",
+        "url": "https://snl.no/Midtre_Gauldal"
+      },
+      {
+        "category": "Marihandslekta",
+        "title": "søstermarihånd",
+        "url": "https://snl.no/s%C3%B8stermarih%C3%A5nd"
+      },
+      {
+        "category": "Landeveissykling",
+        "title": "Tour de France – Frankrike rundt",
+        "url": "https://snl.no/Tour_de_France_-_Frankrike_rundt"
+      },
+      {
+        "category": "Folkevandringstid og folkestammer",
+        "title": "saksere",
+        "url": "https://snl.no/saksere"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Glasskunstnere og keramikere",
+        "title": "Nora Gulbrandsen",
+        "url": "https://snl.no/Nora_Gulbrandsen"
+      },
+      {
+        "category": "Bahrains samtidshistorie",
+        "title": "Bahrains utenrikspolitikk",
+        "url": "https://snl.no/Bahrains_utenrikspolitikk"
+      },
+      {
+        "category": "Norske arkitekter fram til 1900",
+        "title": "arkitektfagets historie i Norge",
+        "url": "https://snl.no/arkitektfagets_historie_i_Norge"
+      },
+      {
+        "category": "Militant islamisme",
+        "title": "Sayf al-Adl",
+        "url": "https://snl.no/Sayf_al-Adl"
+      },
+      {
+        "category": "Frankrikes samtidshistorie",
+        "title": "Gisèle Pelicot",
+        "url": "https://snl.no/Gis%C3%A8le_Pelicot"
+      }
+    ]
   }
 }
