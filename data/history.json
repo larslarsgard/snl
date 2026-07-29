@@ -5808,5 +5808,88 @@
         "url": "https://snl.no/Gis%C3%A8le_Pelicot"
       }
     ]
+  },
+  "2026-07-29": {
+    "Mest lest i går": [
+      {
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odysseen",
+        "url": "https://snl.no/Odysseen"
+      },
+      {
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
+      },
+      {
+        "category": "Den greske antikken",
+        "title": "trojanerkrigen",
+        "url": "https://snl.no/trojanerkrigen"
+      },
+      {
+        "category": "Måkefamilien",
+        "title": "måker",
+        "url": "https://snl.no/m%C3%A5ker"
+      },
+      {
+        "category": "Skottlands geografi",
+        "title": "Hebridene",
+        "url": "https://snl.no/Hebridene"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Begreper i katolisismen",
+        "title": "de syv sovere",
+        "url": "https://snl.no/de_syv_sovere"
+      },
+      {
+        "category": "Natur og landemerker i Russland",
+        "title": "Elbrus",
+        "url": "https://snl.no/Elbrus"
+      },
+      {
+        "category": "Folkegrupper i Nord-Amerika",
+        "title": "Sitting Bull",
+        "url": "https://snl.no/Sitting_Bull"
+      },
+      {
+        "category": "Europas geografi generelt",
+        "title": "Europas høyeste fjell",
+        "url": "https://snl.no/Europas_h%C3%B8yeste_fjell"
+      },
+      {
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "olsok",
+        "url": "https://snl.no/olsok"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Stavkirker",
+        "title": "Høre stavkirke",
+        "url": "https://snl.no/H%C3%B8re_stavkirke"
+      },
+      {
+        "category": "Østerrikes litteratur på 1900-tallet",
+        "title": "Ernst Jandl",
+        "url": "https://snl.no/Ernst_Jandl"
+      },
+      {
+        "category": "Guttenavn",
+        "title": "Rudolf – mannsnamn",
+        "url": "https://snl.no/Rudolf_-_mannsnamn"
+      },
+      {
+        "category": "Termer og begreper i idrett",
+        "title": "breddeidrett",
+        "url": "https://snl.no/breddeidrett"
+      },
+      {
+        "category": "Teknologi- og industrifag",
+        "title": "bilpleier",
+        "url": "https://snl.no/bilpleier"
+      }
+    ]
   }
 }
