@@ -5891,5 +5891,88 @@
         "url": "https://snl.no/bilpleier"
       }
     ]
+  },
+  "2026-07-30": {
+    "Mest lest i går": [
+      {
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "olsok",
+        "url": "https://snl.no/olsok"
+      },
+      {
+        "category": "Stærfamilien",
+        "title": "rosenstær",
+        "url": "https://snl.no/rosenst%C3%A6r"
+      },
+      {
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odysseen",
+        "url": "https://snl.no/Odysseen"
+      },
+      {
+        "category": "Norges historie fram til 1050",
+        "title": "Olav den hellige",
+        "url": "https://snl.no/Olav_den_hellige"
+      },
+      {
+        "category": "Norges historie fram til 1050",
+        "title": "Slaget på Stiklestad",
+        "url": "https://snl.no/Slaget_p%C3%A5_Stiklestad"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Stærfamilien",
+        "title": "rosenstær",
+        "url": "https://snl.no/rosenst%C3%A6r"
+      },
+      {
+        "category": "Maur",
+        "title": "flygemaur",
+        "url": "https://snl.no/flygemaur"
+      },
+      {
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "hundedagene",
+        "url": "https://snl.no/hundedagene"
+      },
+      {
+        "category": "Norges historie fram til 1050",
+        "title": "Olav den hellige",
+        "url": "https://snl.no/Olav_den_hellige"
+      },
+      {
+        "category": "Ulykker i petroleumsbransjen",
+        "title": "Alexander Kielland-ulykken",
+        "url": "https://snl.no/Alexander_Kielland-ulykken"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Eubalaena",
+        "title": "nordkaper",
+        "url": "https://snl.no/nordkaper"
+      },
+      {
+        "category": "Namibias samtidshistorie",
+        "title": "Samuel Daniel Nujoma",
+        "url": "https://snl.no/Samuel_Daniel_Nujoma"
+      },
+      {
+        "category": "Romerolagus",
+        "title": "vulkankanin",
+        "url": "https://snl.no/vulkankanin"
+      },
+      {
+        "category": "Jagerfly og kampfly",
+        "title": "Canuck",
+        "url": "https://snl.no/Canuck"
+      },
+      {
+        "category": "Yrker og roller i bildende kunst",
+        "title": "hoffmaler",
+        "url": "https://snl.no/hoffmaler"
+      }
+    ]
   }
 }
