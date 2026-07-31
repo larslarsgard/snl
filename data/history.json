@@ -5974,5 +5974,88 @@
         "url": "https://snl.no/hoffmaler"
       }
     ]
+  },
+  "2026-07-31": {
+    "Mest lest i går": [
+      {
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odysseen",
+        "url": "https://snl.no/Odysseen"
+      },
+      {
+        "category": "Spanias geografi",
+        "title": "Ceuta",
+        "url": "https://snl.no/Ceuta"
+      },
+      {
+        "category": "Den greske antikken",
+        "title": "trojanerkrigen",
+        "url": "https://snl.no/trojanerkrigen"
+      },
+      {
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "olsok",
+        "url": "https://snl.no/olsok"
+      },
+      {
+        "category": "Maur",
+        "title": "flygemaur",
+        "url": "https://snl.no/flygemaur"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Toksikologi",
+        "title": "blyforgiftning",
+        "url": "https://sml.snl.no/blyforgiftning"
+      },
+      {
+        "category": "Avisredaktører",
+        "title": "Ulf André Andersen",
+        "url": "https://snl.no/Ulf_Andr%C3%A9_Andersen"
+      },
+      {
+        "category": "Maur",
+        "title": "flygemaur",
+        "url": "https://snl.no/flygemaur"
+      },
+      {
+        "category": "Den greske antikken",
+        "title": "trojanerkrigen",
+        "url": "https://snl.no/trojanerkrigen"
+      },
+      {
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odyssevs",
+        "url": "https://snl.no/Odyssevs"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Motiver i bildende kunst",
+        "title": "død – bildekunst",
+        "url": "https://snl.no/d%C3%B8d_-_bildekunst"
+      },
+      {
+        "category": "Palmefamilien",
+        "title": "Nypa",
+        "url": "https://snl.no/Nypa"
+      },
+      {
+        "category": "Tysklands litteratur 1900–1950",
+        "title": "Jakob Wassermann",
+        "url": "https://snl.no/Jakob_Wassermann"
+      },
+      {
+        "category": "Kvinnebevegelsen i Norge",
+        "title": "Norske Kvinneorganisasjoners Samarbeidsnemnd",
+        "url": "https://snl.no/Norske_Kvinneorganisasjoners_Samarbeidsnemnd"
+      },
+      {
+        "category": "Personnavn",
+        "title": "den nordiske namnerenessansen",
+        "url": "https://snl.no/den_nordiske_namnerenessansen"
+      }
+    ]
   }
 }

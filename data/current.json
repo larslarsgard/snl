@@ -1,38 +1,43 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Folkelige skikker og tradisjoner",
-        "title": "olsok",
-        "url": "https://snl.no/olsok"
-      },
-      {
-        "category": "Stærfamilien",
-        "title": "rosenstær",
-        "url": "https://snl.no/rosenst%C3%A6r"
-      },
       {
         "category": "Hellas’ litteratur i antikken",
         "title": "Odysseen",
         "url": "https://snl.no/Odysseen"
       },
       {
-        "category": "Norges historie fram til 1050",
-        "title": "Olav den hellige",
-        "url": "https://snl.no/Olav_den_hellige"
+        "category": "Spanias geografi",
+        "title": "Ceuta",
+        "url": "https://snl.no/Ceuta"
       },
       {
-        "category": "Norges historie fram til 1050",
-        "title": "Slaget på Stiklestad",
-        "url": "https://snl.no/Slaget_p%C3%A5_Stiklestad"
+        "category": "Den greske antikken",
+        "title": "trojanerkrigen",
+        "url": "https://snl.no/trojanerkrigen"
+      },
+      {
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "olsok",
+        "url": "https://snl.no/olsok"
+      },
+      {
+        "category": "Maur",
+        "title": "flygemaur",
+        "url": "https://snl.no/flygemaur"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Stærfamilien",
-        "title": "rosenstær",
-        "url": "https://snl.no/rosenst%C3%A6r"
+        "category": "Toksikologi",
+        "title": "blyforgiftning",
+        "url": "https://sml.snl.no/blyforgiftning"
+      },
+      {
+        "category": "Avisredaktører",
+        "title": "Ulf André Andersen",
+        "url": "https://snl.no/Ulf_Andr%C3%A9_Andersen"
       },
       {
         "category": "Maur",
@@ -40,46 +45,41 @@
         "url": "https://snl.no/flygemaur"
       },
       {
-        "category": "Folkelige skikker og tradisjoner",
-        "title": "hundedagene",
-        "url": "https://snl.no/hundedagene"
+        "category": "Den greske antikken",
+        "title": "trojanerkrigen",
+        "url": "https://snl.no/trojanerkrigen"
       },
       {
-        "category": "Norges historie fram til 1050",
-        "title": "Olav den hellige",
-        "url": "https://snl.no/Olav_den_hellige"
-      },
-      {
-        "category": "Ulykker i petroleumsbransjen",
-        "title": "Alexander Kielland-ulykken",
-        "url": "https://snl.no/Alexander_Kielland-ulykken"
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odyssevs",
+        "url": "https://snl.no/Odyssevs"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Eubalaena",
-        "title": "nordkaper",
-        "url": "https://snl.no/nordkaper"
+        "category": "Motiver i bildende kunst",
+        "title": "død – bildekunst",
+        "url": "https://snl.no/d%C3%B8d_-_bildekunst"
       },
       {
-        "category": "Namibias samtidshistorie",
-        "title": "Samuel Daniel Nujoma",
-        "url": "https://snl.no/Samuel_Daniel_Nujoma"
+        "category": "Palmefamilien",
+        "title": "Nypa",
+        "url": "https://snl.no/Nypa"
       },
       {
-        "category": "Romerolagus",
-        "title": "vulkankanin",
-        "url": "https://snl.no/vulkankanin"
+        "category": "Tysklands litteratur 1900–1950",
+        "title": "Jakob Wassermann",
+        "url": "https://snl.no/Jakob_Wassermann"
       },
       {
-        "category": "Jagerfly og kampfly",
-        "title": "Canuck",
-        "url": "https://snl.no/Canuck"
+        "category": "Kvinnebevegelsen i Norge",
+        "title": "Norske Kvinneorganisasjoners Samarbeidsnemnd",
+        "url": "https://snl.no/Norske_Kvinneorganisasjoners_Samarbeidsnemnd"
       },
       {
-        "category": "Yrker og roller i bildende kunst",
-        "title": "hoffmaler",
-        "url": "https://snl.no/hoffmaler"
+        "category": "Personnavn",
+        "title": "den nordiske namnerenessansen",
+        "url": "https://snl.no/den_nordiske_namnerenessansen"
       }
     ]
   }
