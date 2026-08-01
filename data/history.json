@@ -6057,5 +6057,88 @@
         "url": "https://snl.no/den_nordiske_namnerenessansen"
       }
     ]
+  },
+  "2026-08-01": {
+    "Mest lest i går": [
+      {
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odysseen",
+        "url": "https://snl.no/Odysseen"
+      },
+      {
+        "category": "Spanias geografi",
+        "title": "Ceuta",
+        "url": "https://snl.no/Ceuta"
+      },
+      {
+        "category": "Den greske antikken",
+        "title": "trojanerkrigen",
+        "url": "https://snl.no/trojanerkrigen"
+      },
+      {
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "olsok",
+        "url": "https://snl.no/olsok"
+      },
+      {
+        "category": "Maur",
+        "title": "flygemaur",
+        "url": "https://snl.no/flygemaur"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Storbritannia og Nord-Irlands historie",
+        "title": "Lockerbie-saken",
+        "url": "https://snl.no/Lockerbie-saken"
+      },
+      {
+        "category": "Lyn og torden",
+        "title": "torden",
+        "url": "https://snl.no/torden"
+      },
+      {
+        "category": "Norges historie fram til 1050",
+        "title": "Slaget på Stiklestad",
+        "url": "https://snl.no/Slaget_p%C3%A5_Stiklestad"
+      },
+      {
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "hundedagene",
+        "url": "https://snl.no/hundedagene"
+      },
+      {
+        "category": "Norges historie fram til 1050",
+        "title": "Olav den hellige",
+        "url": "https://snl.no/Olav_den_hellige"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Internasjonale dirigenter",
+        "title": "Albert Coates",
+        "url": "https://snl.no/Albert_Coates"
+      },
+      {
+        "category": "Nord-Irlands historie",
+        "title": "James Craig",
+        "url": "https://snl.no/James_Craig"
+      },
+      {
+        "category": "Perserrikets historie",
+        "title": "Kambyses 2.",
+        "url": "https://snl.no/Kambyses_2."
+      },
+      {
+        "category": "Biologisk psykologi",
+        "title": "løgndetektor",
+        "url": "https://snl.no/l%C3%B8gndetektor"
+      },
+      {
+        "category": "Forsvarets historie",
+        "title": "Norges forsvar fra 1800 til 1814",
+        "url": "https://snl.no/Norges_forsvar_fra_1800_til_1814"
+      }
+    ]
   }
 }

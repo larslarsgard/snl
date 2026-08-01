@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "categories": {
     "Mest lest i går": [
       {
@@ -30,56 +30,56 @@
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Toksikologi",
-        "title": "blyforgiftning",
-        "url": "https://sml.snl.no/blyforgiftning"
+        "category": "Storbritannia og Nord-Irlands historie",
+        "title": "Lockerbie-saken",
+        "url": "https://snl.no/Lockerbie-saken"
       },
       {
-        "category": "Avisredaktører",
-        "title": "Ulf André Andersen",
-        "url": "https://snl.no/Ulf_Andr%C3%A9_Andersen"
+        "category": "Lyn og torden",
+        "title": "torden",
+        "url": "https://snl.no/torden"
       },
       {
-        "category": "Maur",
-        "title": "flygemaur",
-        "url": "https://snl.no/flygemaur"
+        "category": "Norges historie fram til 1050",
+        "title": "Slaget på Stiklestad",
+        "url": "https://snl.no/Slaget_p%C3%A5_Stiklestad"
       },
       {
-        "category": "Den greske antikken",
-        "title": "trojanerkrigen",
-        "url": "https://snl.no/trojanerkrigen"
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "hundedagene",
+        "url": "https://snl.no/hundedagene"
       },
       {
-        "category": "Hellas’ litteratur i antikken",
-        "title": "Odyssevs",
-        "url": "https://snl.no/Odyssevs"
+        "category": "Norges historie fram til 1050",
+        "title": "Olav den hellige",
+        "url": "https://snl.no/Olav_den_hellige"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Motiver i bildende kunst",
-        "title": "død – bildekunst",
-        "url": "https://snl.no/d%C3%B8d_-_bildekunst"
+        "category": "Internasjonale dirigenter",
+        "title": "Albert Coates",
+        "url": "https://snl.no/Albert_Coates"
       },
       {
-        "category": "Palmefamilien",
-        "title": "Nypa",
-        "url": "https://snl.no/Nypa"
+        "category": "Nord-Irlands historie",
+        "title": "James Craig",
+        "url": "https://snl.no/James_Craig"
       },
       {
-        "category": "Tysklands litteratur 1900–1950",
-        "title": "Jakob Wassermann",
-        "url": "https://snl.no/Jakob_Wassermann"
+        "category": "Perserrikets historie",
+        "title": "Kambyses 2.",
+        "url": "https://snl.no/Kambyses_2."
       },
       {
-        "category": "Kvinnebevegelsen i Norge",
-        "title": "Norske Kvinneorganisasjoners Samarbeidsnemnd",
-        "url": "https://snl.no/Norske_Kvinneorganisasjoners_Samarbeidsnemnd"
+        "category": "Biologisk psykologi",
+        "title": "løgndetektor",
+        "url": "https://snl.no/l%C3%B8gndetektor"
       },
       {
-        "category": "Personnavn",
-        "title": "den nordiske namnerenessansen",
-        "url": "https://snl.no/den_nordiske_namnerenessansen"
+        "category": "Forsvarets historie",
+        "title": "Norges forsvar fra 1800 til 1814",
+        "url": "https://snl.no/Norges_forsvar_fra_1800_til_1814"
       }
     ]
   }
