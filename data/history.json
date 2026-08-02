@@ -6140,5 +6140,88 @@
         "url": "https://snl.no/Norges_forsvar_fra_1800_til_1814"
       }
     ]
+  },
+  "2026-08-02": {
+    "Mest lest i går": [
+      {
+        "category": "Spanias geografi",
+        "title": "Ceuta",
+        "url": "https://snl.no/Ceuta"
+      },
+      {
+        "category": "Politiske begreper",
+        "title": "eksklave",
+        "url": "https://snl.no/eksklave"
+      },
+      {
+        "category": "Politiske begreper",
+        "title": "enklave",
+        "url": "https://snl.no/enklave"
+      },
+      {
+        "category": "Norske skuespillere",
+        "title": "Jannike Kruse",
+        "url": "https://snl.no/Jannike_Kruse"
+      },
+      {
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odysseen",
+        "url": "https://snl.no/Odysseen"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Nederlandsk og flamsk billedkunst 1400–1750",
+        "title": "Jacob Jordaens",
+        "url": "https://snl.no/Jacob_Jordaens"
+      },
+      {
+        "category": "Norske skuespillere",
+        "title": "Ivar Tindberg",
+        "url": "https://snl.no/Ivar_Tindberg"
+      },
+      {
+        "category": "Spanias geografi",
+        "title": "Melilla",
+        "url": "https://snl.no/Melilla"
+      },
+      {
+        "category": "Storbritannia og Nord-Irlands historie",
+        "title": "Lockerbie-saken",
+        "url": "https://snl.no/Lockerbie-saken"
+      },
+      {
+        "category": "EU-rett og EØS-rett",
+        "title": "Schengenavtalen",
+        "url": "https://snl.no/Schengenavtalen"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Militant islamisme",
+        "title": "Palestinsk islamsk jihad",
+        "url": "https://snl.no/Palestinsk_islamsk_jihad"
+      },
+      {
+        "category": "Chiles litteratur",
+        "title": "María Luisa Bombal",
+        "url": "https://snl.no/Mar%C3%ADa_Luisa_Bombal"
+      },
+      {
+        "category": "Tysklands nyere litteratur",
+        "title": "Lutz Seiler",
+        "url": "https://snl.no/Lutz_Seiler"
+      },
+      {
+        "category": "Tidligere aviser i Trøndelag",
+        "title": "Trondhjems Løverdagsaften",
+        "url": "https://snl.no/Trondhjems_L%C3%B8verdagsaften"
+      },
+      {
+        "category": "Fotball i Asia og Oseania",
+        "title": "Fotball i Asia og Oseania",
+        "url": "https://snl.no/Fotball_i_Asia_og_Oseania"
+      }
+    ]
   }
 }
