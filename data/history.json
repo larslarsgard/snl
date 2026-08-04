@@ -6306,5 +6306,88 @@
         "url": "https://snl.no/Den_j%C3%B8disk-romerske_krig"
       }
     ]
+  },
+  "2026-08-04": {
+    "Mest lest i går": [
+      {
+        "category": "Spanias geografi",
+        "title": "Ceuta",
+        "url": "https://snl.no/Ceuta"
+      },
+      {
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odysseen",
+        "url": "https://snl.no/Odysseen"
+      },
+      {
+        "category": "Norsk interiør- og møbeldesign",
+        "title": "Erling Revheim",
+        "url": "https://snl.no/Erling_Revheim"
+      },
+      {
+        "category": "Storbritannia og Nord-Irlands historie",
+        "title": "Lockerbie-saken",
+        "url": "https://snl.no/Lockerbie-saken"
+      },
+      {
+        "category": "Politiske begreper",
+        "title": "eksklave",
+        "url": "https://snl.no/eksklave"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Norsk bildende kunst fra 1945 til 1990",
+        "title": "Odd Harrong",
+        "url": "https://snl.no/Odd_Harrong"
+      },
+      {
+        "category": "Fremmedord og lånord",
+        "title": "noaord",
+        "url": "https://snl.no/noaord"
+      },
+      {
+        "category": "Visesang",
+        "title": "Lillebjørn Nilsen",
+        "url": "https://snl.no/Lillebj%C3%B8rn_Nilsen"
+      },
+      {
+        "category": "Politiske begreper",
+        "title": "enklave",
+        "url": "https://snl.no/enklave"
+      },
+      {
+        "category": "Anestesi",
+        "title": "lystgass",
+        "url": "https://sml.snl.no/lystgass"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Nord-Amerikanske jazzutøvere og -ensembler, 1980 til i dag",
+        "title": "Bill Frisell",
+        "url": "https://snl.no/Bill_Frisell"
+      },
+      {
+        "category": "Folkegrupper i Nord-Amerika",
+        "title": "irokeserforbundet",
+        "url": "https://snl.no/irokeserforbundet"
+      },
+      {
+        "category": "Tekstiler",
+        "title": "mikrofiber",
+        "url": "https://snl.no/mikrofiber"
+      },
+      {
+        "category": "Ghanas litteratur",
+        "title": "Yaa Gyasi",
+        "url": "https://snl.no/Yaa_Gyasi"
+      },
+      {
+        "category": "Palestinas litteratur",
+        "title": "Mourid al-Barghouti",
+        "url": "https://snl.no/Mourid_al-Barghouti"
+      }
+    ]
   }
 }
