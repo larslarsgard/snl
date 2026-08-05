@@ -1,16 +1,21 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Landeveissykling",
+        "title": "Sigrid Ytterhus Haugset",
+        "url": "https://snl.no/Sigrid_Ytterhus_Haugset"
+      },
       {
         "category": "Spanias geografi",
         "title": "Ceuta",
         "url": "https://snl.no/Ceuta"
       },
       {
-        "category": "Hellas’ litteratur i antikken",
-        "title": "Odysseen",
-        "url": "https://snl.no/Odysseen"
+        "category": "Syreslekta",
+        "title": "høymole",
+        "url": "https://snl.no/h%C3%B8ymole"
       },
       {
         "category": "Norsk interiør- og møbeldesign",
@@ -18,14 +23,9 @@
         "url": "https://snl.no/Erling_Revheim"
       },
       {
-        "category": "Storbritannia og Nord-Irlands historie",
-        "title": "Lockerbie-saken",
-        "url": "https://snl.no/Lockerbie-saken"
-      },
-      {
-        "category": "Politiske begreper",
-        "title": "eksklave",
-        "url": "https://snl.no/eksklave"
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odysseen",
+        "url": "https://snl.no/Odysseen"
       }
     ],
     "Uvanlig mye lest": [
@@ -35,14 +35,14 @@
         "url": "https://snl.no/Odd_Harrong"
       },
       {
-        "category": "Fremmedord og lånord",
-        "title": "noaord",
-        "url": "https://snl.no/noaord"
+        "category": "Farmakognosi",
+        "title": "flavonoider",
+        "url": "https://sml.snl.no/flavonoider"
       },
       {
-        "category": "Visesang",
-        "title": "Lillebjørn Nilsen",
-        "url": "https://snl.no/Lillebj%C3%B8rn_Nilsen"
+        "category": "Skottlands geografi",
+        "title": "Hebridene",
+        "url": "https://snl.no/Hebridene"
       },
       {
         "category": "Politiske begreper",
@@ -50,36 +50,36 @@
         "url": "https://snl.no/enklave"
       },
       {
-        "category": "Anestesi",
-        "title": "lystgass",
-        "url": "https://sml.snl.no/lystgass"
+        "category": "Politiske begreper",
+        "title": "eksklave",
+        "url": "https://snl.no/eksklave"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Nord-Amerikanske jazzutøvere og -ensembler, 1980 til i dag",
-        "title": "Bill Frisell",
-        "url": "https://snl.no/Bill_Frisell"
+        "category": "Eswatinis samtidshistorie",
+        "title": "Eswatinis politiske system",
+        "url": "https://snl.no/Eswatinis_politiske_system"
       },
       {
-        "category": "Folkegrupper i Nord-Amerika",
-        "title": "irokeserforbundet",
-        "url": "https://snl.no/irokeserforbundet"
+        "category": "Turisthytter",
+        "title": "turisthytte",
+        "url": "https://snl.no/turisthytte"
       },
       {
-        "category": "Tekstiler",
-        "title": "mikrofiber",
-        "url": "https://snl.no/mikrofiber"
+        "category": "Skihopping",
+        "title": "Hoppuka",
+        "url": "https://snl.no/Hoppuka"
       },
       {
-        "category": "Ghanas litteratur",
-        "title": "Yaa Gyasi",
-        "url": "https://snl.no/Yaa_Gyasi"
+        "category": "Paraguays samtidshistorie",
+        "title": "Horacio Cartes",
+        "url": "https://snl.no/Horacio_Cartes"
       },
       {
-        "category": "Palestinas litteratur",
-        "title": "Mourid al-Barghouti",
-        "url": "https://snl.no/Mourid_al-Barghouti"
+        "category": "Fly- og helikopterprodusenter",
+        "title": "Kamov",
+        "url": "https://snl.no/Kamov"
       }
     ]
   }
