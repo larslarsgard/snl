@@ -1,53 +1,26 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Landeveissykling",
-        "title": "Sigrid Ytterhus Haugset",
-        "url": "https://snl.no/Sigrid_Ytterhus_Haugset"
-      },
       {
         "category": "Spanias geografi",
         "title": "Ceuta",
         "url": "https://snl.no/Ceuta"
       },
       {
-        "category": "Syreslekta",
-        "title": "høymole",
-        "url": "https://snl.no/h%C3%B8ymole"
-      },
-      {
-        "category": "Norsk interiør- og møbeldesign",
-        "title": "Erling Revheim",
-        "url": "https://snl.no/Erling_Revheim"
+        "category": "Landeveissykling",
+        "title": "Sigrid Ytterhus Haugset",
+        "url": "https://snl.no/Sigrid_Ytterhus_Haugset"
       },
       {
         "category": "Hellas’ litteratur i antikken",
         "title": "Odysseen",
         "url": "https://snl.no/Odysseen"
-      }
-    ],
-    "Uvanlig mye lest": [
-      {
-        "category": "Norsk bildende kunst fra 1945 til 1990",
-        "title": "Odd Harrong",
-        "url": "https://snl.no/Odd_Harrong"
       },
       {
-        "category": "Farmakognosi",
-        "title": "flavonoider",
-        "url": "https://sml.snl.no/flavonoider"
-      },
-      {
-        "category": "Skottlands geografi",
-        "title": "Hebridene",
-        "url": "https://snl.no/Hebridene"
-      },
-      {
-        "category": "Politiske begreper",
-        "title": "enklave",
-        "url": "https://snl.no/enklave"
+        "category": "Organiske forbindelser",
+        "title": "fruktose",
+        "url": "https://snl.no/fruktose"
       },
       {
         "category": "Politiske begreper",
@@ -55,31 +28,58 @@
         "url": "https://snl.no/eksklave"
       }
     ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Skyteklubber og -institusjoner",
+        "title": "Landsskytterstevnet",
+        "url": "https://snl.no/Landsskytterstevnet"
+      },
+      {
+        "category": "Lesja",
+        "title": "Lesja",
+        "url": "https://snl.no/Lesja"
+      },
+      {
+        "category": "Farmakognosi",
+        "title": "flavonoider",
+        "url": "https://sml.snl.no/flavonoider"
+      },
+      {
+        "category": "Politiske begreper",
+        "title": "enklave",
+        "url": "https://snl.no/enklave"
+      },
+      {
+        "category": "Maur",
+        "title": "flygemaur",
+        "url": "https://snl.no/flygemaur"
+      }
+    ],
     "Sørgelig lite lest": [
       {
-        "category": "Eswatinis samtidshistorie",
-        "title": "Eswatinis politiske system",
-        "url": "https://snl.no/Eswatinis_politiske_system"
+        "category": "Biografier i Englands historie",
+        "title": "Einar Sigurdsson Vrangmunn",
+        "url": "https://snl.no/Einar_Sigurdsson_Vrangmunn"
       },
       {
-        "category": "Turisthytter",
-        "title": "turisthytte",
-        "url": "https://snl.no/turisthytte"
+        "category": "Jentenavn",
+        "title": "Elna – kvinnenamn",
+        "url": "https://snl.no/Elna_-_kvinnenamn"
       },
       {
-        "category": "Skihopping",
-        "title": "Hoppuka",
-        "url": "https://snl.no/Hoppuka"
+        "category": "Stavkirker",
+        "title": "Høyjord stavkirke",
+        "url": "https://snl.no/H%C3%B8yjord_stavkirke"
       },
       {
-        "category": "Paraguays samtidshistorie",
-        "title": "Horacio Cartes",
-        "url": "https://snl.no/Horacio_Cartes"
+        "category": "Stavkirker",
+        "title": "Kaupanger stavkirke",
+        "url": "https://snl.no/Kaupanger_stavkirke"
       },
       {
-        "category": "Fly- og helikopterprodusenter",
-        "title": "Kamov",
-        "url": "https://snl.no/Kamov"
+        "category": "Skulptur og mosaikk i renessansen og barokken",
+        "title": "Thomas Quellinus",
+        "url": "https://snl.no/Thomas_Quellinus"
       }
     ]
   }
