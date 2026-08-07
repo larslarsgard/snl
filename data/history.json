@@ -6555,5 +6555,88 @@
         "url": "https://snl.no/Thomas_Quellinus"
       }
     ]
+  },
+  "2026-08-07": {
+    "Mest lest i går": [
+      {
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odysseen",
+        "url": "https://snl.no/Odysseen"
+      },
+      {
+        "category": "Monarki",
+        "title": "Kongehuset i Nederland",
+        "url": "https://snl.no/Kongehuset_i_Nederland"
+      },
+      {
+        "category": "Skyteklubber og -institusjoner",
+        "title": "Landsskytterstevnet",
+        "url": "https://snl.no/Landsskytterstevnet"
+      },
+      {
+        "category": "Spanias geografi",
+        "title": "Ceuta",
+        "url": "https://snl.no/Ceuta"
+      },
+      {
+        "category": "Storbritannia og Nord-Irlands historie",
+        "title": "Lockerbie-saken",
+        "url": "https://snl.no/Lockerbie-saken"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Danmarks litteratur på 1900-tallet",
+        "title": "Erik Rostbøll",
+        "url": "https://snl.no/Erik_Rostb%C3%B8ll"
+      },
+      {
+        "category": "Norges historie fra 1884 til 1940",
+        "title": "Karl Johan Løvgren Fredriksen",
+        "url": "https://snl.no/Karl_Johan_L%C3%B8vgren_Fredriksen"
+      },
+      {
+        "category": "Lesja",
+        "title": "Lesja",
+        "url": "https://snl.no/Lesja"
+      },
+      {
+        "category": "Torakal anatomi",
+        "title": "thymus",
+        "url": "https://sml.snl.no/thymus"
+      },
+      {
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odyssevs",
+        "url": "https://snl.no/Odyssevs"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Norrøn litteratur",
+        "title": "Sagaen om britane",
+        "url": "https://snl.no/Sagaen_om_britane"
+      },
+      {
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "dinesmesse",
+        "url": "https://snl.no/dinesmesse"
+      },
+      {
+        "category": "Fritidsfiske",
+        "title": "fiskestell",
+        "url": "https://snl.no/fiskestell"
+      },
+      {
+        "category": "Norsk bildende kunst fra 1945 til 1990",
+        "title": "Karen Holtsmark",
+        "url": "https://snl.no/Karen_Holtsmark"
+      },
+      {
+        "category": "Utforsking av solsystemet",
+        "title": "Perseverance",
+        "url": "https://snl.no/Perseverance"
+      }
+    ]
   }
 }

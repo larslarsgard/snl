@@ -1,38 +1,43 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Spanias geografi",
-        "title": "Ceuta",
-        "url": "https://snl.no/Ceuta"
-      },
-      {
-        "category": "Landeveissykling",
-        "title": "Sigrid Ytterhus Haugset",
-        "url": "https://snl.no/Sigrid_Ytterhus_Haugset"
-      },
       {
         "category": "Hellas’ litteratur i antikken",
         "title": "Odysseen",
         "url": "https://snl.no/Odysseen"
       },
       {
-        "category": "Organiske forbindelser",
-        "title": "fruktose",
-        "url": "https://snl.no/fruktose"
+        "category": "Monarki",
+        "title": "Kongehuset i Nederland",
+        "url": "https://snl.no/Kongehuset_i_Nederland"
       },
-      {
-        "category": "Politiske begreper",
-        "title": "eksklave",
-        "url": "https://snl.no/eksklave"
-      }
-    ],
-    "Uvanlig mye lest": [
       {
         "category": "Skyteklubber og -institusjoner",
         "title": "Landsskytterstevnet",
         "url": "https://snl.no/Landsskytterstevnet"
+      },
+      {
+        "category": "Spanias geografi",
+        "title": "Ceuta",
+        "url": "https://snl.no/Ceuta"
+      },
+      {
+        "category": "Storbritannia og Nord-Irlands historie",
+        "title": "Lockerbie-saken",
+        "url": "https://snl.no/Lockerbie-saken"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Danmarks litteratur på 1900-tallet",
+        "title": "Erik Rostbøll",
+        "url": "https://snl.no/Erik_Rostb%C3%B8ll"
+      },
+      {
+        "category": "Norges historie fra 1884 til 1940",
+        "title": "Karl Johan Løvgren Fredriksen",
+        "url": "https://snl.no/Karl_Johan_L%C3%B8vgren_Fredriksen"
       },
       {
         "category": "Lesja",
@@ -40,46 +45,41 @@
         "url": "https://snl.no/Lesja"
       },
       {
-        "category": "Farmakognosi",
-        "title": "flavonoider",
-        "url": "https://sml.snl.no/flavonoider"
+        "category": "Torakal anatomi",
+        "title": "thymus",
+        "url": "https://sml.snl.no/thymus"
       },
       {
-        "category": "Politiske begreper",
-        "title": "enklave",
-        "url": "https://snl.no/enklave"
-      },
-      {
-        "category": "Maur",
-        "title": "flygemaur",
-        "url": "https://snl.no/flygemaur"
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odyssevs",
+        "url": "https://snl.no/Odyssevs"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Biografier i Englands historie",
-        "title": "Einar Sigurdsson Vrangmunn",
-        "url": "https://snl.no/Einar_Sigurdsson_Vrangmunn"
+        "category": "Norrøn litteratur",
+        "title": "Sagaen om britane",
+        "url": "https://snl.no/Sagaen_om_britane"
       },
       {
-        "category": "Jentenavn",
-        "title": "Elna – kvinnenamn",
-        "url": "https://snl.no/Elna_-_kvinnenamn"
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "dinesmesse",
+        "url": "https://snl.no/dinesmesse"
       },
       {
-        "category": "Stavkirker",
-        "title": "Høyjord stavkirke",
-        "url": "https://snl.no/H%C3%B8yjord_stavkirke"
+        "category": "Fritidsfiske",
+        "title": "fiskestell",
+        "url": "https://snl.no/fiskestell"
       },
       {
-        "category": "Stavkirker",
-        "title": "Kaupanger stavkirke",
-        "url": "https://snl.no/Kaupanger_stavkirke"
+        "category": "Norsk bildende kunst fra 1945 til 1990",
+        "title": "Karen Holtsmark",
+        "url": "https://snl.no/Karen_Holtsmark"
       },
       {
-        "category": "Skulptur og mosaikk i renessansen og barokken",
-        "title": "Thomas Quellinus",
-        "url": "https://snl.no/Thomas_Quellinus"
+        "category": "Utforsking av solsystemet",
+        "title": "Perseverance",
+        "url": "https://snl.no/Perseverance"
       }
     ]
   }
