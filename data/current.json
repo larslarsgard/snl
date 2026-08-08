@@ -1,16 +1,43 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Monarki",
+        "title": "Kongehuset i Nederland",
+        "url": "https://snl.no/Kongehuset_i_Nederland"
+      },
       {
         "category": "Hellas’ litteratur i antikken",
         "title": "Odysseen",
         "url": "https://snl.no/Odysseen"
       },
       {
-        "category": "Monarki",
-        "title": "Kongehuset i Nederland",
-        "url": "https://snl.no/Kongehuset_i_Nederland"
+        "category": "Virussykdommer",
+        "title": "ebola",
+        "url": "https://sml.snl.no/ebola"
+      },
+      {
+        "category": "Norsk arbeiderbevegelse",
+        "title": "Menstadslaget",
+        "url": "https://snl.no/Menstadslaget"
+      },
+      {
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Ordforklaringer monarki",
+        "title": "abdikasjon",
+        "url": "https://snl.no/abdikasjon"
+      },
+      {
+        "category": "Nederlands samtidshistorie",
+        "title": "Johan Friso",
+        "url": "https://snl.no/Johan_Friso"
       },
       {
         "category": "Skyteklubber og -institusjoner",
@@ -23,63 +50,36 @@
         "url": "https://snl.no/Ceuta"
       },
       {
-        "category": "Storbritannia og Nord-Irlands historie",
-        "title": "Lockerbie-saken",
-        "url": "https://snl.no/Lockerbie-saken"
-      }
-    ],
-    "Uvanlig mye lest": [
-      {
-        "category": "Danmarks litteratur på 1900-tallet",
-        "title": "Erik Rostbøll",
-        "url": "https://snl.no/Erik_Rostb%C3%B8ll"
-      },
-      {
-        "category": "Norges historie fra 1884 til 1940",
-        "title": "Karl Johan Løvgren Fredriksen",
-        "url": "https://snl.no/Karl_Johan_L%C3%B8vgren_Fredriksen"
-      },
-      {
-        "category": "Lesja",
-        "title": "Lesja",
-        "url": "https://snl.no/Lesja"
-      },
-      {
-        "category": "Torakal anatomi",
-        "title": "thymus",
-        "url": "https://sml.snl.no/thymus"
-      },
-      {
-        "category": "Hellas’ litteratur i antikken",
-        "title": "Odyssevs",
-        "url": "https://snl.no/Odyssevs"
+        "category": "Den greske antikken",
+        "title": "trojanerkrigen",
+        "url": "https://snl.no/trojanerkrigen"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Norrøn litteratur",
-        "title": "Sagaen om britane",
-        "url": "https://snl.no/Sagaen_om_britane"
+        "category": "Det osmanske riket",
+        "title": "Mehmet 2.",
+        "url": "https://snl.no/Mehmet_2."
       },
       {
-        "category": "Folkelige skikker og tradisjoner",
-        "title": "dinesmesse",
-        "url": "https://snl.no/dinesmesse"
+        "category": "Svalbard",
+        "title": "Nathorst Land",
+        "url": "https://snl.no/Nathorst_Land"
       },
       {
-        "category": "Fritidsfiske",
-        "title": "fiskestell",
-        "url": "https://snl.no/fiskestell"
+        "category": "Ulike lands kunst og kunsttradisjoner",
+        "title": "Kunst i USA",
+        "url": "https://snl.no/Kunst_i_USA"
       },
       {
-        "category": "Norsk bildende kunst fra 1945 til 1990",
-        "title": "Karen Holtsmark",
-        "url": "https://snl.no/Karen_Holtsmark"
+        "category": "Kameruns litteratur",
+        "title": "Werewere-Liking Gnepo",
+        "url": "https://snl.no/Werewere-Liking_Gnepo"
       },
       {
-        "category": "Utforsking av solsystemet",
-        "title": "Perseverance",
-        "url": "https://snl.no/Perseverance"
+        "category": "Norske kirkebygg",
+        "title": "Hjartdal kirke",
+        "url": "https://snl.no/Hjartdal_kirke"
       }
     ]
   }
