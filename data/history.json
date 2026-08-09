@@ -6721,5 +6721,88 @@
         "url": "https://snl.no/Hjartdal_kirke"
       }
     ]
+  },
+  "2026-08-09": {
+    "Mest lest i går": [
+      {
+        "category": "Uorganiske forbindelser",
+        "title": "ammoniakk",
+        "url": "https://snl.no/ammoniakk"
+      },
+      {
+        "category": "Monarki",
+        "title": "Kongehuset i Nederland",
+        "url": "https://snl.no/Kongehuset_i_Nederland"
+      },
+      {
+        "category": "Granslekta",
+        "title": "sitkagran",
+        "url": "https://snl.no/sitkagran"
+      },
+      {
+        "category": "Grupper av forbindelser",
+        "title": "salmiakk",
+        "url": "https://snl.no/salmiakk"
+      },
+      {
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odysseen",
+        "url": "https://snl.no/Odysseen"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Nederlandsk og flamsk billedkunst 1400–1750",
+        "title": "Paulus Potter",
+        "url": "https://snl.no/Paulus_Potter"
+      },
+      {
+        "category": "Den greske antikken",
+        "title": "trojanerkrigen",
+        "url": "https://snl.no/trojanerkrigen"
+      },
+      {
+        "category": "Norges geografi generelt",
+        "title": "Norges største byer",
+        "url": "https://snl.no/Norges_st%C3%B8rste_byer"
+      },
+      {
+        "category": "Metabolisme",
+        "title": "kreatin",
+        "url": "https://sml.snl.no/kreatin"
+      },
+      {
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Personer innen astronomi",
+        "title": "James Bradley",
+        "url": "https://snl.no/James_Bradley"
+      },
+      {
+        "category": "Qatars samtidshistorie",
+        "title": "Qatars samtidshistorie",
+        "url": "https://snl.no/Qatars_samtidshistorie"
+      },
+      {
+        "category": "Iraks historie",
+        "title": "Iraks samtidshistorie",
+        "url": "https://snl.no/Iraks_samtidshistorie"
+      },
+      {
+        "category": "Fotohistoriske biografier",
+        "title": "Lotten von Düben",
+        "url": "https://snl.no/Lotten_von_D%C3%BCben"
+      },
+      {
+        "category": "Underholdningsmusikk",
+        "title": "underholdningsmusikk",
+        "url": "https://snl.no/underholdningsmusikk"
+      }
+    ]
   }
 }
