@@ -1,85 +1,85 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Uorganiske forbindelser",
-        "title": "ammoniakk",
-        "url": "https://snl.no/ammoniakk"
-      },
       {
         "category": "Monarki",
         "title": "Kongehuset i Nederland",
         "url": "https://snl.no/Kongehuset_i_Nederland"
       },
       {
-        "category": "Granslekta",
-        "title": "sitkagran",
-        "url": "https://snl.no/sitkagran"
-      },
-      {
-        "category": "Grupper av forbindelser",
-        "title": "salmiakk",
-        "url": "https://snl.no/salmiakk"
-      },
-      {
         "category": "Hellas’ litteratur i antikken",
         "title": "Odysseen",
         "url": "https://snl.no/Odysseen"
+      },
+      {
+        "category": "Norsk kunstnerleksikon",
+        "title": "Alfred Eikri",
+        "url": "https://nkl.snl.no/Alfred_Eikri"
+      },
+      {
+        "category": "Bukspyttkjertelen",
+        "title": "pankreatitt – bukspyttkjertelbetennelse",
+        "url": "https://sml.snl.no/pankreatitt_-_bukspyttkjertelbetennelse"
+      },
+      {
+        "category": "Norges geografi generelt",
+        "title": "Norges største byer",
+        "url": "https://snl.no/Norges_st%C3%B8rste_byer"
       }
     ],
     "Uvanlig mye lest": [
-      {
-        "category": "Nederlandsk og flamsk billedkunst 1400–1750",
-        "title": "Paulus Potter",
-        "url": "https://snl.no/Paulus_Potter"
-      },
       {
         "category": "Den greske antikken",
         "title": "trojanerkrigen",
         "url": "https://snl.no/trojanerkrigen"
       },
       {
-        "category": "Norges geografi generelt",
-        "title": "Norges største byer",
-        "url": "https://snl.no/Norges_st%C3%B8rste_byer"
+        "category": "Bukspyttkjertelen",
+        "title": "bukspyttkjertelen",
+        "url": "https://sml.snl.no/bukspyttkjertelen"
       },
       {
-        "category": "Metabolisme",
-        "title": "kreatin",
-        "url": "https://sml.snl.no/kreatin"
+        "category": "Europas geografi generelt",
+        "title": "Land i Europa",
+        "url": "https://snl.no/Land_i_Europa"
       },
       {
         "category": "Vind og atmosfæriske bølger",
         "title": "Beauforts vindskala",
         "url": "https://snl.no/Beauforts_vindskala"
+      },
+      {
+        "category": "Binyrene",
+        "title": "kortisol",
+        "url": "https://sml.snl.no/kortisol"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Personer innen astronomi",
-        "title": "James Bradley",
-        "url": "https://snl.no/James_Bradley"
+        "category": "Tysk fotball",
+        "title": "Bayern München",
+        "url": "https://snl.no/Bayern_M%C3%BCnchen"
       },
       {
-        "category": "Qatars samtidshistorie",
-        "title": "Qatars samtidshistorie",
-        "url": "https://snl.no/Qatars_samtidshistorie"
+        "category": "Portugals historie",
+        "title": "Johan 4.",
+        "url": "https://snl.no/Johan_4."
       },
       {
-        "category": "Iraks historie",
-        "title": "Iraks samtidshistorie",
-        "url": "https://snl.no/Iraks_samtidshistorie"
+        "category": "Internasjonale dirigenter",
+        "title": "Carlos Kleiber",
+        "url": "https://snl.no/Carlos_Kleiber"
       },
       {
-        "category": "Fotohistoriske biografier",
-        "title": "Lotten von Düben",
-        "url": "https://snl.no/Lotten_von_D%C3%BCben"
+        "category": "Skiskyting",
+        "title": "Marte Olsbu Røiseland",
+        "url": "https://snl.no/Marte_Olsbu_R%C3%B8iseland"
       },
       {
-        "category": "Underholdningsmusikk",
-        "title": "underholdningsmusikk",
-        "url": "https://snl.no/underholdningsmusikk"
+        "category": "Tidligere aviser i Trøndelag",
+        "title": "Spegjelen",
+        "url": "https://snl.no/Spegjelen"
       }
     ]
   }

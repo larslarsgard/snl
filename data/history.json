@@ -6804,5 +6804,88 @@
         "url": "https://snl.no/underholdningsmusikk"
       }
     ]
+  },
+  "2026-08-10": {
+    "Mest lest i går": [
+      {
+        "category": "Monarki",
+        "title": "Kongehuset i Nederland",
+        "url": "https://snl.no/Kongehuset_i_Nederland"
+      },
+      {
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odysseen",
+        "url": "https://snl.no/Odysseen"
+      },
+      {
+        "category": "Norsk kunstnerleksikon",
+        "title": "Alfred Eikri",
+        "url": "https://nkl.snl.no/Alfred_Eikri"
+      },
+      {
+        "category": "Bukspyttkjertelen",
+        "title": "pankreatitt – bukspyttkjertelbetennelse",
+        "url": "https://sml.snl.no/pankreatitt_-_bukspyttkjertelbetennelse"
+      },
+      {
+        "category": "Norges geografi generelt",
+        "title": "Norges største byer",
+        "url": "https://snl.no/Norges_st%C3%B8rste_byer"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Den greske antikken",
+        "title": "trojanerkrigen",
+        "url": "https://snl.no/trojanerkrigen"
+      },
+      {
+        "category": "Bukspyttkjertelen",
+        "title": "bukspyttkjertelen",
+        "url": "https://sml.snl.no/bukspyttkjertelen"
+      },
+      {
+        "category": "Europas geografi generelt",
+        "title": "Land i Europa",
+        "url": "https://snl.no/Land_i_Europa"
+      },
+      {
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
+      },
+      {
+        "category": "Binyrene",
+        "title": "kortisol",
+        "url": "https://sml.snl.no/kortisol"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Tysk fotball",
+        "title": "Bayern München",
+        "url": "https://snl.no/Bayern_M%C3%BCnchen"
+      },
+      {
+        "category": "Portugals historie",
+        "title": "Johan 4.",
+        "url": "https://snl.no/Johan_4."
+      },
+      {
+        "category": "Internasjonale dirigenter",
+        "title": "Carlos Kleiber",
+        "url": "https://snl.no/Carlos_Kleiber"
+      },
+      {
+        "category": "Skiskyting",
+        "title": "Marte Olsbu Røiseland",
+        "url": "https://snl.no/Marte_Olsbu_R%C3%B8iseland"
+      },
+      {
+        "category": "Tidligere aviser i Trøndelag",
+        "title": "Spegjelen",
+        "url": "https://snl.no/Spegjelen"
+      }
+    ]
   }
 }
