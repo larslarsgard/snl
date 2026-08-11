@@ -6887,5 +6887,88 @@
         "url": "https://snl.no/Spegjelen"
       }
     ]
+  },
+  "2026-08-11": {
+    "Mest lest i går": [
+      {
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "oktogen",
+        "url": "https://snl.no/oktogen"
+      },
+      {
+        "category": "Monarki",
+        "title": "Kongehuset i Nederland",
+        "url": "https://snl.no/Kongehuset_i_Nederland"
+      },
+      {
+        "category": "Glasskunstnere og keramikere",
+        "title": "Willy Johansson",
+        "url": "https://snl.no/Willy_Johansson"
+      },
+      {
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odysseen",
+        "url": "https://snl.no/Odysseen"
+      },
+      {
+        "category": "Solsystemet",
+        "title": "solformørkelse",
+        "url": "https://snl.no/solform%C3%B8rkelse"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Europas geografi generelt",
+        "title": "Donau",
+        "url": "https://snl.no/Donau"
+      },
+      {
+        "category": "Folkediktning",
+        "title": "Robin Hood",
+        "url": "https://snl.no/Robin_Hood"
+      },
+      {
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "hundedagene",
+        "url": "https://snl.no/hundedagene"
+      },
+      {
+        "category": "Norges geografi generelt",
+        "title": "byer i Norge",
+        "url": "https://snl.no/byer_i_Norge"
+      },
+      {
+        "category": "Den greske antikken",
+        "title": "trojanerkrigen",
+        "url": "https://snl.no/trojanerkrigen"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Personer i IT-historie",
+        "title": "Fredrik Rosing Bull",
+        "url": "https://snl.no/Fredrik_Rosing_Bull"
+      },
+      {
+        "category": "Folkegrupper i Sør-Amerika",
+        "title": "muisca",
+        "url": "https://snl.no/muisca"
+      },
+      {
+        "category": "Internasjonale dirigenter",
+        "title": "Pierre Monteux",
+        "url": "https://snl.no/Pierre_Monteux"
+      },
+      {
+        "category": "Jentenavn",
+        "title": "Stina – kvinnenamn",
+        "url": "https://snl.no/Stina_-_kvinnenamn"
+      },
+      {
+        "category": "Frisisk",
+        "title": "vestfrisisk",
+        "url": "https://snl.no/vestfrisisk"
+      }
+    ]
   }
 }
