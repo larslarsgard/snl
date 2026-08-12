@@ -6970,5 +6970,88 @@
         "url": "https://snl.no/vestfrisisk"
       }
     ]
+  },
+  "2026-08-12": {
+    "Mest lest i går": [
+      {
+        "category": "Solsystemet",
+        "title": "solformørkelse",
+        "url": "https://snl.no/solform%C3%B8rkelse"
+      },
+      {
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odysseen",
+        "url": "https://snl.no/Odysseen"
+      },
+      {
+        "category": "Monarki",
+        "title": "Kongehuset i Nederland",
+        "url": "https://snl.no/Kongehuset_i_Nederland"
+      },
+      {
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
+      },
+      {
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "larsok",
+        "url": "https://snl.no/larsok"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Kast",
+        "title": "Beatrice Nedberge Llano",
+        "url": "https://snl.no/Beatrice_Nedberge_Llano"
+      },
+      {
+        "category": "Gjenstanders kulturhistorie",
+        "title": "hegd",
+        "url": "https://snl.no/hegd"
+      },
+      {
+        "category": "Kast",
+        "title": "kulestøt",
+        "url": "https://snl.no/kulest%C3%B8t"
+      },
+      {
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "oktogen",
+        "url": "https://snl.no/oktogen"
+      },
+      {
+        "category": "Den norske kongerekka",
+        "title": "monarker i Norge – kongerekken",
+        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Tysk fotball",
+        "title": "Bayern München",
+        "url": "https://snl.no/Bayern_M%C3%BCnchen"
+      },
+      {
+        "category": "Haitis litteratur",
+        "title": "René Depestre",
+        "url": "https://snl.no/Ren%C3%A9_Depestre"
+      },
+      {
+        "category": "Kirkemusikk",
+        "title": "messe – musikkverk",
+        "url": "https://snl.no/messe_-_musikkverk"
+      },
+      {
+        "category": "Russlands nyere litteratur",
+        "title": "Mikhail Gigolasjvili",
+        "url": "https://snl.no/Mikhail_Gigolasjvili"
+      },
+      {
+        "category": "Tidligere aviser i Trøndelag",
+        "title": "Spegjelen",
+        "url": "https://snl.no/Spegjelen"
+      }
+    ]
   }
 }

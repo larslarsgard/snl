@@ -1,21 +1,11 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Energetiske materialer og sprengningsteknikk",
-        "title": "oktogen",
-        "url": "https://snl.no/oktogen"
-      },
-      {
-        "category": "Monarki",
-        "title": "Kongehuset i Nederland",
-        "url": "https://snl.no/Kongehuset_i_Nederland"
-      },
-      {
-        "category": "Glasskunstnere og keramikere",
-        "title": "Willy Johansson",
-        "url": "https://snl.no/Willy_Johansson"
+        "category": "Solsystemet",
+        "title": "solformørkelse",
+        "url": "https://snl.no/solform%C3%B8rkelse"
       },
       {
         "category": "Hellas’ litteratur i antikken",
@@ -23,63 +13,73 @@
         "url": "https://snl.no/Odysseen"
       },
       {
-        "category": "Solsystemet",
-        "title": "solformørkelse",
-        "url": "https://snl.no/solform%C3%B8rkelse"
+        "category": "Monarki",
+        "title": "Kongehuset i Nederland",
+        "url": "https://snl.no/Kongehuset_i_Nederland"
+      },
+      {
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
+      },
+      {
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "larsok",
+        "url": "https://snl.no/larsok"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Europas geografi generelt",
-        "title": "Donau",
-        "url": "https://snl.no/Donau"
+        "category": "Kast",
+        "title": "Beatrice Nedberge Llano",
+        "url": "https://snl.no/Beatrice_Nedberge_Llano"
       },
       {
-        "category": "Folkediktning",
-        "title": "Robin Hood",
-        "url": "https://snl.no/Robin_Hood"
+        "category": "Gjenstanders kulturhistorie",
+        "title": "hegd",
+        "url": "https://snl.no/hegd"
       },
       {
-        "category": "Folkelige skikker og tradisjoner",
-        "title": "hundedagene",
-        "url": "https://snl.no/hundedagene"
+        "category": "Kast",
+        "title": "kulestøt",
+        "url": "https://snl.no/kulest%C3%B8t"
       },
       {
-        "category": "Norges geografi generelt",
-        "title": "byer i Norge",
-        "url": "https://snl.no/byer_i_Norge"
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "oktogen",
+        "url": "https://snl.no/oktogen"
       },
       {
-        "category": "Den greske antikken",
-        "title": "trojanerkrigen",
-        "url": "https://snl.no/trojanerkrigen"
+        "category": "Den norske kongerekka",
+        "title": "monarker i Norge – kongerekken",
+        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Personer i IT-historie",
-        "title": "Fredrik Rosing Bull",
-        "url": "https://snl.no/Fredrik_Rosing_Bull"
+        "category": "Tysk fotball",
+        "title": "Bayern München",
+        "url": "https://snl.no/Bayern_M%C3%BCnchen"
       },
       {
-        "category": "Folkegrupper i Sør-Amerika",
-        "title": "muisca",
-        "url": "https://snl.no/muisca"
+        "category": "Haitis litteratur",
+        "title": "René Depestre",
+        "url": "https://snl.no/Ren%C3%A9_Depestre"
       },
       {
-        "category": "Internasjonale dirigenter",
-        "title": "Pierre Monteux",
-        "url": "https://snl.no/Pierre_Monteux"
+        "category": "Kirkemusikk",
+        "title": "messe – musikkverk",
+        "url": "https://snl.no/messe_-_musikkverk"
       },
       {
-        "category": "Jentenavn",
-        "title": "Stina – kvinnenamn",
-        "url": "https://snl.no/Stina_-_kvinnenamn"
+        "category": "Russlands nyere litteratur",
+        "title": "Mikhail Gigolasjvili",
+        "url": "https://snl.no/Mikhail_Gigolasjvili"
       },
       {
-        "category": "Frisisk",
-        "title": "vestfrisisk",
-        "url": "https://snl.no/vestfrisisk"
+        "category": "Tidligere aviser i Trøndelag",
+        "title": "Spegjelen",
+        "url": "https://snl.no/Spegjelen"
       }
     ]
   }
