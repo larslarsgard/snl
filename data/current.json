@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "categories": {
     "Mest lest i går": [
       {
@@ -8,9 +8,41 @@
         "url": "https://snl.no/solform%C3%B8rkelse"
       },
       {
-        "category": "Hellas’ litteratur i antikken",
-        "title": "Odysseen",
-        "url": "https://snl.no/Odysseen"
+        "category": "Kast",
+        "title": "Beatrice Nedberge Llano",
+        "url": "https://snl.no/Beatrice_Nedberge_Llano"
+      },
+      {
+        "category": "Mangekamp",
+        "title": "tikamp",
+        "url": "https://snl.no/tikamp"
+      },
+      {
+        "category": "Metabolisme",
+        "title": "kreatin",
+        "url": "https://sml.snl.no/kreatin"
+      },
+      {
+        "category": "Solsystemet",
+        "title": "måneformørkelse",
+        "url": "https://snl.no/m%C3%A5neform%C3%B8rkelse"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Mangekamp",
+        "title": "Markus Rooth",
+        "url": "https://snl.no/Markus_Rooth"
+      },
+      {
+        "category": "Kast",
+        "title": "sleggekast",
+        "url": "https://snl.no/sleggekast"
+      },
+      {
+        "category": "Løp",
+        "title": "Amalie Iuel",
+        "url": "https://snl.no/Amalie_Iuel"
       },
       {
         "category": "Mesterskap og institusjoner i friidrett",
@@ -18,68 +50,36 @@
         "url": "https://snl.no/friidrett_-_verdensrekorder_og_norske_rekorder"
       },
       {
-        "category": "USAs historie 1945–2001",
-        "title": "Finanskrisen i 2008–2009",
-        "url": "https://snl.no/Finanskrisen_i_2008%E2%80%932009"
-      },
-      {
         "category": "Monarki",
         "title": "Kongehuset i Nederland",
         "url": "https://snl.no/Kongehuset_i_Nederland"
       }
     ],
-    "Uvanlig mye lest": [
-      {
-        "category": "Folkemusikk",
-        "title": "Anders Heldal",
-        "url": "https://snl.no/Anders_Heldal"
-      },
-      {
-        "category": "Gjenstanders kulturhistorie",
-        "title": "hegd",
-        "url": "https://snl.no/hegd"
-      },
-      {
-        "category": "Løp",
-        "title": "Christina Vukicevic Demidov",
-        "url": "https://snl.no/Christina_Vukicevic_Demidov"
-      },
-      {
-        "category": "Demografi",
-        "title": "demografi",
-        "url": "https://snl.no/demografi"
-      },
-      {
-        "category": "Metabolisme",
-        "title": "kreatin",
-        "url": "https://sml.snl.no/kreatin"
-      }
-    ],
     "Sørgelig lite lest": [
       {
-        "category": "Senegals litteratur",
-        "title": "Mariama Bâ",
-        "url": "https://snl.no/Mariama_B%C3%A2"
+        "category": "Norske tekstilkunstnere",
+        "title": "Frida Hansen",
+        "url": "https://snl.no/Frida_Hansen"
       },
       {
-        "category": "Norsk bildende kunst fra 1945 til 1990",
-        "title": "Karen Holtsmark",
-        "url": "https://snl.no/Karen_Holtsmark"
+        "category": "Forsvarets historie",
+        "title": "K-soldater",
+        "url": "https://snl.no/K-soldater"
       },
       {
-        "category": "Kirkemusikk",
-        "title": "messe – musikkverk",
-        "url": "https://snl.no/messe_-_musikkverk"
+        "category": "Danmarks litteratur på 1700-tallet",
+        "title": "Peter Christopher Stenerson",
+        "url": "https://snl.no/Peter_Christopher_Stenerson"
       },
       {
-        "category": "Storbritannia og Nord-Irlands litteratur på 1800-tallet",
-        "title": "Margaret Oliphant",
-        "url": "https://snl.no/Margaret_Oliphant"
+        "category": "Norske militære biografier",
+        "title": "Nils Danielsen Trosner",
+        "url": "https://snl.no/Nils_Danielsen_Trosner"
       },
       {
-        "category": "Mål og vekt",
-        "title": "tonn oljeekvivalent",
-        "url": "https://snl.no/tonn_oljeekvivalent"
+        "category": "Sudans samtidshistorie",
+        "title": "Medier i Sudan",
+        "url": "https://snl.no/Medier_i_Sudan"
       }
     ]
   }

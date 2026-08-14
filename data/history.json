@@ -7136,5 +7136,88 @@
         "url": "https://snl.no/tonn_oljeekvivalent"
       }
     ]
+  },
+  "2026-08-14": {
+    "Mest lest i går": [
+      {
+        "category": "Solsystemet",
+        "title": "solformørkelse",
+        "url": "https://snl.no/solform%C3%B8rkelse"
+      },
+      {
+        "category": "Kast",
+        "title": "Beatrice Nedberge Llano",
+        "url": "https://snl.no/Beatrice_Nedberge_Llano"
+      },
+      {
+        "category": "Mangekamp",
+        "title": "tikamp",
+        "url": "https://snl.no/tikamp"
+      },
+      {
+        "category": "Metabolisme",
+        "title": "kreatin",
+        "url": "https://sml.snl.no/kreatin"
+      },
+      {
+        "category": "Solsystemet",
+        "title": "måneformørkelse",
+        "url": "https://snl.no/m%C3%A5neform%C3%B8rkelse"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Mangekamp",
+        "title": "Markus Rooth",
+        "url": "https://snl.no/Markus_Rooth"
+      },
+      {
+        "category": "Kast",
+        "title": "sleggekast",
+        "url": "https://snl.no/sleggekast"
+      },
+      {
+        "category": "Løp",
+        "title": "Amalie Iuel",
+        "url": "https://snl.no/Amalie_Iuel"
+      },
+      {
+        "category": "Mesterskap og institusjoner i friidrett",
+        "title": "friidrett – verdensrekorder og norske rekorder",
+        "url": "https://snl.no/friidrett_-_verdensrekorder_og_norske_rekorder"
+      },
+      {
+        "category": "Monarki",
+        "title": "Kongehuset i Nederland",
+        "url": "https://snl.no/Kongehuset_i_Nederland"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Norske tekstilkunstnere",
+        "title": "Frida Hansen",
+        "url": "https://snl.no/Frida_Hansen"
+      },
+      {
+        "category": "Forsvarets historie",
+        "title": "K-soldater",
+        "url": "https://snl.no/K-soldater"
+      },
+      {
+        "category": "Danmarks litteratur på 1700-tallet",
+        "title": "Peter Christopher Stenerson",
+        "url": "https://snl.no/Peter_Christopher_Stenerson"
+      },
+      {
+        "category": "Norske militære biografier",
+        "title": "Nils Danielsen Trosner",
+        "url": "https://snl.no/Nils_Danielsen_Trosner"
+      },
+      {
+        "category": "Sudans samtidshistorie",
+        "title": "Medier i Sudan",
+        "url": "https://snl.no/Medier_i_Sudan"
+      }
+    ]
   }
 }
