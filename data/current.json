@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "categories": {
     "Mest lest i går": [
       {
@@ -8,27 +8,32 @@
         "url": "https://snl.no/solform%C3%B8rkelse"
       },
       {
-        "category": "Kast",
-        "title": "Beatrice Nedberge Llano",
-        "url": "https://snl.no/Beatrice_Nedberge_Llano"
-      },
-      {
         "category": "Mangekamp",
         "title": "tikamp",
         "url": "https://snl.no/tikamp"
       },
       {
-        "category": "Metabolisme",
-        "title": "kreatin",
-        "url": "https://sml.snl.no/kreatin"
+        "category": "Kast",
+        "title": "Beatrice Nedberge Llano",
+        "url": "https://snl.no/Beatrice_Nedberge_Llano"
       },
       {
-        "category": "Solsystemet",
-        "title": "måneformørkelse",
-        "url": "https://snl.no/m%C3%A5neform%C3%B8rkelse"
+        "category": "Natur og landemerker i Russland",
+        "title": "Kurilene",
+        "url": "https://snl.no/Kurilene"
+      },
+      {
+        "category": "Maur",
+        "title": "flygemaur",
+        "url": "https://snl.no/flygemaur"
       }
     ],
     "Uvanlig mye lest": [
+      {
+        "category": "Knokkel- og bløtvevssvulster",
+        "title": "leiomyosarkom",
+        "url": "https://sml.snl.no/leiomyosarkom"
+      },
       {
         "category": "Mangekamp",
         "title": "Markus Rooth",
@@ -36,50 +41,45 @@
       },
       {
         "category": "Kast",
-        "title": "sleggekast",
-        "url": "https://snl.no/sleggekast"
+        "title": "diskos",
+        "url": "https://snl.no/diskos"
+      },
+      {
+        "category": "Hopp",
+        "title": "Armand Duplantis",
+        "url": "https://snl.no/Armand_Duplantis"
       },
       {
         "category": "Løp",
-        "title": "Amalie Iuel",
-        "url": "https://snl.no/Amalie_Iuel"
-      },
-      {
-        "category": "Mesterskap og institusjoner i friidrett",
-        "title": "friidrett – verdensrekorder og norske rekorder",
-        "url": "https://snl.no/friidrett_-_verdensrekorder_og_norske_rekorder"
-      },
-      {
-        "category": "Monarki",
-        "title": "Kongehuset i Nederland",
-        "url": "https://snl.no/Kongehuset_i_Nederland"
+        "title": "Vebjørn Rodal",
+        "url": "https://snl.no/Vebj%C3%B8rn_Rodal"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Norske tekstilkunstnere",
-        "title": "Frida Hansen",
-        "url": "https://snl.no/Frida_Hansen"
+        "category": "Nord-Makedonias historie",
+        "title": "Boris Trajkovski",
+        "url": "https://snl.no/Boris_Trajkovski"
       },
       {
-        "category": "Forsvarets historie",
-        "title": "K-soldater",
-        "url": "https://snl.no/K-soldater"
+        "category": "Menneskerettigheter",
+        "title": "FNs kvinnekomité",
+        "url": "https://snl.no/FNs_kvinnekomit%C3%A9"
       },
       {
-        "category": "Danmarks litteratur på 1700-tallet",
-        "title": "Peter Christopher Stenerson",
-        "url": "https://snl.no/Peter_Christopher_Stenerson"
+        "category": "Afghanistans samtidshistorie",
+        "title": "Afghanistans samtidshistorie",
+        "url": "https://snl.no/Afghanistans_samtidshistorie"
       },
       {
-        "category": "Norske militære biografier",
-        "title": "Nils Danielsen Trosner",
-        "url": "https://snl.no/Nils_Danielsen_Trosner"
+        "category": "Folkemusikk",
+        "title": "Kåre Korneliussen",
+        "url": "https://snl.no/K%C3%A5re_Korneliussen"
       },
       {
-        "category": "Sudans samtidshistorie",
-        "title": "Medier i Sudan",
-        "url": "https://snl.no/Medier_i_Sudan"
+        "category": "Tidligere aviser på Østlandet",
+        "title": "Dølabladet",
+        "url": "https://snl.no/D%C3%B8labladet"
       }
     ]
   }

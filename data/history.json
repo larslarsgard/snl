@@ -7219,5 +7219,88 @@
         "url": "https://snl.no/Medier_i_Sudan"
       }
     ]
+  },
+  "2026-08-15": {
+    "Mest lest i går": [
+      {
+        "category": "Solsystemet",
+        "title": "solformørkelse",
+        "url": "https://snl.no/solform%C3%B8rkelse"
+      },
+      {
+        "category": "Mangekamp",
+        "title": "tikamp",
+        "url": "https://snl.no/tikamp"
+      },
+      {
+        "category": "Kast",
+        "title": "Beatrice Nedberge Llano",
+        "url": "https://snl.no/Beatrice_Nedberge_Llano"
+      },
+      {
+        "category": "Natur og landemerker i Russland",
+        "title": "Kurilene",
+        "url": "https://snl.no/Kurilene"
+      },
+      {
+        "category": "Maur",
+        "title": "flygemaur",
+        "url": "https://snl.no/flygemaur"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Knokkel- og bløtvevssvulster",
+        "title": "leiomyosarkom",
+        "url": "https://sml.snl.no/leiomyosarkom"
+      },
+      {
+        "category": "Mangekamp",
+        "title": "Markus Rooth",
+        "url": "https://snl.no/Markus_Rooth"
+      },
+      {
+        "category": "Kast",
+        "title": "diskos",
+        "url": "https://snl.no/diskos"
+      },
+      {
+        "category": "Hopp",
+        "title": "Armand Duplantis",
+        "url": "https://snl.no/Armand_Duplantis"
+      },
+      {
+        "category": "Løp",
+        "title": "Vebjørn Rodal",
+        "url": "https://snl.no/Vebj%C3%B8rn_Rodal"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Nord-Makedonias historie",
+        "title": "Boris Trajkovski",
+        "url": "https://snl.no/Boris_Trajkovski"
+      },
+      {
+        "category": "Menneskerettigheter",
+        "title": "FNs kvinnekomité",
+        "url": "https://snl.no/FNs_kvinnekomit%C3%A9"
+      },
+      {
+        "category": "Afghanistans samtidshistorie",
+        "title": "Afghanistans samtidshistorie",
+        "url": "https://snl.no/Afghanistans_samtidshistorie"
+      },
+      {
+        "category": "Folkemusikk",
+        "title": "Kåre Korneliussen",
+        "url": "https://snl.no/K%C3%A5re_Korneliussen"
+      },
+      {
+        "category": "Tidligere aviser på Østlandet",
+        "title": "Dølabladet",
+        "url": "https://snl.no/D%C3%B8labladet"
+      }
+    ]
   }
 }
