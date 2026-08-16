@@ -1,85 +1,85 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Sveriges nyere litteratur",
+        "title": "Sara Stridsberg",
+        "url": "https://snl.no/Sara_Stridsberg"
+      },
+      {
+        "category": "Maur",
+        "title": "flygemaur",
+        "url": "https://snl.no/flygemaur"
+      },
       {
         "category": "Solsystemet",
         "title": "solformørkelse",
         "url": "https://snl.no/solform%C3%B8rkelse"
       },
       {
-        "category": "Mangekamp",
-        "title": "tikamp",
-        "url": "https://snl.no/tikamp"
+        "category": "Løp",
+        "title": "Sebastian Coe",
+        "url": "https://snl.no/Sebastian_Coe"
       },
       {
-        "category": "Kast",
-        "title": "Beatrice Nedberge Llano",
-        "url": "https://snl.no/Beatrice_Nedberge_Llano"
-      },
-      {
-        "category": "Natur og landemerker i Russland",
-        "title": "Kurilene",
-        "url": "https://snl.no/Kurilene"
-      },
-      {
-        "category": "Maur",
-        "title": "flygemaur",
-        "url": "https://snl.no/flygemaur"
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odysseen",
+        "url": "https://snl.no/Odysseen"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Knokkel- og bløtvevssvulster",
-        "title": "leiomyosarkom",
-        "url": "https://sml.snl.no/leiomyosarkom"
-      },
-      {
         "category": "Mangekamp",
-        "title": "Markus Rooth",
-        "url": "https://snl.no/Markus_Rooth"
-      },
-      {
-        "category": "Kast",
-        "title": "diskos",
-        "url": "https://snl.no/diskos"
-      },
-      {
-        "category": "Hopp",
-        "title": "Armand Duplantis",
-        "url": "https://snl.no/Armand_Duplantis"
+        "title": "sjukamp",
+        "url": "https://snl.no/sjukamp"
       },
       {
         "category": "Løp",
-        "title": "Vebjørn Rodal",
-        "url": "https://snl.no/Vebj%C3%B8rn_Rodal"
+        "title": "Karsten Warholm",
+        "url": "https://snl.no/Karsten_Warholm"
+      },
+      {
+        "category": "Hopp",
+        "title": "høydehopp",
+        "url": "https://snl.no/h%C3%B8ydehopp"
+      },
+      {
+        "category": "Løp",
+        "title": "Ingrid Kristiansen",
+        "url": "https://snl.no/Ingrid_Kristiansen"
+      },
+      {
+        "category": "Mangekamp",
+        "title": "tikamp",
+        "url": "https://snl.no/tikamp"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Nord-Makedonias historie",
-        "title": "Boris Trajkovski",
-        "url": "https://snl.no/Boris_Trajkovski"
+        "category": "Internasjonale tegnekunstnere",
+        "title": "John Flaxman",
+        "url": "https://snl.no/John_Flaxman"
       },
       {
-        "category": "Menneskerettigheter",
-        "title": "FNs kvinnekomité",
-        "url": "https://snl.no/FNs_kvinnekomit%C3%A9"
+        "category": "Stavkirker",
+        "title": "Høyjord stavkirke",
+        "url": "https://snl.no/H%C3%B8yjord_stavkirke"
       },
       {
-        "category": "Afghanistans samtidshistorie",
-        "title": "Afghanistans samtidshistorie",
-        "url": "https://snl.no/Afghanistans_samtidshistorie"
+        "category": "Slovenias litteratur",
+        "title": "Francè Prešeren",
+        "url": "https://snl.no/Franc%C3%A8_Pre%C5%A1eren"
       },
       {
-        "category": "Folkemusikk",
-        "title": "Kåre Korneliussen",
-        "url": "https://snl.no/K%C3%A5re_Korneliussen"
+        "category": "Libyas historie",
+        "title": "Libyas samtidshistorie",
+        "url": "https://snl.no/Libyas_samtidshistorie"
       },
       {
-        "category": "Tidligere aviser på Østlandet",
-        "title": "Dølabladet",
-        "url": "https://snl.no/D%C3%B8labladet"
+        "category": "Biografier medisinsk historie",
+        "title": "Antonio Maria Valsalva",
+        "url": "https://snl.no/Antonio_Maria_Valsalva"
       }
     ]
   }
