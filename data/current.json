@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "categories": {
     "Mest lest i går": [
       {
@@ -8,19 +8,19 @@
         "url": "https://snl.no/Sara_Stridsberg"
       },
       {
-        "category": "Maur",
-        "title": "flygemaur",
-        "url": "https://snl.no/flygemaur"
+        "category": "Kast",
+        "title": "Andreas Thorkildsen",
+        "url": "https://snl.no/Andreas_Thorkildsen"
       },
       {
-        "category": "Solsystemet",
-        "title": "solformørkelse",
-        "url": "https://snl.no/solform%C3%B8rkelse"
+        "category": "Mesterskap og institusjoner i friidrett",
+        "title": "friidrett – verdensrekorder og norske rekorder",
+        "url": "https://snl.no/friidrett_-_verdensrekorder_og_norske_rekorder"
       },
       {
-        "category": "Løp",
-        "title": "Sebastian Coe",
-        "url": "https://snl.no/Sebastian_Coe"
+        "category": "Kast",
+        "title": "spydkast",
+        "url": "https://snl.no/spydkast"
       },
       {
         "category": "Hellas’ litteratur i antikken",
@@ -30,56 +30,56 @@
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Mangekamp",
-        "title": "sjukamp",
-        "url": "https://snl.no/sjukamp"
+        "category": "Blomst",
+        "title": "enkjønnet",
+        "url": "https://snl.no/enkj%C3%B8nnet"
       },
       {
-        "category": "Løp",
-        "title": "Karsten Warholm",
-        "url": "https://snl.no/Karsten_Warholm"
+        "category": "Finans",
+        "title": "nominell verdi",
+        "url": "https://snl.no/nominell_verdi"
+      },
+      {
+        "category": "Internasjonal pop og rock",
+        "title": "Eva Dahlgren",
+        "url": "https://snl.no/Eva_Dahlgren"
+      },
+      {
+        "category": "Kast",
+        "title": "Egil Danielsen",
+        "url": "https://snl.no/Egil_Danielsen"
       },
       {
         "category": "Hopp",
-        "title": "høydehopp",
-        "url": "https://snl.no/h%C3%B8ydehopp"
-      },
-      {
-        "category": "Løp",
-        "title": "Ingrid Kristiansen",
-        "url": "https://snl.no/Ingrid_Kristiansen"
-      },
-      {
-        "category": "Mangekamp",
-        "title": "tikamp",
-        "url": "https://snl.no/tikamp"
+        "title": "Jonathan Edwards – britisk friidrettsutøver",
+        "url": "https://snl.no/Jonathan_Edwards_-_britisk_friidrettsut%C3%B8ver"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Internasjonale tegnekunstnere",
-        "title": "John Flaxman",
-        "url": "https://snl.no/John_Flaxman"
+        "category": "Tysklands litteratur på 1800-tallet",
+        "title": "Christian Dietrich Grabbe",
+        "url": "https://snl.no/Christian_Dietrich_Grabbe"
+      },
+      {
+        "category": "Realisme og impresjonisme",
+        "title": "Hans Heyerdahl",
+        "url": "https://snl.no/Hans_Heyerdahl"
       },
       {
         "category": "Stavkirker",
-        "title": "Høyjord stavkirke",
-        "url": "https://snl.no/H%C3%B8yjord_stavkirke"
+        "title": "Øye stavkirke",
+        "url": "https://snl.no/%C3%98ye_stavkirke"
       },
       {
-        "category": "Slovenias litteratur",
-        "title": "Francè Prešeren",
-        "url": "https://snl.no/Franc%C3%A8_Pre%C5%A1eren"
+        "category": "Kameruns litteratur",
+        "title": "Werewere-Liking Gnepo",
+        "url": "https://snl.no/Werewere-Liking_Gnepo"
       },
       {
-        "category": "Libyas historie",
-        "title": "Libyas samtidshistorie",
-        "url": "https://snl.no/Libyas_samtidshistorie"
-      },
-      {
-        "category": "Biografier medisinsk historie",
-        "title": "Antonio Maria Valsalva",
-        "url": "https://snl.no/Antonio_Maria_Valsalva"
+        "category": "Tidligere aviser på Østlandet",
+        "title": "Buskeruds Amtstidende",
+        "url": "https://snl.no/Buskeruds_Amtstidende"
       }
     ]
   }

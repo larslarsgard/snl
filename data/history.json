@@ -7385,5 +7385,88 @@
         "url": "https://snl.no/Antonio_Maria_Valsalva"
       }
     ]
+  },
+  "2026-08-17": {
+    "Mest lest i går": [
+      {
+        "category": "Sveriges nyere litteratur",
+        "title": "Sara Stridsberg",
+        "url": "https://snl.no/Sara_Stridsberg"
+      },
+      {
+        "category": "Kast",
+        "title": "Andreas Thorkildsen",
+        "url": "https://snl.no/Andreas_Thorkildsen"
+      },
+      {
+        "category": "Mesterskap og institusjoner i friidrett",
+        "title": "friidrett – verdensrekorder og norske rekorder",
+        "url": "https://snl.no/friidrett_-_verdensrekorder_og_norske_rekorder"
+      },
+      {
+        "category": "Kast",
+        "title": "spydkast",
+        "url": "https://snl.no/spydkast"
+      },
+      {
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odysseen",
+        "url": "https://snl.no/Odysseen"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Blomst",
+        "title": "enkjønnet",
+        "url": "https://snl.no/enkj%C3%B8nnet"
+      },
+      {
+        "category": "Finans",
+        "title": "nominell verdi",
+        "url": "https://snl.no/nominell_verdi"
+      },
+      {
+        "category": "Internasjonal pop og rock",
+        "title": "Eva Dahlgren",
+        "url": "https://snl.no/Eva_Dahlgren"
+      },
+      {
+        "category": "Kast",
+        "title": "Egil Danielsen",
+        "url": "https://snl.no/Egil_Danielsen"
+      },
+      {
+        "category": "Hopp",
+        "title": "Jonathan Edwards – britisk friidrettsutøver",
+        "url": "https://snl.no/Jonathan_Edwards_-_britisk_friidrettsut%C3%B8ver"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Tysklands litteratur på 1800-tallet",
+        "title": "Christian Dietrich Grabbe",
+        "url": "https://snl.no/Christian_Dietrich_Grabbe"
+      },
+      {
+        "category": "Realisme og impresjonisme",
+        "title": "Hans Heyerdahl",
+        "url": "https://snl.no/Hans_Heyerdahl"
+      },
+      {
+        "category": "Stavkirker",
+        "title": "Øye stavkirke",
+        "url": "https://snl.no/%C3%98ye_stavkirke"
+      },
+      {
+        "category": "Kameruns litteratur",
+        "title": "Werewere-Liking Gnepo",
+        "url": "https://snl.no/Werewere-Liking_Gnepo"
+      },
+      {
+        "category": "Tidligere aviser på Østlandet",
+        "title": "Buskeruds Amtstidende",
+        "url": "https://snl.no/Buskeruds_Amtstidende"
+      }
+    ]
   }
 }
