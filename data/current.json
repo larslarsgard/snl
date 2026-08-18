@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Kast",
+        "title": "Trine Hattestad",
+        "url": "https://snl.no/Trine_Hattestad"
+      },
+      {
+        "category": "Hopp",
+        "title": "stavsprang",
+        "url": "https://snl.no/stavsprang"
+      },
       {
         "category": "Sveriges nyere litteratur",
         "title": "Sara Stridsberg",
         "url": "https://snl.no/Sara_Stridsberg"
       },
       {
-        "category": "Kast",
-        "title": "Andreas Thorkildsen",
-        "url": "https://snl.no/Andreas_Thorkildsen"
-      },
-      {
-        "category": "Mesterskap og institusjoner i friidrett",
-        "title": "friidrett – verdensrekorder og norske rekorder",
-        "url": "https://snl.no/friidrett_-_verdensrekorder_og_norske_rekorder"
-      },
-      {
-        "category": "Kast",
-        "title": "spydkast",
-        "url": "https://snl.no/spydkast"
+        "category": "Hopp",
+        "title": "Armand Duplantis",
+        "url": "https://snl.no/Armand_Duplantis"
       },
       {
         "category": "Hellas’ litteratur i antikken",
@@ -35,51 +35,51 @@
         "url": "https://snl.no/enkj%C3%B8nnet"
       },
       {
-        "category": "Finans",
-        "title": "nominell verdi",
-        "url": "https://snl.no/nominell_verdi"
-      },
-      {
-        "category": "Internasjonal pop og rock",
-        "title": "Eva Dahlgren",
-        "url": "https://snl.no/Eva_Dahlgren"
-      },
-      {
-        "category": "Kast",
-        "title": "Egil Danielsen",
-        "url": "https://snl.no/Egil_Danielsen"
-      },
-      {
         "category": "Hopp",
-        "title": "Jonathan Edwards – britisk friidrettsutøver",
-        "url": "https://snl.no/Jonathan_Edwards_-_britisk_friidrettsut%C3%B8ver"
+        "title": "Sondre Guttormsen",
+        "url": "https://snl.no/Sondre_Guttormsen"
+      },
+      {
+        "category": "Mongolias geografi",
+        "title": "Mongolia",
+        "url": "https://snl.no/Mongolia"
+      },
+      {
+        "category": "Internasjonale mesterskap",
+        "title": "Norske medaljer i internasjonale mesterskap i friidrett",
+        "url": "https://snl.no/Norske_medaljer_i_internasjonale_mesterskap_i_friidrett"
+      },
+      {
+        "category": "Boksing",
+        "title": "Magne Havnå",
+        "url": "https://snl.no/Magne_Havn%C3%A5"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Tysklands litteratur på 1800-tallet",
-        "title": "Christian Dietrich Grabbe",
-        "url": "https://snl.no/Christian_Dietrich_Grabbe"
+        "category": "Spanias samtidshistorie",
+        "title": "José María Aznar",
+        "url": "https://snl.no/Jos%C3%A9_Mar%C3%ADa_Aznar"
       },
       {
-        "category": "Realisme og impresjonisme",
-        "title": "Hans Heyerdahl",
-        "url": "https://snl.no/Hans_Heyerdahl"
+        "category": "Kvinnebevegelsen i Norge",
+        "title": "Margarete Bonnevie",
+        "url": "https://snl.no/Margarete_Bonnevie"
       },
       {
-        "category": "Stavkirker",
-        "title": "Øye stavkirke",
-        "url": "https://snl.no/%C3%98ye_stavkirke"
+        "category": "Stål og andre jernlegeringer",
+        "title": "kontrollert valsing",
+        "url": "https://snl.no/kontrollert_valsing"
       },
       {
-        "category": "Kameruns litteratur",
-        "title": "Werewere-Liking Gnepo",
-        "url": "https://snl.no/Werewere-Liking_Gnepo"
+        "category": "Forsvarets historie",
+        "title": "K-soldater",
+        "url": "https://snl.no/K-soldater"
       },
       {
-        "category": "Tidligere aviser på Østlandet",
-        "title": "Buskeruds Amtstidende",
-        "url": "https://snl.no/Buskeruds_Amtstidende"
+        "category": "Jødedom",
+        "title": "Sefer ha-Bahir",
+        "url": "https://snl.no/Sefer_ha-Bahir"
       }
     ]
   }
