@@ -1,85 +1,85 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Kast",
-        "title": "Trine Hattestad",
-        "url": "https://snl.no/Trine_Hattestad"
-      },
-      {
-        "category": "Hopp",
-        "title": "stavsprang",
-        "url": "https://snl.no/stavsprang"
-      },
-      {
-        "category": "Sveriges nyere litteratur",
-        "title": "Sara Stridsberg",
-        "url": "https://snl.no/Sara_Stridsberg"
-      },
-      {
-        "category": "Hopp",
-        "title": "Armand Duplantis",
-        "url": "https://snl.no/Armand_Duplantis"
+        "category": "Ikke-ondartede blodsykdommer",
+        "title": "hemolytisk anemi",
+        "url": "https://sml.snl.no/hemolytisk_anemi"
       },
       {
         "category": "Hellas’ litteratur i antikken",
         "title": "Odysseen",
         "url": "https://snl.no/Odysseen"
+      },
+      {
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Odyssevs",
+        "url": "https://snl.no/Odyssevs"
+      },
+      {
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Iliaden",
+        "url": "https://snl.no/Iliaden"
+      },
+      {
+        "category": "Hellas’ litteratur i antikken",
+        "title": "Homer",
+        "url": "https://snl.no/Homer"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Blomst",
-        "title": "enkjønnet",
-        "url": "https://snl.no/enkj%C3%B8nnet"
+        "category": "Hellas’ geografi",
+        "title": "Ithaki",
+        "url": "https://snl.no/Ithaki"
       },
       {
-        "category": "Hopp",
-        "title": "Sondre Guttormsen",
-        "url": "https://snl.no/Sondre_Guttormsen"
+        "category": "Sparta",
+        "title": "Sparta",
+        "url": "https://snl.no/Sparta"
       },
       {
-        "category": "Mongolias geografi",
-        "title": "Mongolia",
-        "url": "https://snl.no/Mongolia"
+        "category": "Den greske antikken",
+        "title": "den greske antikken",
+        "url": "https://snl.no/den_greske_antikken"
       },
       {
-        "category": "Internasjonale mesterskap",
-        "title": "Norske medaljer i internasjonale mesterskap i friidrett",
-        "url": "https://snl.no/Norske_medaljer_i_internasjonale_mesterskap_i_friidrett"
+        "category": "Blod og beinmarg",
+        "title": "hemolyse",
+        "url": "https://sml.snl.no/hemolyse"
       },
       {
-        "category": "Boksing",
-        "title": "Magne Havnå",
-        "url": "https://snl.no/Magne_Havn%C3%A5"
+        "category": "Sveriges nyere litteratur",
+        "title": "Sara Stridsberg",
+        "url": "https://snl.no/Sara_Stridsberg"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Spanias samtidshistorie",
-        "title": "José María Aznar",
-        "url": "https://snl.no/Jos%C3%A9_Mar%C3%ADa_Aznar"
+        "category": "Internasjonale tegnekunstnere",
+        "title": "Christian Wilhelm Allers",
+        "url": "https://snl.no/Christian_Wilhelm_Allers"
       },
       {
-        "category": "Kvinnebevegelsen i Norge",
-        "title": "Margarete Bonnevie",
-        "url": "https://snl.no/Margarete_Bonnevie"
+        "category": "Norsk bildende kunst fra 1800–1945",
+        "title": "Haugianerne – maleri",
+        "url": "https://snl.no/Haugianerne_-_maleri"
       },
       {
-        "category": "Stål og andre jernlegeringer",
-        "title": "kontrollert valsing",
-        "url": "https://snl.no/kontrollert_valsing"
+        "category": "Genetikk",
+        "title": "virusgenetikk",
+        "url": "https://snl.no/virusgenetikk"
       },
       {
-        "category": "Forsvarets historie",
-        "title": "K-soldater",
-        "url": "https://snl.no/K-soldater"
+        "category": "Fotohistoriske biografier",
+        "title": "Sam Haskins",
+        "url": "https://snl.no/Sam_Haskins"
       },
       {
-        "category": "Jødedom",
-        "title": "Sefer ha-Bahir",
-        "url": "https://snl.no/Sefer_ha-Bahir"
+        "category": "Smykkekunstnere",
+        "title": "Camilla Luihn",
+        "url": "https://snl.no/Camilla_Luihn"
       }
     ]
   }
