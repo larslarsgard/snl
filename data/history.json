@@ -7634,5 +7634,88 @@
         "url": "https://snl.no/Camilla_Luihn"
       }
     ]
+  },
+  "2026-08-20": {
+    "Mest lest i går": [
+      {
+        "category": "Ikke-ondartede blodsykdommer",
+        "title": "hemolytisk anemi",
+        "url": "https://sml.snl.no/hemolytisk_anemi"
+      },
+      {
+        "category": "Blod og beinmarg",
+        "title": "hemolyse",
+        "url": "https://sml.snl.no/hemolyse"
+      },
+      {
+        "category": "Kongehuset",
+        "title": "Harald 5.",
+        "url": "https://snl.no/Harald_5."
+      },
+      {
+        "category": "Plan- og bygningsrett",
+        "title": "hensynssone",
+        "url": "https://snl.no/hensynssone"
+      },
+      {
+        "category": "Virussykdommer",
+        "title": "ebola",
+        "url": "https://sml.snl.no/ebola"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "1700-tallets filosofi",
+        "title": "Voltaire",
+        "url": "https://snl.no/Voltaire"
+      },
+      {
+        "category": "Biografier innen politisk og økonomisk filosofi",
+        "title": "Montesquieu",
+        "url": "https://snl.no/Montesquieu"
+      },
+      {
+        "category": "1700-tallets filosofi",
+        "title": "Jean-Jacques Rousseau",
+        "url": "https://snl.no/Jean-Jacques_Rousseau"
+      },
+      {
+        "category": "Sveriges nyere litteratur",
+        "title": "Sara Stridsberg",
+        "url": "https://snl.no/Sara_Stridsberg"
+      },
+      {
+        "category": "Politiske begreper",
+        "title": "nasjonalisme",
+        "url": "https://snl.no/nasjonalisme"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Folkegrupper i Sør-Amerika",
+        "title": "muisca",
+        "url": "https://snl.no/muisca"
+      },
+      {
+        "category": "Tysklands litteratur 1900–1950",
+        "title": "Jakob Wassermann",
+        "url": "https://snl.no/Jakob_Wassermann"
+      },
+      {
+        "category": "Internasjonale kunstinstitusjoner",
+        "title": "Fondation Louis Vuitton",
+        "url": "https://snl.no/Fondation_Louis_Vuitton"
+      },
+      {
+        "category": "Russlands nyere litteratur",
+        "title": "Mikhail Gigolasjvili",
+        "url": "https://snl.no/Mikhail_Gigolasjvili"
+      },
+      {
+        "category": "Bestikk og dekketøy",
+        "title": "bestikk",
+        "url": "https://snl.no/bestikk"
+      }
+    ]
   }
 }

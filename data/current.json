@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "categories": {
     "Mest lest i går": [
       {
@@ -8,78 +8,78 @@
         "url": "https://sml.snl.no/hemolytisk_anemi"
       },
       {
-        "category": "Hellas’ litteratur i antikken",
-        "title": "Odysseen",
-        "url": "https://snl.no/Odysseen"
-      },
-      {
-        "category": "Hellas’ litteratur i antikken",
-        "title": "Odyssevs",
-        "url": "https://snl.no/Odyssevs"
-      },
-      {
-        "category": "Hellas’ litteratur i antikken",
-        "title": "Iliaden",
-        "url": "https://snl.no/Iliaden"
-      },
-      {
-        "category": "Hellas’ litteratur i antikken",
-        "title": "Homer",
-        "url": "https://snl.no/Homer"
-      }
-    ],
-    "Uvanlig mye lest": [
-      {
-        "category": "Hellas’ geografi",
-        "title": "Ithaki",
-        "url": "https://snl.no/Ithaki"
-      },
-      {
-        "category": "Sparta",
-        "title": "Sparta",
-        "url": "https://snl.no/Sparta"
-      },
-      {
-        "category": "Den greske antikken",
-        "title": "den greske antikken",
-        "url": "https://snl.no/den_greske_antikken"
-      },
-      {
         "category": "Blod og beinmarg",
         "title": "hemolyse",
         "url": "https://sml.snl.no/hemolyse"
       },
       {
+        "category": "Kongehuset",
+        "title": "Harald 5.",
+        "url": "https://snl.no/Harald_5."
+      },
+      {
+        "category": "Plan- og bygningsrett",
+        "title": "hensynssone",
+        "url": "https://snl.no/hensynssone"
+      },
+      {
+        "category": "Virussykdommer",
+        "title": "ebola",
+        "url": "https://sml.snl.no/ebola"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "1700-tallets filosofi",
+        "title": "Voltaire",
+        "url": "https://snl.no/Voltaire"
+      },
+      {
+        "category": "Biografier innen politisk og økonomisk filosofi",
+        "title": "Montesquieu",
+        "url": "https://snl.no/Montesquieu"
+      },
+      {
+        "category": "1700-tallets filosofi",
+        "title": "Jean-Jacques Rousseau",
+        "url": "https://snl.no/Jean-Jacques_Rousseau"
+      },
+      {
         "category": "Sveriges nyere litteratur",
         "title": "Sara Stridsberg",
         "url": "https://snl.no/Sara_Stridsberg"
+      },
+      {
+        "category": "Politiske begreper",
+        "title": "nasjonalisme",
+        "url": "https://snl.no/nasjonalisme"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Internasjonale tegnekunstnere",
-        "title": "Christian Wilhelm Allers",
-        "url": "https://snl.no/Christian_Wilhelm_Allers"
+        "category": "Folkegrupper i Sør-Amerika",
+        "title": "muisca",
+        "url": "https://snl.no/muisca"
       },
       {
-        "category": "Norsk bildende kunst fra 1800–1945",
-        "title": "Haugianerne – maleri",
-        "url": "https://snl.no/Haugianerne_-_maleri"
+        "category": "Tysklands litteratur 1900–1950",
+        "title": "Jakob Wassermann",
+        "url": "https://snl.no/Jakob_Wassermann"
       },
       {
-        "category": "Genetikk",
-        "title": "virusgenetikk",
-        "url": "https://snl.no/virusgenetikk"
+        "category": "Internasjonale kunstinstitusjoner",
+        "title": "Fondation Louis Vuitton",
+        "url": "https://snl.no/Fondation_Louis_Vuitton"
       },
       {
-        "category": "Fotohistoriske biografier",
-        "title": "Sam Haskins",
-        "url": "https://snl.no/Sam_Haskins"
+        "category": "Russlands nyere litteratur",
+        "title": "Mikhail Gigolasjvili",
+        "url": "https://snl.no/Mikhail_Gigolasjvili"
       },
       {
-        "category": "Smykkekunstnere",
-        "title": "Camilla Luihn",
-        "url": "https://snl.no/Camilla_Luihn"
+        "category": "Bestikk og dekketøy",
+        "title": "bestikk",
+        "url": "https://snl.no/bestikk"
       }
     ]
   }
