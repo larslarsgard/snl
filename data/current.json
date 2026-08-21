@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "categories": {
     "Mest lest i går": [
       {
@@ -8,31 +8,31 @@
         "url": "https://sml.snl.no/hemolytisk_anemi"
       },
       {
-        "category": "Blod og beinmarg",
-        "title": "hemolyse",
-        "url": "https://sml.snl.no/hemolyse"
+        "category": "Europa i tidlig moderne tid",
+        "title": "opplysningstiden",
+        "url": "https://snl.no/opplysningstiden"
       },
       {
-        "category": "Kongehuset",
-        "title": "Harald 5.",
-        "url": "https://snl.no/Harald_5."
+        "category": "Seismologi",
+        "title": "Richters skala",
+        "url": "https://snl.no/Richters_skala"
       },
       {
-        "category": "Plan- og bygningsrett",
-        "title": "hensynssone",
-        "url": "https://snl.no/hensynssone"
+        "category": "Klima",
+        "title": "indian summer",
+        "url": "https://snl.no/indian_summer"
       },
-      {
-        "category": "Virussykdommer",
-        "title": "ebola",
-        "url": "https://sml.snl.no/ebola"
-      }
-    ],
-    "Uvanlig mye lest": [
       {
         "category": "1700-tallets filosofi",
         "title": "Voltaire",
         "url": "https://snl.no/Voltaire"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Proteiner",
+        "title": "proteiner – ernæring",
+        "url": "https://sml.snl.no/proteiner_-_ern%C3%A6ring"
       },
       {
         "category": "Biografier innen politisk og økonomisk filosofi",
@@ -40,46 +40,46 @@
         "url": "https://snl.no/Montesquieu"
       },
       {
-        "category": "1700-tallets filosofi",
-        "title": "Jean-Jacques Rousseau",
-        "url": "https://snl.no/Jean-Jacques_Rousseau"
-      },
-      {
-        "category": "Sveriges nyere litteratur",
-        "title": "Sara Stridsberg",
-        "url": "https://snl.no/Sara_Stridsberg"
-      },
-      {
         "category": "Politiske begreper",
         "title": "nasjonalisme",
         "url": "https://snl.no/nasjonalisme"
+      },
+      {
+        "category": "Det tidlige univers",
+        "title": "big bang",
+        "url": "https://snl.no/big_bang"
+      },
+      {
+        "category": "Seismologi",
+        "title": "jordskjelv i Norge",
+        "url": "https://snl.no/jordskjelv_i_Norge"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Folkegrupper i Sør-Amerika",
-        "title": "muisca",
-        "url": "https://snl.no/muisca"
+        "category": "Renessansen",
+        "title": "Sofonisba Anguissola",
+        "url": "https://snl.no/Sofonisba_Anguissola"
       },
       {
-        "category": "Tysklands litteratur 1900–1950",
-        "title": "Jakob Wassermann",
-        "url": "https://snl.no/Jakob_Wassermann"
+        "category": "Libanons samtidshistorie",
+        "title": "Hassan Nasrallah",
+        "url": "https://snl.no/Hassan_Nasrallah"
       },
       {
-        "category": "Internasjonale kunstinstitusjoner",
-        "title": "Fondation Louis Vuitton",
-        "url": "https://snl.no/Fondation_Louis_Vuitton"
+        "category": "Romanias samtidshistorie",
+        "title": "Liviu Dragnea",
+        "url": "https://snl.no/Liviu_Dragnea"
       },
       {
-        "category": "Russlands nyere litteratur",
-        "title": "Mikhail Gigolasjvili",
-        "url": "https://snl.no/Mikhail_Gigolasjvili"
+        "category": "Tidligere aviser på Østlandet",
+        "title": "Jarlsberg og Larviks Amtstidende",
+        "url": "https://snl.no/Jarlsberg_og_Larviks_Amtstidende"
       },
       {
-        "category": "Bestikk og dekketøy",
-        "title": "bestikk",
-        "url": "https://snl.no/bestikk"
+        "category": "Fotohistoriske biografier",
+        "title": "Gertrude Käsebier",
+        "url": "https://snl.no/Gertrude_K%C3%A4sebier"
       }
     ]
   }

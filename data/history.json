@@ -7717,5 +7717,88 @@
         "url": "https://snl.no/bestikk"
       }
     ]
+  },
+  "2026-08-21": {
+    "Mest lest i går": [
+      {
+        "category": "Ikke-ondartede blodsykdommer",
+        "title": "hemolytisk anemi",
+        "url": "https://sml.snl.no/hemolytisk_anemi"
+      },
+      {
+        "category": "Europa i tidlig moderne tid",
+        "title": "opplysningstiden",
+        "url": "https://snl.no/opplysningstiden"
+      },
+      {
+        "category": "Seismologi",
+        "title": "Richters skala",
+        "url": "https://snl.no/Richters_skala"
+      },
+      {
+        "category": "Klima",
+        "title": "indian summer",
+        "url": "https://snl.no/indian_summer"
+      },
+      {
+        "category": "1700-tallets filosofi",
+        "title": "Voltaire",
+        "url": "https://snl.no/Voltaire"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Proteiner",
+        "title": "proteiner – ernæring",
+        "url": "https://sml.snl.no/proteiner_-_ern%C3%A6ring"
+      },
+      {
+        "category": "Biografier innen politisk og økonomisk filosofi",
+        "title": "Montesquieu",
+        "url": "https://snl.no/Montesquieu"
+      },
+      {
+        "category": "Politiske begreper",
+        "title": "nasjonalisme",
+        "url": "https://snl.no/nasjonalisme"
+      },
+      {
+        "category": "Det tidlige univers",
+        "title": "big bang",
+        "url": "https://snl.no/big_bang"
+      },
+      {
+        "category": "Seismologi",
+        "title": "jordskjelv i Norge",
+        "url": "https://snl.no/jordskjelv_i_Norge"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Renessansen",
+        "title": "Sofonisba Anguissola",
+        "url": "https://snl.no/Sofonisba_Anguissola"
+      },
+      {
+        "category": "Libanons samtidshistorie",
+        "title": "Hassan Nasrallah",
+        "url": "https://snl.no/Hassan_Nasrallah"
+      },
+      {
+        "category": "Romanias samtidshistorie",
+        "title": "Liviu Dragnea",
+        "url": "https://snl.no/Liviu_Dragnea"
+      },
+      {
+        "category": "Tidligere aviser på Østlandet",
+        "title": "Jarlsberg og Larviks Amtstidende",
+        "url": "https://snl.no/Jarlsberg_og_Larviks_Amtstidende"
+      },
+      {
+        "category": "Fotohistoriske biografier",
+        "title": "Gertrude Käsebier",
+        "url": "https://snl.no/Gertrude_K%C3%A4sebier"
+      }
+    ]
   }
 }
