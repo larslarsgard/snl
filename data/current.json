@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "categories": {
     "Mest lest i går": [
       {
@@ -8,14 +8,9 @@
         "url": "https://sml.snl.no/hemolytisk_anemi"
       },
       {
-        "category": "Europa i tidlig moderne tid",
-        "title": "opplysningstiden",
-        "url": "https://snl.no/opplysningstiden"
-      },
-      {
-        "category": "Seismologi",
-        "title": "Richters skala",
-        "url": "https://snl.no/Richters_skala"
+        "category": "Norges historie fra 1884 til 1940",
+        "title": "Loenulykkene",
+        "url": "https://snl.no/Loenulykkene"
       },
       {
         "category": "Klima",
@@ -23,63 +18,68 @@
         "url": "https://snl.no/indian_summer"
       },
       {
-        "category": "1700-tallets filosofi",
-        "title": "Voltaire",
-        "url": "https://snl.no/Voltaire"
+        "category": "Skole",
+        "title": "skole",
+        "url": "https://lille.snl.no/skole"
+      },
+      {
+        "category": "Europa i tidlig moderne tid",
+        "title": "opplysningstiden",
+        "url": "https://snl.no/opplysningstiden"
       }
     ],
     "Uvanlig mye lest": [
-      {
-        "category": "Proteiner",
-        "title": "proteiner – ernæring",
-        "url": "https://sml.snl.no/proteiner_-_ern%C3%A6ring"
-      },
       {
         "category": "Biografier innen politisk og økonomisk filosofi",
         "title": "Montesquieu",
         "url": "https://snl.no/Montesquieu"
       },
       {
-        "category": "Politiske begreper",
-        "title": "nasjonalisme",
-        "url": "https://snl.no/nasjonalisme"
-      },
-      {
-        "category": "Det tidlige univers",
-        "title": "big bang",
-        "url": "https://snl.no/big_bang"
+        "category": "1700-tallets filosofi",
+        "title": "Voltaire",
+        "url": "https://snl.no/Voltaire"
       },
       {
         "category": "Seismologi",
-        "title": "jordskjelv i Norge",
-        "url": "https://snl.no/jordskjelv_i_Norge"
+        "title": "Richters skala",
+        "url": "https://snl.no/Richters_skala"
+      },
+      {
+        "category": "1700-tallets filosofi",
+        "title": "Jean-Jacques Rousseau",
+        "url": "https://snl.no/Jean-Jacques_Rousseau"
+      },
+      {
+        "category": "Historievitenskap",
+        "title": "verdens historie – oversikt",
+        "url": "https://snl.no/verdens_historie_-_oversikt"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Renessansen",
-        "title": "Sofonisba Anguissola",
-        "url": "https://snl.no/Sofonisba_Anguissola"
+        "category": "Fiskeutstyr og -metoder",
+        "title": "fluefiske",
+        "url": "https://snl.no/fluefiske"
       },
       {
-        "category": "Libanons samtidshistorie",
-        "title": "Hassan Nasrallah",
-        "url": "https://snl.no/Hassan_Nasrallah"
+        "category": "Tysklands litteratur 1900–1950",
+        "title": "Jakob Wassermann",
+        "url": "https://snl.no/Jakob_Wassermann"
       },
       {
-        "category": "Romanias samtidshistorie",
-        "title": "Liviu Dragnea",
-        "url": "https://snl.no/Liviu_Dragnea"
+        "category": "Tunisias franskspråklige litteratur",
+        "title": "Abdelwahab Meddeb",
+        "url": "https://snl.no/Abdelwahab_Meddeb"
       },
       {
-        "category": "Tidligere aviser på Østlandet",
-        "title": "Jarlsberg og Larviks Amtstidende",
-        "url": "https://snl.no/Jarlsberg_og_Larviks_Amtstidende"
+        "category": "Tunisias franskspråklige litteratur",
+        "title": "Fawzi Mellah",
+        "url": "https://snl.no/Fawzi_Mellah"
       },
       {
-        "category": "Fotohistoriske biografier",
-        "title": "Gertrude Käsebier",
-        "url": "https://snl.no/Gertrude_K%C3%A4sebier"
+        "category": "Nord-Koreas historie",
+        "title": "Atomvåpen i Nord-Korea",
+        "url": "https://snl.no/Atomv%C3%A5pen_i_Nord-Korea"
       }
     ]
   }

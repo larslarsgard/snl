@@ -7800,5 +7800,88 @@
         "url": "https://snl.no/Gertrude_K%C3%A4sebier"
       }
     ]
+  },
+  "2026-08-22": {
+    "Mest lest i går": [
+      {
+        "category": "Ikke-ondartede blodsykdommer",
+        "title": "hemolytisk anemi",
+        "url": "https://sml.snl.no/hemolytisk_anemi"
+      },
+      {
+        "category": "Norges historie fra 1884 til 1940",
+        "title": "Loenulykkene",
+        "url": "https://snl.no/Loenulykkene"
+      },
+      {
+        "category": "Klima",
+        "title": "indian summer",
+        "url": "https://snl.no/indian_summer"
+      },
+      {
+        "category": "Skole",
+        "title": "skole",
+        "url": "https://lille.snl.no/skole"
+      },
+      {
+        "category": "Europa i tidlig moderne tid",
+        "title": "opplysningstiden",
+        "url": "https://snl.no/opplysningstiden"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Biografier innen politisk og økonomisk filosofi",
+        "title": "Montesquieu",
+        "url": "https://snl.no/Montesquieu"
+      },
+      {
+        "category": "1700-tallets filosofi",
+        "title": "Voltaire",
+        "url": "https://snl.no/Voltaire"
+      },
+      {
+        "category": "Seismologi",
+        "title": "Richters skala",
+        "url": "https://snl.no/Richters_skala"
+      },
+      {
+        "category": "1700-tallets filosofi",
+        "title": "Jean-Jacques Rousseau",
+        "url": "https://snl.no/Jean-Jacques_Rousseau"
+      },
+      {
+        "category": "Historievitenskap",
+        "title": "verdens historie – oversikt",
+        "url": "https://snl.no/verdens_historie_-_oversikt"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Fiskeutstyr og -metoder",
+        "title": "fluefiske",
+        "url": "https://snl.no/fluefiske"
+      },
+      {
+        "category": "Tysklands litteratur 1900–1950",
+        "title": "Jakob Wassermann",
+        "url": "https://snl.no/Jakob_Wassermann"
+      },
+      {
+        "category": "Tunisias franskspråklige litteratur",
+        "title": "Abdelwahab Meddeb",
+        "url": "https://snl.no/Abdelwahab_Meddeb"
+      },
+      {
+        "category": "Tunisias franskspråklige litteratur",
+        "title": "Fawzi Mellah",
+        "url": "https://snl.no/Fawzi_Mellah"
+      },
+      {
+        "category": "Nord-Koreas historie",
+        "title": "Atomvåpen i Nord-Korea",
+        "url": "https://snl.no/Atomv%C3%A5pen_i_Nord-Korea"
+      }
+    ]
   }
 }
