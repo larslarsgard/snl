@@ -7883,5 +7883,88 @@
         "url": "https://snl.no/Atomv%C3%A5pen_i_Nord-Korea"
       }
     ]
+  },
+  "2026-08-23": {
+    "Mest lest i går": [
+      {
+        "category": "Ikke-ondartede blodsykdommer",
+        "title": "hemolytisk anemi",
+        "url": "https://sml.snl.no/hemolytisk_anemi"
+      },
+      {
+        "category": "Insektmuggsopper",
+        "title": "Entomophthora",
+        "url": "https://snl.no/Entomophthora"
+      },
+      {
+        "category": "Biografier i 1600-tallets filosofi",
+        "title": "John Locke",
+        "url": "https://snl.no/John_Locke"
+      },
+      {
+        "category": "Virussykdommer",
+        "title": "ebola",
+        "url": "https://sml.snl.no/ebola"
+      },
+      {
+        "category": "Fylker og kommuner i Sverige",
+        "title": "Fagersta",
+        "url": "https://snl.no/Fagersta"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Øvrig europeisk malerkunst 1400–1750",
+        "title": "Bartolomé Estéban Murillo",
+        "url": "https://snl.no/Bartolom%C3%A9_Est%C3%A9ban_Murillo"
+      },
+      {
+        "category": "Fiskeredskaper og fartøy",
+        "title": "bobbins",
+        "url": "https://snl.no/bobbins"
+      },
+      {
+        "category": "Nevrokjemi",
+        "title": "nerveimpuls",
+        "url": "https://sml.snl.no/nerveimpuls"
+      },
+      {
+        "category": "Nyere norsk litteratur",
+        "title": "Herbjørg Wassmo",
+        "url": "https://snl.no/Herbj%C3%B8rg_Wassmo"
+      },
+      {
+        "category": "Sjøkuer",
+        "title": "sjøkuer",
+        "url": "https://snl.no/sj%C3%B8kuer"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Insekters anatomi og fysiologi",
+        "title": "bladminerere",
+        "url": "https://snl.no/bladminerere"
+      },
+      {
+        "category": "Den store nordiske krigen",
+        "title": "Nils Ehrenskiöld",
+        "url": "https://snl.no/Nils_Ehrenski%C3%B6ld"
+      },
+      {
+        "category": "Bergverkshistorie",
+        "title": "Johann Heinrich von Schört",
+        "url": "https://snl.no/Johann_Heinrich_von_Sch%C3%B6rt"
+      },
+      {
+        "category": "Nordnorske tradisjonsbåter",
+        "title": "den nordnorske båtreformen",
+        "url": "https://snl.no/den_nordnorske_b%C3%A5treformen"
+      },
+      {
+        "category": "Norsk-amerikansk presse",
+        "title": "Symra – tidsskrift i USA",
+        "url": "https://snl.no/Symra_-_tidsskrift_i_USA"
+      }
+    ]
   }
 }
