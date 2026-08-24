@@ -7966,5 +7966,88 @@
         "url": "https://snl.no/Symra_-_tidsskrift_i_USA"
       }
     ]
+  },
+  "2026-08-24": {
+    "Mest lest i går": [
+      {
+        "category": "Nevrokjemi",
+        "title": "nerveimpuls",
+        "url": "https://sml.snl.no/nerveimpuls"
+      },
+      {
+        "category": "Byer i England",
+        "title": "Hull – by i Storbritannia",
+        "url": "https://snl.no/Hull_-_by_i_Storbritannia"
+      },
+      {
+        "category": "Engelsk fotball",
+        "title": "Hull City",
+        "url": "https://snl.no/Hull_City"
+      },
+      {
+        "category": "Ikke-ondartede blodsykdommer",
+        "title": "hemolytisk anemi",
+        "url": "https://sml.snl.no/hemolytisk_anemi"
+      },
+      {
+        "category": "Fylker og kommuner i Sverige",
+        "title": "Fagersta",
+        "url": "https://snl.no/Fagersta"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Norske filmregissører",
+        "title": "Halfdan Ullmann Tøndel",
+        "url": "https://snl.no/Halfdan_Ullmann_T%C3%B8ndel"
+      },
+      {
+        "category": "Fremmedord med latinsk og gresk opphav",
+        "title": "Pandoras eske",
+        "url": "https://snl.no/Pandoras_eske"
+      },
+      {
+        "category": "Tindvedslekta",
+        "title": "tindved",
+        "url": "https://snl.no/tindved"
+      },
+      {
+        "category": "Norges geografi generelt",
+        "title": "kommuner i Norge",
+        "url": "https://snl.no/kommuner_i_Norge"
+      },
+      {
+        "category": "Norges geografi generelt",
+        "title": "Norges største byer",
+        "url": "https://snl.no/Norges_st%C3%B8rste_byer"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Biografier i grunnopplæringen",
+        "title": "Agvald Gjelsvik",
+        "url": "https://snl.no/Agvald_Gjelsvik"
+      },
+      {
+        "category": "Jentenavn",
+        "title": "Jannike – kvinnenamn",
+        "url": "https://snl.no/Jannike_-_kvinnenamn"
+      },
+      {
+        "category": "Tekstiler",
+        "title": "mikrofiber",
+        "url": "https://snl.no/mikrofiber"
+      },
+      {
+        "category": "Militant islamisme",
+        "title": "Mokhtar Belmokhtar",
+        "url": "https://snl.no/Mokhtar_Belmokhtar"
+      },
+      {
+        "category": "Samfunnsgeografiske prosesser",
+        "title": "energifattigdom",
+        "url": "https://snl.no/energifattigdom"
+      }
+    ]
   }
 }

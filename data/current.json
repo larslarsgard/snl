@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Nevrokjemi",
+        "title": "nerveimpuls",
+        "url": "https://sml.snl.no/nerveimpuls"
+      },
+      {
+        "category": "Byer i England",
+        "title": "Hull – by i Storbritannia",
+        "url": "https://snl.no/Hull_-_by_i_Storbritannia"
+      },
+      {
+        "category": "Engelsk fotball",
+        "title": "Hull City",
+        "url": "https://snl.no/Hull_City"
+      },
       {
         "category": "Ikke-ondartede blodsykdommer",
         "title": "hemolytisk anemi",
         "url": "https://sml.snl.no/hemolytisk_anemi"
-      },
-      {
-        "category": "Insektmuggsopper",
-        "title": "Entomophthora",
-        "url": "https://snl.no/Entomophthora"
-      },
-      {
-        "category": "Biografier i 1600-tallets filosofi",
-        "title": "John Locke",
-        "url": "https://snl.no/John_Locke"
-      },
-      {
-        "category": "Virussykdommer",
-        "title": "ebola",
-        "url": "https://sml.snl.no/ebola"
       },
       {
         "category": "Fylker og kommuner i Sverige",
@@ -30,56 +30,56 @@
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Øvrig europeisk malerkunst 1400–1750",
-        "title": "Bartolomé Estéban Murillo",
-        "url": "https://snl.no/Bartolom%C3%A9_Est%C3%A9ban_Murillo"
+        "category": "Norske filmregissører",
+        "title": "Halfdan Ullmann Tøndel",
+        "url": "https://snl.no/Halfdan_Ullmann_T%C3%B8ndel"
       },
       {
-        "category": "Fiskeredskaper og fartøy",
-        "title": "bobbins",
-        "url": "https://snl.no/bobbins"
+        "category": "Fremmedord med latinsk og gresk opphav",
+        "title": "Pandoras eske",
+        "url": "https://snl.no/Pandoras_eske"
       },
       {
-        "category": "Nevrokjemi",
-        "title": "nerveimpuls",
-        "url": "https://sml.snl.no/nerveimpuls"
+        "category": "Tindvedslekta",
+        "title": "tindved",
+        "url": "https://snl.no/tindved"
       },
       {
-        "category": "Nyere norsk litteratur",
-        "title": "Herbjørg Wassmo",
-        "url": "https://snl.no/Herbj%C3%B8rg_Wassmo"
+        "category": "Norges geografi generelt",
+        "title": "kommuner i Norge",
+        "url": "https://snl.no/kommuner_i_Norge"
       },
       {
-        "category": "Sjøkuer",
-        "title": "sjøkuer",
-        "url": "https://snl.no/sj%C3%B8kuer"
+        "category": "Norges geografi generelt",
+        "title": "Norges største byer",
+        "url": "https://snl.no/Norges_st%C3%B8rste_byer"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Insekters anatomi og fysiologi",
-        "title": "bladminerere",
-        "url": "https://snl.no/bladminerere"
+        "category": "Biografier i grunnopplæringen",
+        "title": "Agvald Gjelsvik",
+        "url": "https://snl.no/Agvald_Gjelsvik"
       },
       {
-        "category": "Den store nordiske krigen",
-        "title": "Nils Ehrenskiöld",
-        "url": "https://snl.no/Nils_Ehrenski%C3%B6ld"
+        "category": "Jentenavn",
+        "title": "Jannike – kvinnenamn",
+        "url": "https://snl.no/Jannike_-_kvinnenamn"
       },
       {
-        "category": "Bergverkshistorie",
-        "title": "Johann Heinrich von Schört",
-        "url": "https://snl.no/Johann_Heinrich_von_Sch%C3%B6rt"
+        "category": "Tekstiler",
+        "title": "mikrofiber",
+        "url": "https://snl.no/mikrofiber"
       },
       {
-        "category": "Nordnorske tradisjonsbåter",
-        "title": "den nordnorske båtreformen",
-        "url": "https://snl.no/den_nordnorske_b%C3%A5treformen"
+        "category": "Militant islamisme",
+        "title": "Mokhtar Belmokhtar",
+        "url": "https://snl.no/Mokhtar_Belmokhtar"
       },
       {
-        "category": "Norsk-amerikansk presse",
-        "title": "Symra – tidsskrift i USA",
-        "url": "https://snl.no/Symra_-_tidsskrift_i_USA"
+        "category": "Samfunnsgeografiske prosesser",
+        "title": "energifattigdom",
+        "url": "https://snl.no/energifattigdom"
       }
     ]
   }
