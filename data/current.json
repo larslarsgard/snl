@@ -1,38 +1,21 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Nevrokjemi",
-        "title": "nerveimpuls",
-        "url": "https://sml.snl.no/nerveimpuls"
-      },
-      {
-        "category": "Byer i England",
-        "title": "Hull – by i Storbritannia",
-        "url": "https://snl.no/Hull_-_by_i_Storbritannia"
-      },
-      {
-        "category": "Engelsk fotball",
-        "title": "Hull City",
-        "url": "https://snl.no/Hull_City"
-      },
       {
         "category": "Ikke-ondartede blodsykdommer",
         "title": "hemolytisk anemi",
         "url": "https://sml.snl.no/hemolytisk_anemi"
       },
       {
-        "category": "Fylker og kommuner i Sverige",
-        "title": "Fagersta",
-        "url": "https://snl.no/Fagersta"
-      }
-    ],
-    "Uvanlig mye lest": [
+        "category": "Norske klassiske instrumentalister",
+        "title": "Eldbjørg Hemsing",
+        "url": "https://snl.no/Eldbj%C3%B8rg_Hemsing"
+      },
       {
-        "category": "Norske filmregissører",
-        "title": "Halfdan Ullmann Tøndel",
-        "url": "https://snl.no/Halfdan_Ullmann_T%C3%B8ndel"
+        "category": "Ordforklaringer monarki",
+        "title": "landesorg",
+        "url": "https://snl.no/landesorg"
       },
       {
         "category": "Fremmedord med latinsk og gresk opphav",
@@ -40,46 +23,63 @@
         "url": "https://snl.no/Pandoras_eske"
       },
       {
-        "category": "Tindvedslekta",
-        "title": "tindved",
-        "url": "https://snl.no/tindved"
+        "category": "Bakteriesykdommer",
+        "title": "bakteriemi",
+        "url": "https://sml.snl.no/bakteriemi"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Internasjonal pop og rock",
+        "title": "Paul Simon",
+        "url": "https://snl.no/Paul_Simon"
       },
       {
-        "category": "Norges geografi generelt",
-        "title": "kommuner i Norge",
-        "url": "https://snl.no/kommuner_i_Norge"
+        "category": "Norske klassiske instrumentalister",
+        "title": "Ragnhild Hemsing",
+        "url": "https://snl.no/Ragnhild_Hemsing"
       },
       {
-        "category": "Norges geografi generelt",
-        "title": "Norges største byer",
-        "url": "https://snl.no/Norges_st%C3%B8rste_byer"
+        "category": "Internasjonal pop og rock",
+        "title": "Simon & Garfunkel",
+        "url": "https://snl.no/Simon_&_Garfunkel"
+      },
+      {
+        "category": "Klima",
+        "title": "indian summer",
+        "url": "https://snl.no/indian_summer"
+      },
+      {
+        "category": "Europas geografi generelt",
+        "title": "Land i Europa",
+        "url": "https://snl.no/Land_i_Europa"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Biografier i grunnopplæringen",
-        "title": "Agvald Gjelsvik",
-        "url": "https://snl.no/Agvald_Gjelsvik"
+        "category": "Tysklands litteratur 1950–2000",
+        "title": "Stephan Hermlin",
+        "url": "https://snl.no/Stephan_Hermlin"
       },
       {
-        "category": "Jentenavn",
-        "title": "Jannike – kvinnenamn",
-        "url": "https://snl.no/Jannike_-_kvinnenamn"
+        "category": "Cubas litteratur",
+        "title": "José Lezama Lima",
+        "url": "https://snl.no/Jos%C3%A9_Lezama_Lima"
       },
       {
-        "category": "Tekstiler",
-        "title": "mikrofiber",
-        "url": "https://snl.no/mikrofiber"
+        "category": "Østerrikes nyere litteratur",
+        "title": "Marlene Streeruwitz",
+        "url": "https://snl.no/Marlene_Streeruwitz"
       },
       {
-        "category": "Militant islamisme",
-        "title": "Mokhtar Belmokhtar",
-        "url": "https://snl.no/Mokhtar_Belmokhtar"
+        "category": "Det gamle Egypt",
+        "title": "Osirismyten",
+        "url": "https://snl.no/Osirismyten"
       },
       {
-        "category": "Samfunnsgeografiske prosesser",
-        "title": "energifattigdom",
-        "url": "https://snl.no/energifattigdom"
+        "category": "Skiskyting",
+        "title": "Marte Olsbu Røiseland",
+        "url": "https://snl.no/Marte_Olsbu_R%C3%B8iseland"
       }
     ]
   }

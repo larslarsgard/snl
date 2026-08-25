@@ -8049,5 +8049,88 @@
         "url": "https://snl.no/energifattigdom"
       }
     ]
+  },
+  "2026-08-25": {
+    "Mest lest i går": [
+      {
+        "category": "Ikke-ondartede blodsykdommer",
+        "title": "hemolytisk anemi",
+        "url": "https://sml.snl.no/hemolytisk_anemi"
+      },
+      {
+        "category": "Norske klassiske instrumentalister",
+        "title": "Eldbjørg Hemsing",
+        "url": "https://snl.no/Eldbj%C3%B8rg_Hemsing"
+      },
+      {
+        "category": "Ordforklaringer monarki",
+        "title": "landesorg",
+        "url": "https://snl.no/landesorg"
+      },
+      {
+        "category": "Fremmedord med latinsk og gresk opphav",
+        "title": "Pandoras eske",
+        "url": "https://snl.no/Pandoras_eske"
+      },
+      {
+        "category": "Bakteriesykdommer",
+        "title": "bakteriemi",
+        "url": "https://sml.snl.no/bakteriemi"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Internasjonal pop og rock",
+        "title": "Paul Simon",
+        "url": "https://snl.no/Paul_Simon"
+      },
+      {
+        "category": "Norske klassiske instrumentalister",
+        "title": "Ragnhild Hemsing",
+        "url": "https://snl.no/Ragnhild_Hemsing"
+      },
+      {
+        "category": "Internasjonal pop og rock",
+        "title": "Simon & Garfunkel",
+        "url": "https://snl.no/Simon_&_Garfunkel"
+      },
+      {
+        "category": "Klima",
+        "title": "indian summer",
+        "url": "https://snl.no/indian_summer"
+      },
+      {
+        "category": "Europas geografi generelt",
+        "title": "Land i Europa",
+        "url": "https://snl.no/Land_i_Europa"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Tysklands litteratur 1950–2000",
+        "title": "Stephan Hermlin",
+        "url": "https://snl.no/Stephan_Hermlin"
+      },
+      {
+        "category": "Cubas litteratur",
+        "title": "José Lezama Lima",
+        "url": "https://snl.no/Jos%C3%A9_Lezama_Lima"
+      },
+      {
+        "category": "Østerrikes nyere litteratur",
+        "title": "Marlene Streeruwitz",
+        "url": "https://snl.no/Marlene_Streeruwitz"
+      },
+      {
+        "category": "Det gamle Egypt",
+        "title": "Osirismyten",
+        "url": "https://snl.no/Osirismyten"
+      },
+      {
+        "category": "Skiskyting",
+        "title": "Marte Olsbu Røiseland",
+        "url": "https://snl.no/Marte_Olsbu_R%C3%B8iseland"
+      }
+    ]
   }
 }
