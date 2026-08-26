@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "categories": {
     "Mest lest i går": [
       {
@@ -8,78 +8,78 @@
         "url": "https://sml.snl.no/hemolytisk_anemi"
       },
       {
-        "category": "Norske klassiske instrumentalister",
-        "title": "Eldbjørg Hemsing",
-        "url": "https://snl.no/Eldbj%C3%B8rg_Hemsing"
-      },
-      {
         "category": "Ordforklaringer monarki",
         "title": "landesorg",
         "url": "https://snl.no/landesorg"
       },
       {
-        "category": "Fremmedord med latinsk og gresk opphav",
-        "title": "Pandoras eske",
-        "url": "https://snl.no/Pandoras_eske"
+        "category": "Europa i tidlig moderne tid",
+        "title": "opplysningstiden",
+        "url": "https://snl.no/opplysningstiden"
       },
       {
-        "category": "Bakteriesykdommer",
-        "title": "bakteriemi",
-        "url": "https://sml.snl.no/bakteriemi"
+        "category": "Biografier i 1600-tallets filosofi",
+        "title": "John Locke",
+        "url": "https://snl.no/John_Locke"
+      },
+      {
+        "category": "1700-tallets filosofi",
+        "title": "Voltaire",
+        "url": "https://snl.no/Voltaire"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Internasjonal pop og rock",
-        "title": "Paul Simon",
-        "url": "https://snl.no/Paul_Simon"
+        "category": "Jakt og fangst",
+        "title": "norsk kråkefelle",
+        "url": "https://snl.no/norsk_kr%C3%A5kefelle"
       },
       {
-        "category": "Norske klassiske instrumentalister",
-        "title": "Ragnhild Hemsing",
-        "url": "https://snl.no/Ragnhild_Hemsing"
+        "category": "Kinas samtidshistorie",
+        "title": "Hukou-systemet",
+        "url": "https://snl.no/Hukou-systemet"
       },
       {
-        "category": "Internasjonal pop og rock",
-        "title": "Simon & Garfunkel",
-        "url": "https://snl.no/Simon_&_Garfunkel"
+        "category": "Nisjeaviser",
+        "title": "Altinget",
+        "url": "https://snl.no/Altinget"
       },
       {
-        "category": "Klima",
-        "title": "indian summer",
-        "url": "https://snl.no/indian_summer"
+        "category": "Biografier innen politisk og økonomisk filosofi",
+        "title": "Montesquieu",
+        "url": "https://snl.no/Montesquieu"
       },
       {
-        "category": "Europas geografi generelt",
-        "title": "Land i Europa",
-        "url": "https://snl.no/Land_i_Europa"
+        "category": "1700-tallets filosofi",
+        "title": "Jean-Jacques Rousseau",
+        "url": "https://snl.no/Jean-Jacques_Rousseau"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Tysklands litteratur 1950–2000",
-        "title": "Stephan Hermlin",
-        "url": "https://snl.no/Stephan_Hermlin"
+        "category": "Svalbard",
+        "title": "Danskegattet",
+        "url": "https://snl.no/Danskegattet"
       },
       {
-        "category": "Cubas litteratur",
-        "title": "José Lezama Lima",
-        "url": "https://snl.no/Jos%C3%A9_Lezama_Lima"
+        "category": "Stavkirker",
+        "title": "Kaupanger stavkirke",
+        "url": "https://snl.no/Kaupanger_stavkirke"
       },
       {
-        "category": "Østerrikes nyere litteratur",
-        "title": "Marlene Streeruwitz",
-        "url": "https://snl.no/Marlene_Streeruwitz"
+        "category": "Ulike lands teatertradisjoner",
+        "title": "Teater i Tsjekkia",
+        "url": "https://snl.no/Teater_i_Tsjekkia"
       },
       {
-        "category": "Det gamle Egypt",
-        "title": "Osirismyten",
-        "url": "https://snl.no/Osirismyten"
+        "category": "Militær teori",
+        "title": "militærteori",
+        "url": "https://snl.no/milit%C3%A6rteori"
       },
       {
-        "category": "Skiskyting",
-        "title": "Marte Olsbu Røiseland",
-        "url": "https://snl.no/Marte_Olsbu_R%C3%B8iseland"
+        "category": "Tysklands nyere litteratur",
+        "title": "Isabel Fargo Cole",
+        "url": "https://snl.no/Isabel_Fargo_Cole"
       }
     ]
   }

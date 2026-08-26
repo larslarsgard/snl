@@ -8132,5 +8132,88 @@
         "url": "https://snl.no/Marte_Olsbu_R%C3%B8iseland"
       }
     ]
+  },
+  "2026-08-26": {
+    "Mest lest i går": [
+      {
+        "category": "Ikke-ondartede blodsykdommer",
+        "title": "hemolytisk anemi",
+        "url": "https://sml.snl.no/hemolytisk_anemi"
+      },
+      {
+        "category": "Ordforklaringer monarki",
+        "title": "landesorg",
+        "url": "https://snl.no/landesorg"
+      },
+      {
+        "category": "Europa i tidlig moderne tid",
+        "title": "opplysningstiden",
+        "url": "https://snl.no/opplysningstiden"
+      },
+      {
+        "category": "Biografier i 1600-tallets filosofi",
+        "title": "John Locke",
+        "url": "https://snl.no/John_Locke"
+      },
+      {
+        "category": "1700-tallets filosofi",
+        "title": "Voltaire",
+        "url": "https://snl.no/Voltaire"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Jakt og fangst",
+        "title": "norsk kråkefelle",
+        "url": "https://snl.no/norsk_kr%C3%A5kefelle"
+      },
+      {
+        "category": "Kinas samtidshistorie",
+        "title": "Hukou-systemet",
+        "url": "https://snl.no/Hukou-systemet"
+      },
+      {
+        "category": "Nisjeaviser",
+        "title": "Altinget",
+        "url": "https://snl.no/Altinget"
+      },
+      {
+        "category": "Biografier innen politisk og økonomisk filosofi",
+        "title": "Montesquieu",
+        "url": "https://snl.no/Montesquieu"
+      },
+      {
+        "category": "1700-tallets filosofi",
+        "title": "Jean-Jacques Rousseau",
+        "url": "https://snl.no/Jean-Jacques_Rousseau"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Svalbard",
+        "title": "Danskegattet",
+        "url": "https://snl.no/Danskegattet"
+      },
+      {
+        "category": "Stavkirker",
+        "title": "Kaupanger stavkirke",
+        "url": "https://snl.no/Kaupanger_stavkirke"
+      },
+      {
+        "category": "Ulike lands teatertradisjoner",
+        "title": "Teater i Tsjekkia",
+        "url": "https://snl.no/Teater_i_Tsjekkia"
+      },
+      {
+        "category": "Militær teori",
+        "title": "militærteori",
+        "url": "https://snl.no/milit%C3%A6rteori"
+      },
+      {
+        "category": "Tysklands nyere litteratur",
+        "title": "Isabel Fargo Cole",
+        "url": "https://snl.no/Isabel_Fargo_Cole"
+      }
+    ]
   }
 }
