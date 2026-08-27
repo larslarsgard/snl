@@ -8215,5 +8215,88 @@
         "url": "https://snl.no/Isabel_Fargo_Cole"
       }
     ]
+  },
+  "2026-08-27": {
+    "Mest lest i går": [
+      {
+        "category": "Amerikanske country- og bluegrassartister",
+        "title": "Dolly Parton",
+        "url": "https://snl.no/Dolly_Parton"
+      },
+      {
+        "category": "Ikke-ondartede blodsykdommer",
+        "title": "hemolytisk anemi",
+        "url": "https://sml.snl.no/hemolytisk_anemi"
+      },
+      {
+        "category": "Ordforklaringer monarki",
+        "title": "landesorg",
+        "url": "https://snl.no/landesorg"
+      },
+      {
+        "category": "Biografier i 1600-tallets filosofi",
+        "title": "John Locke",
+        "url": "https://snl.no/John_Locke"
+      },
+      {
+        "category": "Diagnostikk og behandling av psykiske lidelser",
+        "title": "psykiske lidelser",
+        "url": "https://sml.snl.no/psykiske_lidelser"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Petroleumsområder",
+        "title": "Nordland VI",
+        "url": "https://snl.no/Nordland_VI"
+      },
+      {
+        "category": "Medisinsk genetikk",
+        "title": "medfødt generalisert lipodystrofi",
+        "url": "https://sml.snl.no/medf%C3%B8dt_generalisert_lipodystrofi"
+      },
+      {
+        "category": "Ordforklaringer monarki",
+        "title": "Kongen er død, leve kongen!",
+        "url": "https://snl.no/Kongen_er_d%C3%B8d,_leve_kongen!"
+      },
+      {
+        "category": "Lokalforvaltning",
+        "title": "ROBEK",
+        "url": "https://snl.no/ROBEK"
+      },
+      {
+        "category": "Fremmedord med latinsk og gresk opphav",
+        "title": "filantrop",
+        "url": "https://snl.no/filantrop"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Norske skuespillere",
+        "title": "Maryon Eilertsen",
+        "url": "https://snl.no/Maryon_Eilertsen"
+      },
+      {
+        "category": "Internasjonale tegnekunstnere",
+        "title": "Achton Friis",
+        "url": "https://snl.no/Achton_Friis"
+      },
+      {
+        "category": "Stavkirker",
+        "title": "Ringebu stavkirke",
+        "url": "https://snl.no/Ringebu_stavkirke"
+      },
+      {
+        "category": "Republikken Kongos litteratur",
+        "title": "Alain Mabanckou",
+        "url": "https://snl.no/Alain_Mabanckou"
+      },
+      {
+        "category": "Israels samtidshistorie",
+        "title": "Israels utenrikspolitikk",
+        "url": "https://snl.no/Israels_utenrikspolitikk"
+      }
+    ]
   }
 }
