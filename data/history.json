@@ -8298,5 +8298,88 @@
         "url": "https://snl.no/Israels_utenrikspolitikk"
       }
     ]
+  },
+  "2026-08-28": {
+    "Mest lest i går": [
+      {
+        "category": "Ordforklaringer monarki",
+        "title": "landesorg",
+        "url": "https://snl.no/landesorg"
+      },
+      {
+        "category": "Ordforklaringer monarki",
+        "title": "Kongen er død, leve kongen!",
+        "url": "https://snl.no/Kongen_er_d%C3%B8d,_leve_kongen!"
+      },
+      {
+        "category": "Kongehuset",
+        "title": "Harald 5.",
+        "url": "https://snl.no/Harald_5."
+      },
+      {
+        "category": "Ordforklaringer monarki",
+        "title": "hoffsorg",
+        "url": "https://snl.no/hoffsorg"
+      },
+      {
+        "category": "Ikke-ondartede blodsykdommer",
+        "title": "hemolytisk anemi",
+        "url": "https://sml.snl.no/hemolytisk_anemi"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Klesplagg",
+        "title": "sørgebånd",
+        "url": "https://snl.no/s%C3%B8rgeb%C3%A5nd"
+      },
+      {
+        "category": "Norske diplomater",
+        "title": "Ingvard Havnen",
+        "url": "https://snl.no/Ingvard_Havnen"
+      },
+      {
+        "category": "Sakprosabegreper",
+        "title": "Norsk faglitterær forfatter- og oversetterforening",
+        "url": "https://snl.no/Norsk_faglitter%C3%A6r_forfatter-_og_oversetterforening"
+      },
+      {
+        "category": "Ordforklaringer monarki",
+        "title": "enkedronning",
+        "url": "https://snl.no/enkedronning"
+      },
+      {
+        "category": "Norske kirkebygg",
+        "title": "Det kongelige mausoleum",
+        "url": "https://snl.no/Det_kongelige_mausoleum"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Tysklands litteratur 1950–2000",
+        "title": "Thomas Brasch",
+        "url": "https://snl.no/Thomas_Brasch"
+      },
+      {
+        "category": "Belarus’ litteratur",
+        "title": "Janka Kupala",
+        "url": "https://snl.no/Janka_Kupala"
+      },
+      {
+        "category": "Tekstiler",
+        "title": "mikrofiber",
+        "url": "https://snl.no/mikrofiber"
+      },
+      {
+        "category": "Maleri",
+        "title": "maleriets historie",
+        "url": "https://snl.no/maleriets_historie"
+      },
+      {
+        "category": "Militant islamisme",
+        "title": "Fathi al-Shiqaqi",
+        "url": "https://snl.no/Fathi_al-Shiqaqi"
+      }
+    ]
   }
 }

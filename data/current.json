@@ -1,43 +1,11 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Amerikanske country- og bluegrassartister",
-        "title": "Dolly Parton",
-        "url": "https://snl.no/Dolly_Parton"
-      },
-      {
-        "category": "Ikke-ondartede blodsykdommer",
-        "title": "hemolytisk anemi",
-        "url": "https://sml.snl.no/hemolytisk_anemi"
-      },
       {
         "category": "Ordforklaringer monarki",
         "title": "landesorg",
         "url": "https://snl.no/landesorg"
-      },
-      {
-        "category": "Biografier i 1600-tallets filosofi",
-        "title": "John Locke",
-        "url": "https://snl.no/John_Locke"
-      },
-      {
-        "category": "Diagnostikk og behandling av psykiske lidelser",
-        "title": "psykiske lidelser",
-        "url": "https://sml.snl.no/psykiske_lidelser"
-      }
-    ],
-    "Uvanlig mye lest": [
-      {
-        "category": "Petroleumsområder",
-        "title": "Nordland VI",
-        "url": "https://snl.no/Nordland_VI"
-      },
-      {
-        "category": "Medisinsk genetikk",
-        "title": "medfødt generalisert lipodystrofi",
-        "url": "https://sml.snl.no/medf%C3%B8dt_generalisert_lipodystrofi"
       },
       {
         "category": "Ordforklaringer monarki",
@@ -45,41 +13,73 @@
         "url": "https://snl.no/Kongen_er_d%C3%B8d,_leve_kongen!"
       },
       {
-        "category": "Lokalforvaltning",
-        "title": "ROBEK",
-        "url": "https://snl.no/ROBEK"
+        "category": "Kongehuset",
+        "title": "Harald 5.",
+        "url": "https://snl.no/Harald_5."
       },
       {
-        "category": "Fremmedord med latinsk og gresk opphav",
-        "title": "filantrop",
-        "url": "https://snl.no/filantrop"
+        "category": "Ordforklaringer monarki",
+        "title": "hoffsorg",
+        "url": "https://snl.no/hoffsorg"
+      },
+      {
+        "category": "Ikke-ondartede blodsykdommer",
+        "title": "hemolytisk anemi",
+        "url": "https://sml.snl.no/hemolytisk_anemi"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Klesplagg",
+        "title": "sørgebånd",
+        "url": "https://snl.no/s%C3%B8rgeb%C3%A5nd"
+      },
+      {
+        "category": "Norske diplomater",
+        "title": "Ingvard Havnen",
+        "url": "https://snl.no/Ingvard_Havnen"
+      },
+      {
+        "category": "Sakprosabegreper",
+        "title": "Norsk faglitterær forfatter- og oversetterforening",
+        "url": "https://snl.no/Norsk_faglitter%C3%A6r_forfatter-_og_oversetterforening"
+      },
+      {
+        "category": "Ordforklaringer monarki",
+        "title": "enkedronning",
+        "url": "https://snl.no/enkedronning"
+      },
+      {
+        "category": "Norske kirkebygg",
+        "title": "Det kongelige mausoleum",
+        "url": "https://snl.no/Det_kongelige_mausoleum"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Norske skuespillere",
-        "title": "Maryon Eilertsen",
-        "url": "https://snl.no/Maryon_Eilertsen"
+        "category": "Tysklands litteratur 1950–2000",
+        "title": "Thomas Brasch",
+        "url": "https://snl.no/Thomas_Brasch"
       },
       {
-        "category": "Internasjonale tegnekunstnere",
-        "title": "Achton Friis",
-        "url": "https://snl.no/Achton_Friis"
+        "category": "Belarus’ litteratur",
+        "title": "Janka Kupala",
+        "url": "https://snl.no/Janka_Kupala"
       },
       {
-        "category": "Stavkirker",
-        "title": "Ringebu stavkirke",
-        "url": "https://snl.no/Ringebu_stavkirke"
+        "category": "Tekstiler",
+        "title": "mikrofiber",
+        "url": "https://snl.no/mikrofiber"
       },
       {
-        "category": "Republikken Kongos litteratur",
-        "title": "Alain Mabanckou",
-        "url": "https://snl.no/Alain_Mabanckou"
+        "category": "Maleri",
+        "title": "maleriets historie",
+        "url": "https://snl.no/maleriets_historie"
       },
       {
-        "category": "Israels samtidshistorie",
-        "title": "Israels utenrikspolitikk",
-        "url": "https://snl.no/Israels_utenrikspolitikk"
+        "category": "Militant islamisme",
+        "title": "Fathi al-Shiqaqi",
+        "url": "https://snl.no/Fathi_al-Shiqaqi"
       }
     ]
   }
