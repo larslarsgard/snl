@@ -1,16 +1,21 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Kongehuset",
+        "title": "Haakon 8.",
+        "url": "https://snl.no/Haakon_8."
+      },
+      {
+        "category": "Den norske kongerekka",
+        "title": "monarker i Norge – kongerekken",
+        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
+      },
       {
         "category": "Ordforklaringer monarki",
         "title": "landesorg",
         "url": "https://snl.no/landesorg"
-      },
-      {
-        "category": "Ordforklaringer monarki",
-        "title": "Kongen er død, leve kongen!",
-        "url": "https://snl.no/Kongen_er_d%C3%B8d,_leve_kongen!"
       },
       {
         "category": "Kongehuset",
@@ -19,67 +24,62 @@
       },
       {
         "category": "Ordforklaringer monarki",
-        "title": "hoffsorg",
-        "url": "https://snl.no/hoffsorg"
-      },
-      {
-        "category": "Ikke-ondartede blodsykdommer",
-        "title": "hemolytisk anemi",
-        "url": "https://sml.snl.no/hemolytisk_anemi"
+        "title": "valgspråk",
+        "url": "https://snl.no/valgspr%C3%A5k"
       }
     ],
     "Uvanlig mye lest": [
+      {
+        "category": "Norges historie fram til 1050",
+        "title": "Håkon – norske konger",
+        "url": "https://snl.no/H%C3%A5kon_-_norske_konger"
+      },
+      {
+        "category": "Norske kirkebygg",
+        "title": "Slottskapellet",
+        "url": "https://snl.no/Slottskapellet"
+      },
       {
         "category": "Klesplagg",
         "title": "sørgebånd",
         "url": "https://snl.no/s%C3%B8rgeb%C3%A5nd"
       },
       {
-        "category": "Norske diplomater",
-        "title": "Ingvard Havnen",
-        "url": "https://snl.no/Ingvard_Havnen"
-      },
-      {
-        "category": "Sakprosabegreper",
-        "title": "Norsk faglitterær forfatter- og oversetterforening",
-        "url": "https://snl.no/Norsk_faglitter%C3%A6r_forfatter-_og_oversetterforening"
-      },
-      {
         "category": "Ordforklaringer monarki",
-        "title": "enkedronning",
-        "url": "https://snl.no/enkedronning"
+        "title": "rikseple",
+        "url": "https://snl.no/rikseple"
       },
       {
-        "category": "Norske kirkebygg",
-        "title": "Det kongelige mausoleum",
-        "url": "https://snl.no/Det_kongelige_mausoleum"
+        "category": "Skulpturer og relieffer",
+        "title": "sarkofag",
+        "url": "https://snl.no/sarkofag"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Tysklands litteratur 1950–2000",
-        "title": "Thomas Brasch",
-        "url": "https://snl.no/Thomas_Brasch"
+        "category": "Personer innen astronomi",
+        "title": "Edward Emerson Barnard",
+        "url": "https://snl.no/Edward_Emerson_Barnard"
       },
       {
-        "category": "Belarus’ litteratur",
-        "title": "Janka Kupala",
-        "url": "https://snl.no/Janka_Kupala"
+        "category": "Norske klassiske komponister og verker 1900–1950",
+        "title": "Signe Lund",
+        "url": "https://snl.no/Signe_Lund"
       },
       {
-        "category": "Tekstiler",
-        "title": "mikrofiber",
-        "url": "https://snl.no/mikrofiber"
+        "category": "Energi og ressurs",
+        "title": "IEA – Det internasjonale energibyrået",
+        "url": "https://snl.no/IEA_-_Det_internasjonale_energibyr%C3%A5et"
       },
       {
-        "category": "Maleri",
-        "title": "maleriets historie",
-        "url": "https://snl.no/maleriets_historie"
+        "category": "Tysk",
+        "title": "zimbrisk",
+        "url": "https://snl.no/zimbrisk"
       },
       {
-        "category": "Militant islamisme",
-        "title": "Fathi al-Shiqaqi",
-        "url": "https://snl.no/Fathi_al-Shiqaqi"
+        "category": "Frisisk",
+        "title": "vestfrisisk",
+        "url": "https://snl.no/vestfrisisk"
       }
     ]
   }
