@@ -1,85 +1,85 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Kongehuset",
-        "title": "Haakon 8.",
-        "url": "https://snl.no/Haakon_8."
-      },
       {
         "category": "Den norske kongerekka",
         "title": "monarker i Norge – kongerekken",
         "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
       },
       {
-        "category": "Ordforklaringer monarki",
-        "title": "landesorg",
-        "url": "https://snl.no/landesorg"
-      },
-      {
         "category": "Kongehuset",
-        "title": "Harald 5.",
-        "url": "https://snl.no/Harald_5."
+        "title": "Haakon 8.",
+        "url": "https://snl.no/Haakon_8."
       },
       {
-        "category": "Ordforklaringer monarki",
-        "title": "valgspråk",
-        "url": "https://snl.no/valgspr%C3%A5k"
-      }
-    ],
-    "Uvanlig mye lest": [
+        "category": "Nasjonalsanger",
+        "title": "Kongesangen",
+        "url": "https://snl.no/Kongesangen"
+      },
       {
         "category": "Norges historie fram til 1050",
         "title": "Håkon – norske konger",
         "url": "https://snl.no/H%C3%A5kon_-_norske_konger"
       },
       {
-        "category": "Norske kirkebygg",
-        "title": "Slottskapellet",
-        "url": "https://snl.no/Slottskapellet"
+        "category": "Kongehuset",
+        "title": "Märtha – kronprinsesse",
+        "url": "https://snl.no/M%C3%A4rtha_-_kronprinsesse"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Medisinsk historie",
+        "title": "balsamering",
+        "url": "https://sml.snl.no/balsamering"
       },
       {
-        "category": "Klesplagg",
-        "title": "sørgebånd",
-        "url": "https://snl.no/s%C3%B8rgeb%C3%A5nd"
-      },
-      {
-        "category": "Ordforklaringer monarki",
-        "title": "rikseple",
-        "url": "https://snl.no/rikseple"
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "balsamering",
+        "url": "https://snl.no/balsamering"
       },
       {
         "category": "Skulpturer og relieffer",
         "title": "sarkofag",
         "url": "https://snl.no/sarkofag"
+      },
+      {
+        "category": "Høyesterettsdommere",
+        "title": "Toril Marie Øie",
+        "url": "https://snl.no/Toril_Marie_%C3%98ie"
+      },
+      {
+        "category": "Norske kirkebygg",
+        "title": "Molde domkirke",
+        "url": "https://snl.no/Molde_domkirke"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Personer innen astronomi",
-        "title": "Edward Emerson Barnard",
-        "url": "https://snl.no/Edward_Emerson_Barnard"
+        "category": "Internasjonale klassiske komponister på 1800-tallet",
+        "title": "Franz Berwald",
+        "url": "https://snl.no/Franz_Berwald"
       },
       {
-        "category": "Norske klassiske komponister og verker 1900–1950",
-        "title": "Signe Lund",
-        "url": "https://snl.no/Signe_Lund"
+        "category": "Insekters anatomi og fysiologi",
+        "title": "bladminerere",
+        "url": "https://snl.no/bladminerere"
       },
       {
-        "category": "Energi og ressurs",
-        "title": "IEA – Det internasjonale energibyrået",
-        "url": "https://snl.no/IEA_-_Det_internasjonale_energibyr%C3%A5et"
+        "category": "Jagerfly og kampfly",
+        "title": "F-105 Thunderchief",
+        "url": "https://snl.no/F-105_Thunderchief"
       },
       {
-        "category": "Tysk",
-        "title": "zimbrisk",
-        "url": "https://snl.no/zimbrisk"
+        "category": "Jagerfly og kampfly",
+        "title": "Sopwith Triplane",
+        "url": "https://snl.no/Sopwith_Triplane"
       },
       {
-        "category": "Frisisk",
-        "title": "vestfrisisk",
-        "url": "https://snl.no/vestfrisisk"
+        "category": "Bokkunst",
+        "title": "Hypnerotomachia Poliphili",
+        "url": "https://snl.no/Hypnerotomachia_Poliphili"
       }
     ]
   }
