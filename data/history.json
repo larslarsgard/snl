@@ -8547,5 +8547,88 @@
         "url": "https://snl.no/Hypnerotomachia_Poliphili"
       }
     ]
+  },
+  "2026-08-31": {
+    "Mest lest i går": [
+      {
+        "category": "Nasjonalsanger",
+        "title": "Kongesangen",
+        "url": "https://snl.no/Kongesangen"
+      },
+      {
+        "category": "Den norske kongerekka",
+        "title": "monarker i Norge – kongerekken",
+        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
+      },
+      {
+        "category": "Bygningstyper",
+        "title": "domkirke",
+        "url": "https://snl.no/domkirke"
+      },
+      {
+        "category": "Skulpturer og relieffer",
+        "title": "sarkofag",
+        "url": "https://snl.no/sarkofag"
+      },
+      {
+        "category": "Kongehuset",
+        "title": "Märtha – kronprinsesse",
+        "url": "https://snl.no/M%C3%A4rtha_-_kronprinsesse"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Guttenavn",
+        "title": "Gjeruld – mannsnamn",
+        "url": "https://snl.no/Gjeruld_-_mannsnamn"
+      },
+      {
+        "category": "Det gamle testamentet",
+        "title": "Sulamit",
+        "url": "https://snl.no/Sulamit"
+      },
+      {
+        "category": "Idrettsledere",
+        "title": "Bjørge Stensbøl",
+        "url": "https://snl.no/Bj%C3%B8rge_Stensb%C3%B8l"
+      },
+      {
+        "category": "Alpint",
+        "title": "Astrid Lødemel",
+        "url": "https://snl.no/Astrid_L%C3%B8demel"
+      },
+      {
+        "category": "Biografier i Den norske kirke",
+        "title": "Herborg Finnset",
+        "url": "https://snl.no/Herborg_Finnset"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Odontologi",
+        "title": "tannrengjøring",
+        "url": "https://sml.snl.no/tannrengj%C3%B8ring"
+      },
+      {
+        "category": "Religionsvitenskap",
+        "title": "himmelfart",
+        "url": "https://snl.no/himmelfart"
+      },
+      {
+        "category": "Biografier i luftfart",
+        "title": "Samuel Pierpont Langley",
+        "url": "https://snl.no/Samuel_Pierpont_Langley"
+      },
+      {
+        "category": "Solsystemet",
+        "title": "Jarkovskij-effekten",
+        "url": "https://snl.no/Jarkovskij-effekten"
+      },
+      {
+        "category": "Demografi",
+        "title": "befolkningsbonus",
+        "url": "https://snl.no/befolkningsbonus"
+      }
+    ]
   }
 }

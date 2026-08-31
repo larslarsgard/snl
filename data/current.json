@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Den norske kongerekka",
-        "title": "monarker i Norge – kongerekken",
-        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
-      },
-      {
-        "category": "Kongehuset",
-        "title": "Haakon 8.",
-        "url": "https://snl.no/Haakon_8."
-      },
       {
         "category": "Nasjonalsanger",
         "title": "Kongesangen",
         "url": "https://snl.no/Kongesangen"
       },
       {
-        "category": "Norges historie fram til 1050",
-        "title": "Håkon – norske konger",
-        "url": "https://snl.no/H%C3%A5kon_-_norske_konger"
+        "category": "Den norske kongerekka",
+        "title": "monarker i Norge – kongerekken",
+        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
+      },
+      {
+        "category": "Bygningstyper",
+        "title": "domkirke",
+        "url": "https://snl.no/domkirke"
+      },
+      {
+        "category": "Skulpturer og relieffer",
+        "title": "sarkofag",
+        "url": "https://snl.no/sarkofag"
       },
       {
         "category": "Kongehuset",
@@ -30,56 +30,56 @@
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Medisinsk historie",
-        "title": "balsamering",
-        "url": "https://sml.snl.no/balsamering"
+        "category": "Guttenavn",
+        "title": "Gjeruld – mannsnamn",
+        "url": "https://snl.no/Gjeruld_-_mannsnamn"
       },
       {
-        "category": "Folkelige skikker og tradisjoner",
-        "title": "balsamering",
-        "url": "https://snl.no/balsamering"
+        "category": "Det gamle testamentet",
+        "title": "Sulamit",
+        "url": "https://snl.no/Sulamit"
       },
       {
-        "category": "Skulpturer og relieffer",
-        "title": "sarkofag",
-        "url": "https://snl.no/sarkofag"
+        "category": "Idrettsledere",
+        "title": "Bjørge Stensbøl",
+        "url": "https://snl.no/Bj%C3%B8rge_Stensb%C3%B8l"
       },
       {
-        "category": "Høyesterettsdommere",
-        "title": "Toril Marie Øie",
-        "url": "https://snl.no/Toril_Marie_%C3%98ie"
+        "category": "Alpint",
+        "title": "Astrid Lødemel",
+        "url": "https://snl.no/Astrid_L%C3%B8demel"
       },
       {
-        "category": "Norske kirkebygg",
-        "title": "Molde domkirke",
-        "url": "https://snl.no/Molde_domkirke"
+        "category": "Biografier i Den norske kirke",
+        "title": "Herborg Finnset",
+        "url": "https://snl.no/Herborg_Finnset"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Internasjonale klassiske komponister på 1800-tallet",
-        "title": "Franz Berwald",
-        "url": "https://snl.no/Franz_Berwald"
+        "category": "Odontologi",
+        "title": "tannrengjøring",
+        "url": "https://sml.snl.no/tannrengj%C3%B8ring"
       },
       {
-        "category": "Insekters anatomi og fysiologi",
-        "title": "bladminerere",
-        "url": "https://snl.no/bladminerere"
+        "category": "Religionsvitenskap",
+        "title": "himmelfart",
+        "url": "https://snl.no/himmelfart"
       },
       {
-        "category": "Jagerfly og kampfly",
-        "title": "F-105 Thunderchief",
-        "url": "https://snl.no/F-105_Thunderchief"
+        "category": "Biografier i luftfart",
+        "title": "Samuel Pierpont Langley",
+        "url": "https://snl.no/Samuel_Pierpont_Langley"
       },
       {
-        "category": "Jagerfly og kampfly",
-        "title": "Sopwith Triplane",
-        "url": "https://snl.no/Sopwith_Triplane"
+        "category": "Solsystemet",
+        "title": "Jarkovskij-effekten",
+        "url": "https://snl.no/Jarkovskij-effekten"
       },
       {
-        "category": "Bokkunst",
-        "title": "Hypnerotomachia Poliphili",
-        "url": "https://snl.no/Hypnerotomachia_Poliphili"
+        "category": "Demografi",
+        "title": "befolkningsbonus",
+        "url": "https://snl.no/befolkningsbonus"
       }
     ]
   }
