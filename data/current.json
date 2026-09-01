@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Nasjonalsanger",
-        "title": "Kongesangen",
-        "url": "https://snl.no/Kongesangen"
-      },
       {
         "category": "Den norske kongerekka",
         "title": "monarker i Norge – kongerekken",
         "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
       },
       {
-        "category": "Bygningstyper",
-        "title": "domkirke",
-        "url": "https://snl.no/domkirke"
+        "category": "Nasjonalsanger",
+        "title": "Kongesangen",
+        "url": "https://snl.no/Kongesangen"
       },
       {
-        "category": "Skulpturer og relieffer",
-        "title": "sarkofag",
-        "url": "https://snl.no/sarkofag"
+        "category": "Rettsmedisin",
+        "title": "balsamering",
+        "url": "https://sml.snl.no/balsamering"
+      },
+      {
+        "category": "Kongehuset",
+        "title": "Harald 5.",
+        "url": "https://snl.no/Harald_5."
       },
       {
         "category": "Kongehuset",
@@ -30,56 +30,56 @@
     ],
     "Uvanlig mye lest": [
       {
+        "category": "Europa på 1900-tallet",
+        "title": "borgfred",
+        "url": "https://snl.no/borgfred"
+      },
+      {
+        "category": "Natur og landemerker i USA",
+        "title": "Grand Canyon",
+        "url": "https://snl.no/Grand_Canyon"
+      },
+      {
+        "category": "Kvinnebevegelsen i Norge",
+        "title": "Ragna Prag Magelssen",
+        "url": "https://snl.no/Ragna_Prag_Magelssen"
+      },
+      {
+        "category": "Norske kirkebygg",
+        "title": "Slottskapellet",
+        "url": "https://snl.no/Slottskapellet"
+      },
+      {
         "category": "Guttenavn",
         "title": "Gjeruld – mannsnamn",
         "url": "https://snl.no/Gjeruld_-_mannsnamn"
-      },
-      {
-        "category": "Det gamle testamentet",
-        "title": "Sulamit",
-        "url": "https://snl.no/Sulamit"
-      },
-      {
-        "category": "Idrettsledere",
-        "title": "Bjørge Stensbøl",
-        "url": "https://snl.no/Bj%C3%B8rge_Stensb%C3%B8l"
-      },
-      {
-        "category": "Alpint",
-        "title": "Astrid Lødemel",
-        "url": "https://snl.no/Astrid_L%C3%B8demel"
-      },
-      {
-        "category": "Biografier i Den norske kirke",
-        "title": "Herborg Finnset",
-        "url": "https://snl.no/Herborg_Finnset"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Odontologi",
-        "title": "tannrengjøring",
-        "url": "https://sml.snl.no/tannrengj%C3%B8ring"
+        "category": "Skulptur og mosaikk i renessansen og barokken",
+        "title": "Alessandro Algardi",
+        "url": "https://snl.no/Alessandro_Algardi"
       },
       {
-        "category": "Religionsvitenskap",
-        "title": "himmelfart",
-        "url": "https://snl.no/himmelfart"
+        "category": "Historiske norske økonomer",
+        "title": "Ragnar Frisch",
+        "url": "https://snl.no/Ragnar_Frisch"
       },
       {
-        "category": "Biografier i luftfart",
-        "title": "Samuel Pierpont Langley",
-        "url": "https://snl.no/Samuel_Pierpont_Langley"
+        "category": "Internasjonale klassiske komponister og verker 1950–2000",
+        "title": "Vagn Holmboe",
+        "url": "https://snl.no/Vagn_Holmboe"
       },
       {
-        "category": "Solsystemet",
-        "title": "Jarkovskij-effekten",
-        "url": "https://snl.no/Jarkovskij-effekten"
+        "category": "Portugals historie",
+        "title": "Johan 5.",
+        "url": "https://snl.no/Johan_5."
       },
       {
-        "category": "Demografi",
-        "title": "befolkningsbonus",
-        "url": "https://snl.no/befolkningsbonus"
+        "category": "Saudi-Arabias historie",
+        "title": "Saudi-Arabias historie",
+        "url": "https://snl.no/Saudi-Arabias_historie"
       }
     ]
   }
