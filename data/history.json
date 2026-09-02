@@ -8713,5 +8713,88 @@
         "url": "https://snl.no/Saudi-Arabias_historie"
       }
     ]
+  },
+  "2026-09-02": {
+    "Mest lest i går": [
+      {
+        "category": "Den norske kongerekka",
+        "title": "monarker i Norge – kongerekken",
+        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
+      },
+      {
+        "category": "Nasjonalsanger",
+        "title": "Kongesangen",
+        "url": "https://snl.no/Kongesangen"
+      },
+      {
+        "category": "Kongehuset",
+        "title": "Harald 5.",
+        "url": "https://snl.no/Harald_5."
+      },
+      {
+        "category": "Transplantasjonsmedisin",
+        "title": "lungetransplantasjon",
+        "url": "https://sml.snl.no/lungetransplantasjon"
+      },
+      {
+        "category": "Norges historie fra 1884 til 1940",
+        "title": "Haakon 7.",
+        "url": "https://snl.no/Haakon_7."
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Datamaskinarkitektur",
+        "title": "hovedkort",
+        "url": "https://snl.no/hovedkort"
+      },
+      {
+        "category": "Tidligere politikere",
+        "title": "Kirsti Kolle Grøndahl",
+        "url": "https://snl.no/Kirsti_Kolle_Gr%C3%B8ndahl"
+      },
+      {
+        "category": "Ordforklaringer monarki",
+        "title": "hoffsjef",
+        "url": "https://snl.no/hoffsjef"
+      },
+      {
+        "category": "Nyere norsk litteratur",
+        "title": "Ragnar Hovland",
+        "url": "https://snl.no/Ragnar_Hovland"
+      },
+      {
+        "category": "Prosessrett generelt",
+        "title": "ed",
+        "url": "https://snl.no/ed"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Personer innen astronomi",
+        "title": "Jocelyn Bell Burnell",
+        "url": "https://snl.no/Jocelyn_Bell_Burnell"
+      },
+      {
+        "category": "Tysklands litteratur 1950–2000",
+        "title": "Sarah Kirsch",
+        "url": "https://snl.no/Sarah_Kirsch"
+      },
+      {
+        "category": "Kraftselskaper og kraftverk",
+        "title": "Tysso I kraftverk – Kraftmuseet",
+        "url": "https://snl.no/Tysso_I_kraftverk_-_Kraftmuseet"
+      },
+      {
+        "category": "Tsjekkias samtidshistorie",
+        "title": "TOP 09",
+        "url": "https://snl.no/TOP_09"
+      },
+      {
+        "category": "Norske fotografer og fotokunstnere",
+        "title": "Mette Tronvoll",
+        "url": "https://snl.no/Mette_Tronvoll"
+      }
+    ]
   }
 }
