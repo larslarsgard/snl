@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "categories": {
     "Mest lest i går": [
       {
@@ -8,78 +8,78 @@
         "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
       },
       {
-        "category": "Nasjonalsanger",
-        "title": "Kongesangen",
-        "url": "https://snl.no/Kongesangen"
-      },
-      {
         "category": "Kongehuset",
         "title": "Harald 5.",
         "url": "https://snl.no/Harald_5."
       },
       {
-        "category": "Transplantasjonsmedisin",
-        "title": "lungetransplantasjon",
-        "url": "https://sml.snl.no/lungetransplantasjon"
+        "category": "Skulpturer og relieffer",
+        "title": "sarkofag",
+        "url": "https://snl.no/sarkofag"
       },
       {
-        "category": "Norges historie fra 1884 til 1940",
-        "title": "Haakon 7.",
-        "url": "https://snl.no/Haakon_7."
+        "category": "Europa på 1900-tallet",
+        "title": "borgfred",
+        "url": "https://snl.no/borgfred"
+      },
+      {
+        "category": "Nasjonalsanger",
+        "title": "Kongesangen",
+        "url": "https://snl.no/Kongesangen"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Datamaskinarkitektur",
-        "title": "hovedkort",
-        "url": "https://snl.no/hovedkort"
+        "category": "Rettshistorie",
+        "title": "åverk",
+        "url": "https://snl.no/%C3%A5verk"
       },
       {
-        "category": "Tidligere politikere",
-        "title": "Kirsti Kolle Grøndahl",
-        "url": "https://snl.no/Kirsti_Kolle_Gr%C3%B8ndahl"
+        "category": "Folkevandringstid og folkestammer",
+        "title": "Alarik 1.",
+        "url": "https://snl.no/Alarik_1."
       },
       {
-        "category": "Ordforklaringer monarki",
-        "title": "hoffsjef",
-        "url": "https://snl.no/hoffsjef"
+        "category": "Norske politikere",
+        "title": "June Trengereid Gruer",
+        "url": "https://snl.no/June_Trengereid_Gruer"
       },
       {
-        "category": "Nyere norsk litteratur",
-        "title": "Ragnar Hovland",
-        "url": "https://snl.no/Ragnar_Hovland"
+        "category": "Data- og informasjonssikkerhet",
+        "title": "tjenestenektangrep",
+        "url": "https://snl.no/tjenestenektangrep"
       },
       {
-        "category": "Prosessrett generelt",
-        "title": "ed",
-        "url": "https://snl.no/ed"
+        "category": "Folkevandringstid og folkestammer",
+        "title": "gotere",
+        "url": "https://snl.no/gotere"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Personer innen astronomi",
-        "title": "Jocelyn Bell Burnell",
-        "url": "https://snl.no/Jocelyn_Bell_Burnell"
+        "category": "Konseptkunst og postkonseptualisme",
+        "title": "fluxus",
+        "url": "https://snl.no/fluxus"
       },
       {
-        "category": "Tysklands litteratur 1950–2000",
-        "title": "Sarah Kirsch",
-        "url": "https://snl.no/Sarah_Kirsch"
+        "category": "Nautiske og maritime begrep",
+        "title": "havn",
+        "url": "https://snl.no/havn"
       },
       {
-        "category": "Kraftselskaper og kraftverk",
-        "title": "Tysso I kraftverk – Kraftmuseet",
-        "url": "https://snl.no/Tysso_I_kraftverk_-_Kraftmuseet"
+        "category": "Ekspresjonisme og fauvisme",
+        "title": "Axel Törneman",
+        "url": "https://snl.no/Axel_T%C3%B6rneman"
       },
       {
-        "category": "Tsjekkias samtidshistorie",
-        "title": "TOP 09",
-        "url": "https://snl.no/TOP_09"
+        "category": "Kenyas samtidshistorie",
+        "title": "Kenyas utenrikspolitikk",
+        "url": "https://snl.no/Kenyas_utenrikspolitikk"
       },
       {
-        "category": "Norske fotografer og fotokunstnere",
-        "title": "Mette Tronvoll",
-        "url": "https://snl.no/Mette_Tronvoll"
+        "category": "Tidligere aviser på Østlandet",
+        "title": "Bygdenes Blad",
+        "url": "https://snl.no/Bygdenes_Blad"
       }
     ]
   }

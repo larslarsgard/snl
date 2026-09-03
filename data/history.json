@@ -8796,5 +8796,88 @@
         "url": "https://snl.no/Mette_Tronvoll"
       }
     ]
+  },
+  "2026-09-03": {
+    "Mest lest i går": [
+      {
+        "category": "Den norske kongerekka",
+        "title": "monarker i Norge – kongerekken",
+        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
+      },
+      {
+        "category": "Kongehuset",
+        "title": "Harald 5.",
+        "url": "https://snl.no/Harald_5."
+      },
+      {
+        "category": "Skulpturer og relieffer",
+        "title": "sarkofag",
+        "url": "https://snl.no/sarkofag"
+      },
+      {
+        "category": "Europa på 1900-tallet",
+        "title": "borgfred",
+        "url": "https://snl.no/borgfred"
+      },
+      {
+        "category": "Nasjonalsanger",
+        "title": "Kongesangen",
+        "url": "https://snl.no/Kongesangen"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Rettshistorie",
+        "title": "åverk",
+        "url": "https://snl.no/%C3%A5verk"
+      },
+      {
+        "category": "Folkevandringstid og folkestammer",
+        "title": "Alarik 1.",
+        "url": "https://snl.no/Alarik_1."
+      },
+      {
+        "category": "Norske politikere",
+        "title": "June Trengereid Gruer",
+        "url": "https://snl.no/June_Trengereid_Gruer"
+      },
+      {
+        "category": "Data- og informasjonssikkerhet",
+        "title": "tjenestenektangrep",
+        "url": "https://snl.no/tjenestenektangrep"
+      },
+      {
+        "category": "Folkevandringstid og folkestammer",
+        "title": "gotere",
+        "url": "https://snl.no/gotere"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Konseptkunst og postkonseptualisme",
+        "title": "fluxus",
+        "url": "https://snl.no/fluxus"
+      },
+      {
+        "category": "Nautiske og maritime begrep",
+        "title": "havn",
+        "url": "https://snl.no/havn"
+      },
+      {
+        "category": "Ekspresjonisme og fauvisme",
+        "title": "Axel Törneman",
+        "url": "https://snl.no/Axel_T%C3%B6rneman"
+      },
+      {
+        "category": "Kenyas samtidshistorie",
+        "title": "Kenyas utenrikspolitikk",
+        "url": "https://snl.no/Kenyas_utenrikspolitikk"
+      },
+      {
+        "category": "Tidligere aviser på Østlandet",
+        "title": "Bygdenes Blad",
+        "url": "https://snl.no/Bygdenes_Blad"
+      }
+    ]
   }
 }
