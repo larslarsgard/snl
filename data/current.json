@@ -1,21 +1,16 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Den norske kongerekka",
-        "title": "monarker i Norge – kongerekken",
-        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
-      },
       {
         "category": "Kongehuset",
         "title": "Harald 5.",
         "url": "https://snl.no/Harald_5."
       },
       {
-        "category": "Skulpturer og relieffer",
-        "title": "sarkofag",
-        "url": "https://snl.no/sarkofag"
+        "category": "Den norske kongerekka",
+        "title": "monarker i Norge – kongerekken",
+        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
       },
       {
         "category": "Europa på 1900-tallet",
@@ -26,60 +21,65 @@
         "category": "Nasjonalsanger",
         "title": "Kongesangen",
         "url": "https://snl.no/Kongesangen"
+      },
+      {
+        "category": "Kongehuset",
+        "title": "Märtha – kronprinsesse",
+        "url": "https://snl.no/M%C3%A4rtha_-_kronprinsesse"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Rettshistorie",
-        "title": "åverk",
-        "url": "https://snl.no/%C3%A5verk"
+        "category": "Stiftelser og fond",
+        "title": "Amediastiftelsen",
+        "url": "https://snl.no/Amediastiftelsen"
       },
       {
-        "category": "Folkevandringstid og folkestammer",
-        "title": "Alarik 1.",
-        "url": "https://snl.no/Alarik_1."
+        "category": "Mediekonsern",
+        "title": "Amedia",
+        "url": "https://snl.no/Amedia"
       },
       {
-        "category": "Norske politikere",
-        "title": "June Trengereid Gruer",
-        "url": "https://snl.no/June_Trengereid_Gruer"
+        "category": "Kringkastingsledere",
+        "title": "Thor Gjermund Eriksen",
+        "url": "https://snl.no/Thor_Gjermund_Eriksen"
       },
       {
-        "category": "Data- og informasjonssikkerhet",
-        "title": "tjenestenektangrep",
-        "url": "https://snl.no/tjenestenektangrep"
+        "category": "Norske diplomater",
+        "title": "Heidi Olufsen",
+        "url": "https://snl.no/Heidi_Olufsen"
       },
       {
-        "category": "Folkevandringstid og folkestammer",
-        "title": "gotere",
-        "url": "https://snl.no/gotere"
+        "category": "Biografier i forlagsbransjen",
+        "title": "William Nygaard",
+        "url": "https://snl.no/William_Nygaard"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Konseptkunst og postkonseptualisme",
-        "title": "fluxus",
-        "url": "https://snl.no/fluxus"
+        "category": "Kvinnebevegelsen i Norge",
+        "title": "Margarete Bonnevie",
+        "url": "https://snl.no/Margarete_Bonnevie"
       },
       {
-        "category": "Nautiske og maritime begrep",
-        "title": "havn",
-        "url": "https://snl.no/havn"
+        "category": "Internasjonale dirigenter",
+        "title": "Eleazar de Carvalho",
+        "url": "https://snl.no/Eleazar_de_Carvalho"
       },
       {
-        "category": "Ekspresjonisme og fauvisme",
-        "title": "Axel Törneman",
-        "url": "https://snl.no/Axel_T%C3%B6rneman"
+        "category": "Polare ekspedisjoner og oppdagere",
+        "title": "Richard Chancellor",
+        "url": "https://snl.no/Richard_Chancellor"
       },
       {
-        "category": "Kenyas samtidshistorie",
-        "title": "Kenyas utenrikspolitikk",
-        "url": "https://snl.no/Kenyas_utenrikspolitikk"
+        "category": "Personer, bedrifter og organisasjoner innen romvirksomhet",
+        "title": "Robert Hutchings Goddard",
+        "url": "https://snl.no/Robert_Hutchings_Goddard"
       },
       {
-        "category": "Tidligere aviser på Østlandet",
-        "title": "Bygdenes Blad",
-        "url": "https://snl.no/Bygdenes_Blad"
+        "category": "Folkemusikk",
+        "title": "Kåre Korneliussen",
+        "url": "https://snl.no/K%C3%A5re_Korneliussen"
       }
     ]
   }

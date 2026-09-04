@@ -8879,5 +8879,88 @@
         "url": "https://snl.no/Bygdenes_Blad"
       }
     ]
+  },
+  "2026-09-04": {
+    "Mest lest i går": [
+      {
+        "category": "Kongehuset",
+        "title": "Harald 5.",
+        "url": "https://snl.no/Harald_5."
+      },
+      {
+        "category": "Den norske kongerekka",
+        "title": "monarker i Norge – kongerekken",
+        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
+      },
+      {
+        "category": "Europa på 1900-tallet",
+        "title": "borgfred",
+        "url": "https://snl.no/borgfred"
+      },
+      {
+        "category": "Nasjonalsanger",
+        "title": "Kongesangen",
+        "url": "https://snl.no/Kongesangen"
+      },
+      {
+        "category": "Kongehuset",
+        "title": "Märtha – kronprinsesse",
+        "url": "https://snl.no/M%C3%A4rtha_-_kronprinsesse"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Stiftelser og fond",
+        "title": "Amediastiftelsen",
+        "url": "https://snl.no/Amediastiftelsen"
+      },
+      {
+        "category": "Mediekonsern",
+        "title": "Amedia",
+        "url": "https://snl.no/Amedia"
+      },
+      {
+        "category": "Kringkastingsledere",
+        "title": "Thor Gjermund Eriksen",
+        "url": "https://snl.no/Thor_Gjermund_Eriksen"
+      },
+      {
+        "category": "Norske diplomater",
+        "title": "Heidi Olufsen",
+        "url": "https://snl.no/Heidi_Olufsen"
+      },
+      {
+        "category": "Biografier i forlagsbransjen",
+        "title": "William Nygaard",
+        "url": "https://snl.no/William_Nygaard"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Kvinnebevegelsen i Norge",
+        "title": "Margarete Bonnevie",
+        "url": "https://snl.no/Margarete_Bonnevie"
+      },
+      {
+        "category": "Internasjonale dirigenter",
+        "title": "Eleazar de Carvalho",
+        "url": "https://snl.no/Eleazar_de_Carvalho"
+      },
+      {
+        "category": "Polare ekspedisjoner og oppdagere",
+        "title": "Richard Chancellor",
+        "url": "https://snl.no/Richard_Chancellor"
+      },
+      {
+        "category": "Personer, bedrifter og organisasjoner innen romvirksomhet",
+        "title": "Robert Hutchings Goddard",
+        "url": "https://snl.no/Robert_Hutchings_Goddard"
+      },
+      {
+        "category": "Folkemusikk",
+        "title": "Kåre Korneliussen",
+        "url": "https://snl.no/K%C3%A5re_Korneliussen"
+      }
+    ]
   }
 }
