@@ -8962,5 +8962,88 @@
         "url": "https://snl.no/K%C3%A5re_Korneliussen"
       }
     ]
+  },
+  "2026-09-05": {
+    "Mest lest i går": [
+      {
+        "category": "Falklandsøyene, Sør-Georgia og Sør-Sandwichøyene",
+        "title": "Falklandsøyene",
+        "url": "https://snl.no/Falklands%C3%B8yene"
+      },
+      {
+        "category": "Kongehuset",
+        "title": "Harald 5.",
+        "url": "https://snl.no/Harald_5."
+      },
+      {
+        "category": "Skulpturer og relieffer",
+        "title": "sarkofag",
+        "url": "https://snl.no/sarkofag"
+      },
+      {
+        "category": "Den norske kongerekka",
+        "title": "monarker i Norge – kongerekken",
+        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
+      },
+      {
+        "category": "Militærvesen",
+        "title": "defilering",
+        "url": "https://snl.no/defilering"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Piggfinnefisker",
+        "title": "seilfisker",
+        "url": "https://snl.no/seilfisker"
+      },
+      {
+        "category": "Alpint",
+        "title": "Astrid Lødemel",
+        "url": "https://snl.no/Astrid_L%C3%B8demel"
+      },
+      {
+        "category": "Genetiske sykdommer og syndromer",
+        "title": "nevrofibromatose",
+        "url": "https://sml.snl.no/nevrofibromatose"
+      },
+      {
+        "category": "Motstandskampen i Norge",
+        "title": "Eva Kløvstad",
+        "url": "https://snl.no/Eva_Kl%C3%B8vstad"
+      },
+      {
+        "category": "Genetiske sykdommer og syndromer",
+        "title": "nevrofibromatose type 1",
+        "url": "https://sml.snl.no/nevrofibromatose_type_1"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Stavkirker",
+        "title": "Kaupanger stavkirke",
+        "url": "https://snl.no/Kaupanger_stavkirke"
+      },
+      {
+        "category": "Databaseteknologi",
+        "title": "transaksjon – i databaser",
+        "url": "https://snl.no/transaksjon_-_i_databaser"
+      },
+      {
+        "category": "Genetikk",
+        "title": "metagenom",
+        "url": "https://snl.no/metagenom"
+      },
+      {
+        "category": "Saudi-Arabias samtidshistorie",
+        "title": "Saudi-Arabias utenrikspolitikk",
+        "url": "https://snl.no/Saudi-Arabias_utenrikspolitikk"
+      },
+      {
+        "category": "Fotohistoriske biografier",
+        "title": "Sam Haskins",
+        "url": "https://snl.no/Sam_Haskins"
+      }
+    ]
   }
 }
