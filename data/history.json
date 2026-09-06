@@ -9045,5 +9045,88 @@
         "url": "https://snl.no/Sam_Haskins"
       }
     ]
+  },
+  "2026-09-06": {
+    "Mest lest i går": [
+      {
+        "category": "Militærvesen",
+        "title": "defilering",
+        "url": "https://snl.no/defilering"
+      },
+      {
+        "category": "Den norske kongerekka",
+        "title": "monarker i Norge – kongerekken",
+        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
+      },
+      {
+        "category": "Skulpturer og relieffer",
+        "title": "sarkofag",
+        "url": "https://snl.no/sarkofag"
+      },
+      {
+        "category": "Nasjonalsanger",
+        "title": "Kongesangen",
+        "url": "https://snl.no/Kongesangen"
+      },
+      {
+        "category": "Kongehuset",
+        "title": "Märtha – kronprinsesse",
+        "url": "https://snl.no/M%C3%A4rtha_-_kronprinsesse"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Havrett",
+        "title": "Gråsoneavtalen",
+        "url": "https://snl.no/Gr%C3%A5soneavtalen"
+      },
+      {
+        "category": "Piggfinnefisker",
+        "title": "seilfisker",
+        "url": "https://snl.no/seilfisker"
+      },
+      {
+        "category": "Alpint",
+        "title": "Astrid Lødemel",
+        "url": "https://snl.no/Astrid_L%C3%B8demel"
+      },
+      {
+        "category": "Løp",
+        "title": "Jarmila Kratochvílová",
+        "url": "https://snl.no/Jarmila_Kratochv%C3%ADlov%C3%A1"
+      },
+      {
+        "category": "Anatomi",
+        "title": "balsamering",
+        "url": "https://sml.snl.no/balsamering"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Nord-Amerikanske jazzutøvere og -ensembler, 1980 til i dag",
+        "title": "Robert Glasper",
+        "url": "https://snl.no/Robert_Glasper"
+      },
+      {
+        "category": "Svalbard",
+        "title": "Næringsliv på Svalbard",
+        "url": "https://snl.no/N%C3%A6ringsliv_p%C3%A5_Svalbard"
+      },
+      {
+        "category": "Estlands samtidshistorie",
+        "title": "Medier i Estland",
+        "url": "https://snl.no/Medier_i_Estland"
+      },
+      {
+        "category": "Genetikk",
+        "title": "metagenom",
+        "url": "https://snl.no/metagenom"
+      },
+      {
+        "category": "Historiske religioner",
+        "title": "jomfrugudinner",
+        "url": "https://snl.no/jomfrugudinner"
+      }
+    ]
   }
 }
