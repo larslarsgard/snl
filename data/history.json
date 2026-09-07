@@ -9128,5 +9128,88 @@
         "url": "https://snl.no/jomfrugudinner"
       }
     ]
+  },
+  "2026-09-07": {
+    "Mest lest i går": [
+      {
+        "category": "Militærvesen",
+        "title": "defilering",
+        "url": "https://snl.no/defilering"
+      },
+      {
+        "category": "Den norske kongerekka",
+        "title": "monarker i Norge – kongerekken",
+        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
+      },
+      {
+        "category": "Delstater og kommuner i Tyskland",
+        "title": "Sachsen-Anhalt",
+        "url": "https://snl.no/Sachsen-Anhalt"
+      },
+      {
+        "category": "Kongehuset",
+        "title": "Märtha – kronprinsesse",
+        "url": "https://snl.no/M%C3%A4rtha_-_kronprinsesse"
+      },
+      {
+        "category": "Skulpturer og relieffer",
+        "title": "sarkofag",
+        "url": "https://snl.no/sarkofag"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Magmatiske bergarter",
+        "title": "putelava",
+        "url": "https://snl.no/putelava"
+      },
+      {
+        "category": "Havrett",
+        "title": "Gråsoneavtalen",
+        "url": "https://snl.no/Gr%C3%A5soneavtalen"
+      },
+      {
+        "category": "Tysklands samtidshistorie",
+        "title": "Alternative für Deutschland",
+        "url": "https://snl.no/Alternative_f%C3%BCr_Deutschland"
+      },
+      {
+        "category": "Norske skuespillere",
+        "title": "Liv Ullmann",
+        "url": "https://snl.no/Liv_Ullmann"
+      },
+      {
+        "category": "Piggfinnefisker",
+        "title": "seilfisker",
+        "url": "https://snl.no/seilfisker"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Konseptkunst og postkonseptualisme",
+        "title": "fluxus",
+        "url": "https://snl.no/fluxus"
+      },
+      {
+        "category": "Biografier medisinsk historie",
+        "title": "Maria Christensdatter Nubsen",
+        "url": "https://snl.no/Maria_Christensdatter_Nubsen"
+      },
+      {
+        "category": "Stavkirker",
+        "title": "Uvdal stavkirke",
+        "url": "https://snl.no/Uvdal_stavkirke"
+      },
+      {
+        "category": "Det gamle Egypt",
+        "title": "Tausret",
+        "url": "https://snl.no/Tausret"
+      },
+      {
+        "category": "Ulike lands teatertradisjoner",
+        "title": "Teater i Tanzania",
+        "url": "https://snl.no/Teater_i_Tanzania"
+      }
+    ]
   }
 }

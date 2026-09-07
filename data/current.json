@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "categories": {
     "Mest lest i går": [
       {
@@ -13,73 +13,73 @@
         "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
       },
       {
-        "category": "Skulpturer og relieffer",
-        "title": "sarkofag",
-        "url": "https://snl.no/sarkofag"
-      },
-      {
-        "category": "Nasjonalsanger",
-        "title": "Kongesangen",
-        "url": "https://snl.no/Kongesangen"
+        "category": "Delstater og kommuner i Tyskland",
+        "title": "Sachsen-Anhalt",
+        "url": "https://snl.no/Sachsen-Anhalt"
       },
       {
         "category": "Kongehuset",
         "title": "Märtha – kronprinsesse",
         "url": "https://snl.no/M%C3%A4rtha_-_kronprinsesse"
+      },
+      {
+        "category": "Skulpturer og relieffer",
+        "title": "sarkofag",
+        "url": "https://snl.no/sarkofag"
       }
     ],
     "Uvanlig mye lest": [
+      {
+        "category": "Magmatiske bergarter",
+        "title": "putelava",
+        "url": "https://snl.no/putelava"
+      },
       {
         "category": "Havrett",
         "title": "Gråsoneavtalen",
         "url": "https://snl.no/Gr%C3%A5soneavtalen"
       },
       {
+        "category": "Tysklands samtidshistorie",
+        "title": "Alternative für Deutschland",
+        "url": "https://snl.no/Alternative_f%C3%BCr_Deutschland"
+      },
+      {
+        "category": "Norske skuespillere",
+        "title": "Liv Ullmann",
+        "url": "https://snl.no/Liv_Ullmann"
+      },
+      {
         "category": "Piggfinnefisker",
         "title": "seilfisker",
         "url": "https://snl.no/seilfisker"
-      },
-      {
-        "category": "Alpint",
-        "title": "Astrid Lødemel",
-        "url": "https://snl.no/Astrid_L%C3%B8demel"
-      },
-      {
-        "category": "Løp",
-        "title": "Jarmila Kratochvílová",
-        "url": "https://snl.no/Jarmila_Kratochv%C3%ADlov%C3%A1"
-      },
-      {
-        "category": "Anatomi",
-        "title": "balsamering",
-        "url": "https://sml.snl.no/balsamering"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Nord-Amerikanske jazzutøvere og -ensembler, 1980 til i dag",
-        "title": "Robert Glasper",
-        "url": "https://snl.no/Robert_Glasper"
+        "category": "Konseptkunst og postkonseptualisme",
+        "title": "fluxus",
+        "url": "https://snl.no/fluxus"
       },
       {
-        "category": "Svalbard",
-        "title": "Næringsliv på Svalbard",
-        "url": "https://snl.no/N%C3%A6ringsliv_p%C3%A5_Svalbard"
+        "category": "Biografier medisinsk historie",
+        "title": "Maria Christensdatter Nubsen",
+        "url": "https://snl.no/Maria_Christensdatter_Nubsen"
       },
       {
-        "category": "Estlands samtidshistorie",
-        "title": "Medier i Estland",
-        "url": "https://snl.no/Medier_i_Estland"
+        "category": "Stavkirker",
+        "title": "Uvdal stavkirke",
+        "url": "https://snl.no/Uvdal_stavkirke"
       },
       {
-        "category": "Genetikk",
-        "title": "metagenom",
-        "url": "https://snl.no/metagenom"
+        "category": "Det gamle Egypt",
+        "title": "Tausret",
+        "url": "https://snl.no/Tausret"
       },
       {
-        "category": "Historiske religioner",
-        "title": "jomfrugudinner",
-        "url": "https://snl.no/jomfrugudinner"
+        "category": "Ulike lands teatertradisjoner",
+        "title": "Teater i Tanzania",
+        "url": "https://snl.no/Teater_i_Tanzania"
       }
     ]
   }
