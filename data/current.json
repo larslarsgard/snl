@@ -1,11 +1,21 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Militærvesen",
-        "title": "defilering",
-        "url": "https://snl.no/defilering"
+        "category": "Tysklands samtidshistorie",
+        "title": "Alternative für Deutschland",
+        "url": "https://snl.no/Alternative_f%C3%BCr_Deutschland"
+      },
+      {
+        "category": "Klimasystemet",
+        "title": "El Niño",
+        "url": "https://snl.no/El_Ni%C3%B1o"
+      },
+      {
+        "category": "Kongehuset",
+        "title": "Harald 5.",
+        "url": "https://snl.no/Harald_5."
       },
       {
         "category": "Den norske kongerekka",
@@ -13,73 +23,63 @@
         "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
       },
       {
-        "category": "Delstater og kommuner i Tyskland",
+        "category": "Tyske delstater",
         "title": "Sachsen-Anhalt",
         "url": "https://snl.no/Sachsen-Anhalt"
-      },
-      {
-        "category": "Kongehuset",
-        "title": "Märtha – kronprinsesse",
-        "url": "https://snl.no/M%C3%A4rtha_-_kronprinsesse"
-      },
-      {
-        "category": "Skulpturer og relieffer",
-        "title": "sarkofag",
-        "url": "https://snl.no/sarkofag"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Magmatiske bergarter",
-        "title": "putelava",
-        "url": "https://snl.no/putelava"
+        "category": "Embets- og tjenestepersoner",
+        "title": "Hjalmar Inge Sunde",
+        "url": "https://snl.no/Hjalmar_Inge_Sunde"
       },
       {
-        "category": "Havrett",
-        "title": "Gråsoneavtalen",
-        "url": "https://snl.no/Gr%C3%A5soneavtalen"
+        "category": "Gravferd",
+        "title": "ett minutts stillhet",
+        "url": "https://snl.no/ett_minutts_stillhet"
       },
       {
-        "category": "Tysklands samtidshistorie",
-        "title": "Alternative für Deutschland",
-        "url": "https://snl.no/Alternative_f%C3%BCr_Deutschland"
+        "category": "Militære grader og funksjoner",
+        "title": "brigader",
+        "url": "https://snl.no/brigader"
       },
       {
-        "category": "Norske skuespillere",
-        "title": "Liv Ullmann",
-        "url": "https://snl.no/Liv_Ullmann"
+        "category": "Nyere norsk litteratur",
+        "title": "Torgrim Eggen",
+        "url": "https://snl.no/Torgrim_Eggen"
       },
       {
-        "category": "Piggfinnefisker",
-        "title": "seilfisker",
-        "url": "https://snl.no/seilfisker"
+        "category": "Regler og begreper i fotball",
+        "title": "VAR – videodømming",
+        "url": "https://snl.no/VAR_-_videod%C3%B8mming"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Konseptkunst og postkonseptualisme",
-        "title": "fluxus",
-        "url": "https://snl.no/fluxus"
+        "category": "Internasjonal samtidsmusikk",
+        "title": "Hans Abrahamsen",
+        "url": "https://snl.no/Hans_Abrahamsen"
       },
       {
-        "category": "Biografier medisinsk historie",
-        "title": "Maria Christensdatter Nubsen",
-        "url": "https://snl.no/Maria_Christensdatter_Nubsen"
+        "category": "Bilhistoriske biografier",
+        "title": "Hans Hagerup Krag",
+        "url": "https://snl.no/Hans_Hagerup_Krag"
       },
       {
-        "category": "Stavkirker",
-        "title": "Uvdal stavkirke",
-        "url": "https://snl.no/Uvdal_stavkirke"
+        "category": "Internasjonale klassiske komponister og verker 1950–2000",
+        "title": "Karlheinz Stockhausen",
+        "url": "https://snl.no/Karlheinz_Stockhausen"
       },
       {
-        "category": "Det gamle Egypt",
-        "title": "Tausret",
-        "url": "https://snl.no/Tausret"
+        "category": "Jentenavn",
+        "title": "Gunnvor – kvinnenamn",
+        "url": "https://snl.no/Gunnvor_-_kvinnenamn"
       },
       {
-        "category": "Ulike lands teatertradisjoner",
-        "title": "Teater i Tanzania",
-        "url": "https://snl.no/Teater_i_Tanzania"
+        "category": "Tidligere aviser i Nord-Norge",
+        "title": "Tromsøposten",
+        "url": "https://snl.no/Troms%C3%B8posten"
       }
     ]
   }
