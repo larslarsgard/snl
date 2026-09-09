@@ -1,16 +1,16 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Tysklands samtidshistorie",
-        "title": "Alternative für Deutschland",
-        "url": "https://snl.no/Alternative_f%C3%BCr_Deutschland"
+        "category": "Den norske kongerekka",
+        "title": "monarker i Norge – kongerekken",
+        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
       },
       {
-        "category": "Klimasystemet",
-        "title": "El Niño",
-        "url": "https://snl.no/El_Ni%C3%B1o"
+        "category": "Norsk pop og rock",
+        "title": "Rolf Løvland",
+        "url": "https://snl.no/Rolf_L%C3%B8vland"
       },
       {
         "category": "Kongehuset",
@@ -18,21 +18,26 @@
         "url": "https://snl.no/Harald_5."
       },
       {
-        "category": "Den norske kongerekka",
-        "title": "monarker i Norge – kongerekken",
-        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
+        "category": "Nasjonalsanger",
+        "title": "Kongesangen",
+        "url": "https://snl.no/Kongesangen"
       },
       {
-        "category": "Tyske delstater",
-        "title": "Sachsen-Anhalt",
-        "url": "https://snl.no/Sachsen-Anhalt"
+        "category": "Militærvesen",
+        "title": "defilering",
+        "url": "https://snl.no/defilering"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Embets- og tjenestepersoner",
-        "title": "Hjalmar Inge Sunde",
-        "url": "https://snl.no/Hjalmar_Inge_Sunde"
+        "category": "Utdanningsevaluering",
+        "title": "PISA – internasjonal skoletest",
+        "url": "https://snl.no/PISA_-_internasjonal_skoletest"
+      },
+      {
+        "category": "Delstater og områder i USA",
+        "title": "Alabama – delstat i USA",
+        "url": "https://snl.no/Alabama_-_delstat_i_USA"
       },
       {
         "category": "Gravferd",
@@ -40,46 +45,41 @@
         "url": "https://snl.no/ett_minutts_stillhet"
       },
       {
-        "category": "Militære grader og funksjoner",
-        "title": "brigader",
-        "url": "https://snl.no/brigader"
+        "category": "Indonesias geografi",
+        "title": "Krakatau",
+        "url": "https://snl.no/Krakatau"
       },
       {
-        "category": "Nyere norsk litteratur",
-        "title": "Torgrim Eggen",
-        "url": "https://snl.no/Torgrim_Eggen"
-      },
-      {
-        "category": "Regler og begreper i fotball",
-        "title": "VAR – videodømming",
-        "url": "https://snl.no/VAR_-_videod%C3%B8mming"
+        "category": "Kvinnebevegelsen i Norge",
+        "title": "Fernanda Nissen",
+        "url": "https://snl.no/Fernanda_Nissen"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Internasjonal samtidsmusikk",
-        "title": "Hans Abrahamsen",
-        "url": "https://snl.no/Hans_Abrahamsen"
+        "category": "Internasjonale tegnekunstnere",
+        "title": "Fritz von Dardel",
+        "url": "https://snl.no/Fritz_von_Dardel"
       },
       {
-        "category": "Bilhistoriske biografier",
-        "title": "Hans Hagerup Krag",
-        "url": "https://snl.no/Hans_Hagerup_Krag"
+        "category": "Stavkirker",
+        "title": "Hedalen stavkirke",
+        "url": "https://snl.no/Hedalen_stavkirke"
       },
       {
-        "category": "Internasjonale klassiske komponister og verker 1950–2000",
-        "title": "Karlheinz Stockhausen",
-        "url": "https://snl.no/Karlheinz_Stockhausen"
+        "category": "Biografier i nyere norsk historie",
+        "title": "Finn Lied",
+        "url": "https://snl.no/Finn_Lied"
       },
       {
-        "category": "Jentenavn",
-        "title": "Gunnvor – kvinnenamn",
-        "url": "https://snl.no/Gunnvor_-_kvinnenamn"
+        "category": "Serbia og det gamle Jugoslavias litteratur",
+        "title": "Branko Radičević",
+        "url": "https://snl.no/Branko_Radi%C4%8Devi%C4%87"
       },
       {
-        "category": "Tidligere aviser i Nord-Norge",
-        "title": "Tromsøposten",
-        "url": "https://snl.no/Troms%C3%B8posten"
+        "category": "Amerikansk politikk",
+        "title": "Lloyd Austin",
+        "url": "https://snl.no/Lloyd_Austin"
       }
     ]
   }
