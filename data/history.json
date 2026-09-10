@@ -9377,5 +9377,88 @@
         "url": "https://snl.no/Lloyd_Austin"
       }
     ]
+  },
+  "2026-09-10": {
+    "Mest lest i går": [
+      {
+        "category": "Den norske kongerekka",
+        "title": "monarker i Norge – kongerekken",
+        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
+      },
+      {
+        "category": "Regalier",
+        "title": "kongekrona",
+        "url": "https://snl.no/kongekrona"
+      },
+      {
+        "category": "Regalier",
+        "title": "dronningkrona",
+        "url": "https://snl.no/dronningkrona"
+      },
+      {
+        "category": "Regalier",
+        "title": "arvefyrstekrona",
+        "url": "https://snl.no/arvefyrstekrona"
+      },
+      {
+        "category": "Kongehuset",
+        "title": "Harald 5.",
+        "url": "https://snl.no/Harald_5."
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Tegneserier",
+        "title": "Karine Haaland",
+        "url": "https://snl.no/Karine_Haaland"
+      },
+      {
+        "category": "Norsk pop og rock",
+        "title": "Tuva Syvertsen",
+        "url": "https://snl.no/Tuva_Syvertsen"
+      },
+      {
+        "category": "Biografier i Den norske kirke",
+        "title": "Sunniva Gylver",
+        "url": "https://snl.no/Sunniva_Gylver"
+      },
+      {
+        "category": "Militære grader og funksjoner",
+        "title": "brigader",
+        "url": "https://snl.no/brigader"
+      },
+      {
+        "category": "Norske klassiske komponister og verker 1900–1950",
+        "title": "Ole Olsen – komponist",
+        "url": "https://snl.no/Ole_Olsen_-_komponist"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Organisasjoner og observatorier innen astronomi",
+        "title": "Nordisk Optisk Teleskop",
+        "url": "https://snl.no/Nordisk_Optisk_Teleskop"
+      },
+      {
+        "category": "Europeiske filmskapere",
+        "title": "Jean Renoir",
+        "url": "https://snl.no/Jean_Renoir"
+      },
+      {
+        "category": "Kraftselskaper og kraftverk",
+        "title": "Tysso I kraftverk – Kraftmuseet",
+        "url": "https://snl.no/Tysso_I_kraftverk_-_Kraftmuseet"
+      },
+      {
+        "category": "Qatars samtidshistorie",
+        "title": "Qatars samtidshistorie",
+        "url": "https://snl.no/Qatars_samtidshistorie"
+      },
+      {
+        "category": "Amerikansk politikk",
+        "title": "Lloyd Austin",
+        "url": "https://snl.no/Lloyd_Austin"
+      }
+    ]
   }
 }
