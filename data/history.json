@@ -9460,5 +9460,88 @@
         "url": "https://snl.no/Lloyd_Austin"
       }
     ]
+  },
+  "2026-09-11": {
+    "Mest lest i går": [
+      {
+        "category": "Den norske kongerekka",
+        "title": "monarker i Norge – kongerekken",
+        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
+      },
+      {
+        "category": "Kongehuset",
+        "title": "Harald 5.",
+        "url": "https://snl.no/Harald_5."
+      },
+      {
+        "category": "USAs historie 1945–2001",
+        "title": "Terrorangrepet i USA 11. september 2001",
+        "url": "https://snl.no/Terrorangrepet_i_USA_11._september_2001"
+      },
+      {
+        "category": "Monarki",
+        "title": "kongelige gravferder – Norge",
+        "url": "https://snl.no/kongelige_gravferder_-_Norge"
+      },
+      {
+        "category": "Nasjonalsanger",
+        "title": "Kongesangen",
+        "url": "https://snl.no/Kongesangen"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Trostefamilien",
+        "title": "punersteinskvett",
+        "url": "https://snl.no/punersteinskvett"
+      },
+      {
+        "category": "Piggfinnefisker",
+        "title": "hornkvabbe",
+        "url": "https://snl.no/hornkvabbe"
+      },
+      {
+        "category": "Strafferett",
+        "title": "ungdomsstraff",
+        "url": "https://snl.no/ungdomsstraff"
+      },
+      {
+        "category": "Norske politikere",
+        "title": "Kamzy Gunaratnam",
+        "url": "https://snl.no/Kamzy_Gunaratnam"
+      },
+      {
+        "category": "Norsk pop og rock",
+        "title": "Tuva Syvertsen",
+        "url": "https://snl.no/Tuva_Syvertsen"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Mesterskap og institusjoner i friidrett",
+        "title": "Bislett stadion",
+        "url": "https://snl.no/Bislett_stadion"
+      },
+      {
+        "category": "Tsjekkias og Tsjekkoslovakias litteratur",
+        "title": "Otokar Březina",
+        "url": "https://snl.no/Otokar_B%C5%99ezina"
+      },
+      {
+        "category": "Iraks historie",
+        "title": "Iraks samtidshistorie",
+        "url": "https://snl.no/Iraks_samtidshistorie"
+      },
+      {
+        "category": "Tegneserier",
+        "title": "Jiro Taniguchi",
+        "url": "https://snl.no/Jiro_Taniguchi"
+      },
+      {
+        "category": "Norske kirkebygg",
+        "title": "Nykirke kirke – Modum",
+        "url": "https://snl.no/Nykirke_kirke_-_Modum"
+      }
+    ]
   }
 }
