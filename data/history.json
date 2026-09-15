@@ -9709,5 +9709,88 @@
         "url": "https://snl.no/FH-1_Phantom"
       }
     ]
+  },
+  "2026-09-15": {
+    "Mest lest i går": [
+      {
+        "category": "Sveriges samtidshistorie",
+        "title": "Socialdemokraterna",
+        "url": "https://snl.no/Socialdemokraterna"
+      },
+      {
+        "category": "Kongehuset",
+        "title": "Harald 5.",
+        "url": "https://snl.no/Harald_5."
+      },
+      {
+        "category": "USAs historie 1945–2001",
+        "title": "Terrorangrepet i USA 11. september 2001",
+        "url": "https://snl.no/Terrorangrepet_i_USA_11._september_2001"
+      },
+      {
+        "category": "Den franske revolusjon",
+        "title": "den franske revolusjon",
+        "url": "https://snl.no/den_franske_revolusjon"
+      },
+      {
+        "category": "Piggfinnefisker",
+        "title": "hestmakrell",
+        "url": "https://snl.no/hestmakrell"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Finans",
+        "title": "risikokapital",
+        "url": "https://snl.no/risikokapital"
+      },
+      {
+        "category": "Balaenoptera",
+        "title": "ricehval",
+        "url": "https://snl.no/ricehval"
+      },
+      {
+        "category": "Internasjonal hiphop",
+        "title": "Eminem",
+        "url": "https://snl.no/Eminem"
+      },
+      {
+        "category": "Sveriges samtidshistorie",
+        "title": "Statsministre i Sverige",
+        "url": "https://snl.no/Statsministre_i_Sverige"
+      },
+      {
+        "category": "Landmåling",
+        "title": "Struves meridianbue",
+        "url": "https://snl.no/Struves_meridianbue"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Nordnorske tradisjonsbåter",
+        "title": "den nordnorske båtreformen",
+        "url": "https://snl.no/den_nordnorske_b%C3%A5treformen"
+      },
+      {
+        "category": "Jagerfly og kampfly",
+        "title": "FH-1 Phantom",
+        "url": "https://snl.no/FH-1_Phantom"
+      },
+      {
+        "category": "Saudi-Arabias samtidshistorie",
+        "title": "Saudi-Arabias utenrikspolitikk",
+        "url": "https://snl.no/Saudi-Arabias_utenrikspolitikk"
+      },
+      {
+        "category": "Tidligere norske aviser",
+        "title": "Samleren",
+        "url": "https://snl.no/Samleren"
+      },
+      {
+        "category": "Tysklands nyere litteratur",
+        "title": "Emine Sevgi Özdamar",
+        "url": "https://snl.no/Emine_Sevgi_%C3%96zdamar"
+      }
+    ]
   }
 }

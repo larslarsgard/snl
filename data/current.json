@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "categories": {
     "Mest lest i går": [
       {
@@ -8,78 +8,78 @@
         "url": "https://snl.no/Socialdemokraterna"
       },
       {
-        "category": "Den norske kongerekka",
-        "title": "monarker i Norge – kongerekken",
-        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
+        "category": "Kongehuset",
+        "title": "Harald 5.",
+        "url": "https://snl.no/Harald_5."
       },
       {
-        "category": "Narrekantareller",
-        "title": "falsk kantarell",
-        "url": "https://snl.no/falsk_kantarell"
+        "category": "USAs historie 1945–2001",
+        "title": "Terrorangrepet i USA 11. september 2001",
+        "url": "https://snl.no/Terrorangrepet_i_USA_11._september_2001"
       },
       {
-        "category": "Vind og atmosfæriske bølger",
-        "title": "Beauforts vindskala",
-        "url": "https://snl.no/Beauforts_vindskala"
+        "category": "Den franske revolusjon",
+        "title": "den franske revolusjon",
+        "url": "https://snl.no/den_franske_revolusjon"
       },
       {
-        "category": "Nasjonalsanger",
-        "title": "Kongesangen",
-        "url": "https://snl.no/Kongesangen"
+        "category": "Piggfinnefisker",
+        "title": "hestmakrell",
+        "url": "https://snl.no/hestmakrell"
       }
     ],
     "Uvanlig mye lest": [
+      {
+        "category": "Finans",
+        "title": "risikokapital",
+        "url": "https://snl.no/risikokapital"
+      },
       {
         "category": "Balaenoptera",
         "title": "ricehval",
         "url": "https://snl.no/ricehval"
       },
       {
-        "category": "Arkeologi i Norge",
-        "title": "Hunn",
-        "url": "https://snl.no/Hunn"
-      },
-      {
-        "category": "Løp",
-        "title": "Florence Griffith-Joyner",
-        "url": "https://snl.no/Florence_Griffith-Joyner"
-      },
-      {
-        "category": "Sveriges samtidshistorie",
-        "title": "Sverigedemokraterna",
-        "url": "https://snl.no/Sverigedemokraterna"
+        "category": "Internasjonal hiphop",
+        "title": "Eminem",
+        "url": "https://snl.no/Eminem"
       },
       {
         "category": "Sveriges samtidshistorie",
         "title": "Statsministre i Sverige",
         "url": "https://snl.no/Statsministre_i_Sverige"
+      },
+      {
+        "category": "Landmåling",
+        "title": "Struves meridianbue",
+        "url": "https://snl.no/Struves_meridianbue"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Kristen misjonsvirksomhet",
-        "title": "Church Mission Society",
-        "url": "https://snl.no/Church_Mission_Society"
-      },
-      {
-        "category": "Politisk og økonomisk filosofi",
-        "title": "fredsbevegelsen",
-        "url": "https://snl.no/fredsbevegelsen"
-      },
-      {
-        "category": "Gårdsdrift",
-        "title": "onn",
-        "url": "https://snl.no/onn"
-      },
-      {
-        "category": "Nord-Amerikanske jazzutøvere og -ensembler, 1980 til i dag",
-        "title": "John Scofield",
-        "url": "https://snl.no/John_Scofield"
+        "category": "Nordnorske tradisjonsbåter",
+        "title": "den nordnorske båtreformen",
+        "url": "https://snl.no/den_nordnorske_b%C3%A5treformen"
       },
       {
         "category": "Jagerfly og kampfly",
         "title": "FH-1 Phantom",
         "url": "https://snl.no/FH-1_Phantom"
+      },
+      {
+        "category": "Saudi-Arabias samtidshistorie",
+        "title": "Saudi-Arabias utenrikspolitikk",
+        "url": "https://snl.no/Saudi-Arabias_utenrikspolitikk"
+      },
+      {
+        "category": "Tidligere norske aviser",
+        "title": "Samleren",
+        "url": "https://snl.no/Samleren"
+      },
+      {
+        "category": "Tysklands nyere litteratur",
+        "title": "Emine Sevgi Özdamar",
+        "url": "https://snl.no/Emine_Sevgi_%C3%96zdamar"
       }
     ]
   }
