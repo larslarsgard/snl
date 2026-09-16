@@ -9792,5 +9792,88 @@
         "url": "https://snl.no/Emine_Sevgi_%C3%96zdamar"
       }
     ]
+  },
+  "2026-09-16": {
+    "Mest lest i går": [
+      {
+        "category": "Biografier i antikkens filosofi",
+        "title": "Sokrates",
+        "url": "https://snl.no/Sokrates"
+      },
+      {
+        "category": "USAs historie 1945–2001",
+        "title": "Terrorangrepet i USA 11. september 2001",
+        "url": "https://snl.no/Terrorangrepet_i_USA_11._september_2001"
+      },
+      {
+        "category": "Den franske revolusjon",
+        "title": "den franske revolusjon",
+        "url": "https://snl.no/den_franske_revolusjon"
+      },
+      {
+        "category": "Kongehuset",
+        "title": "Harald 5.",
+        "url": "https://snl.no/Harald_5."
+      },
+      {
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Tekstilredskaper",
+        "title": "linbråk",
+        "url": "https://snl.no/linbr%C3%A5k"
+      },
+      {
+        "category": "Knuter, tau og spleis",
+        "title": "fiskerstikk",
+        "url": "https://snl.no/fiskerstikk"
+      },
+      {
+        "category": "Utdanningsevaluering",
+        "title": "PISA – internasjonal skoletest",
+        "url": "https://snl.no/PISA_-_internasjonal_skoletest"
+      },
+      {
+        "category": "Sedimentologi",
+        "title": "sedimentære bergarter",
+        "url": "https://snl.no/sediment%C3%A6re_bergarter"
+      },
+      {
+        "category": "Landmåling",
+        "title": "Struves meridianbue",
+        "url": "https://snl.no/Struves_meridianbue"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Marine og sjøstridskrefter",
+        "title": "flåtekonferanser",
+        "url": "https://snl.no/fl%C3%A5tekonferanser"
+      },
+      {
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "heksogen",
+        "url": "https://snl.no/heksogen"
+      },
+      {
+        "category": "Norges litteratur 1900–1960",
+        "title": "Rolf Hiorth-Schøyen",
+        "url": "https://snl.no/Rolf_Hiorth-Sch%C3%B8yen"
+      },
+      {
+        "category": "Frankrikes litteratur på 1500-tallet",
+        "title": "Louise Labé",
+        "url": "https://snl.no/Louise_Lab%C3%A9"
+      },
+      {
+        "category": "Forsvarets historie",
+        "title": "Norges forsvar etter 1991",
+        "url": "https://snl.no/Norges_forsvar_etter_1991"
+      }
+    ]
   }
 }
