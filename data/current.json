@@ -1,16 +1,11 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Biografier i antikkens filosofi",
-        "title": "Sokrates",
-        "url": "https://snl.no/Sokrates"
-      },
-      {
-        "category": "USAs historie 1945–2001",
-        "title": "Terrorangrepet i USA 11. september 2001",
-        "url": "https://snl.no/Terrorangrepet_i_USA_11._september_2001"
+        "category": "Underholdningsartister",
+        "title": "Rolv Wesenlund",
+        "url": "https://snl.no/Rolv_Wesenlund"
       },
       {
         "category": "Den franske revolusjon",
@@ -18,68 +13,73 @@
         "url": "https://snl.no/den_franske_revolusjon"
       },
       {
-        "category": "Kongehuset",
-        "title": "Harald 5.",
-        "url": "https://snl.no/Harald_5."
-      },
-      {
         "category": "Periodesystemet",
         "title": "periodesystemet",
         "url": "https://snl.no/periodesystemet"
+      },
+      {
+        "category": "Folkegrupper i Mellom-Amerika",
+        "title": "aztek",
+        "url": "https://snl.no/aztek"
+      },
+      {
+        "category": "Biografier i antikkens filosofi",
+        "title": "Sokrates",
+        "url": "https://snl.no/Sokrates"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Tekstilredskaper",
-        "title": "linbråk",
-        "url": "https://snl.no/linbr%C3%A5k"
+        "category": "Medisinsk historie",
+        "title": "hospital",
+        "url": "https://snl.no/hospital"
       },
       {
-        "category": "Knuter, tau og spleis",
-        "title": "fiskerstikk",
-        "url": "https://snl.no/fiskerstikk"
+        "category": "EU",
+        "title": "Ursula von der Leyen",
+        "url": "https://snl.no/Ursula_von_der_Leyen"
       },
       {
-        "category": "Utdanningsevaluering",
-        "title": "PISA – internasjonal skoletest",
-        "url": "https://snl.no/PISA_-_internasjonal_skoletest"
+        "category": "Tallteori",
+        "title": "kongruens – tallteori",
+        "url": "https://snl.no/kongruens_-_tallteori"
       },
       {
-        "category": "Sedimentologi",
-        "title": "sedimentære bergarter",
-        "url": "https://snl.no/sediment%C3%A6re_bergarter"
+        "category": "Frankrike på 1800-tallet",
+        "title": "Frankrikes historie (1815-1875)",
+        "url": "https://snl.no/Frankrikes_historie_(1815-1875)"
       },
       {
-        "category": "Landmåling",
-        "title": "Struves meridianbue",
-        "url": "https://snl.no/Struves_meridianbue"
+        "category": "Kriminalsaker",
+        "title": "Ole Høiland",
+        "url": "https://snl.no/Ole_H%C3%B8iland"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Marine og sjøstridskrefter",
-        "title": "flåtekonferanser",
-        "url": "https://snl.no/fl%C3%A5tekonferanser"
+        "category": "Biografier i norsk filosofihistorie",
+        "title": "Georg Vilhelm Lyng",
+        "url": "https://snl.no/Georg_Vilhelm_Lyng"
       },
       {
-        "category": "Energetiske materialer og sprengningsteknikk",
-        "title": "heksogen",
-        "url": "https://snl.no/heksogen"
+        "category": "Libanons samtidshistorie",
+        "title": "Hassan Nasrallah",
+        "url": "https://snl.no/Hassan_Nasrallah"
       },
       {
-        "category": "Norges litteratur 1900–1960",
-        "title": "Rolf Hiorth-Schøyen",
-        "url": "https://snl.no/Rolf_Hiorth-Sch%C3%B8yen"
+        "category": "Slovenias litteratur",
+        "title": "Francè Prešeren",
+        "url": "https://snl.no/Franc%C3%A8_Pre%C5%A1eren"
       },
       {
-        "category": "Frankrikes litteratur på 1500-tallet",
-        "title": "Louise Labé",
-        "url": "https://snl.no/Louise_Lab%C3%A9"
+        "category": "Romersk arkitektur",
+        "title": "Romas arkitekturhistorie",
+        "url": "https://snl.no/Romas_arkitekturhistorie"
       },
       {
-        "category": "Forsvarets historie",
-        "title": "Norges forsvar etter 1991",
-        "url": "https://snl.no/Norges_forsvar_etter_1991"
+        "category": "Tidligere aviser i Trøndelag",
+        "title": "Thrønderen",
+        "url": "https://snl.no/Thr%C3%B8nderen"
       }
     ]
   }

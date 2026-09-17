@@ -9875,5 +9875,88 @@
         "url": "https://snl.no/Norges_forsvar_etter_1991"
       }
     ]
+  },
+  "2026-09-17": {
+    "Mest lest i går": [
+      {
+        "category": "Underholdningsartister",
+        "title": "Rolv Wesenlund",
+        "url": "https://snl.no/Rolv_Wesenlund"
+      },
+      {
+        "category": "Den franske revolusjon",
+        "title": "den franske revolusjon",
+        "url": "https://snl.no/den_franske_revolusjon"
+      },
+      {
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
+      },
+      {
+        "category": "Folkegrupper i Mellom-Amerika",
+        "title": "aztek",
+        "url": "https://snl.no/aztek"
+      },
+      {
+        "category": "Biografier i antikkens filosofi",
+        "title": "Sokrates",
+        "url": "https://snl.no/Sokrates"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Medisinsk historie",
+        "title": "hospital",
+        "url": "https://snl.no/hospital"
+      },
+      {
+        "category": "EU",
+        "title": "Ursula von der Leyen",
+        "url": "https://snl.no/Ursula_von_der_Leyen"
+      },
+      {
+        "category": "Tallteori",
+        "title": "kongruens – tallteori",
+        "url": "https://snl.no/kongruens_-_tallteori"
+      },
+      {
+        "category": "Frankrike på 1800-tallet",
+        "title": "Frankrikes historie (1815-1875)",
+        "url": "https://snl.no/Frankrikes_historie_(1815-1875)"
+      },
+      {
+        "category": "Kriminalsaker",
+        "title": "Ole Høiland",
+        "url": "https://snl.no/Ole_H%C3%B8iland"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Biografier i norsk filosofihistorie",
+        "title": "Georg Vilhelm Lyng",
+        "url": "https://snl.no/Georg_Vilhelm_Lyng"
+      },
+      {
+        "category": "Libanons samtidshistorie",
+        "title": "Hassan Nasrallah",
+        "url": "https://snl.no/Hassan_Nasrallah"
+      },
+      {
+        "category": "Slovenias litteratur",
+        "title": "Francè Prešeren",
+        "url": "https://snl.no/Franc%C3%A8_Pre%C5%A1eren"
+      },
+      {
+        "category": "Romersk arkitektur",
+        "title": "Romas arkitekturhistorie",
+        "url": "https://snl.no/Romas_arkitekturhistorie"
+      },
+      {
+        "category": "Tidligere aviser i Trøndelag",
+        "title": "Thrønderen",
+        "url": "https://snl.no/Thr%C3%B8nderen"
+      }
+    ]
   }
 }
