@@ -9958,5 +9958,88 @@
         "url": "https://snl.no/Thr%C3%B8nderen"
       }
     ]
+  },
+  "2026-09-18": {
+    "Mest lest i går": [
+      {
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
+      },
+      {
+        "category": "Den franske revolusjon",
+        "title": "den franske revolusjon",
+        "url": "https://snl.no/den_franske_revolusjon"
+      },
+      {
+        "category": "USAs historie 1945–2001",
+        "title": "Terrorangrepet i USA 11. september 2001",
+        "url": "https://snl.no/Terrorangrepet_i_USA_11._september_2001"
+      },
+      {
+        "category": "Sveriges samtidshistorie",
+        "title": "Socialdemokraterna",
+        "url": "https://snl.no/Socialdemokraterna"
+      },
+      {
+        "category": "Hinduisme",
+        "title": "hinduisme",
+        "url": "https://snl.no/hinduisme"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Underholdningsartister",
+        "title": "Rolv Wesenlund",
+        "url": "https://snl.no/Rolv_Wesenlund"
+      },
+      {
+        "category": "Sveriges samtidshistorie",
+        "title": "Statsministre i Sverige",
+        "url": "https://snl.no/Statsministre_i_Sverige"
+      },
+      {
+        "category": "Medisinsk etikk",
+        "title": "de fire prinsipper",
+        "url": "https://sml.snl.no/de_fire_prinsipper"
+      },
+      {
+        "category": "Eksistensialisme",
+        "title": "nihilisme",
+        "url": "https://snl.no/nihilisme"
+      },
+      {
+        "category": "Indias historie",
+        "title": "Mahatma Gandhi",
+        "url": "https://snl.no/Mahatma_Gandhi"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Glasskunstnere og keramikere",
+        "title": "Peter Hoffnagel",
+        "url": "https://snl.no/Peter_Hoffnagel"
+      },
+      {
+        "category": "Tysklands nyere litteratur",
+        "title": "Andreas Steinhöfel",
+        "url": "https://snl.no/Andreas_Steinh%C3%B6fel"
+      },
+      {
+        "category": "Kartografi",
+        "title": "kompassrose",
+        "url": "https://snl.no/kompassrose"
+      },
+      {
+        "category": "Samfunnsgeografiske prosesser",
+        "title": "energifattigdom",
+        "url": "https://snl.no/energifattigdom"
+      },
+      {
+        "category": "Menneskerettigheter",
+        "title": "NIM-loven",
+        "url": "https://snl.no/NIM-loven"
+      }
+    ]
   }
 }

@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Underholdningsartister",
-        "title": "Rolv Wesenlund",
-        "url": "https://snl.no/Rolv_Wesenlund"
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
       },
       {
         "category": "Den franske revolusjon",
@@ -13,73 +13,73 @@
         "url": "https://snl.no/den_franske_revolusjon"
       },
       {
-        "category": "Periodesystemet",
-        "title": "periodesystemet",
-        "url": "https://snl.no/periodesystemet"
+        "category": "USAs historie 1945–2001",
+        "title": "Terrorangrepet i USA 11. september 2001",
+        "url": "https://snl.no/Terrorangrepet_i_USA_11._september_2001"
       },
       {
-        "category": "Folkegrupper i Mellom-Amerika",
-        "title": "aztek",
-        "url": "https://snl.no/aztek"
+        "category": "Sveriges samtidshistorie",
+        "title": "Socialdemokraterna",
+        "url": "https://snl.no/Socialdemokraterna"
       },
       {
-        "category": "Biografier i antikkens filosofi",
-        "title": "Sokrates",
-        "url": "https://snl.no/Sokrates"
+        "category": "Hinduisme",
+        "title": "hinduisme",
+        "url": "https://snl.no/hinduisme"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Medisinsk historie",
-        "title": "hospital",
-        "url": "https://snl.no/hospital"
+        "category": "Underholdningsartister",
+        "title": "Rolv Wesenlund",
+        "url": "https://snl.no/Rolv_Wesenlund"
       },
       {
-        "category": "EU",
-        "title": "Ursula von der Leyen",
-        "url": "https://snl.no/Ursula_von_der_Leyen"
+        "category": "Sveriges samtidshistorie",
+        "title": "Statsministre i Sverige",
+        "url": "https://snl.no/Statsministre_i_Sverige"
       },
       {
-        "category": "Tallteori",
-        "title": "kongruens – tallteori",
-        "url": "https://snl.no/kongruens_-_tallteori"
+        "category": "Medisinsk etikk",
+        "title": "de fire prinsipper",
+        "url": "https://sml.snl.no/de_fire_prinsipper"
       },
       {
-        "category": "Frankrike på 1800-tallet",
-        "title": "Frankrikes historie (1815-1875)",
-        "url": "https://snl.no/Frankrikes_historie_(1815-1875)"
+        "category": "Eksistensialisme",
+        "title": "nihilisme",
+        "url": "https://snl.no/nihilisme"
       },
       {
-        "category": "Kriminalsaker",
-        "title": "Ole Høiland",
-        "url": "https://snl.no/Ole_H%C3%B8iland"
+        "category": "Indias historie",
+        "title": "Mahatma Gandhi",
+        "url": "https://snl.no/Mahatma_Gandhi"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Biografier i norsk filosofihistorie",
-        "title": "Georg Vilhelm Lyng",
-        "url": "https://snl.no/Georg_Vilhelm_Lyng"
+        "category": "Glasskunstnere og keramikere",
+        "title": "Peter Hoffnagel",
+        "url": "https://snl.no/Peter_Hoffnagel"
       },
       {
-        "category": "Libanons samtidshistorie",
-        "title": "Hassan Nasrallah",
-        "url": "https://snl.no/Hassan_Nasrallah"
+        "category": "Tysklands nyere litteratur",
+        "title": "Andreas Steinhöfel",
+        "url": "https://snl.no/Andreas_Steinh%C3%B6fel"
       },
       {
-        "category": "Slovenias litteratur",
-        "title": "Francè Prešeren",
-        "url": "https://snl.no/Franc%C3%A8_Pre%C5%A1eren"
+        "category": "Kartografi",
+        "title": "kompassrose",
+        "url": "https://snl.no/kompassrose"
       },
       {
-        "category": "Romersk arkitektur",
-        "title": "Romas arkitekturhistorie",
-        "url": "https://snl.no/Romas_arkitekturhistorie"
+        "category": "Samfunnsgeografiske prosesser",
+        "title": "energifattigdom",
+        "url": "https://snl.no/energifattigdom"
       },
       {
-        "category": "Tidligere aviser i Trøndelag",
-        "title": "Thrønderen",
-        "url": "https://snl.no/Thr%C3%B8nderen"
+        "category": "Menneskerettigheter",
+        "title": "NIM-loven",
+        "url": "https://snl.no/NIM-loven"
       }
     ]
   }
