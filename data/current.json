@@ -1,16 +1,38 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
+      },
       {
         "category": "Skulpturer og relieffer",
         "title": "sarkofag",
         "url": "https://snl.no/sarkofag"
       },
       {
-        "category": "Anatomi",
-        "title": "balsamering",
-        "url": "https://sml.snl.no/balsamering"
+        "category": "Narrekantareller",
+        "title": "falsk kantarell",
+        "url": "https://snl.no/falsk_kantarell"
+      },
+      {
+        "category": "Biografier i nyere norsk historie",
+        "title": "Loveleen Rihel Brenna",
+        "url": "https://snl.no/Loveleen_Rihel_Brenna"
+      },
+      {
+        "category": "Den norske kongerekka",
+        "title": "monarker i Norge – kongerekken",
+        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Politiske begreper",
+        "title": "woke",
+        "url": "https://snl.no/woke"
       },
       {
         "category": "Norske kirkebygg",
@@ -18,68 +40,46 @@
         "url": "https://snl.no/Det_kongelige_mausoleum"
       },
       {
-        "category": "Den norske kongerekka",
-        "title": "monarker i Norge – kongerekken",
-        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
+        "category": "Anatomi",
+        "title": "balsamering",
+        "url": "https://sml.snl.no/balsamering"
       },
       {
-        "category": "Kongehuset",
-        "title": "Harald 5.",
-        "url": "https://snl.no/Harald_5."
-      }
-    ],
-    "Uvanlig mye lest": [
-      {
-        "category": "Orgel",
-        "title": "orgelpipe",
-        "url": "https://snl.no/orgelpipe"
+        "category": "Norges geografi generelt",
+        "title": "Norges største byer",
+        "url": "https://snl.no/Norges_st%C3%B8rste_byer"
       },
       {
-        "category": "Silikatmineraler",
-        "title": "olivin",
-        "url": "https://snl.no/olivin"
-      },
-      {
-        "category": "Krim i Norge",
-        "title": "Knut Faldbakken",
-        "url": "https://snl.no/Knut_Faldbakken"
-      },
-      {
-        "category": "Rytme og tempo",
-        "title": "tempo – musikk",
-        "url": "https://snl.no/tempo_-_musikk"
-      },
-      {
-        "category": "Bygning, anatomi og økologi hos sopp",
-        "title": "hekseringer",
-        "url": "https://snl.no/hekseringer"
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Malawis historie",
-        "title": "Hastings Kamuzu Banda",
-        "url": "https://snl.no/Hastings_Kamuzu_Banda"
+        "category": "Biografier i norsk teknologi- og industrihistorie",
+        "title": "Magnus Brostrup Landstad – industrileder",
+        "url": "https://snl.no/Magnus_Brostrup_Landstad_-_industrileder"
       },
       {
-        "category": "Grunnleggende begreper i musikkteori",
-        "title": "improvisasjon – musikk",
-        "url": "https://snl.no/improvisasjon_-_musikk"
+        "category": "Utenlandske aviser",
+        "title": "Nordjyske Stiftstidende",
+        "url": "https://snl.no/Nordjyske_Stiftstidende"
       },
       {
-        "category": "Internasjonalt miljøsamarbeid",
-        "title": "Det internasjonale naturpanelet – IPBES",
-        "url": "https://snl.no/Det_internasjonale_naturpanelet_-_IPBES"
+        "category": "Sol og stjerner",
+        "title": "SOHO",
+        "url": "https://snl.no/SOHO"
       },
       {
-        "category": "Interiørarkitektur",
-        "title": "Benedicte Aars-Nicolaysen",
-        "url": "https://snl.no/Benedicte_Aars-Nicolaysen"
+        "category": "Storbritannia og Nord-Irlands nyere litteratur",
+        "title": "Jojo Moyes",
+        "url": "https://snl.no/Jojo_Moyes"
       },
       {
-        "category": "Fotohistoriske biografier",
-        "title": "Gertrude Käsebier",
-        "url": "https://snl.no/Gertrude_K%C3%A4sebier"
+        "category": "Midtøstens gamle kulturer",
+        "title": "Den jødisk-romerske krig",
+        "url": "https://snl.no/Den_j%C3%B8disk-romerske_krig"
       }
     ]
   }
