@@ -1,16 +1,11 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Vind og atmosfæriske bølger",
-        "title": "Beauforts vindskala",
-        "url": "https://snl.no/Beauforts_vindskala"
-      },
-      {
-        "category": "Skulpturer og relieffer",
-        "title": "sarkofag",
-        "url": "https://snl.no/sarkofag"
+        "category": "Sykdommer i nervesystemet",
+        "title": "barnedemens",
+        "url": "https://sml.snl.no/barnedemens"
       },
       {
         "category": "Narrekantareller",
@@ -18,68 +13,73 @@
         "url": "https://snl.no/falsk_kantarell"
       },
       {
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
+      },
+      {
+        "category": "Nyere norsk litteratur",
+        "title": "Liv Køltzow",
+        "url": "https://snl.no/Liv_K%C3%B8ltzow"
+      },
+      {
         "category": "Biografier i nyere norsk historie",
         "title": "Loveleen Rihel Brenna",
         "url": "https://snl.no/Loveleen_Rihel_Brenna"
-      },
-      {
-        "category": "Den norske kongerekka",
-        "title": "monarker i Norge – kongerekken",
-        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
       }
     ],
     "Uvanlig mye lest": [
       {
+        "category": "Reggae",
+        "title": "Admiral P",
+        "url": "https://snl.no/Admiral_P"
+      },
+      {
+        "category": "Tyske delstater",
+        "title": "Mecklenburg-Vorpommern",
+        "url": "https://snl.no/Mecklenburg-Vorpommern"
+      },
+      {
+        "category": "Saint-Pierre og Miquelons geografi",
+        "title": "Saint-Pierre og Miquelon",
+        "url": "https://snl.no/Saint-Pierre_og_Miquelon"
+      },
+      {
+        "category": "Øre-, nese-, halskreft",
+        "title": "tungekreft",
+        "url": "https://sml.snl.no/tungekreft"
+      },
+      {
         "category": "Politiske begreper",
         "title": "woke",
         "url": "https://snl.no/woke"
-      },
-      {
-        "category": "Norske kirkebygg",
-        "title": "Det kongelige mausoleum",
-        "url": "https://snl.no/Det_kongelige_mausoleum"
-      },
-      {
-        "category": "Anatomi",
-        "title": "balsamering",
-        "url": "https://sml.snl.no/balsamering"
-      },
-      {
-        "category": "Norges geografi generelt",
-        "title": "Norges største byer",
-        "url": "https://snl.no/Norges_st%C3%B8rste_byer"
-      },
-      {
-        "category": "Periodesystemet",
-        "title": "periodesystemet",
-        "url": "https://snl.no/periodesystemet"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Biografier i norsk teknologi- og industrihistorie",
-        "title": "Magnus Brostrup Landstad – industrileder",
-        "url": "https://snl.no/Magnus_Brostrup_Landstad_-_industrileder"
+        "category": "Skulptur og mosaikk i renessansen og barokken",
+        "title": "Bartolomeo Buon",
+        "url": "https://snl.no/Bartolomeo_Buon"
       },
       {
-        "category": "Utenlandske aviser",
-        "title": "Nordjyske Stiftstidende",
-        "url": "https://snl.no/Nordjyske_Stiftstidende"
+        "category": "Realisme og impresjonisme",
+        "title": "Hans Heyerdahl",
+        "url": "https://snl.no/Hans_Heyerdahl"
       },
       {
-        "category": "Sol og stjerner",
-        "title": "SOHO",
-        "url": "https://snl.no/SOHO"
+        "category": "Delstater i Brasil",
+        "title": "Maranhão",
+        "url": "https://snl.no/Maranh%C3%A3o"
       },
       {
-        "category": "Storbritannia og Nord-Irlands nyere litteratur",
-        "title": "Jojo Moyes",
-        "url": "https://snl.no/Jojo_Moyes"
+        "category": "Øvrig dyresport",
+        "title": "rodeo",
+        "url": "https://snl.no/rodeo"
       },
       {
-        "category": "Midtøstens gamle kulturer",
-        "title": "Den jødisk-romerske krig",
-        "url": "https://snl.no/Den_j%C3%B8disk-romerske_krig"
+        "category": "Bombefly",
+        "title": "B-26 Marauder",
+        "url": "https://snl.no/B-26_Marauder"
       }
     ]
   }
