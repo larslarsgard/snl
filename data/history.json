@@ -10290,5 +10290,88 @@
         "url": "https://snl.no/B-26_Marauder"
       }
     ]
+  },
+  "2026-09-22": {
+    "Mest lest i går": [
+      {
+        "category": "Sykdommer i nervesystemet",
+        "title": "barnedemens",
+        "url": "https://sml.snl.no/barnedemens"
+      },
+      {
+        "category": "Den franske revolusjon",
+        "title": "den franske revolusjon",
+        "url": "https://snl.no/den_franske_revolusjon"
+      },
+      {
+        "category": "Nyresykdommer",
+        "title": "hydronefrose",
+        "url": "https://sml.snl.no/hydronefrose"
+      },
+      {
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
+      },
+      {
+        "category": "Europa i tidlig moderne tid",
+        "title": "opplysningstiden",
+        "url": "https://snl.no/opplysningstiden"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Nautiske og maritime begrep",
+        "title": "debarkere",
+        "url": "https://snl.no/debarkere"
+      },
+      {
+        "category": "Norske slekter",
+        "title": "Robsahm",
+        "url": "https://snl.no/Robsahm"
+      },
+      {
+        "category": "Norske filmregissører",
+        "title": "Thomas Robsahm",
+        "url": "https://snl.no/Thomas_Robsahm"
+      },
+      {
+        "category": "Obligasjonsrett",
+        "title": "moratorium",
+        "url": "https://snl.no/moratorium"
+      },
+      {
+        "category": "Dyrenes anatomi",
+        "title": "flanke",
+        "url": "https://snl.no/flanke"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Lydteknologi",
+        "title": "fonograf",
+        "url": "https://snl.no/fonograf"
+      },
+      {
+        "category": "Norges litteratur 1900–1960",
+        "title": "Rolf Hiorth-Schøyen",
+        "url": "https://snl.no/Rolf_Hiorth-Sch%C3%B8yen"
+      },
+      {
+        "category": "Ulike lands filmindustri",
+        "title": "Film i Mexico",
+        "url": "https://snl.no/Film_i_Mexico"
+      },
+      {
+        "category": "Skiskyting",
+        "title": "Marte Olsbu Røiseland",
+        "url": "https://snl.no/Marte_Olsbu_R%C3%B8iseland"
+      },
+      {
+        "category": "Smykkekunstnere",
+        "title": "Camilla Luihn",
+        "url": "https://snl.no/Camilla_Luihn"
+      }
+    ]
   }
 }
