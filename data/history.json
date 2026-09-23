@@ -10373,5 +10373,88 @@
         "url": "https://snl.no/Camilla_Luihn"
       }
     ]
+  },
+  "2026-09-23": {
+    "Mest lest i går": [
+      {
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
+      },
+      {
+        "category": "Biografier i antikkens filosofi",
+        "title": "Sokrates",
+        "url": "https://snl.no/Sokrates"
+      },
+      {
+        "category": "Interesseorganisasjoner",
+        "title": "SOS Rasisme",
+        "url": "https://snl.no/SOS_Rasisme"
+      },
+      {
+        "category": "Den franske revolusjon",
+        "title": "den franske revolusjon",
+        "url": "https://snl.no/den_franske_revolusjon"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Landmåling",
+        "title": "trigonometrisk punkt",
+        "url": "https://snl.no/trigonometrisk_punkt"
+      },
+      {
+        "category": "Landmåling",
+        "title": "trekantpunkt",
+        "url": "https://snl.no/trekantpunkt"
+      },
+      {
+        "category": "Den tyske okkupasjonsmakten",
+        "title": "Wilhelm Rediess",
+        "url": "https://snl.no/Wilhelm_Rediess"
+      },
+      {
+        "category": "Tidsregning",
+        "title": "høstjevndøgn",
+        "url": "https://snl.no/h%C3%B8stjevnd%C3%B8gn"
+      },
+      {
+        "category": "Nyresykdommer",
+        "title": "hydronefrose",
+        "url": "https://sml.snl.no/hydronefrose"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Biografier i Den norske kirke",
+        "title": "Jacob Kærup",
+        "url": "https://snl.no/Jacob_K%C3%A6rup"
+      },
+      {
+        "category": "Skihopping",
+        "title": "Hoppuka",
+        "url": "https://snl.no/Hoppuka"
+      },
+      {
+        "category": "Utforsking av solsystemet",
+        "title": "InSight",
+        "url": "https://snl.no/InSight"
+      },
+      {
+        "category": "Guttenavn",
+        "title": "Sigfred – mannsnamn",
+        "url": "https://snl.no/Sigfred_-_mannsnamn"
+      },
+      {
+        "category": "Norske fotografer og fotokunstnere",
+        "title": "Mette Tronvoll",
+        "url": "https://snl.no/Mette_Tronvoll"
+      }
+    ]
   }
 }

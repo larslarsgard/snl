@@ -1,11 +1,21 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Sykdommer i nervesystemet",
-        "title": "barnedemens",
-        "url": "https://sml.snl.no/barnedemens"
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
+      },
+      {
+        "category": "Biografier i antikkens filosofi",
+        "title": "Sokrates",
+        "url": "https://snl.no/Sokrates"
+      },
+      {
+        "category": "Interesseorganisasjoner",
+        "title": "SOS Rasisme",
+        "url": "https://snl.no/SOS_Rasisme"
       },
       {
         "category": "Den franske revolusjon",
@@ -13,73 +23,63 @@
         "url": "https://snl.no/den_franske_revolusjon"
       },
       {
-        "category": "Nyresykdommer",
-        "title": "hydronefrose",
-        "url": "https://sml.snl.no/hydronefrose"
-      },
-      {
-        "category": "Periodesystemet",
-        "title": "periodesystemet",
-        "url": "https://snl.no/periodesystemet"
-      },
-      {
-        "category": "Europa i tidlig moderne tid",
-        "title": "opplysningstiden",
-        "url": "https://snl.no/opplysningstiden"
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Nautiske og maritime begrep",
-        "title": "debarkere",
-        "url": "https://snl.no/debarkere"
+        "category": "Landmåling",
+        "title": "trigonometrisk punkt",
+        "url": "https://snl.no/trigonometrisk_punkt"
       },
       {
-        "category": "Norske slekter",
-        "title": "Robsahm",
-        "url": "https://snl.no/Robsahm"
+        "category": "Landmåling",
+        "title": "trekantpunkt",
+        "url": "https://snl.no/trekantpunkt"
       },
       {
-        "category": "Norske filmregissører",
-        "title": "Thomas Robsahm",
-        "url": "https://snl.no/Thomas_Robsahm"
+        "category": "Den tyske okkupasjonsmakten",
+        "title": "Wilhelm Rediess",
+        "url": "https://snl.no/Wilhelm_Rediess"
       },
       {
-        "category": "Obligasjonsrett",
-        "title": "moratorium",
-        "url": "https://snl.no/moratorium"
+        "category": "Tidsregning",
+        "title": "høstjevndøgn",
+        "url": "https://snl.no/h%C3%B8stjevnd%C3%B8gn"
       },
       {
-        "category": "Dyrenes anatomi",
-        "title": "flanke",
-        "url": "https://snl.no/flanke"
+        "category": "Nyresykdommer",
+        "title": "hydronefrose",
+        "url": "https://sml.snl.no/hydronefrose"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Lydteknologi",
-        "title": "fonograf",
-        "url": "https://snl.no/fonograf"
+        "category": "Biografier i Den norske kirke",
+        "title": "Jacob Kærup",
+        "url": "https://snl.no/Jacob_K%C3%A6rup"
       },
       {
-        "category": "Norges litteratur 1900–1960",
-        "title": "Rolf Hiorth-Schøyen",
-        "url": "https://snl.no/Rolf_Hiorth-Sch%C3%B8yen"
+        "category": "Skihopping",
+        "title": "Hoppuka",
+        "url": "https://snl.no/Hoppuka"
       },
       {
-        "category": "Ulike lands filmindustri",
-        "title": "Film i Mexico",
-        "url": "https://snl.no/Film_i_Mexico"
+        "category": "Utforsking av solsystemet",
+        "title": "InSight",
+        "url": "https://snl.no/InSight"
       },
       {
-        "category": "Skiskyting",
-        "title": "Marte Olsbu Røiseland",
-        "url": "https://snl.no/Marte_Olsbu_R%C3%B8iseland"
+        "category": "Guttenavn",
+        "title": "Sigfred – mannsnamn",
+        "url": "https://snl.no/Sigfred_-_mannsnamn"
       },
       {
-        "category": "Smykkekunstnere",
-        "title": "Camilla Luihn",
-        "url": "https://snl.no/Camilla_Luihn"
+        "category": "Norske fotografer og fotokunstnere",
+        "title": "Mette Tronvoll",
+        "url": "https://snl.no/Mette_Tronvoll"
       }
     ]
   }
