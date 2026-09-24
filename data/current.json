@@ -1,38 +1,48 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Periodesystemet",
-        "title": "periodesystemet",
-        "url": "https://snl.no/periodesystemet"
+        "category": "Fremmedord og lånord",
+        "title": "bilateral",
+        "url": "https://snl.no/bilateral"
       },
       {
-        "category": "Biografier i antikkens filosofi",
-        "title": "Sokrates",
-        "url": "https://snl.no/Sokrates"
+        "category": "Norske diplomater",
+        "title": "Mona Juul",
+        "url": "https://snl.no/Mona_Juul"
       },
       {
-        "category": "Interesseorganisasjoner",
-        "title": "SOS Rasisme",
-        "url": "https://snl.no/SOS_Rasisme"
+        "category": "Norske diplomater",
+        "title": "Terje Rød-Larsen",
+        "url": "https://snl.no/Terje_R%C3%B8d-Larsen"
       },
       {
-        "category": "Den franske revolusjon",
-        "title": "den franske revolusjon",
-        "url": "https://snl.no/den_franske_revolusjon"
+        "category": "Historiske biografier i norsk politikk",
+        "title": "Johan Martin Ferner",
+        "url": "https://snl.no/Johan_Martin_Ferner"
       },
       {
-        "category": "Første verdenskrig",
-        "title": "første verdenskrig",
-        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+        "category": "Kongehuset",
+        "title": "Astrid – norsk prinsesse",
+        "url": "https://snl.no/Astrid_-_norsk_prinsesse"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Landmåling",
-        "title": "trigonometrisk punkt",
-        "url": "https://snl.no/trigonometrisk_punkt"
+        "category": "Oslo",
+        "title": "Ris – boligstrøk i Oslo",
+        "url": "https://snl.no/Ris_-_boligstr%C3%B8k_i_Oslo"
+      },
+      {
+        "category": "Norske diplomater",
+        "title": "Geir Otto Pedersen",
+        "url": "https://snl.no/Geir_Otto_Pedersen"
+      },
+      {
+        "category": "Ordforklaringer monarki",
+        "title": "kongemor",
+        "url": "https://snl.no/kongemor"
       },
       {
         "category": "Landmåling",
@@ -40,46 +50,36 @@
         "url": "https://snl.no/trekantpunkt"
       },
       {
-        "category": "Den tyske okkupasjonsmakten",
-        "title": "Wilhelm Rediess",
-        "url": "https://snl.no/Wilhelm_Rediess"
-      },
-      {
-        "category": "Tidsregning",
-        "title": "høstjevndøgn",
-        "url": "https://snl.no/h%C3%B8stjevnd%C3%B8gn"
-      },
-      {
-        "category": "Nyresykdommer",
-        "title": "hydronefrose",
-        "url": "https://sml.snl.no/hydronefrose"
+        "category": "Midtøstens samtidshistorie",
+        "title": "Oslo-avtalen",
+        "url": "https://snl.no/Oslo-avtalen"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Biografier i Den norske kirke",
-        "title": "Jacob Kærup",
-        "url": "https://snl.no/Jacob_K%C3%A6rup"
+        "category": "Stavkirker",
+        "title": "Høyjord stavkirke",
+        "url": "https://snl.no/H%C3%B8yjord_stavkirke"
       },
       {
-        "category": "Skihopping",
-        "title": "Hoppuka",
-        "url": "https://snl.no/Hoppuka"
+        "category": "Norske klassiske komponister og verker 1900–1950",
+        "title": "Signe Lund",
+        "url": "https://snl.no/Signe_Lund"
       },
       {
-        "category": "Utforsking av solsystemet",
-        "title": "InSight",
-        "url": "https://snl.no/InSight"
+        "category": "Tysklands litteratur 1900–1950",
+        "title": "Agnes Miegel",
+        "url": "https://snl.no/Agnes_Miegel"
       },
       {
-        "category": "Guttenavn",
-        "title": "Sigfred – mannsnamn",
-        "url": "https://snl.no/Sigfred_-_mannsnamn"
+        "category": "Nord-Amerikanske jazzutøvere og -ensembler, 1980 til i dag",
+        "title": "Joshua Redman",
+        "url": "https://snl.no/Joshua_Redman"
       },
       {
-        "category": "Norske fotografer og fotokunstnere",
-        "title": "Mette Tronvoll",
-        "url": "https://snl.no/Mette_Tronvoll"
+        "category": "Tidligere aviser på Østlandet",
+        "title": "Drammens Blad",
+        "url": "https://snl.no/Drammens_Blad"
       }
     ]
   }

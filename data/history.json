@@ -10456,5 +10456,88 @@
         "url": "https://snl.no/Mette_Tronvoll"
       }
     ]
+  },
+  "2026-09-24": {
+    "Mest lest i går": [
+      {
+        "category": "Fremmedord og lånord",
+        "title": "bilateral",
+        "url": "https://snl.no/bilateral"
+      },
+      {
+        "category": "Norske diplomater",
+        "title": "Mona Juul",
+        "url": "https://snl.no/Mona_Juul"
+      },
+      {
+        "category": "Norske diplomater",
+        "title": "Terje Rød-Larsen",
+        "url": "https://snl.no/Terje_R%C3%B8d-Larsen"
+      },
+      {
+        "category": "Historiske biografier i norsk politikk",
+        "title": "Johan Martin Ferner",
+        "url": "https://snl.no/Johan_Martin_Ferner"
+      },
+      {
+        "category": "Kongehuset",
+        "title": "Astrid – norsk prinsesse",
+        "url": "https://snl.no/Astrid_-_norsk_prinsesse"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Oslo",
+        "title": "Ris – boligstrøk i Oslo",
+        "url": "https://snl.no/Ris_-_boligstr%C3%B8k_i_Oslo"
+      },
+      {
+        "category": "Norske diplomater",
+        "title": "Geir Otto Pedersen",
+        "url": "https://snl.no/Geir_Otto_Pedersen"
+      },
+      {
+        "category": "Ordforklaringer monarki",
+        "title": "kongemor",
+        "url": "https://snl.no/kongemor"
+      },
+      {
+        "category": "Landmåling",
+        "title": "trekantpunkt",
+        "url": "https://snl.no/trekantpunkt"
+      },
+      {
+        "category": "Midtøstens samtidshistorie",
+        "title": "Oslo-avtalen",
+        "url": "https://snl.no/Oslo-avtalen"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Stavkirker",
+        "title": "Høyjord stavkirke",
+        "url": "https://snl.no/H%C3%B8yjord_stavkirke"
+      },
+      {
+        "category": "Norske klassiske komponister og verker 1900–1950",
+        "title": "Signe Lund",
+        "url": "https://snl.no/Signe_Lund"
+      },
+      {
+        "category": "Tysklands litteratur 1900–1950",
+        "title": "Agnes Miegel",
+        "url": "https://snl.no/Agnes_Miegel"
+      },
+      {
+        "category": "Nord-Amerikanske jazzutøvere og -ensembler, 1980 til i dag",
+        "title": "Joshua Redman",
+        "url": "https://snl.no/Joshua_Redman"
+      },
+      {
+        "category": "Tidligere aviser på Østlandet",
+        "title": "Drammens Blad",
+        "url": "https://snl.no/Drammens_Blad"
+      }
+    ]
   }
 }
