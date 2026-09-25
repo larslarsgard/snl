@@ -1,85 +1,85 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Norsk fotball",
+        "title": "Norge i fotball-VM – menn",
+        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
+      },
       {
         "category": "Fremmedord og lånord",
         "title": "bilateral",
         "url": "https://snl.no/bilateral"
       },
       {
-        "category": "Norske diplomater",
-        "title": "Mona Juul",
-        "url": "https://snl.no/Mona_Juul"
+        "category": "Internasjonal fotball",
+        "title": "Nasjonsligaen",
+        "url": "https://snl.no/Nasjonsligaen"
       },
       {
-        "category": "Norske diplomater",
-        "title": "Terje Rød-Larsen",
-        "url": "https://snl.no/Terje_R%C3%B8d-Larsen"
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
       },
       {
-        "category": "Historiske biografier i norsk politikk",
-        "title": "Johan Martin Ferner",
-        "url": "https://snl.no/Johan_Martin_Ferner"
-      },
-      {
-        "category": "Kongehuset",
-        "title": "Astrid – norsk prinsesse",
-        "url": "https://snl.no/Astrid_-_norsk_prinsesse"
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
       }
     ],
     "Uvanlig mye lest": [
-      {
-        "category": "Oslo",
-        "title": "Ris – boligstrøk i Oslo",
-        "url": "https://snl.no/Ris_-_boligstr%C3%B8k_i_Oslo"
-      },
-      {
-        "category": "Norske diplomater",
-        "title": "Geir Otto Pedersen",
-        "url": "https://snl.no/Geir_Otto_Pedersen"
-      },
       {
         "category": "Ordforklaringer monarki",
         "title": "kongemor",
         "url": "https://snl.no/kongemor"
       },
       {
-        "category": "Landmåling",
-        "title": "trekantpunkt",
-        "url": "https://snl.no/trekantpunkt"
+        "category": "Nautiske og maritime begrep",
+        "title": "debarkere",
+        "url": "https://snl.no/debarkere"
+      },
+      {
+        "category": "Byer i England",
+        "title": "Birmingham – by i Storbritannia",
+        "url": "https://snl.no/Birmingham_-_by_i_Storbritannia"
       },
       {
         "category": "Midtøstens samtidshistorie",
         "title": "Oslo-avtalen",
         "url": "https://snl.no/Oslo-avtalen"
+      },
+      {
+        "category": "Norrøn litteratur",
+        "title": "Gunnlaug Ormstunges saga",
+        "url": "https://snl.no/Gunnlaug_Ormstunges_saga"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Stavkirker",
-        "title": "Høyjord stavkirke",
-        "url": "https://snl.no/H%C3%B8yjord_stavkirke"
+        "category": "Personer innen astronomi",
+        "title": "Al-Sufi",
+        "url": "https://snl.no/Al-Sufi"
       },
       {
-        "category": "Norske klassiske komponister og verker 1900–1950",
-        "title": "Signe Lund",
-        "url": "https://snl.no/Signe_Lund"
+        "category": "Langrenn",
+        "title": "Anette Bøe",
+        "url": "https://snl.no/Anette_B%C3%B8e"
       },
       {
-        "category": "Tysklands litteratur 1900–1950",
-        "title": "Agnes Miegel",
-        "url": "https://snl.no/Agnes_Miegel"
+        "category": "Norsk teknologi- og industrihistorie",
+        "title": "Christian von Geren",
+        "url": "https://snl.no/Christian_von_Geren"
       },
       {
-        "category": "Nord-Amerikanske jazzutøvere og -ensembler, 1980 til i dag",
-        "title": "Joshua Redman",
-        "url": "https://snl.no/Joshua_Redman"
+        "category": "Norges litteratur 1800-tallet",
+        "title": "Antoinette Meyn",
+        "url": "https://snl.no/Antoinette_Meyn"
       },
       {
-        "category": "Tidligere aviser på Østlandet",
-        "title": "Drammens Blad",
-        "url": "https://snl.no/Drammens_Blad"
+        "category": "Utforsking av solsystemet",
+        "title": "Perseverance",
+        "url": "https://snl.no/Perseverance"
       }
     ]
   }

@@ -10539,5 +10539,88 @@
         "url": "https://snl.no/Drammens_Blad"
       }
     ]
+  },
+  "2026-09-25": {
+    "Mest lest i går": [
+      {
+        "category": "Norsk fotball",
+        "title": "Norge i fotball-VM – menn",
+        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
+      },
+      {
+        "category": "Fremmedord og lånord",
+        "title": "bilateral",
+        "url": "https://snl.no/bilateral"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Nasjonsligaen",
+        "url": "https://snl.no/Nasjonsligaen"
+      },
+      {
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Ordforklaringer monarki",
+        "title": "kongemor",
+        "url": "https://snl.no/kongemor"
+      },
+      {
+        "category": "Nautiske og maritime begrep",
+        "title": "debarkere",
+        "url": "https://snl.no/debarkere"
+      },
+      {
+        "category": "Byer i England",
+        "title": "Birmingham – by i Storbritannia",
+        "url": "https://snl.no/Birmingham_-_by_i_Storbritannia"
+      },
+      {
+        "category": "Midtøstens samtidshistorie",
+        "title": "Oslo-avtalen",
+        "url": "https://snl.no/Oslo-avtalen"
+      },
+      {
+        "category": "Norrøn litteratur",
+        "title": "Gunnlaug Ormstunges saga",
+        "url": "https://snl.no/Gunnlaug_Ormstunges_saga"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Personer innen astronomi",
+        "title": "Al-Sufi",
+        "url": "https://snl.no/Al-Sufi"
+      },
+      {
+        "category": "Langrenn",
+        "title": "Anette Bøe",
+        "url": "https://snl.no/Anette_B%C3%B8e"
+      },
+      {
+        "category": "Norsk teknologi- og industrihistorie",
+        "title": "Christian von Geren",
+        "url": "https://snl.no/Christian_von_Geren"
+      },
+      {
+        "category": "Norges litteratur 1800-tallet",
+        "title": "Antoinette Meyn",
+        "url": "https://snl.no/Antoinette_Meyn"
+      },
+      {
+        "category": "Utforsking av solsystemet",
+        "title": "Perseverance",
+        "url": "https://snl.no/Perseverance"
+      }
+    ]
   }
 }
