@@ -1,85 +1,85 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Norsk fotball",
-        "title": "Norge i fotball-VM – menn",
-        "url": "https://snl.no/Norge_i_fotball-VM_-_menn"
-      },
-      {
-        "category": "Fremmedord og lånord",
-        "title": "bilateral",
-        "url": "https://snl.no/bilateral"
-      },
-      {
-        "category": "Internasjonal fotball",
-        "title": "Nasjonsligaen",
-        "url": "https://snl.no/Nasjonsligaen"
-      },
-      {
-        "category": "Periodesystemet",
-        "title": "periodesystemet",
-        "url": "https://snl.no/periodesystemet"
-      },
-      {
-        "category": "Første verdenskrig",
-        "title": "første verdenskrig",
-        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
-      }
-    ],
-    "Uvanlig mye lest": [
       {
         "category": "Ordforklaringer monarki",
         "title": "kongemor",
         "url": "https://snl.no/kongemor"
       },
       {
-        "category": "Nautiske og maritime begrep",
-        "title": "debarkere",
-        "url": "https://snl.no/debarkere"
+        "category": "Interesseorganisasjoner",
+        "title": "SOS Rasisme",
+        "url": "https://snl.no/SOS_Rasisme"
       },
       {
-        "category": "Byer i England",
-        "title": "Birmingham – by i Storbritannia",
-        "url": "https://snl.no/Birmingham_-_by_i_Storbritannia"
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
       },
       {
-        "category": "Midtøstens samtidshistorie",
-        "title": "Oslo-avtalen",
-        "url": "https://snl.no/Oslo-avtalen"
+        "category": "Vietnams historie",
+        "title": "Vietnamkrigen",
+        "url": "https://snl.no/Vietnamkrigen"
       },
       {
-        "category": "Norrøn litteratur",
-        "title": "Gunnlaug Ormstunges saga",
-        "url": "https://snl.no/Gunnlaug_Ormstunges_saga"
+        "category": "Den norske kongerekka",
+        "title": "monarker i Norge – kongerekken",
+        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Norske storgårder",
+        "title": "Evje – herregård i Rygge",
+        "url": "https://snl.no/Evje_-_herreg%C3%A5rd_i_Rygge"
+      },
+      {
+        "category": "Religionsvitenskap",
+        "title": "dødssynd",
+        "url": "https://snl.no/d%C3%B8dssynd"
+      },
+      {
+        "category": "Gjenstanders kulturhistorie",
+        "title": "primstav",
+        "url": "https://snl.no/primstav"
+      },
+      {
+        "category": "Religionsvitenskap",
+        "title": "Abraham",
+        "url": "https://snl.no/Abraham"
+      },
+      {
+        "category": "Biogeokjemi",
+        "title": "karbonkretsløpet",
+        "url": "https://snl.no/karbonkretsl%C3%B8pet"
       }
     ],
     "Sørgelig lite lest": [
-      {
-        "category": "Personer innen astronomi",
-        "title": "Al-Sufi",
-        "url": "https://snl.no/Al-Sufi"
-      },
       {
         "category": "Langrenn",
         "title": "Anette Bøe",
         "url": "https://snl.no/Anette_B%C3%B8e"
       },
       {
-        "category": "Norsk teknologi- og industrihistorie",
-        "title": "Christian von Geren",
-        "url": "https://snl.no/Christian_von_Geren"
+        "category": "Ecuadors samtidshistorie",
+        "title": "Rafael Correa",
+        "url": "https://snl.no/Rafael_Correa"
       },
       {
-        "category": "Norges litteratur 1800-tallet",
-        "title": "Antoinette Meyn",
-        "url": "https://snl.no/Antoinette_Meyn"
+        "category": "Biografier i 1600-tallets filosofi",
+        "title": "Anne Conway",
+        "url": "https://snl.no/Anne_Conway"
       },
       {
-        "category": "Utforsking av solsystemet",
-        "title": "Perseverance",
-        "url": "https://snl.no/Perseverance"
+        "category": "Glasskunstnere og keramikere",
+        "title": "Bengt Orup",
+        "url": "https://snl.no/Bengt_Orup"
+      },
+      {
+        "category": "Guttenavn",
+        "title": "Torleiv – mannsnamn",
+        "url": "https://snl.no/Torleiv_-_mannsnamn"
       }
     ]
   }

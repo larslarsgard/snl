@@ -10622,5 +10622,88 @@
         "url": "https://snl.no/Perseverance"
       }
     ]
+  },
+  "2026-09-26": {
+    "Mest lest i går": [
+      {
+        "category": "Ordforklaringer monarki",
+        "title": "kongemor",
+        "url": "https://snl.no/kongemor"
+      },
+      {
+        "category": "Interesseorganisasjoner",
+        "title": "SOS Rasisme",
+        "url": "https://snl.no/SOS_Rasisme"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Vietnams historie",
+        "title": "Vietnamkrigen",
+        "url": "https://snl.no/Vietnamkrigen"
+      },
+      {
+        "category": "Den norske kongerekka",
+        "title": "monarker i Norge – kongerekken",
+        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Norske storgårder",
+        "title": "Evje – herregård i Rygge",
+        "url": "https://snl.no/Evje_-_herreg%C3%A5rd_i_Rygge"
+      },
+      {
+        "category": "Religionsvitenskap",
+        "title": "dødssynd",
+        "url": "https://snl.no/d%C3%B8dssynd"
+      },
+      {
+        "category": "Gjenstanders kulturhistorie",
+        "title": "primstav",
+        "url": "https://snl.no/primstav"
+      },
+      {
+        "category": "Religionsvitenskap",
+        "title": "Abraham",
+        "url": "https://snl.no/Abraham"
+      },
+      {
+        "category": "Biogeokjemi",
+        "title": "karbonkretsløpet",
+        "url": "https://snl.no/karbonkretsl%C3%B8pet"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Langrenn",
+        "title": "Anette Bøe",
+        "url": "https://snl.no/Anette_B%C3%B8e"
+      },
+      {
+        "category": "Ecuadors samtidshistorie",
+        "title": "Rafael Correa",
+        "url": "https://snl.no/Rafael_Correa"
+      },
+      {
+        "category": "Biografier i 1600-tallets filosofi",
+        "title": "Anne Conway",
+        "url": "https://snl.no/Anne_Conway"
+      },
+      {
+        "category": "Glasskunstnere og keramikere",
+        "title": "Bengt Orup",
+        "url": "https://snl.no/Bengt_Orup"
+      },
+      {
+        "category": "Guttenavn",
+        "title": "Torleiv – mannsnamn",
+        "url": "https://snl.no/Torleiv_-_mannsnamn"
+      }
+    ]
   }
 }
