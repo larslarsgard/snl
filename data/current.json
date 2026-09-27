@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Ordforklaringer monarki",
-        "title": "kongemor",
-        "url": "https://snl.no/kongemor"
+        "category": "TV- og radioprogrammer",
+        "title": "Skal vi danse",
+        "url": "https://snl.no/Skal_vi_danse"
       },
       {
-        "category": "Interesseorganisasjoner",
-        "title": "SOS Rasisme",
-        "url": "https://snl.no/SOS_Rasisme"
+        "category": "Norsk pop og rock",
+        "title": "CC Cowboys",
+        "url": "https://snl.no/CC_Cowboys"
       },
       {
-        "category": "Første verdenskrig",
-        "title": "første verdenskrig",
-        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+        "category": "Narrekantareller",
+        "title": "falsk kantarell",
+        "url": "https://snl.no/falsk_kantarell"
       },
       {
-        "category": "Vietnams historie",
-        "title": "Vietnamkrigen",
-        "url": "https://snl.no/Vietnamkrigen"
+        "category": "Klimasystemet",
+        "title": "El Niño",
+        "url": "https://snl.no/El_Ni%C3%B1o"
       },
       {
         "category": "Den norske kongerekka",
@@ -30,56 +30,56 @@
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Norske storgårder",
-        "title": "Evje – herregård i Rygge",
-        "url": "https://snl.no/Evje_-_herreg%C3%A5rd_i_Rygge"
+        "category": "Naturgeografi",
+        "title": "Europas største øyer",
+        "url": "https://snl.no/Europas_st%C3%B8rste_%C3%B8yer"
       },
       {
-        "category": "Religionsvitenskap",
-        "title": "dødssynd",
-        "url": "https://snl.no/d%C3%B8dssynd"
+        "category": "Håbrannfamilien",
+        "title": "hvithai",
+        "url": "https://snl.no/hvithai"
       },
       {
-        "category": "Gjenstanders kulturhistorie",
-        "title": "primstav",
-        "url": "https://snl.no/primstav"
+        "category": "Gallerørsopper",
+        "title": "gallerørsopp",
+        "url": "https://snl.no/galler%C3%B8rsopp"
       },
       {
-        "category": "Religionsvitenskap",
-        "title": "Abraham",
-        "url": "https://snl.no/Abraham"
+        "category": "Europas geografi generelt",
+        "title": "Land i Europa",
+        "url": "https://snl.no/Land_i_Europa"
       },
       {
-        "category": "Biogeokjemi",
-        "title": "karbonkretsløpet",
-        "url": "https://snl.no/karbonkretsl%C3%B8pet"
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Langrenn",
-        "title": "Anette Bøe",
-        "url": "https://snl.no/Anette_B%C3%B8e"
+        "category": "Georgias samtidshistorie",
+        "title": "Nino Burdzjanadze",
+        "url": "https://snl.no/Nino_Burdzjanadze"
       },
       {
-        "category": "Ecuadors samtidshistorie",
-        "title": "Rafael Correa",
-        "url": "https://snl.no/Rafael_Correa"
+        "category": "Argentinas geografi",
+        "title": "Chaco – provins i Argentina",
+        "url": "https://snl.no/Chaco_-_provins_i_Argentina"
       },
       {
-        "category": "Biografier i 1600-tallets filosofi",
-        "title": "Anne Conway",
-        "url": "https://snl.no/Anne_Conway"
+        "category": "Politisk og økonomisk filosofi",
+        "title": "fredsbevegelsen",
+        "url": "https://snl.no/fredsbevegelsen"
       },
       {
-        "category": "Glasskunstnere og keramikere",
-        "title": "Bengt Orup",
-        "url": "https://snl.no/Bengt_Orup"
+        "category": "Biografier innen petroleum",
+        "title": "Haakon Hauan",
+        "url": "https://snl.no/Haakon_Hauan"
       },
       {
-        "category": "Guttenavn",
-        "title": "Torleiv – mannsnamn",
-        "url": "https://snl.no/Torleiv_-_mannsnamn"
+        "category": "Forsvarets historie",
+        "title": "K-soldater",
+        "url": "https://snl.no/K-soldater"
       }
     ]
   }
