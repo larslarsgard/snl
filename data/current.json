@@ -1,16 +1,16 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "TV- og radioprogrammer",
-        "title": "Skal vi danse",
-        "url": "https://snl.no/Skal_vi_danse"
+        "category": "Hellenismen",
+        "title": "Pyrrhos-seier",
+        "url": "https://snl.no/Pyrrhos-seier"
       },
       {
-        "category": "Norsk pop og rock",
-        "title": "CC Cowboys",
-        "url": "https://snl.no/CC_Cowboys"
+        "category": "Internasjonal fotball",
+        "title": "Nasjonsligaen",
+        "url": "https://snl.no/Nasjonsligaen"
       },
       {
         "category": "Narrekantareller",
@@ -18,68 +18,68 @@
         "url": "https://snl.no/falsk_kantarell"
       },
       {
-        "category": "Klimasystemet",
-        "title": "El Niño",
-        "url": "https://snl.no/El_Ni%C3%B1o"
+        "category": "Folkediktning",
+        "title": "Gullfuglen",
+        "url": "https://snl.no/Gullfuglen"
       },
       {
-        "category": "Den norske kongerekka",
-        "title": "monarker i Norge – kongerekken",
-        "url": "https://snl.no/monarker_i_Norge_-_kongerekken"
+        "category": "TV- og radioprogrammer",
+        "title": "Skal vi danse",
+        "url": "https://snl.no/Skal_vi_danse"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Naturgeografi",
-        "title": "Europas største øyer",
-        "url": "https://snl.no/Europas_st%C3%B8rste_%C3%B8yer"
+        "category": "TV- og radiopersoner",
+        "title": "Linda Eide",
+        "url": "https://snl.no/Linda_Eide"
       },
       {
-        "category": "Håbrannfamilien",
-        "title": "hvithai",
-        "url": "https://snl.no/hvithai"
+        "category": "Kasuarfamilien",
+        "title": "emu",
+        "url": "https://snl.no/emu"
+      },
+      {
+        "category": "Leppeblomstfamilien",
+        "title": "leppeblomstfamilien",
+        "url": "https://snl.no/leppeblomstfamilien"
+      },
+      {
+        "category": "Fremmedord med latinsk og gresk opphav",
+        "title": "sekulær",
+        "url": "https://snl.no/sekul%C3%A6r"
       },
       {
         "category": "Gallerørsopper",
         "title": "gallerørsopp",
         "url": "https://snl.no/galler%C3%B8rsopp"
-      },
-      {
-        "category": "Europas geografi generelt",
-        "title": "Land i Europa",
-        "url": "https://snl.no/Land_i_Europa"
-      },
-      {
-        "category": "Periodesystemet",
-        "title": "periodesystemet",
-        "url": "https://snl.no/periodesystemet"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Georgias samtidshistorie",
-        "title": "Nino Burdzjanadze",
-        "url": "https://snl.no/Nino_Burdzjanadze"
+        "category": "Mexicos litteratur",
+        "title": "Juan José Arreola",
+        "url": "https://snl.no/Juan_Jos%C3%A9_Arreola"
       },
       {
-        "category": "Argentinas geografi",
-        "title": "Chaco – provins i Argentina",
-        "url": "https://snl.no/Chaco_-_provins_i_Argentina"
+        "category": "Romanias historie",
+        "title": "Iuliu Maniu",
+        "url": "https://snl.no/Iuliu_Maniu"
       },
       {
-        "category": "Politisk og økonomisk filosofi",
-        "title": "fredsbevegelsen",
-        "url": "https://snl.no/fredsbevegelsen"
+        "category": "Tekstiler",
+        "title": "mikrofiber",
+        "url": "https://snl.no/mikrofiber"
       },
       {
-        "category": "Biografier innen petroleum",
-        "title": "Haakon Hauan",
-        "url": "https://snl.no/Haakon_Hauan"
+        "category": "Plantesykdommer",
+        "title": "ertevisnesjuke",
+        "url": "https://snl.no/ertevisnesjuke"
       },
       {
-        "category": "Forsvarets historie",
-        "title": "K-soldater",
-        "url": "https://snl.no/K-soldater"
+        "category": "Litterær sakprosa",
+        "title": "reiselitteratur",
+        "url": "https://snl.no/reiselitteratur"
       }
     ]
   }

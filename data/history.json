@@ -10788,5 +10788,88 @@
         "url": "https://snl.no/K-soldater"
       }
     ]
+  },
+  "2026-09-28": {
+    "Mest lest i går": [
+      {
+        "category": "Hellenismen",
+        "title": "Pyrrhos-seier",
+        "url": "https://snl.no/Pyrrhos-seier"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Nasjonsligaen",
+        "url": "https://snl.no/Nasjonsligaen"
+      },
+      {
+        "category": "Narrekantareller",
+        "title": "falsk kantarell",
+        "url": "https://snl.no/falsk_kantarell"
+      },
+      {
+        "category": "Folkediktning",
+        "title": "Gullfuglen",
+        "url": "https://snl.no/Gullfuglen"
+      },
+      {
+        "category": "TV- og radioprogrammer",
+        "title": "Skal vi danse",
+        "url": "https://snl.no/Skal_vi_danse"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "TV- og radiopersoner",
+        "title": "Linda Eide",
+        "url": "https://snl.no/Linda_Eide"
+      },
+      {
+        "category": "Kasuarfamilien",
+        "title": "emu",
+        "url": "https://snl.no/emu"
+      },
+      {
+        "category": "Leppeblomstfamilien",
+        "title": "leppeblomstfamilien",
+        "url": "https://snl.no/leppeblomstfamilien"
+      },
+      {
+        "category": "Fremmedord med latinsk og gresk opphav",
+        "title": "sekulær",
+        "url": "https://snl.no/sekul%C3%A6r"
+      },
+      {
+        "category": "Gallerørsopper",
+        "title": "gallerørsopp",
+        "url": "https://snl.no/galler%C3%B8rsopp"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Mexicos litteratur",
+        "title": "Juan José Arreola",
+        "url": "https://snl.no/Juan_Jos%C3%A9_Arreola"
+      },
+      {
+        "category": "Romanias historie",
+        "title": "Iuliu Maniu",
+        "url": "https://snl.no/Iuliu_Maniu"
+      },
+      {
+        "category": "Tekstiler",
+        "title": "mikrofiber",
+        "url": "https://snl.no/mikrofiber"
+      },
+      {
+        "category": "Plantesykdommer",
+        "title": "ertevisnesjuke",
+        "url": "https://snl.no/ertevisnesjuke"
+      },
+      {
+        "category": "Litterær sakprosa",
+        "title": "reiselitteratur",
+        "url": "https://snl.no/reiselitteratur"
+      }
+    ]
   }
 }
