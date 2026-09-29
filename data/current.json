@@ -1,85 +1,85 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Fiskers anatomi og fysiologi",
+        "title": "glassål",
+        "url": "https://snl.no/glass%C3%A5l"
+      },
       {
         "category": "Hellenismen",
         "title": "Pyrrhos-seier",
         "url": "https://snl.no/Pyrrhos-seier"
       },
       {
-        "category": "Internasjonal fotball",
-        "title": "Nasjonsligaen",
-        "url": "https://snl.no/Nasjonsligaen"
+        "category": "Den franske revolusjon",
+        "title": "den franske revolusjon",
+        "url": "https://snl.no/den_franske_revolusjon"
       },
       {
-        "category": "Narrekantareller",
-        "title": "falsk kantarell",
-        "url": "https://snl.no/falsk_kantarell"
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
       },
       {
-        "category": "Folkediktning",
-        "title": "Gullfuglen",
-        "url": "https://snl.no/Gullfuglen"
-      },
-      {
-        "category": "TV- og radioprogrammer",
-        "title": "Skal vi danse",
-        "url": "https://snl.no/Skal_vi_danse"
+        "category": "Styreform",
+        "title": "fylke",
+        "url": "https://lille.snl.no/fylke"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "TV- og radiopersoner",
-        "title": "Linda Eide",
-        "url": "https://snl.no/Linda_Eide"
+        "category": "Nyere norsk litteratur",
+        "title": "Laila Stien",
+        "url": "https://snl.no/Laila_Stien"
       },
       {
-        "category": "Kasuarfamilien",
-        "title": "emu",
-        "url": "https://snl.no/emu"
+        "category": "Norske arkitekter fram til 1900",
+        "title": "Hans Linstow",
+        "url": "https://snl.no/Hans_Linstow"
       },
       {
-        "category": "Leppeblomstfamilien",
-        "title": "leppeblomstfamilien",
-        "url": "https://snl.no/leppeblomstfamilien"
+        "category": "Grue",
+        "title": "Grue",
+        "url": "https://snl.no/Grue"
       },
       {
-        "category": "Fremmedord med latinsk og gresk opphav",
-        "title": "sekulær",
-        "url": "https://snl.no/sekul%C3%A6r"
+        "category": "Ålefisker",
+        "title": "ål",
+        "url": "https://snl.no/%C3%A5l"
       },
       {
-        "category": "Gallerørsopper",
-        "title": "gallerørsopp",
-        "url": "https://snl.no/galler%C3%B8rsopp"
+        "category": "Syntaks",
+        "title": "pronomen",
+        "url": "https://snl.no/pronomen"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Mexicos litteratur",
-        "title": "Juan José Arreola",
-        "url": "https://snl.no/Juan_Jos%C3%A9_Arreola"
+        "category": "Omans historie",
+        "title": "Omans historie",
+        "url": "https://snl.no/Omans_historie"
       },
       {
-        "category": "Romanias historie",
-        "title": "Iuliu Maniu",
-        "url": "https://snl.no/Iuliu_Maniu"
+        "category": "Teknologi- og industrifag",
+        "title": "reservedelsekspeditør",
+        "url": "https://snl.no/reservedelsekspedit%C3%B8r"
       },
       {
-        "category": "Tekstiler",
-        "title": "mikrofiber",
-        "url": "https://snl.no/mikrofiber"
+        "category": "Nord-Amerikanske jazzutøvere og -ensembler, 1980 til i dag",
+        "title": "John Scofield",
+        "url": "https://snl.no/John_Scofield"
       },
       {
-        "category": "Plantesykdommer",
-        "title": "ertevisnesjuke",
-        "url": "https://snl.no/ertevisnesjuke"
+        "category": "Personnavn",
+        "title": "den nordiske namnerenessansen",
+        "url": "https://snl.no/den_nordiske_namnerenessansen"
       },
       {
-        "category": "Litterær sakprosa",
-        "title": "reiselitteratur",
-        "url": "https://snl.no/reiselitteratur"
+        "category": "Tidligere aviser i Nord-Norge",
+        "title": "Salten – avis",
+        "url": "https://snl.no/Salten_-_avis"
       }
     ]
   }

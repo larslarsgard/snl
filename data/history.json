@@ -10871,5 +10871,88 @@
         "url": "https://snl.no/reiselitteratur"
       }
     ]
+  },
+  "2026-09-29": {
+    "Mest lest i går": [
+      {
+        "category": "Fiskers anatomi og fysiologi",
+        "title": "glassål",
+        "url": "https://snl.no/glass%C3%A5l"
+      },
+      {
+        "category": "Hellenismen",
+        "title": "Pyrrhos-seier",
+        "url": "https://snl.no/Pyrrhos-seier"
+      },
+      {
+        "category": "Den franske revolusjon",
+        "title": "den franske revolusjon",
+        "url": "https://snl.no/den_franske_revolusjon"
+      },
+      {
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
+      },
+      {
+        "category": "Styreform",
+        "title": "fylke",
+        "url": "https://lille.snl.no/fylke"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Nyere norsk litteratur",
+        "title": "Laila Stien",
+        "url": "https://snl.no/Laila_Stien"
+      },
+      {
+        "category": "Norske arkitekter fram til 1900",
+        "title": "Hans Linstow",
+        "url": "https://snl.no/Hans_Linstow"
+      },
+      {
+        "category": "Grue",
+        "title": "Grue",
+        "url": "https://snl.no/Grue"
+      },
+      {
+        "category": "Ålefisker",
+        "title": "ål",
+        "url": "https://snl.no/%C3%A5l"
+      },
+      {
+        "category": "Syntaks",
+        "title": "pronomen",
+        "url": "https://snl.no/pronomen"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Omans historie",
+        "title": "Omans historie",
+        "url": "https://snl.no/Omans_historie"
+      },
+      {
+        "category": "Teknologi- og industrifag",
+        "title": "reservedelsekspeditør",
+        "url": "https://snl.no/reservedelsekspedit%C3%B8r"
+      },
+      {
+        "category": "Nord-Amerikanske jazzutøvere og -ensembler, 1980 til i dag",
+        "title": "John Scofield",
+        "url": "https://snl.no/John_Scofield"
+      },
+      {
+        "category": "Personnavn",
+        "title": "den nordiske namnerenessansen",
+        "url": "https://snl.no/den_nordiske_namnerenessansen"
+      },
+      {
+        "category": "Tidligere aviser i Nord-Norge",
+        "title": "Salten – avis",
+        "url": "https://snl.no/Salten_-_avis"
+      }
+    ]
   }
 }
