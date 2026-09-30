@@ -10954,5 +10954,88 @@
         "url": "https://snl.no/Salten_-_avis"
       }
     ]
+  },
+  "2026-09-30": {
+    "Mest lest i går": [
+      {
+        "category": "Knokkel- og bløtvevssvulster",
+        "title": "Ewings sarkom",
+        "url": "https://sml.snl.no/Ewings_sarkom"
+      },
+      {
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "mikkelsmesse",
+        "url": "https://snl.no/mikkelsmesse"
+      },
+      {
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
+      },
+      {
+        "category": "Den franske revolusjon",
+        "title": "den franske revolusjon",
+        "url": "https://snl.no/den_franske_revolusjon"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Tidligere politikere",
+        "title": "Julie Brodtkorb",
+        "url": "https://snl.no/Julie_Brodtkorb"
+      },
+      {
+        "category": "Trevirke",
+        "title": "palisander",
+        "url": "https://snl.no/palisander"
+      },
+      {
+        "category": "Biografier i Den norske kirke",
+        "title": "Helge Hognestad",
+        "url": "https://snl.no/Helge_Hognestad"
+      },
+      {
+        "category": "Fiskers anatomi og fysiologi",
+        "title": "glassål",
+        "url": "https://snl.no/glass%C3%A5l"
+      },
+      {
+        "category": "Hellenismen",
+        "title": "Pyrrhos-seier",
+        "url": "https://snl.no/Pyrrhos-seier"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Motiver i bildende kunst",
+        "title": "død – bildekunst",
+        "url": "https://snl.no/d%C3%B8d_-_bildekunst"
+      },
+      {
+        "category": "Kinas litteratur",
+        "title": "Hongloumeng",
+        "url": "https://snl.no/Hongloumeng"
+      },
+      {
+        "category": "Israels samtidshistorie",
+        "title": "Ariel Sharon",
+        "url": "https://snl.no/Ariel_Sharon"
+      },
+      {
+        "category": "Jagerfly og kampfly",
+        "title": "Fiat G.55 Centauro",
+        "url": "https://snl.no/Fiat_G.55_Centauro"
+      },
+      {
+        "category": "Den tyske okkupasjonsmakten",
+        "title": "Georg Angerer",
+        "url": "https://snl.no/Georg_Angerer"
+      }
+    ]
   }
 }

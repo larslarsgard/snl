@@ -1,7 +1,49 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Knokkel- og bløtvevssvulster",
+        "title": "Ewings sarkom",
+        "url": "https://sml.snl.no/Ewings_sarkom"
+      },
+      {
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "mikkelsmesse",
+        "url": "https://snl.no/mikkelsmesse"
+      },
+      {
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
+      },
+      {
+        "category": "Den franske revolusjon",
+        "title": "den franske revolusjon",
+        "url": "https://snl.no/den_franske_revolusjon"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Tidligere politikere",
+        "title": "Julie Brodtkorb",
+        "url": "https://snl.no/Julie_Brodtkorb"
+      },
+      {
+        "category": "Trevirke",
+        "title": "palisander",
+        "url": "https://snl.no/palisander"
+      },
+      {
+        "category": "Biografier i Den norske kirke",
+        "title": "Helge Hognestad",
+        "url": "https://snl.no/Helge_Hognestad"
+      },
       {
         "category": "Fiskers anatomi og fysiologi",
         "title": "glassål",
@@ -11,75 +53,33 @@
         "category": "Hellenismen",
         "title": "Pyrrhos-seier",
         "url": "https://snl.no/Pyrrhos-seier"
-      },
-      {
-        "category": "Den franske revolusjon",
-        "title": "den franske revolusjon",
-        "url": "https://snl.no/den_franske_revolusjon"
-      },
-      {
-        "category": "Periodesystemet",
-        "title": "periodesystemet",
-        "url": "https://snl.no/periodesystemet"
-      },
-      {
-        "category": "Styreform",
-        "title": "fylke",
-        "url": "https://lille.snl.no/fylke"
-      }
-    ],
-    "Uvanlig mye lest": [
-      {
-        "category": "Nyere norsk litteratur",
-        "title": "Laila Stien",
-        "url": "https://snl.no/Laila_Stien"
-      },
-      {
-        "category": "Norske arkitekter fram til 1900",
-        "title": "Hans Linstow",
-        "url": "https://snl.no/Hans_Linstow"
-      },
-      {
-        "category": "Grue",
-        "title": "Grue",
-        "url": "https://snl.no/Grue"
-      },
-      {
-        "category": "Ålefisker",
-        "title": "ål",
-        "url": "https://snl.no/%C3%A5l"
-      },
-      {
-        "category": "Syntaks",
-        "title": "pronomen",
-        "url": "https://snl.no/pronomen"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Omans historie",
-        "title": "Omans historie",
-        "url": "https://snl.no/Omans_historie"
+        "category": "Motiver i bildende kunst",
+        "title": "død – bildekunst",
+        "url": "https://snl.no/d%C3%B8d_-_bildekunst"
       },
       {
-        "category": "Teknologi- og industrifag",
-        "title": "reservedelsekspeditør",
-        "url": "https://snl.no/reservedelsekspedit%C3%B8r"
+        "category": "Kinas litteratur",
+        "title": "Hongloumeng",
+        "url": "https://snl.no/Hongloumeng"
       },
       {
-        "category": "Nord-Amerikanske jazzutøvere og -ensembler, 1980 til i dag",
-        "title": "John Scofield",
-        "url": "https://snl.no/John_Scofield"
+        "category": "Israels samtidshistorie",
+        "title": "Ariel Sharon",
+        "url": "https://snl.no/Ariel_Sharon"
       },
       {
-        "category": "Personnavn",
-        "title": "den nordiske namnerenessansen",
-        "url": "https://snl.no/den_nordiske_namnerenessansen"
+        "category": "Jagerfly og kampfly",
+        "title": "Fiat G.55 Centauro",
+        "url": "https://snl.no/Fiat_G.55_Centauro"
       },
       {
-        "category": "Tidligere aviser i Nord-Norge",
-        "title": "Salten – avis",
-        "url": "https://snl.no/Salten_-_avis"
+        "category": "Den tyske okkupasjonsmakten",
+        "title": "Georg Angerer",
+        "url": "https://snl.no/Georg_Angerer"
       }
     ]
   }
