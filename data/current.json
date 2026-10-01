@@ -1,16 +1,16 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Knokkel- og bløtvevssvulster",
-        "title": "Ewings sarkom",
-        "url": "https://sml.snl.no/Ewings_sarkom"
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
       },
       {
-        "category": "Folkelige skikker og tradisjoner",
-        "title": "mikkelsmesse",
-        "url": "https://snl.no/mikkelsmesse"
+        "category": "Norske diplomater",
+        "title": "Mona Juul",
+        "url": "https://snl.no/Mona_Juul"
       },
       {
         "category": "Periodesystemet",
@@ -18,68 +18,68 @@
         "url": "https://snl.no/periodesystemet"
       },
       {
-        "category": "Den franske revolusjon",
-        "title": "den franske revolusjon",
-        "url": "https://snl.no/den_franske_revolusjon"
+        "category": "Politiske begreper",
+        "title": "nasjonalisme",
+        "url": "https://snl.no/nasjonalisme"
       },
       {
-        "category": "Første verdenskrig",
-        "title": "første verdenskrig",
-        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+        "category": "Norske diplomater",
+        "title": "Terje Rød-Larsen",
+        "url": "https://snl.no/Terje_R%C3%B8d-Larsen"
       }
     ],
     "Uvanlig mye lest": [
       {
+        "category": "Tekstilredskaper",
+        "title": "hoveltre",
+        "url": "https://snl.no/hoveltre"
+      },
+      {
+        "category": "Norske ord og uttrykk",
+        "title": "slå i hartkorn",
+        "url": "https://snl.no/sl%C3%A5_i_hartkorn"
+      },
+      {
         "category": "Tidligere politikere",
-        "title": "Julie Brodtkorb",
-        "url": "https://snl.no/Julie_Brodtkorb"
+        "title": "Børge Brende",
+        "url": "https://snl.no/B%C3%B8rge_Brende"
       },
       {
-        "category": "Trevirke",
-        "title": "palisander",
-        "url": "https://snl.no/palisander"
+        "category": "Tidligere politikere",
+        "title": "Erik Solheim",
+        "url": "https://snl.no/Erik_Solheim"
       },
       {
-        "category": "Biografier i Den norske kirke",
-        "title": "Helge Hognestad",
-        "url": "https://snl.no/Helge_Hognestad"
-      },
-      {
-        "category": "Fiskers anatomi og fysiologi",
-        "title": "glassål",
-        "url": "https://snl.no/glass%C3%A5l"
-      },
-      {
-        "category": "Hellenismen",
-        "title": "Pyrrhos-seier",
-        "url": "https://snl.no/Pyrrhos-seier"
+        "category": "Internasjonal politikk",
+        "title": "industriland",
+        "url": "https://snl.no/industriland"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Motiver i bildende kunst",
-        "title": "død – bildekunst",
-        "url": "https://snl.no/d%C3%B8d_-_bildekunst"
+        "category": "USAs nyere lyrikk",
+        "title": "John Ashbery",
+        "url": "https://snl.no/John_Ashbery"
       },
       {
-        "category": "Kinas litteratur",
-        "title": "Hongloumeng",
-        "url": "https://snl.no/Hongloumeng"
+        "category": "Personer i IT-historie",
+        "title": "Fredrik Rosing Bull",
+        "url": "https://snl.no/Fredrik_Rosing_Bull"
       },
       {
-        "category": "Israels samtidshistorie",
-        "title": "Ariel Sharon",
-        "url": "https://snl.no/Ariel_Sharon"
+        "category": "Stavkirker",
+        "title": "Ringebu stavkirke",
+        "url": "https://snl.no/Ringebu_stavkirke"
       },
       {
-        "category": "Jagerfly og kampfly",
-        "title": "Fiat G.55 Centauro",
-        "url": "https://snl.no/Fiat_G.55_Centauro"
+        "category": "Guttenavn",
+        "title": "James – mannsnamn",
+        "url": "https://snl.no/James_-_mannsnamn"
       },
       {
-        "category": "Den tyske okkupasjonsmakten",
-        "title": "Georg Angerer",
-        "url": "https://snl.no/Georg_Angerer"
+        "category": "Internasjonale klassiske instrumentalister",
+        "title": "Tabea Zimmermann",
+        "url": "https://snl.no/Tabea_Zimmermann"
       }
     ]
   }

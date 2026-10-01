@@ -11037,5 +11037,88 @@
         "url": "https://snl.no/Georg_Angerer"
       }
     ]
+  },
+  "2026-10-01": {
+    "Mest lest i går": [
+      {
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
+      },
+      {
+        "category": "Norske diplomater",
+        "title": "Mona Juul",
+        "url": "https://snl.no/Mona_Juul"
+      },
+      {
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
+      },
+      {
+        "category": "Politiske begreper",
+        "title": "nasjonalisme",
+        "url": "https://snl.no/nasjonalisme"
+      },
+      {
+        "category": "Norske diplomater",
+        "title": "Terje Rød-Larsen",
+        "url": "https://snl.no/Terje_R%C3%B8d-Larsen"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Tekstilredskaper",
+        "title": "hoveltre",
+        "url": "https://snl.no/hoveltre"
+      },
+      {
+        "category": "Norske ord og uttrykk",
+        "title": "slå i hartkorn",
+        "url": "https://snl.no/sl%C3%A5_i_hartkorn"
+      },
+      {
+        "category": "Tidligere politikere",
+        "title": "Børge Brende",
+        "url": "https://snl.no/B%C3%B8rge_Brende"
+      },
+      {
+        "category": "Tidligere politikere",
+        "title": "Erik Solheim",
+        "url": "https://snl.no/Erik_Solheim"
+      },
+      {
+        "category": "Internasjonal politikk",
+        "title": "industriland",
+        "url": "https://snl.no/industriland"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "USAs nyere lyrikk",
+        "title": "John Ashbery",
+        "url": "https://snl.no/John_Ashbery"
+      },
+      {
+        "category": "Personer i IT-historie",
+        "title": "Fredrik Rosing Bull",
+        "url": "https://snl.no/Fredrik_Rosing_Bull"
+      },
+      {
+        "category": "Stavkirker",
+        "title": "Ringebu stavkirke",
+        "url": "https://snl.no/Ringebu_stavkirke"
+      },
+      {
+        "category": "Guttenavn",
+        "title": "James – mannsnamn",
+        "url": "https://snl.no/James_-_mannsnamn"
+      },
+      {
+        "category": "Internasjonale klassiske instrumentalister",
+        "title": "Tabea Zimmermann",
+        "url": "https://snl.no/Tabea_Zimmermann"
+      }
+    ]
   }
 }
