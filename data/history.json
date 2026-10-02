@@ -11120,5 +11120,88 @@
         "url": "https://snl.no/Tabea_Zimmermann"
       }
     ]
+  },
+  "2026-10-02": {
+    "Mest lest i går": [
+      {
+        "category": "Wales’ geografi",
+        "title": "Wales",
+        "url": "https://snl.no/Wales"
+      },
+      {
+        "category": "Norske diplomater",
+        "title": "Anne Beathe Kristiansen",
+        "url": "https://snl.no/Anne_Beathe_Kristiansen"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Nasjonsligaen",
+        "url": "https://snl.no/Nasjonsligaen"
+      },
+      {
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
+      },
+      {
+        "category": "Norske diplomater",
+        "title": "Gunn Jorid Roset",
+        "url": "https://snl.no/Gunn_Jorid_Roset"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Økonomisk historie",
+        "title": "dyrtid",
+        "url": "https://snl.no/dyrtid"
+      },
+      {
+        "category": "Wales’ geografi",
+        "title": "Cardiff",
+        "url": "https://snl.no/Cardiff"
+      },
+      {
+        "category": "Keltisk",
+        "title": "walisisk",
+        "url": "https://snl.no/walisisk"
+      },
+      {
+        "category": "Traktater",
+        "title": "Svalbardtraktaten",
+        "url": "https://snl.no/Svalbardtraktaten"
+      },
+      {
+        "category": "Norske politikere",
+        "title": "Dag Inge Ulstein",
+        "url": "https://snl.no/Dag_Inge_Ulstein"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Guatemalas samtidshistorie",
+        "title": "Efraín Ríos Montt",
+        "url": "https://snl.no/Efra%C3%ADn_R%C3%ADos_Montt"
+      },
+      {
+        "category": "Forsvarets historie",
+        "title": "Norges forsvar fra 1800 til 1814",
+        "url": "https://snl.no/Norges_forsvar_fra_1800_til_1814"
+      },
+      {
+        "category": "Internasjonale klassiske komponister og verker 1900–1950",
+        "title": "Mykola Leontovytsj",
+        "url": "https://snl.no/Mykola_Leontovytsj"
+      },
+      {
+        "category": "Historiske religioner",
+        "title": "jomfrugudinner",
+        "url": "https://snl.no/jomfrugudinner"
+      },
+      {
+        "category": "Sovjetunionens historie",
+        "title": "Jelena Bonner",
+        "url": "https://snl.no/Jelena_Bonner"
+      }
+    ]
   }
 }

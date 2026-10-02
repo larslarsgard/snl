@@ -1,16 +1,21 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Vind og atmosfæriske bølger",
-        "title": "Beauforts vindskala",
-        "url": "https://snl.no/Beauforts_vindskala"
+        "category": "Wales’ geografi",
+        "title": "Wales",
+        "url": "https://snl.no/Wales"
       },
       {
         "category": "Norske diplomater",
-        "title": "Mona Juul",
-        "url": "https://snl.no/Mona_Juul"
+        "title": "Anne Beathe Kristiansen",
+        "url": "https://snl.no/Anne_Beathe_Kristiansen"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Nasjonsligaen",
+        "url": "https://snl.no/Nasjonsligaen"
       },
       {
         "category": "Periodesystemet",
@@ -18,68 +23,63 @@
         "url": "https://snl.no/periodesystemet"
       },
       {
-        "category": "Politiske begreper",
-        "title": "nasjonalisme",
-        "url": "https://snl.no/nasjonalisme"
-      },
-      {
         "category": "Norske diplomater",
-        "title": "Terje Rød-Larsen",
-        "url": "https://snl.no/Terje_R%C3%B8d-Larsen"
+        "title": "Gunn Jorid Roset",
+        "url": "https://snl.no/Gunn_Jorid_Roset"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Tekstilredskaper",
-        "title": "hoveltre",
-        "url": "https://snl.no/hoveltre"
+        "category": "Økonomisk historie",
+        "title": "dyrtid",
+        "url": "https://snl.no/dyrtid"
       },
       {
-        "category": "Norske ord og uttrykk",
-        "title": "slå i hartkorn",
-        "url": "https://snl.no/sl%C3%A5_i_hartkorn"
+        "category": "Wales’ geografi",
+        "title": "Cardiff",
+        "url": "https://snl.no/Cardiff"
       },
       {
-        "category": "Tidligere politikere",
-        "title": "Børge Brende",
-        "url": "https://snl.no/B%C3%B8rge_Brende"
+        "category": "Keltisk",
+        "title": "walisisk",
+        "url": "https://snl.no/walisisk"
       },
       {
-        "category": "Tidligere politikere",
-        "title": "Erik Solheim",
-        "url": "https://snl.no/Erik_Solheim"
+        "category": "Traktater",
+        "title": "Svalbardtraktaten",
+        "url": "https://snl.no/Svalbardtraktaten"
       },
       {
-        "category": "Internasjonal politikk",
-        "title": "industriland",
-        "url": "https://snl.no/industriland"
+        "category": "Norske politikere",
+        "title": "Dag Inge Ulstein",
+        "url": "https://snl.no/Dag_Inge_Ulstein"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "USAs nyere lyrikk",
-        "title": "John Ashbery",
-        "url": "https://snl.no/John_Ashbery"
+        "category": "Guatemalas samtidshistorie",
+        "title": "Efraín Ríos Montt",
+        "url": "https://snl.no/Efra%C3%ADn_R%C3%ADos_Montt"
       },
       {
-        "category": "Personer i IT-historie",
-        "title": "Fredrik Rosing Bull",
-        "url": "https://snl.no/Fredrik_Rosing_Bull"
+        "category": "Forsvarets historie",
+        "title": "Norges forsvar fra 1800 til 1814",
+        "url": "https://snl.no/Norges_forsvar_fra_1800_til_1814"
       },
       {
-        "category": "Stavkirker",
-        "title": "Ringebu stavkirke",
-        "url": "https://snl.no/Ringebu_stavkirke"
+        "category": "Internasjonale klassiske komponister og verker 1900–1950",
+        "title": "Mykola Leontovytsj",
+        "url": "https://snl.no/Mykola_Leontovytsj"
       },
       {
-        "category": "Guttenavn",
-        "title": "James – mannsnamn",
-        "url": "https://snl.no/James_-_mannsnamn"
+        "category": "Historiske religioner",
+        "title": "jomfrugudinner",
+        "url": "https://snl.no/jomfrugudinner"
       },
       {
-        "category": "Internasjonale klassiske instrumentalister",
-        "title": "Tabea Zimmermann",
-        "url": "https://snl.no/Tabea_Zimmermann"
+        "category": "Sovjetunionens historie",
+        "title": "Jelena Bonner",
+        "url": "https://snl.no/Jelena_Bonner"
       }
     ]
   }
