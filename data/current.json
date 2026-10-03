@@ -1,16 +1,11 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Wales’ geografi",
-        "title": "Wales",
-        "url": "https://snl.no/Wales"
-      },
-      {
-        "category": "Norske diplomater",
-        "title": "Anne Beathe Kristiansen",
-        "url": "https://snl.no/Anne_Beathe_Kristiansen"
+        "category": "Japans litteratur",
+        "title": "Yasunari Kawabata",
+        "url": "https://snl.no/Yasunari_Kawabata"
       },
       {
         "category": "Internasjonal fotball",
@@ -18,68 +13,73 @@
         "url": "https://snl.no/Nasjonsligaen"
       },
       {
-        "category": "Periodesystemet",
-        "title": "periodesystemet",
-        "url": "https://snl.no/periodesystemet"
+        "category": "Japans litteratur",
+        "title": "Japans litteratur",
+        "url": "https://snl.no/Japans_litteratur"
       },
       {
-        "category": "Norske diplomater",
-        "title": "Gunn Jorid Roset",
-        "url": "https://snl.no/Gunn_Jorid_Roset"
+        "category": "Norges litteratur 1800-tallet",
+        "title": "Jonas Lie",
+        "url": "https://snl.no/Jonas_Lie"
+      },
+      {
+        "category": "Kriminalsaker",
+        "title": "Holmlia-drapet",
+        "url": "https://snl.no/Holmlia-drapet"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Økonomisk historie",
-        "title": "dyrtid",
-        "url": "https://snl.no/dyrtid"
+        "category": "Friergrasslekta",
+        "title": "teff",
+        "url": "https://snl.no/teff"
       },
       {
         "category": "Wales’ geografi",
-        "title": "Cardiff",
-        "url": "https://snl.no/Cardiff"
-      },
-      {
-        "category": "Keltisk",
-        "title": "walisisk",
-        "url": "https://snl.no/walisisk"
-      },
-      {
-        "category": "Traktater",
-        "title": "Svalbardtraktaten",
-        "url": "https://snl.no/Svalbardtraktaten"
+        "title": "Wales",
+        "url": "https://snl.no/Wales"
       },
       {
         "category": "Norske politikere",
-        "title": "Dag Inge Ulstein",
-        "url": "https://snl.no/Dag_Inge_Ulstein"
+        "title": "Kamzy Gunaratnam",
+        "url": "https://snl.no/Kamzy_Gunaratnam"
+      },
+      {
+        "category": "Sykdommer i nervesystemet",
+        "title": "ALS – amyotrofisk lateral sklerose",
+        "url": "https://sml.snl.no/ALS_-_amyotrofisk_lateral_sklerose"
+      },
+      {
+        "category": "Romerrikets historie",
+        "title": "Romerriket",
+        "url": "https://snl.no/Romerriket"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Guatemalas samtidshistorie",
-        "title": "Efraín Ríos Montt",
-        "url": "https://snl.no/Efra%C3%ADn_R%C3%ADos_Montt"
+        "category": "Odontologi",
+        "title": "tannrengjøring",
+        "url": "https://sml.snl.no/tannrengj%C3%B8ring"
       },
       {
-        "category": "Forsvarets historie",
-        "title": "Norges forsvar fra 1800 til 1814",
-        "url": "https://snl.no/Norges_forsvar_fra_1800_til_1814"
+        "category": "Postimpresjonisme, symbolisme og art nouveau",
+        "title": "Augusto Giacometti",
+        "url": "https://snl.no/Augusto_Giacometti"
       },
       {
-        "category": "Internasjonale klassiske komponister og verker 1900–1950",
-        "title": "Mykola Leontovytsj",
-        "url": "https://snl.no/Mykola_Leontovytsj"
+        "category": "Eswatinis samtidshistorie",
+        "title": "Eswatinis politiske system",
+        "url": "https://snl.no/Eswatinis_politiske_system"
       },
       {
-        "category": "Historiske religioner",
-        "title": "jomfrugudinner",
-        "url": "https://snl.no/jomfrugudinner"
+        "category": "Cubas samtidshistorie",
+        "title": "Medier på Cuba",
+        "url": "https://snl.no/Medier_p%C3%A5_Cuba"
       },
       {
-        "category": "Sovjetunionens historie",
-        "title": "Jelena Bonner",
-        "url": "https://snl.no/Jelena_Bonner"
+        "category": "Storbritannia og Nord-Irlands nyere litteratur",
+        "title": "Jojo Moyes",
+        "url": "https://snl.no/Jojo_Moyes"
       }
     ]
   }

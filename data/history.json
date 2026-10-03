@@ -11203,5 +11203,88 @@
         "url": "https://snl.no/Jelena_Bonner"
       }
     ]
+  },
+  "2026-10-03": {
+    "Mest lest i går": [
+      {
+        "category": "Japans litteratur",
+        "title": "Yasunari Kawabata",
+        "url": "https://snl.no/Yasunari_Kawabata"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Nasjonsligaen",
+        "url": "https://snl.no/Nasjonsligaen"
+      },
+      {
+        "category": "Japans litteratur",
+        "title": "Japans litteratur",
+        "url": "https://snl.no/Japans_litteratur"
+      },
+      {
+        "category": "Norges litteratur 1800-tallet",
+        "title": "Jonas Lie",
+        "url": "https://snl.no/Jonas_Lie"
+      },
+      {
+        "category": "Kriminalsaker",
+        "title": "Holmlia-drapet",
+        "url": "https://snl.no/Holmlia-drapet"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Friergrasslekta",
+        "title": "teff",
+        "url": "https://snl.no/teff"
+      },
+      {
+        "category": "Wales’ geografi",
+        "title": "Wales",
+        "url": "https://snl.no/Wales"
+      },
+      {
+        "category": "Norske politikere",
+        "title": "Kamzy Gunaratnam",
+        "url": "https://snl.no/Kamzy_Gunaratnam"
+      },
+      {
+        "category": "Sykdommer i nervesystemet",
+        "title": "ALS – amyotrofisk lateral sklerose",
+        "url": "https://sml.snl.no/ALS_-_amyotrofisk_lateral_sklerose"
+      },
+      {
+        "category": "Romerrikets historie",
+        "title": "Romerriket",
+        "url": "https://snl.no/Romerriket"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Odontologi",
+        "title": "tannrengjøring",
+        "url": "https://sml.snl.no/tannrengj%C3%B8ring"
+      },
+      {
+        "category": "Postimpresjonisme, symbolisme og art nouveau",
+        "title": "Augusto Giacometti",
+        "url": "https://snl.no/Augusto_Giacometti"
+      },
+      {
+        "category": "Eswatinis samtidshistorie",
+        "title": "Eswatinis politiske system",
+        "url": "https://snl.no/Eswatinis_politiske_system"
+      },
+      {
+        "category": "Cubas samtidshistorie",
+        "title": "Medier på Cuba",
+        "url": "https://snl.no/Medier_p%C3%A5_Cuba"
+      },
+      {
+        "category": "Storbritannia og Nord-Irlands nyere litteratur",
+        "title": "Jojo Moyes",
+        "url": "https://snl.no/Jojo_Moyes"
+      }
+    ]
   }
 }
