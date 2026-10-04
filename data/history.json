@@ -11286,5 +11286,88 @@
         "url": "https://snl.no/Jojo_Moyes"
       }
     ]
+  },
+  "2026-10-04": {
+    "Mest lest i går": [
+      {
+        "category": "Japans litteratur",
+        "title": "Yasunari Kawabata",
+        "url": "https://snl.no/Yasunari_Kawabata"
+      },
+      {
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
+      },
+      {
+        "category": "Norges litteratur 1800-tallet",
+        "title": "Jonas Lie",
+        "url": "https://snl.no/Jonas_Lie"
+      },
+      {
+        "category": "TV- og radioprogrammer",
+        "title": "Skal vi danse",
+        "url": "https://snl.no/Skal_vi_danse"
+      },
+      {
+        "category": "Den kalde krigen",
+        "title": "U-2-episoden",
+        "url": "https://snl.no/U-2-episoden"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Norske tegnekunstnere",
+        "title": "Ivar Mauritz-Hansen",
+        "url": "https://snl.no/Ivar_Mauritz-Hansen"
+      },
+      {
+        "category": "Japans litteratur",
+        "title": "Japans litteratur",
+        "url": "https://snl.no/Japans_litteratur"
+      },
+      {
+        "category": "Restauranter og kokker i Norge",
+        "title": "Christopher Haatuft",
+        "url": "https://snl.no/Christopher_Haatuft"
+      },
+      {
+        "category": "Offentlig politikk og administrasjon",
+        "title": "byråkrati",
+        "url": "https://snl.no/byr%C3%A5krati"
+      },
+      {
+        "category": "Bunad, kofter og folkedrakt",
+        "title": "bunadskategoriar",
+        "url": "https://snl.no/bunadskategoriar"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Internasjonale klassiske komponister og verker 1950–2000",
+        "title": "John Cage",
+        "url": "https://snl.no/John_Cage"
+      },
+      {
+        "category": "Internasjonal pop og rock",
+        "title": "Lindisfarne – popgruppe",
+        "url": "https://snl.no/Lindisfarne_-_popgruppe"
+      },
+      {
+        "category": "Biografier i luftfart",
+        "title": "Viggo Widerøe",
+        "url": "https://snl.no/Viggo_Wider%C3%B8e"
+      },
+      {
+        "category": "Tidligere aviser på Sørlandet",
+        "title": "Folketanken",
+        "url": "https://snl.no/Folketanken"
+      },
+      {
+        "category": "Tysklands nyere litteratur",
+        "title": "Emine Sevgi Özdamar",
+        "url": "https://snl.no/Emine_Sevgi_%C3%96zdamar"
+      }
+    ]
   }
 }

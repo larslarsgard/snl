@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "categories": {
     "Mest lest i går": [
       {
@@ -8,14 +8,9 @@
         "url": "https://snl.no/Yasunari_Kawabata"
       },
       {
-        "category": "Internasjonal fotball",
-        "title": "Nasjonsligaen",
-        "url": "https://snl.no/Nasjonsligaen"
-      },
-      {
-        "category": "Japans litteratur",
-        "title": "Japans litteratur",
-        "url": "https://snl.no/Japans_litteratur"
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
       },
       {
         "category": "Norges litteratur 1800-tallet",
@@ -23,63 +18,68 @@
         "url": "https://snl.no/Jonas_Lie"
       },
       {
-        "category": "Kriminalsaker",
-        "title": "Holmlia-drapet",
-        "url": "https://snl.no/Holmlia-drapet"
+        "category": "TV- og radioprogrammer",
+        "title": "Skal vi danse",
+        "url": "https://snl.no/Skal_vi_danse"
+      },
+      {
+        "category": "Den kalde krigen",
+        "title": "U-2-episoden",
+        "url": "https://snl.no/U-2-episoden"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Friergrasslekta",
-        "title": "teff",
-        "url": "https://snl.no/teff"
+        "category": "Norske tegnekunstnere",
+        "title": "Ivar Mauritz-Hansen",
+        "url": "https://snl.no/Ivar_Mauritz-Hansen"
       },
       {
-        "category": "Wales’ geografi",
-        "title": "Wales",
-        "url": "https://snl.no/Wales"
+        "category": "Japans litteratur",
+        "title": "Japans litteratur",
+        "url": "https://snl.no/Japans_litteratur"
       },
       {
-        "category": "Norske politikere",
-        "title": "Kamzy Gunaratnam",
-        "url": "https://snl.no/Kamzy_Gunaratnam"
+        "category": "Restauranter og kokker i Norge",
+        "title": "Christopher Haatuft",
+        "url": "https://snl.no/Christopher_Haatuft"
       },
       {
-        "category": "Sykdommer i nervesystemet",
-        "title": "ALS – amyotrofisk lateral sklerose",
-        "url": "https://sml.snl.no/ALS_-_amyotrofisk_lateral_sklerose"
+        "category": "Offentlig politikk og administrasjon",
+        "title": "byråkrati",
+        "url": "https://snl.no/byr%C3%A5krati"
       },
       {
-        "category": "Romerrikets historie",
-        "title": "Romerriket",
-        "url": "https://snl.no/Romerriket"
+        "category": "Bunad, kofter og folkedrakt",
+        "title": "bunadskategoriar",
+        "url": "https://snl.no/bunadskategoriar"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Odontologi",
-        "title": "tannrengjøring",
-        "url": "https://sml.snl.no/tannrengj%C3%B8ring"
+        "category": "Internasjonale klassiske komponister og verker 1950–2000",
+        "title": "John Cage",
+        "url": "https://snl.no/John_Cage"
       },
       {
-        "category": "Postimpresjonisme, symbolisme og art nouveau",
-        "title": "Augusto Giacometti",
-        "url": "https://snl.no/Augusto_Giacometti"
+        "category": "Internasjonal pop og rock",
+        "title": "Lindisfarne – popgruppe",
+        "url": "https://snl.no/Lindisfarne_-_popgruppe"
       },
       {
-        "category": "Eswatinis samtidshistorie",
-        "title": "Eswatinis politiske system",
-        "url": "https://snl.no/Eswatinis_politiske_system"
+        "category": "Biografier i luftfart",
+        "title": "Viggo Widerøe",
+        "url": "https://snl.no/Viggo_Wider%C3%B8e"
       },
       {
-        "category": "Cubas samtidshistorie",
-        "title": "Medier på Cuba",
-        "url": "https://snl.no/Medier_p%C3%A5_Cuba"
+        "category": "Tidligere aviser på Sørlandet",
+        "title": "Folketanken",
+        "url": "https://snl.no/Folketanken"
       },
       {
-        "category": "Storbritannia og Nord-Irlands nyere litteratur",
-        "title": "Jojo Moyes",
-        "url": "https://snl.no/Jojo_Moyes"
+        "category": "Tysklands nyere litteratur",
+        "title": "Emine Sevgi Özdamar",
+        "url": "https://snl.no/Emine_Sevgi_%C3%96zdamar"
       }
     ]
   }
