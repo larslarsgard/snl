@@ -11369,5 +11369,88 @@
         "url": "https://snl.no/Emine_Sevgi_%C3%96zdamar"
       }
     ]
+  },
+  "2026-10-05": {
+    "Mest lest i går": [
+      {
+        "category": "Internasjonal fotball",
+        "title": "Nasjonsligaen",
+        "url": "https://snl.no/Nasjonsligaen"
+      },
+      {
+        "category": "Norske storgårder",
+        "title": "Ør",
+        "url": "https://snl.no/%C3%98r"
+      },
+      {
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
+      },
+      {
+        "category": "Japans litteratur",
+        "title": "Yasunari Kawabata",
+        "url": "https://snl.no/Yasunari_Kawabata"
+      },
+      {
+        "category": "Begreper i søm, klær og mote",
+        "title": "The New Look",
+        "url": "https://snl.no/The_New_Look"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Norges historie fra 1884 til 1940",
+        "title": "Birger Braadland",
+        "url": "https://snl.no/Birger_Braadland"
+      },
+      {
+        "category": "Biografier i nyere norsk historie",
+        "title": "Erik Braadland",
+        "url": "https://snl.no/Erik_Braadland"
+      },
+      {
+        "category": "Halden",
+        "title": "Ørsjøen",
+        "url": "https://snl.no/%C3%98rsj%C3%B8en"
+      },
+      {
+        "category": "Norske klassiske sangere",
+        "title": "Adrian Angelico",
+        "url": "https://snl.no/Adrian_Angelico"
+      },
+      {
+        "category": "Biografier i Den norske kirke",
+        "title": "Helge Hognestad",
+        "url": "https://snl.no/Helge_Hognestad"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Østerrikes litteratur på 1900-tallet",
+        "title": "Ernst Jandl",
+        "url": "https://snl.no/Ernst_Jandl"
+      },
+      {
+        "category": "Biografier i Den norske kirke",
+        "title": "Jacob Kærup",
+        "url": "https://snl.no/Jacob_K%C3%A6rup"
+      },
+      {
+        "category": "Norsk polarhistorie",
+        "title": "Maud-ekspedisjonen",
+        "url": "https://snl.no/Maud-ekspedisjonen"
+      },
+      {
+        "category": "Internasjonale dirigenter",
+        "title": "Eugene Ormandy",
+        "url": "https://snl.no/Eugene_Ormandy"
+      },
+      {
+        "category": "Midtøstens gamle kulturer",
+        "title": "Det gamle Israels litteratur",
+        "url": "https://snl.no/Det_gamle_Israels_litteratur"
+      }
+    ]
   }
 }

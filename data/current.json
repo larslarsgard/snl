@@ -1,11 +1,16 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Japans litteratur",
-        "title": "Yasunari Kawabata",
-        "url": "https://snl.no/Yasunari_Kawabata"
+        "category": "Internasjonal fotball",
+        "title": "Nasjonsligaen",
+        "url": "https://snl.no/Nasjonsligaen"
+      },
+      {
+        "category": "Norske storgårder",
+        "title": "Ør",
+        "url": "https://snl.no/%C3%98r"
       },
       {
         "category": "Vind og atmosfæriske bølger",
@@ -13,73 +18,68 @@
         "url": "https://snl.no/Beauforts_vindskala"
       },
       {
-        "category": "Norges litteratur 1800-tallet",
-        "title": "Jonas Lie",
-        "url": "https://snl.no/Jonas_Lie"
+        "category": "Japans litteratur",
+        "title": "Yasunari Kawabata",
+        "url": "https://snl.no/Yasunari_Kawabata"
       },
       {
-        "category": "TV- og radioprogrammer",
-        "title": "Skal vi danse",
-        "url": "https://snl.no/Skal_vi_danse"
-      },
-      {
-        "category": "Den kalde krigen",
-        "title": "U-2-episoden",
-        "url": "https://snl.no/U-2-episoden"
+        "category": "Begreper i søm, klær og mote",
+        "title": "The New Look",
+        "url": "https://snl.no/The_New_Look"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Norske tegnekunstnere",
-        "title": "Ivar Mauritz-Hansen",
-        "url": "https://snl.no/Ivar_Mauritz-Hansen"
+        "category": "Norges historie fra 1884 til 1940",
+        "title": "Birger Braadland",
+        "url": "https://snl.no/Birger_Braadland"
       },
       {
-        "category": "Japans litteratur",
-        "title": "Japans litteratur",
-        "url": "https://snl.no/Japans_litteratur"
+        "category": "Biografier i nyere norsk historie",
+        "title": "Erik Braadland",
+        "url": "https://snl.no/Erik_Braadland"
       },
       {
-        "category": "Restauranter og kokker i Norge",
-        "title": "Christopher Haatuft",
-        "url": "https://snl.no/Christopher_Haatuft"
+        "category": "Halden",
+        "title": "Ørsjøen",
+        "url": "https://snl.no/%C3%98rsj%C3%B8en"
       },
       {
-        "category": "Offentlig politikk og administrasjon",
-        "title": "byråkrati",
-        "url": "https://snl.no/byr%C3%A5krati"
+        "category": "Norske klassiske sangere",
+        "title": "Adrian Angelico",
+        "url": "https://snl.no/Adrian_Angelico"
       },
       {
-        "category": "Bunad, kofter og folkedrakt",
-        "title": "bunadskategoriar",
-        "url": "https://snl.no/bunadskategoriar"
+        "category": "Biografier i Den norske kirke",
+        "title": "Helge Hognestad",
+        "url": "https://snl.no/Helge_Hognestad"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Internasjonale klassiske komponister og verker 1950–2000",
-        "title": "John Cage",
-        "url": "https://snl.no/John_Cage"
+        "category": "Østerrikes litteratur på 1900-tallet",
+        "title": "Ernst Jandl",
+        "url": "https://snl.no/Ernst_Jandl"
       },
       {
-        "category": "Internasjonal pop og rock",
-        "title": "Lindisfarne – popgruppe",
-        "url": "https://snl.no/Lindisfarne_-_popgruppe"
+        "category": "Biografier i Den norske kirke",
+        "title": "Jacob Kærup",
+        "url": "https://snl.no/Jacob_K%C3%A6rup"
       },
       {
-        "category": "Biografier i luftfart",
-        "title": "Viggo Widerøe",
-        "url": "https://snl.no/Viggo_Wider%C3%B8e"
+        "category": "Norsk polarhistorie",
+        "title": "Maud-ekspedisjonen",
+        "url": "https://snl.no/Maud-ekspedisjonen"
       },
       {
-        "category": "Tidligere aviser på Sørlandet",
-        "title": "Folketanken",
-        "url": "https://snl.no/Folketanken"
+        "category": "Internasjonale dirigenter",
+        "title": "Eugene Ormandy",
+        "url": "https://snl.no/Eugene_Ormandy"
       },
       {
-        "category": "Tysklands nyere litteratur",
-        "title": "Emine Sevgi Özdamar",
-        "url": "https://snl.no/Emine_Sevgi_%C3%96zdamar"
+        "category": "Midtøstens gamle kulturer",
+        "title": "Det gamle Israels litteratur",
+        "url": "https://snl.no/Det_gamle_Israels_litteratur"
       }
     ]
   }
