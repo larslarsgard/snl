@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Internasjonal fotball",
-        "title": "Nasjonsligaen",
-        "url": "https://snl.no/Nasjonsligaen"
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
       },
       {
         "category": "Norske storgårder",
@@ -13,73 +13,73 @@
         "url": "https://snl.no/%C3%98r"
       },
       {
-        "category": "Vind og atmosfæriske bølger",
-        "title": "Beauforts vindskala",
-        "url": "https://snl.no/Beauforts_vindskala"
+        "category": "Norsk kunstnerleksikon",
+        "title": "Arent Christensen",
+        "url": "https://nkl.snl.no/Arent_Christensen"
       },
       {
-        "category": "Japans litteratur",
-        "title": "Yasunari Kawabata",
-        "url": "https://snl.no/Yasunari_Kawabata"
+        "category": "Internasjonal fotball",
+        "title": "Nasjonsligaen",
+        "url": "https://snl.no/Nasjonsligaen"
       },
-      {
-        "category": "Begreper i søm, klær og mote",
-        "title": "The New Look",
-        "url": "https://snl.no/The_New_Look"
-      }
-    ],
-    "Uvanlig mye lest": [
       {
         "category": "Norges historie fra 1884 til 1940",
         "title": "Birger Braadland",
         "url": "https://snl.no/Birger_Braadland"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Utdanning i verden",
+        "title": "verdens lærerdag – 5. oktober",
+        "url": "https://snl.no/verdens_l%C3%A6rerdag_-_5._oktober"
+      },
+      {
+        "category": "Radiosendere og radiofyr",
+        "title": "Oslo kringkaster",
+        "url": "https://snl.no/Oslo_kringkaster"
+      },
+      {
+        "category": "Skøytesport",
+        "title": "de fire S-ene",
+        "url": "https://snl.no/de_fire_S-ene"
+      },
+      {
+        "category": "Grafikere fra 1900 til samtid",
+        "title": "Arent Christensen",
+        "url": "https://snl.no/Arent_Christensen"
       },
       {
         "category": "Biografier i nyere norsk historie",
         "title": "Erik Braadland",
         "url": "https://snl.no/Erik_Braadland"
-      },
-      {
-        "category": "Halden",
-        "title": "Ørsjøen",
-        "url": "https://snl.no/%C3%98rsj%C3%B8en"
-      },
-      {
-        "category": "Norske klassiske sangere",
-        "title": "Adrian Angelico",
-        "url": "https://snl.no/Adrian_Angelico"
-      },
-      {
-        "category": "Biografier i Den norske kirke",
-        "title": "Helge Hognestad",
-        "url": "https://snl.no/Helge_Hognestad"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Østerrikes litteratur på 1900-tallet",
-        "title": "Ernst Jandl",
-        "url": "https://snl.no/Ernst_Jandl"
+        "category": "Insekters anatomi og fysiologi",
+        "title": "bladminerere",
+        "url": "https://snl.no/bladminerere"
       },
       {
-        "category": "Biografier i Den norske kirke",
-        "title": "Jacob Kærup",
-        "url": "https://snl.no/Jacob_K%C3%A6rup"
+        "category": "Det gamle Egypt",
+        "title": "Shabakosteinen",
+        "url": "https://snl.no/Shabakosteinen"
       },
       {
-        "category": "Norsk polarhistorie",
-        "title": "Maud-ekspedisjonen",
-        "url": "https://snl.no/Maud-ekspedisjonen"
+        "category": "Jentenavn",
+        "title": "Karolina – kvinnenamn",
+        "url": "https://snl.no/Karolina_-_kvinnenamn"
       },
       {
-        "category": "Internasjonale dirigenter",
-        "title": "Eugene Ormandy",
-        "url": "https://snl.no/Eugene_Ormandy"
+        "category": "Virvelløse dyrs anatomi og fysiologi",
+        "title": "springgaffel",
+        "url": "https://snl.no/springgaffel"
       },
       {
-        "category": "Midtøstens gamle kulturer",
-        "title": "Det gamle Israels litteratur",
-        "url": "https://snl.no/Det_gamle_Israels_litteratur"
+        "category": "Historiske religioner",
+        "title": "jomfrugudinner",
+        "url": "https://snl.no/jomfrugudinner"
       }
     ]
   }
