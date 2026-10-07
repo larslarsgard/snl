@@ -11535,5 +11535,88 @@
         "url": "https://snl.no/jomfrugudinner"
       }
     ]
+  },
+  "2026-10-07": {
+    "Mest lest i går": [
+      {
+        "category": "Norske storgårder",
+        "title": "Ør",
+        "url": "https://snl.no/%C3%98r"
+      },
+      {
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
+      },
+      {
+        "category": "Norsk kunstnerleksikon",
+        "title": "Arent Christensen",
+        "url": "https://nkl.snl.no/Arent_Christensen"
+      },
+      {
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
+      },
+      {
+        "category": "Norges historie fra 1884 til 1940",
+        "title": "Birger Braadland",
+        "url": "https://snl.no/Birger_Braadland"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Biografier i nyere norsk historie",
+        "title": "Erik Braadland",
+        "url": "https://snl.no/Erik_Braadland"
+      },
+      {
+        "category": "Bakterier",
+        "title": "Yersinia pestis",
+        "url": "https://sml.snl.no/Yersinia_pestis"
+      },
+      {
+        "category": "Grafikere fra 1900 til samtid",
+        "title": "Arent Christensen",
+        "url": "https://snl.no/Arent_Christensen"
+      },
+      {
+        "category": "Norges geografi generelt",
+        "title": "Norges største breer",
+        "url": "https://snl.no/Norges_st%C3%B8rste_breer"
+      },
+      {
+        "category": "Japans litteratur",
+        "title": "Yasunari Kawabata",
+        "url": "https://snl.no/Yasunari_Kawabata"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Norske språkforskere og språkfolk",
+        "title": "Hans Ross",
+        "url": "https://snl.no/Hans_Ross"
+      },
+      {
+        "category": "Bombefly",
+        "title": "B-26 Marauder",
+        "url": "https://snl.no/B-26_Marauder"
+      },
+      {
+        "category": "Filmmusikk",
+        "title": "Jóhann Jóhannsson",
+        "url": "https://snl.no/J%C3%B3hann_J%C3%B3hannsson"
+      },
+      {
+        "category": "Barne- og ungdomslitteratur",
+        "title": "pekebøker",
+        "url": "https://snl.no/pekeb%C3%B8ker"
+      },
+      {
+        "category": "Sosial boligbygging",
+        "title": "Sosial boligbygging i Norden",
+        "url": "https://snl.no/Sosial_boligbygging_i_Norden"
+      }
+    ]
   }
 }

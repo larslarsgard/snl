@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Vind og atmosfæriske bølger",
-        "title": "Beauforts vindskala",
-        "url": "https://snl.no/Beauforts_vindskala"
-      },
       {
         "category": "Norske storgårder",
         "title": "Ør",
         "url": "https://snl.no/%C3%98r"
+      },
+      {
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
       },
       {
         "category": "Norsk kunstnerleksikon",
@@ -18,9 +18,9 @@
         "url": "https://nkl.snl.no/Arent_Christensen"
       },
       {
-        "category": "Internasjonal fotball",
-        "title": "Nasjonsligaen",
-        "url": "https://snl.no/Nasjonsligaen"
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
       },
       {
         "category": "Norges historie fra 1884 til 1940",
@@ -30,19 +30,14 @@
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Utdanning i verden",
-        "title": "verdens lærerdag – 5. oktober",
-        "url": "https://snl.no/verdens_l%C3%A6rerdag_-_5._oktober"
+        "category": "Biografier i nyere norsk historie",
+        "title": "Erik Braadland",
+        "url": "https://snl.no/Erik_Braadland"
       },
       {
-        "category": "Radiosendere og radiofyr",
-        "title": "Oslo kringkaster",
-        "url": "https://snl.no/Oslo_kringkaster"
-      },
-      {
-        "category": "Skøytesport",
-        "title": "de fire S-ene",
-        "url": "https://snl.no/de_fire_S-ene"
+        "category": "Bakterier",
+        "title": "Yersinia pestis",
+        "url": "https://sml.snl.no/Yersinia_pestis"
       },
       {
         "category": "Grafikere fra 1900 til samtid",
@@ -50,36 +45,41 @@
         "url": "https://snl.no/Arent_Christensen"
       },
       {
-        "category": "Biografier i nyere norsk historie",
-        "title": "Erik Braadland",
-        "url": "https://snl.no/Erik_Braadland"
+        "category": "Norges geografi generelt",
+        "title": "Norges største breer",
+        "url": "https://snl.no/Norges_st%C3%B8rste_breer"
+      },
+      {
+        "category": "Japans litteratur",
+        "title": "Yasunari Kawabata",
+        "url": "https://snl.no/Yasunari_Kawabata"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Insekters anatomi og fysiologi",
-        "title": "bladminerere",
-        "url": "https://snl.no/bladminerere"
+        "category": "Norske språkforskere og språkfolk",
+        "title": "Hans Ross",
+        "url": "https://snl.no/Hans_Ross"
       },
       {
-        "category": "Det gamle Egypt",
-        "title": "Shabakosteinen",
-        "url": "https://snl.no/Shabakosteinen"
+        "category": "Bombefly",
+        "title": "B-26 Marauder",
+        "url": "https://snl.no/B-26_Marauder"
       },
       {
-        "category": "Jentenavn",
-        "title": "Karolina – kvinnenamn",
-        "url": "https://snl.no/Karolina_-_kvinnenamn"
+        "category": "Filmmusikk",
+        "title": "Jóhann Jóhannsson",
+        "url": "https://snl.no/J%C3%B3hann_J%C3%B3hannsson"
       },
       {
-        "category": "Virvelløse dyrs anatomi og fysiologi",
-        "title": "springgaffel",
-        "url": "https://snl.no/springgaffel"
+        "category": "Barne- og ungdomslitteratur",
+        "title": "pekebøker",
+        "url": "https://snl.no/pekeb%C3%B8ker"
       },
       {
-        "category": "Historiske religioner",
-        "title": "jomfrugudinner",
-        "url": "https://snl.no/jomfrugudinner"
+        "category": "Sosial boligbygging",
+        "title": "Sosial boligbygging i Norden",
+        "url": "https://snl.no/Sosial_boligbygging_i_Norden"
       }
     ]
   }
