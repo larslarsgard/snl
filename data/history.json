@@ -11618,5 +11618,88 @@
         "url": "https://snl.no/Sosial_boligbygging_i_Norden"
       }
     ]
+  },
+  "2026-10-08": {
+    "Mest lest i går": [
+      {
+        "category": "Kulturpolitikk og -administrasjon",
+        "title": "æreslønn",
+        "url": "https://snl.no/%C3%A6resl%C3%B8nn"
+      },
+      {
+        "category": "Norges historie fra 1050 til 1300",
+        "title": "Gardarike",
+        "url": "https://snl.no/Gardarike"
+      },
+      {
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
+      },
+      {
+        "category": "Norsk kunstnerleksikon",
+        "title": "Arent Christensen",
+        "url": "https://nkl.snl.no/Arent_Christensen"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Bunader fra Østfold",
+        "title": "Herregårdsbunad fra Østfold",
+        "url": "https://snl.no/Herreg%C3%A5rdsbunad_fra_%C3%98stfold"
+      },
+      {
+        "category": "Plantesykdommer",
+        "title": "rattelvirus",
+        "url": "https://snl.no/rattelvirus"
+      },
+      {
+        "category": "Fysisk oseanografi",
+        "title": "brakkvann",
+        "url": "https://snl.no/brakkvann"
+      },
+      {
+        "category": "Bakterier",
+        "title": "Yersinia pestis",
+        "url": "https://sml.snl.no/Yersinia_pestis"
+      },
+      {
+        "category": "Grafikere fra 1900 til samtid",
+        "title": "Arent Christensen",
+        "url": "https://snl.no/Arent_Christensen"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Barokk billedkunst",
+        "title": "Elias Fiigenschoug",
+        "url": "https://snl.no/Elias_Fiigenschoug"
+      },
+      {
+        "category": "Internasjonale dirigenter",
+        "title": "Charles Mackerras",
+        "url": "https://snl.no/Charles_Mackerras"
+      },
+      {
+        "category": "Begreper i diplomati",
+        "title": "flytteplikt",
+        "url": "https://snl.no/flytteplikt"
+      },
+      {
+        "category": "Tidligere norske aviser",
+        "title": "Den Borgerlige Arbeider",
+        "url": "https://snl.no/Den_Borgerlige_Arbeider"
+      },
+      {
+        "category": "Interstellart stoff",
+        "title": "stjernedannelse",
+        "url": "https://snl.no/stjernedannelse"
+      }
+    ]
   }
 }

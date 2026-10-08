@@ -1,21 +1,16 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Norske storgårder",
-        "title": "Ør",
-        "url": "https://snl.no/%C3%98r"
+        "category": "Kulturpolitikk og -administrasjon",
+        "title": "æreslønn",
+        "url": "https://snl.no/%C3%A6resl%C3%B8nn"
       },
       {
-        "category": "Vind og atmosfæriske bølger",
-        "title": "Beauforts vindskala",
-        "url": "https://snl.no/Beauforts_vindskala"
-      },
-      {
-        "category": "Norsk kunstnerleksikon",
-        "title": "Arent Christensen",
-        "url": "https://nkl.snl.no/Arent_Christensen"
+        "category": "Norges historie fra 1050 til 1300",
+        "title": "Gardarike",
+        "url": "https://snl.no/Gardarike"
       },
       {
         "category": "Periodesystemet",
@@ -23,16 +18,31 @@
         "url": "https://snl.no/periodesystemet"
       },
       {
-        "category": "Norges historie fra 1884 til 1940",
-        "title": "Birger Braadland",
-        "url": "https://snl.no/Birger_Braadland"
+        "category": "Norsk kunstnerleksikon",
+        "title": "Arent Christensen",
+        "url": "https://nkl.snl.no/Arent_Christensen"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Biografier i nyere norsk historie",
-        "title": "Erik Braadland",
-        "url": "https://snl.no/Erik_Braadland"
+        "category": "Bunader fra Østfold",
+        "title": "Herregårdsbunad fra Østfold",
+        "url": "https://snl.no/Herreg%C3%A5rdsbunad_fra_%C3%98stfold"
+      },
+      {
+        "category": "Plantesykdommer",
+        "title": "rattelvirus",
+        "url": "https://snl.no/rattelvirus"
+      },
+      {
+        "category": "Fysisk oseanografi",
+        "title": "brakkvann",
+        "url": "https://snl.no/brakkvann"
       },
       {
         "category": "Bakterier",
@@ -43,43 +53,33 @@
         "category": "Grafikere fra 1900 til samtid",
         "title": "Arent Christensen",
         "url": "https://snl.no/Arent_Christensen"
-      },
-      {
-        "category": "Norges geografi generelt",
-        "title": "Norges største breer",
-        "url": "https://snl.no/Norges_st%C3%B8rste_breer"
-      },
-      {
-        "category": "Japans litteratur",
-        "title": "Yasunari Kawabata",
-        "url": "https://snl.no/Yasunari_Kawabata"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Norske språkforskere og språkfolk",
-        "title": "Hans Ross",
-        "url": "https://snl.no/Hans_Ross"
+        "category": "Barokk billedkunst",
+        "title": "Elias Fiigenschoug",
+        "url": "https://snl.no/Elias_Fiigenschoug"
       },
       {
-        "category": "Bombefly",
-        "title": "B-26 Marauder",
-        "url": "https://snl.no/B-26_Marauder"
+        "category": "Internasjonale dirigenter",
+        "title": "Charles Mackerras",
+        "url": "https://snl.no/Charles_Mackerras"
       },
       {
-        "category": "Filmmusikk",
-        "title": "Jóhann Jóhannsson",
-        "url": "https://snl.no/J%C3%B3hann_J%C3%B3hannsson"
+        "category": "Begreper i diplomati",
+        "title": "flytteplikt",
+        "url": "https://snl.no/flytteplikt"
       },
       {
-        "category": "Barne- og ungdomslitteratur",
-        "title": "pekebøker",
-        "url": "https://snl.no/pekeb%C3%B8ker"
+        "category": "Tidligere norske aviser",
+        "title": "Den Borgerlige Arbeider",
+        "url": "https://snl.no/Den_Borgerlige_Arbeider"
       },
       {
-        "category": "Sosial boligbygging",
-        "title": "Sosial boligbygging i Norden",
-        "url": "https://snl.no/Sosial_boligbygging_i_Norden"
+        "category": "Interstellart stoff",
+        "title": "stjernedannelse",
+        "url": "https://snl.no/stjernedannelse"
       }
     ]
   }
