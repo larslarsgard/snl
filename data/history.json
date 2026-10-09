@@ -11701,5 +11701,88 @@
         "url": "https://snl.no/stjernedannelse"
       }
     ]
+  },
+  "2026-10-09": {
+    "Mest lest i går": [
+      {
+        "category": "Kulturpolitikk og -administrasjon",
+        "title": "æreslønn",
+        "url": "https://snl.no/%C3%A6resl%C3%B8nn"
+      },
+      {
+        "category": "Nordamerikansk nyere lyrikk",
+        "title": "Anne Carson",
+        "url": "https://snl.no/Anne_Carson"
+      },
+      {
+        "category": "Bank",
+        "title": "hawala",
+        "url": "https://snl.no/hawala"
+      },
+      {
+        "category": "Nobelprisene",
+        "title": "Nobelprisen i litteratur",
+        "url": "https://snl.no/Nobelprisen_i_litteratur"
+      },
+      {
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Norsk lyrikk 1960–2000",
+        "title": "Tone Hødnebø",
+        "url": "https://snl.no/Tone_H%C3%B8dneb%C3%B8"
+      },
+      {
+        "category": "Kulturpolitikk og -administrasjon",
+        "title": "kunstnerlønn",
+        "url": "https://snl.no/kunstnerl%C3%B8nn"
+      },
+      {
+        "category": "Plantesykdommer",
+        "title": "rattelvirus",
+        "url": "https://snl.no/rattelvirus"
+      },
+      {
+        "category": "Verdensmusikk",
+        "title": "Mari Boine",
+        "url": "https://snl.no/Mari_Boine"
+      },
+      {
+        "category": "Verk i norsk litteratur",
+        "title": "Jeg velger meg april",
+        "url": "https://snl.no/Jeg_velger_meg_april"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Barokk billedkunst",
+        "title": "Elias Fiigenschoug",
+        "url": "https://snl.no/Elias_Fiigenschoug"
+      },
+      {
+        "category": "Biografier innen matematikk",
+        "title": "Axel Guldberg",
+        "url": "https://snl.no/Axel_Guldberg"
+      },
+      {
+        "category": "Bilhistoriske biografier",
+        "title": "Hans Hagerup Krag",
+        "url": "https://snl.no/Hans_Hagerup_Krag"
+      },
+      {
+        "category": "Sveits’ franskspråklige litteratur",
+        "title": "Isabelle de Charrière",
+        "url": "https://snl.no/Isabelle_de_Charri%C3%A8re"
+      },
+      {
+        "category": "Smykkekunstnere",
+        "title": "Camilla Luihn",
+        "url": "https://snl.no/Camilla_Luihn"
+      }
+    ]
   }
 }
