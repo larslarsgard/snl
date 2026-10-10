@@ -1,26 +1,26 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Menneskerettigheter",
+        "title": "Navi Pillay",
+        "url": "https://snl.no/Navi_Pillay"
+      },
+      {
+        "category": "Nobelprisene",
+        "title": "Nobels fredspris",
+        "url": "https://snl.no/Nobels_fredspris"
+      },
+      {
+        "category": "Biografier i nyere norsk historie",
+        "title": "Jørgen Watne Frydnes",
+        "url": "https://snl.no/J%C3%B8rgen_Watne_Frydnes"
+      },
       {
         "category": "Kulturpolitikk og -administrasjon",
         "title": "æreslønn",
         "url": "https://snl.no/%C3%A6resl%C3%B8nn"
-      },
-      {
-        "category": "Nordamerikansk nyere lyrikk",
-        "title": "Anne Carson",
-        "url": "https://snl.no/Anne_Carson"
-      },
-      {
-        "category": "Bank",
-        "title": "hawala",
-        "url": "https://snl.no/hawala"
-      },
-      {
-        "category": "Nobelprisene",
-        "title": "Nobelprisen i litteratur",
-        "url": "https://snl.no/Nobelprisen_i_litteratur"
       },
       {
         "category": "Periodesystemet",
@@ -30,56 +30,56 @@
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Norsk lyrikk 1960–2000",
-        "title": "Tone Hødnebø",
-        "url": "https://snl.no/Tone_H%C3%B8dneb%C3%B8"
+        "category": "Grotter og karstlandskap",
+        "title": "doline",
+        "url": "https://snl.no/doline"
       },
       {
-        "category": "Kulturpolitikk og -administrasjon",
-        "title": "kunstnerlønn",
-        "url": "https://snl.no/kunstnerl%C3%B8nn"
+        "category": "Internasjonal teknologi- og industrihistorie",
+        "title": "Alfred Nobel",
+        "url": "https://snl.no/Alfred_Nobel"
       },
       {
-        "category": "Plantesykdommer",
-        "title": "rattelvirus",
-        "url": "https://snl.no/rattelvirus"
+        "category": "Bank",
+        "title": "hawala",
+        "url": "https://snl.no/hawala"
       },
       {
-        "category": "Verdensmusikk",
-        "title": "Mari Boine",
-        "url": "https://snl.no/Mari_Boine"
+        "category": "Nordamerikansk nyere lyrikk",
+        "title": "Anne Carson",
+        "url": "https://snl.no/Anne_Carson"
       },
       {
-        "category": "Verk i norsk litteratur",
-        "title": "Jeg velger meg april",
-        "url": "https://snl.no/Jeg_velger_meg_april"
+        "category": "Nobelprisene",
+        "title": "Nobelprisene",
+        "url": "https://snl.no/Nobelprisene"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Barokk billedkunst",
-        "title": "Elias Fiigenschoug",
-        "url": "https://snl.no/Elias_Fiigenschoug"
+        "category": "Semittiske språk",
+        "title": "Harris Birkeland",
+        "url": "https://snl.no/Harris_Birkeland"
       },
       {
-        "category": "Biografier innen matematikk",
-        "title": "Axel Guldberg",
-        "url": "https://snl.no/Axel_Guldberg"
+        "category": "Iraks samtidshistorie",
+        "title": "Muqtada al-Sadr",
+        "url": "https://snl.no/Muqtada_al-Sadr"
       },
       {
-        "category": "Bilhistoriske biografier",
-        "title": "Hans Hagerup Krag",
-        "url": "https://snl.no/Hans_Hagerup_Krag"
+        "category": "Rettskrivingsreformer i norsk",
+        "title": "Rettskrivingsreforma av 1959",
+        "url": "https://snl.no/Rettskrivingsreforma_av_1959"
       },
       {
-        "category": "Sveits’ franskspråklige litteratur",
-        "title": "Isabelle de Charrière",
-        "url": "https://snl.no/Isabelle_de_Charri%C3%A8re"
+        "category": "Norske arkitekter fram til 1900",
+        "title": "arkitektfagets historie i Norge",
+        "url": "https://snl.no/arkitektfagets_historie_i_Norge"
       },
       {
-        "category": "Smykkekunstnere",
-        "title": "Camilla Luihn",
-        "url": "https://snl.no/Camilla_Luihn"
+        "category": "Samisk samtidshistorie",
+        "title": "Sametingsvalget 2021",
+        "url": "https://snl.no/Sametingsvalget_2021"
       }
     ]
   }

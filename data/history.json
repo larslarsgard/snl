@@ -11784,5 +11784,88 @@
         "url": "https://snl.no/Camilla_Luihn"
       }
     ]
+  },
+  "2026-10-10": {
+    "Mest lest i går": [
+      {
+        "category": "Menneskerettigheter",
+        "title": "Navi Pillay",
+        "url": "https://snl.no/Navi_Pillay"
+      },
+      {
+        "category": "Nobelprisene",
+        "title": "Nobels fredspris",
+        "url": "https://snl.no/Nobels_fredspris"
+      },
+      {
+        "category": "Biografier i nyere norsk historie",
+        "title": "Jørgen Watne Frydnes",
+        "url": "https://snl.no/J%C3%B8rgen_Watne_Frydnes"
+      },
+      {
+        "category": "Kulturpolitikk og -administrasjon",
+        "title": "æreslønn",
+        "url": "https://snl.no/%C3%A6resl%C3%B8nn"
+      },
+      {
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Grotter og karstlandskap",
+        "title": "doline",
+        "url": "https://snl.no/doline"
+      },
+      {
+        "category": "Internasjonal teknologi- og industrihistorie",
+        "title": "Alfred Nobel",
+        "url": "https://snl.no/Alfred_Nobel"
+      },
+      {
+        "category": "Bank",
+        "title": "hawala",
+        "url": "https://snl.no/hawala"
+      },
+      {
+        "category": "Nordamerikansk nyere lyrikk",
+        "title": "Anne Carson",
+        "url": "https://snl.no/Anne_Carson"
+      },
+      {
+        "category": "Nobelprisene",
+        "title": "Nobelprisene",
+        "url": "https://snl.no/Nobelprisene"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Semittiske språk",
+        "title": "Harris Birkeland",
+        "url": "https://snl.no/Harris_Birkeland"
+      },
+      {
+        "category": "Iraks samtidshistorie",
+        "title": "Muqtada al-Sadr",
+        "url": "https://snl.no/Muqtada_al-Sadr"
+      },
+      {
+        "category": "Rettskrivingsreformer i norsk",
+        "title": "Rettskrivingsreforma av 1959",
+        "url": "https://snl.no/Rettskrivingsreforma_av_1959"
+      },
+      {
+        "category": "Norske arkitekter fram til 1900",
+        "title": "arkitektfagets historie i Norge",
+        "url": "https://snl.no/arkitektfagets_historie_i_Norge"
+      },
+      {
+        "category": "Samisk samtidshistorie",
+        "title": "Sametingsvalget 2021",
+        "url": "https://snl.no/Sametingsvalget_2021"
+      }
+    ]
   }
 }
