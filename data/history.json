@@ -11867,5 +11867,83 @@
         "url": "https://snl.no/Sametingsvalget_2021"
       }
     ]
+  },
+  "2026-10-11": {
+    "Mest lest i går": [
+      {
+        "category": "Menneskerettigheter",
+        "title": "Navi Pillay",
+        "url": "https://snl.no/Navi_Pillay"
+      },
+      {
+        "category": "Nobelprisene",
+        "title": "Nobelkomiteen",
+        "url": "https://snl.no/Nobelkomiteen"
+      },
+      {
+        "category": "Musseronger",
+        "title": "kransmusserong",
+        "url": "https://snl.no/kransmusserong"
+      },
+      {
+        "category": "TV- og radioprogrammer",
+        "title": "Skal vi danse",
+        "url": "https://snl.no/Skal_vi_danse"
+      },
+      {
+        "category": "Nobelprisene",
+        "title": "Nobels fredspris",
+        "url": "https://snl.no/Nobels_fredspris"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Norske storgårder",
+        "title": "Fritsø",
+        "url": "https://snl.no/Frits%C3%B8"
+      },
+      {
+        "category": "Internasjonal teknologi- og industrihistorie",
+        "title": "Alfred Nobel",
+        "url": "https://snl.no/Alfred_Nobel"
+      },
+      {
+        "category": "Det gamle testamentet",
+        "title": "De ti bud",
+        "url": "https://snl.no/De_ti_bud"
+      },
+      {
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Biografier medisinsk historie",
+        "title": "Knut Aukland",
+        "url": "https://snl.no/Knut_Aukland"
+      },
+      {
+        "category": "Marine og sjøstridskrefter",
+        "title": "flåtekonferanser",
+        "url": "https://snl.no/fl%C3%A5tekonferanser"
+      },
+      {
+        "category": "Tysklands litteratur 1950–2000",
+        "title": "Klabund",
+        "url": "https://snl.no/Klabund"
+      },
+      {
+        "category": "Postverk",
+        "title": "postkasse",
+        "url": "https://snl.no/postkasse"
+      },
+      {
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "termitt",
+        "url": "https://snl.no/termitt"
+      }
+    ]
   }
 }
