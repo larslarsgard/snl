@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Jemens samtidshistorie",
+        "title": "Houthi-bevegelsen",
+        "url": "https://snl.no/Houthi-bevegelsen"
+      },
       {
         "category": "Menneskerettigheter",
         "title": "Navi Pillay",
         "url": "https://snl.no/Navi_Pillay"
-      },
-      {
-        "category": "Nobelprisene",
-        "title": "Nobelkomiteen",
-        "url": "https://snl.no/Nobelkomiteen"
       },
       {
         "category": "Musseronger",
@@ -18,26 +18,26 @@
         "url": "https://snl.no/kransmusserong"
       },
       {
-        "category": "TV- og radioprogrammer",
-        "title": "Skal vi danse",
-        "url": "https://snl.no/Skal_vi_danse"
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
       },
       {
-        "category": "Nobelprisene",
-        "title": "Nobels fredspris",
-        "url": "https://snl.no/Nobels_fredspris"
+        "category": "Norsk kunstnerleksikon",
+        "title": "Arent Christensen",
+        "url": "https://nkl.snl.no/Arent_Christensen"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Norske storgårder",
-        "title": "Fritsø",
-        "url": "https://snl.no/Frits%C3%B8"
+        "category": "USAs litteratur 1950–2000",
+        "title": "John Steinbeck",
+        "url": "https://snl.no/John_Steinbeck"
       },
       {
-        "category": "Internasjonal teknologi- og industrihistorie",
-        "title": "Alfred Nobel",
-        "url": "https://snl.no/Alfred_Nobel"
+        "category": "Norsk polarhistorie",
+        "title": "Helge Ingstad",
+        "url": "https://snl.no/Helge_Ingstad"
       },
       {
         "category": "Det gamle testamentet",
@@ -45,36 +45,41 @@
         "url": "https://snl.no/De_ti_bud"
       },
       {
-        "category": "Vind og atmosfæriske bølger",
-        "title": "Beauforts vindskala",
-        "url": "https://snl.no/Beauforts_vindskala"
+        "category": "Revmatologi",
+        "title": "isjias",
+        "url": "https://sml.snl.no/isjias"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Biografier medisinsk historie",
-        "title": "Knut Aukland",
-        "url": "https://snl.no/Knut_Aukland"
+        "category": "Norges litteratur 1900–1960",
+        "title": "Idar Handagard",
+        "url": "https://snl.no/Idar_Handagard"
       },
       {
-        "category": "Marine og sjøstridskrefter",
-        "title": "flåtekonferanser",
-        "url": "https://snl.no/fl%C3%A5tekonferanser"
+        "category": "Bilhistoriske biografier",
+        "title": "Hans Hagerup Krag",
+        "url": "https://snl.no/Hans_Hagerup_Krag"
       },
       {
-        "category": "Tysklands litteratur 1950–2000",
-        "title": "Klabund",
-        "url": "https://snl.no/Klabund"
+        "category": "Belarus’ litteratur",
+        "title": "Janka Kupala",
+        "url": "https://snl.no/Janka_Kupala"
       },
       {
-        "category": "Postverk",
-        "title": "postkasse",
-        "url": "https://snl.no/postkasse"
+        "category": "Eubalaena",
+        "title": "nordkaper",
+        "url": "https://snl.no/nordkaper"
       },
       {
-        "category": "Energetiske materialer og sprengningsteknikk",
-        "title": "termitt",
-        "url": "https://snl.no/termitt"
+        "category": "Storbritannia og Nord-Irlands litteratur på 1800-tallet",
+        "title": "Anna Laetitia Barbauld",
+        "url": "https://snl.no/Anna_Laetitia_Barbauld"
       }
     ]
   }
