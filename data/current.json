@@ -1,85 +1,85 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
+      },
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
+      },
+      {
+        "category": "Hinduisme",
+        "title": "hinduisme",
+        "url": "https://snl.no/hinduisme"
+      },
       {
         "category": "Første verdenskrig",
         "title": "første verdenskrig",
         "url": "https://snl.no/f%C3%B8rste_verdenskrig"
       },
       {
-        "category": "Norsk kunstnerleksikon",
-        "title": "Arent Christensen",
-        "url": "https://nkl.snl.no/Arent_Christensen"
-      },
-      {
-        "category": "Menneskerettigheter",
-        "title": "Navi Pillay",
-        "url": "https://snl.no/Navi_Pillay"
-      },
-      {
         "category": "Periodesystemet",
         "title": "periodesystemet",
         "url": "https://snl.no/periodesystemet"
-      },
-      {
-        "category": "Norges litteratur 1800-tallet",
-        "title": "Henrik Ibsen",
-        "url": "https://snl.no/Henrik_Ibsen"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Folkemusikk",
-        "title": "Hans Fredrik Jacobsen",
-        "url": "https://snl.no/Hans_Fredrik_Jacobsen"
+        "category": "Klimapolitikk",
+        "title": "klimakvoter",
+        "url": "https://snl.no/klimakvoter"
       },
       {
-        "category": "Norsk pop og rock",
-        "title": "Helene Bøksle",
-        "url": "https://snl.no/Helene_B%C3%B8ksle"
+        "category": "Norrøn religion",
+        "title": "Ratatosk",
+        "url": "https://snl.no/Ratatosk"
       },
       {
-        "category": "Ekvatorial-Guineas historie",
-        "title": "Francisco Macías Nguema",
-        "url": "https://snl.no/Francisco_Mac%C3%ADas_Nguema"
+        "category": "Jemens samtidshistorie",
+        "title": "Houthi-bevegelsen",
+        "url": "https://snl.no/Houthi-bevegelsen"
+      },
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "slaget om Narvik",
+        "url": "https://snl.no/slaget_om_Narvik"
       },
       {
         "category": "Grafikere fra 1900 til samtid",
         "title": "Arent Christensen",
         "url": "https://snl.no/Arent_Christensen"
-      },
-      {
-        "category": "Folketro",
-        "title": "halloween",
-        "url": "https://snl.no/halloween"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Stavkirker",
-        "title": "Kaupanger stavkirke",
-        "url": "https://snl.no/Kaupanger_stavkirke"
+        "category": "Eswatinis samtidshistorie",
+        "title": "Eswatinis politiske system",
+        "url": "https://snl.no/Eswatinis_politiske_system"
       },
       {
         "category": "Militant islamisme",
-        "title": "Sayyid Qutb",
-        "url": "https://snl.no/Sayyid_Qutb"
+        "title": "Ayman al-Zawahiri",
+        "url": "https://snl.no/Ayman_al-Zawahiri"
       },
       {
-        "category": "Utforsking av solsystemet",
-        "title": "OSIRIS-REx",
-        "url": "https://snl.no/OSIRIS-REx"
+        "category": "Militant islamisme",
+        "title": "Palestinsk islamsk jihad",
+        "url": "https://snl.no/Palestinsk_islamsk_jihad"
       },
       {
-        "category": "Storbritannia og Nord-Irlands litteratur på 1700-tallet",
-        "title": "Charlotte Lennox",
-        "url": "https://snl.no/Charlotte_Lennox"
+        "category": "Hellenismen",
+        "title": "Arsinoe 2. Filadelfos",
+        "url": "https://snl.no/Arsinoe_2._Filadelfos"
       },
       {
-        "category": "Teknologi",
-        "title": "parabolsk reflektor",
-        "url": "https://snl.no/parabolsk_reflektor"
+        "category": "Internasjonale universiteter og høgskoler",
+        "title": "University of the West Indies",
+        "url": "https://snl.no/University_of_the_West_Indies"
       }
     ]
   }

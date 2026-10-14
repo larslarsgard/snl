@@ -12111,5 +12111,88 @@
         "url": "https://snl.no/parabolsk_reflektor"
       }
     ]
+  },
+  "2026-10-14": {
+    "Mest lest i går": [
+      {
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
+      },
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
+      },
+      {
+        "category": "Hinduisme",
+        "title": "hinduisme",
+        "url": "https://snl.no/hinduisme"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Klimapolitikk",
+        "title": "klimakvoter",
+        "url": "https://snl.no/klimakvoter"
+      },
+      {
+        "category": "Norrøn religion",
+        "title": "Ratatosk",
+        "url": "https://snl.no/Ratatosk"
+      },
+      {
+        "category": "Jemens samtidshistorie",
+        "title": "Houthi-bevegelsen",
+        "url": "https://snl.no/Houthi-bevegelsen"
+      },
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "slaget om Narvik",
+        "url": "https://snl.no/slaget_om_Narvik"
+      },
+      {
+        "category": "Grafikere fra 1900 til samtid",
+        "title": "Arent Christensen",
+        "url": "https://snl.no/Arent_Christensen"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Eswatinis samtidshistorie",
+        "title": "Eswatinis politiske system",
+        "url": "https://snl.no/Eswatinis_politiske_system"
+      },
+      {
+        "category": "Militant islamisme",
+        "title": "Ayman al-Zawahiri",
+        "url": "https://snl.no/Ayman_al-Zawahiri"
+      },
+      {
+        "category": "Militant islamisme",
+        "title": "Palestinsk islamsk jihad",
+        "url": "https://snl.no/Palestinsk_islamsk_jihad"
+      },
+      {
+        "category": "Hellenismen",
+        "title": "Arsinoe 2. Filadelfos",
+        "url": "https://snl.no/Arsinoe_2._Filadelfos"
+      },
+      {
+        "category": "Internasjonale universiteter og høgskoler",
+        "title": "University of the West Indies",
+        "url": "https://snl.no/University_of_the_West_Indies"
+      }
+    ]
   }
 }
