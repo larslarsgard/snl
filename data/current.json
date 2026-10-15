@@ -1,21 +1,11 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Vind og atmosfæriske bølger",
-        "title": "Beauforts vindskala",
-        "url": "https://snl.no/Beauforts_vindskala"
-      },
       {
         "category": "Norges historie fra 1940 til 1945",
         "title": "Henry Rinnan",
         "url": "https://snl.no/Henry_Rinnan"
-      },
-      {
-        "category": "Hinduisme",
-        "title": "hinduisme",
-        "url": "https://snl.no/hinduisme"
       },
       {
         "category": "Første verdenskrig",
@@ -26,60 +16,70 @@
         "category": "Periodesystemet",
         "title": "periodesystemet",
         "url": "https://snl.no/periodesystemet"
+      },
+      {
+        "category": "Hinduisme",
+        "title": "hinduisme",
+        "url": "https://snl.no/hinduisme"
+      },
+      {
+        "category": "Norges litteratur 1800-tallet",
+        "title": "Henrik Ibsen",
+        "url": "https://snl.no/Henrik_Ibsen"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Klimapolitikk",
-        "title": "klimakvoter",
-        "url": "https://snl.no/klimakvoter"
+        "category": "Internasjonale fotografer og fotokunstnere",
+        "title": "Diane Arbus",
+        "url": "https://snl.no/Diane_Arbus"
       },
       {
-        "category": "Norrøn religion",
-        "title": "Ratatosk",
-        "url": "https://snl.no/Ratatosk"
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "vinternatt",
+        "url": "https://snl.no/vinternatt"
       },
       {
-        "category": "Jemens samtidshistorie",
-        "title": "Houthi-bevegelsen",
-        "url": "https://snl.no/Houthi-bevegelsen"
+        "category": "Motiver fra og om oldtiden og antikken",
+        "title": "Nike – mytologisk skikkelse",
+        "url": "https://snl.no/Nike_-_mytologisk_skikkelse"
       },
       {
-        "category": "Norges historie fra 1940 til 1945",
-        "title": "slaget om Narvik",
-        "url": "https://snl.no/slaget_om_Narvik"
+        "category": "Internasjonal barne- og ungdomslitteratur",
+        "title": "Ole Brumm",
+        "url": "https://snl.no/Ole_Brumm"
       },
       {
-        "category": "Grafikere fra 1900 til samtid",
-        "title": "Arent Christensen",
-        "url": "https://snl.no/Arent_Christensen"
+        "category": "Verdens dyreliv",
+        "title": "Dyreliv i Australia",
+        "url": "https://snl.no/Dyreliv_i_Australia"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Eswatinis samtidshistorie",
-        "title": "Eswatinis politiske system",
-        "url": "https://snl.no/Eswatinis_politiske_system"
+        "category": "Skulptur og mosaikk i renessansen og barokken",
+        "title": "Bernardo Rossellino",
+        "url": "https://snl.no/Bernardo_Rossellino"
       },
       {
-        "category": "Militant islamisme",
-        "title": "Ayman al-Zawahiri",
-        "url": "https://snl.no/Ayman_al-Zawahiri"
+        "category": "Haitis litteratur",
+        "title": "Gary Victor",
+        "url": "https://snl.no/Gary_Victor"
       },
       {
-        "category": "Militant islamisme",
-        "title": "Palestinsk islamsk jihad",
-        "url": "https://snl.no/Palestinsk_islamsk_jihad"
+        "category": "Barne- og ungdomslitteratur",
+        "title": "guttebøker",
+        "url": "https://snl.no/gutteb%C3%B8ker"
       },
       {
-        "category": "Hellenismen",
-        "title": "Arsinoe 2. Filadelfos",
-        "url": "https://snl.no/Arsinoe_2._Filadelfos"
+        "category": "Sosial boligbygging",
+        "title": "Sosial boligbygging i Norden",
+        "url": "https://snl.no/Sosial_boligbygging_i_Norden"
       },
       {
-        "category": "Internasjonale universiteter og høgskoler",
-        "title": "University of the West Indies",
-        "url": "https://snl.no/University_of_the_West_Indies"
+        "category": "Glasskunstnere og keramikere",
+        "title": "Jacob Bjorheim",
+        "url": "https://snl.no/Jacob_Bjorheim"
       }
     ]
   }

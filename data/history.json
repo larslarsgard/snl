@@ -12194,5 +12194,88 @@
         "url": "https://snl.no/University_of_the_West_Indies"
       }
     ]
+  },
+  "2026-10-15": {
+    "Mest lest i går": [
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
+      },
+      {
+        "category": "Hinduisme",
+        "title": "hinduisme",
+        "url": "https://snl.no/hinduisme"
+      },
+      {
+        "category": "Norges litteratur 1800-tallet",
+        "title": "Henrik Ibsen",
+        "url": "https://snl.no/Henrik_Ibsen"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Internasjonale fotografer og fotokunstnere",
+        "title": "Diane Arbus",
+        "url": "https://snl.no/Diane_Arbus"
+      },
+      {
+        "category": "Folkelige skikker og tradisjoner",
+        "title": "vinternatt",
+        "url": "https://snl.no/vinternatt"
+      },
+      {
+        "category": "Motiver fra og om oldtiden og antikken",
+        "title": "Nike – mytologisk skikkelse",
+        "url": "https://snl.no/Nike_-_mytologisk_skikkelse"
+      },
+      {
+        "category": "Internasjonal barne- og ungdomslitteratur",
+        "title": "Ole Brumm",
+        "url": "https://snl.no/Ole_Brumm"
+      },
+      {
+        "category": "Verdens dyreliv",
+        "title": "Dyreliv i Australia",
+        "url": "https://snl.no/Dyreliv_i_Australia"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Skulptur og mosaikk i renessansen og barokken",
+        "title": "Bernardo Rossellino",
+        "url": "https://snl.no/Bernardo_Rossellino"
+      },
+      {
+        "category": "Haitis litteratur",
+        "title": "Gary Victor",
+        "url": "https://snl.no/Gary_Victor"
+      },
+      {
+        "category": "Barne- og ungdomslitteratur",
+        "title": "guttebøker",
+        "url": "https://snl.no/gutteb%C3%B8ker"
+      },
+      {
+        "category": "Sosial boligbygging",
+        "title": "Sosial boligbygging i Norden",
+        "url": "https://snl.no/Sosial_boligbygging_i_Norden"
+      },
+      {
+        "category": "Glasskunstnere og keramikere",
+        "title": "Jacob Bjorheim",
+        "url": "https://snl.no/Jacob_Bjorheim"
+      }
+    ]
   }
 }
