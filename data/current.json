@@ -1,11 +1,16 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Kriminalsaker",
-        "title": "Torgersen-saken",
-        "url": "https://snl.no/Torgersen-saken"
+        "category": "Hol",
+        "title": "Skurdalen",
+        "url": "https://snl.no/Skurdalen"
+      },
+      {
+        "category": "Lyn og torden",
+        "title": "Sankt Elms ild",
+        "url": "https://snl.no/Sankt_Elms_ild"
       },
       {
         "category": "Første verdenskrig",
@@ -13,73 +18,68 @@
         "url": "https://snl.no/f%C3%B8rste_verdenskrig"
       },
       {
-        "category": "Periodesystemet",
-        "title": "periodesystemet",
-        "url": "https://snl.no/periodesystemet"
+        "category": "Eksistensialisme",
+        "title": "nihilisme",
+        "url": "https://snl.no/nihilisme"
       },
       {
         "category": "Hinduisme",
         "title": "hinduisme",
         "url": "https://snl.no/hinduisme"
-      },
-      {
-        "category": "Buddhisme",
-        "title": "buddhisme",
-        "url": "https://snl.no/buddhisme"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Embets- og tjenestepersoner",
-        "title": "Svein Gjedrem",
-        "url": "https://snl.no/Svein_Gjedrem"
+        "category": "Macaca",
+        "title": "makaker",
+        "url": "https://snl.no/makaker"
       },
       {
-        "category": "Biografier innen prosessrett",
-        "title": "Cato Schiøtz",
-        "url": "https://snl.no/Cato_Schi%C3%B8tz"
+        "category": "Lerkeslekta",
+        "title": "lerk – bartre",
+        "url": "https://snl.no/lerk_-_bartre"
+      },
+      {
+        "category": "Straffemetoder",
+        "title": "giljotin",
+        "url": "https://snl.no/giljotin"
+      },
+      {
+        "category": "Molekylærbiologi",
+        "title": "peptider",
+        "url": "https://sml.snl.no/peptider"
       },
       {
         "category": "Kriminalsaker",
-        "title": "Liland-saken",
-        "url": "https://snl.no/Liland-saken"
-      },
-      {
-        "category": "Motiver fra og om oldtiden og antikken",
-        "title": "Nike – mytologisk skikkelse",
-        "url": "https://snl.no/Nike_-_mytologisk_skikkelse"
-      },
-      {
-        "category": "Arbeidsrett",
-        "title": "barnearbeid",
-        "url": "https://snl.no/barnearbeid"
+        "title": "Torgersen-saken",
+        "url": "https://snl.no/Torgersen-saken"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Norske skuespillere",
-        "title": "Maryon Eilertsen",
-        "url": "https://snl.no/Maryon_Eilertsen"
+        "category": "Ecuadors samtidshistorie",
+        "title": "Rafael Correa",
+        "url": "https://snl.no/Rafael_Correa"
       },
       {
-        "category": "Sveriges litteratur på 1500- og 1600-tallet",
-        "title": "Olaus Magnus",
-        "url": "https://snl.no/Olaus_Magnus"
+        "category": "Skotsk fotball",
+        "title": "Kenny Dalglish",
+        "url": "https://snl.no/Kenny_Dalglish"
       },
       {
-        "category": "Israels samtidshistorie",
-        "title": "Ariel Sharon",
-        "url": "https://snl.no/Ariel_Sharon"
+        "category": "Jentenavn",
+        "title": "Judit – kvinnenamn",
+        "url": "https://snl.no/Judit_-_kvinnenamn"
       },
       {
-        "category": "Republikken Kinas historie (1912–1949)",
-        "title": "Wang Jingwei",
-        "url": "https://snl.no/Wang_Jingwei"
+        "category": "Universet",
+        "title": "protoplanetarisk tåke",
+        "url": "https://snl.no/protoplanetarisk_t%C3%A5ke"
       },
       {
-        "category": "Øvrige språk og språkfamilier",
-        "title": "dyirbal",
-        "url": "https://snl.no/dyirbal"
+        "category": "Iraks historie",
+        "title": "Iraks samtidshistorie",
+        "url": "https://snl.no/Iraks_samtidshistorie"
       }
     ]
   }
