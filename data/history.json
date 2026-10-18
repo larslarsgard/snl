@@ -12443,5 +12443,78 @@
         "url": "https://snl.no/Iraks_samtidshistorie"
       }
     ]
+  },
+  "2026-10-18": {
+    "Mest lest i går": [
+      {
+        "category": "Amerikansk politikk",
+        "title": "mellomvalg – USA",
+        "url": "https://snl.no/mellomvalg_-_USA"
+      },
+      {
+        "category": "TV- og radioprogrammer",
+        "title": "Skal vi danse",
+        "url": "https://snl.no/Skal_vi_danse"
+      },
+      {
+        "category": "Lyn og torden",
+        "title": "Sankt Elms ild",
+        "url": "https://snl.no/Sankt_Elms_ild"
+      },
+      {
+        "category": "Sex",
+        "title": "BDSM",
+        "url": "https://sml.snl.no/BDSM"
+      },
+      {
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Andefamilien",
+        "title": "mandarinand",
+        "url": "https://snl.no/mandarinand"
+      },
+      {
+        "category": "Personlighetsforstyrrelser",
+        "title": "narsissistisk personlighetsforstyrrelse",
+        "url": "https://sml.snl.no/narsissistisk_personlighetsforstyrrelse"
+      },
+      {
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Internasjonale tegnekunstnere",
+        "title": "Charles-Nicolas Cochin – den yngre",
+        "url": "https://snl.no/Charles-Nicolas_Cochin_-_den_yngre"
+      },
+      {
+        "category": "Fotohistoriske biografier",
+        "title": "Roger Fenton",
+        "url": "https://snl.no/Roger_Fenton"
+      },
+      {
+        "category": "Biologisk psykologi",
+        "title": "løgndetektor",
+        "url": "https://snl.no/l%C3%B8gndetektor"
+      },
+      {
+        "category": "Norske fotografer og fotokunstnere",
+        "title": "Anders Beer Wilse",
+        "url": "https://snl.no/Anders_Beer_Wilse"
+      },
+      {
+        "category": "Tysk-romerske rike",
+        "title": "Fredrik den vakre – tysk konge",
+        "url": "https://snl.no/Fredrik_den_vakre_-_tysk_konge"
+      }
+    ]
   }
 }
