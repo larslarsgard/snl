@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "categories": {
     "Mest lest i går": [
       {
@@ -8,14 +8,36 @@
         "url": "https://snl.no/mellomvalg_-_USA"
       },
       {
-        "category": "TV- og radioprogrammer",
-        "title": "Skal vi danse",
-        "url": "https://snl.no/Skal_vi_danse"
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
+      },
+      {
+        "category": "Tidligere politikere",
+        "title": "Jan Egeland",
+        "url": "https://snl.no/Jan_Egeland"
+      },
+      {
+        "category": "Tidligere politikere",
+        "title": "Åslaug Haga",
+        "url": "https://snl.no/%C3%85slaug_Haga"
       },
       {
         "category": "Lyn og torden",
         "title": "Sankt Elms ild",
         "url": "https://snl.no/Sankt_Elms_ild"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Fransk politikk",
+        "title": "de gule vestene",
+        "url": "https://snl.no/de_gule_vestene"
+      },
+      {
+        "category": "Andefamilien",
+        "title": "mandarinand",
+        "url": "https://snl.no/mandarinand"
       },
       {
         "category": "Sex",
@@ -23,53 +45,41 @@
         "url": "https://sml.snl.no/BDSM"
       },
       {
-        "category": "Periodesystemet",
-        "title": "periodesystemet",
-        "url": "https://snl.no/periodesystemet"
-      }
-    ],
-    "Uvanlig mye lest": [
-      {
-        "category": "Andefamilien",
-        "title": "mandarinand",
-        "url": "https://snl.no/mandarinand"
+        "category": "Folketro",
+        "title": "halloween",
+        "url": "https://snl.no/halloween"
       },
       {
-        "category": "Personlighetsforstyrrelser",
-        "title": "narsissistisk personlighetsforstyrrelse",
-        "url": "https://sml.snl.no/narsissistisk_personlighetsforstyrrelse"
-      },
-      {
-        "category": "Vind og atmosfæriske bølger",
-        "title": "Beauforts vindskala",
-        "url": "https://snl.no/Beauforts_vindskala"
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Internasjonale tegnekunstnere",
-        "title": "Charles-Nicolas Cochin – den yngre",
-        "url": "https://snl.no/Charles-Nicolas_Cochin_-_den_yngre"
+        "category": "Langrenn",
+        "title": "Anette Bøe",
+        "url": "https://snl.no/Anette_B%C3%B8e"
       },
       {
-        "category": "Fotohistoriske biografier",
-        "title": "Roger Fenton",
-        "url": "https://snl.no/Roger_Fenton"
+        "category": "Senegals litteratur",
+        "title": "Boubacar Boris Diop",
+        "url": "https://snl.no/Boubacar_Boris_Diop"
       },
       {
-        "category": "Biologisk psykologi",
-        "title": "løgndetektor",
-        "url": "https://snl.no/l%C3%B8gndetektor"
+        "category": "Republikken Kongos litteratur",
+        "title": "Sony Lab'ou Tansi",
+        "url": "https://snl.no/Sony_Lab'ou_Tansi"
       },
       {
-        "category": "Norske fotografer og fotokunstnere",
-        "title": "Anders Beer Wilse",
-        "url": "https://snl.no/Anders_Beer_Wilse"
+        "category": "Energi og ressurs",
+        "title": "IEA – Det internasjonale energibyrået",
+        "url": "https://snl.no/IEA_-_Det_internasjonale_energibyr%C3%A5et"
       },
       {
-        "category": "Tysk-romerske rike",
-        "title": "Fredrik den vakre – tysk konge",
-        "url": "https://snl.no/Fredrik_den_vakre_-_tysk_konge"
+        "category": "Jazz",
+        "title": "jazzsong",
+        "url": "https://snl.no/jazzsong"
       }
     ]
   }
