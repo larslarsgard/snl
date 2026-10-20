@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Amerikansk politikk",
-        "title": "mellomvalg – USA",
-        "url": "https://snl.no/mellomvalg_-_USA"
+        "category": "Tekstilkunst",
+        "title": "Baldisholteppet",
+        "url": "https://snl.no/Baldisholteppet"
       },
       {
         "category": "Vind og atmosfæriske bølger",
@@ -13,73 +13,73 @@
         "url": "https://snl.no/Beauforts_vindskala"
       },
       {
-        "category": "Tidligere politikere",
-        "title": "Jan Egeland",
-        "url": "https://snl.no/Jan_Egeland"
+        "category": "Amerikansk politikk",
+        "title": "mellomvalg – USA",
+        "url": "https://snl.no/mellomvalg_-_USA"
       },
       {
-        "category": "Tidligere politikere",
-        "title": "Åslaug Haga",
-        "url": "https://snl.no/%C3%85slaug_Haga"
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
       },
       {
-        "category": "Lyn og torden",
-        "title": "Sankt Elms ild",
-        "url": "https://snl.no/Sankt_Elms_ild"
+        "category": "Hinduisme",
+        "title": "hinduisme",
+        "url": "https://snl.no/hinduisme"
       }
     ],
     "Uvanlig mye lest": [
+      {
+        "category": "Galathea",
+        "title": "krinakrabbe",
+        "url": "https://snl.no/krinakrabbe"
+      },
       {
         "category": "Fransk politikk",
         "title": "de gule vestene",
         "url": "https://snl.no/de_gule_vestene"
       },
       {
-        "category": "Andefamilien",
-        "title": "mandarinand",
-        "url": "https://snl.no/mandarinand"
+        "category": "Lyn og torden",
+        "title": "Sankt Elms ild",
+        "url": "https://snl.no/Sankt_Elms_ild"
       },
       {
-        "category": "Sex",
-        "title": "BDSM",
-        "url": "https://sml.snl.no/BDSM"
+        "category": "FN",
+        "title": "FN – Forente nasjoner",
+        "url": "https://snl.no/FN_-_Forente_nasjoner"
       },
       {
-        "category": "Folketro",
-        "title": "halloween",
-        "url": "https://snl.no/halloween"
-      },
-      {
-        "category": "Norges historie fra 1940 til 1945",
-        "title": "Henry Rinnan",
-        "url": "https://snl.no/Henry_Rinnan"
+        "category": "Verdens dyreliv",
+        "title": "Dyreliv i Australia",
+        "url": "https://snl.no/Dyreliv_i_Australia"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Langrenn",
-        "title": "Anette Bøe",
-        "url": "https://snl.no/Anette_B%C3%B8e"
+        "category": "De ortodokse kirker",
+        "title": "Aleksij 1.",
+        "url": "https://snl.no/Aleksij_1."
       },
       {
-        "category": "Senegals litteratur",
-        "title": "Boubacar Boris Diop",
-        "url": "https://snl.no/Boubacar_Boris_Diop"
+        "category": "Kulturhistorikere, etnologer og folklorister",
+        "title": "Rikard Berge",
+        "url": "https://snl.no/Rikard_Berge"
       },
       {
-        "category": "Republikken Kongos litteratur",
-        "title": "Sony Lab'ou Tansi",
-        "url": "https://snl.no/Sony_Lab'ou_Tansi"
+        "category": "Norges historie fra 1300 til 1660",
+        "title": "Margreta Petersdatter",
+        "url": "https://snl.no/Margreta_Petersdatter"
       },
       {
-        "category": "Energi og ressurs",
-        "title": "IEA – Det internasjonale energibyrået",
-        "url": "https://snl.no/IEA_-_Det_internasjonale_energibyr%C3%A5et"
+        "category": "FNs generalsekretærer",
+        "title": "Javier Pérez de Cuéllar",
+        "url": "https://snl.no/Javier_P%C3%A9rez_de_Cu%C3%A9llar"
       },
       {
-        "category": "Jazz",
-        "title": "jazzsong",
-        "url": "https://snl.no/jazzsong"
+        "category": "Middelalderkunst",
+        "title": "gotikken – skulptur og maleri",
+        "url": "https://snl.no/gotikken_-_skulptur_og_maleri"
       }
     ]
   }

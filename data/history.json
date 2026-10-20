@@ -12599,5 +12599,88 @@
         "url": "https://snl.no/jazzsong"
       }
     ]
+  },
+  "2026-10-20": {
+    "Mest lest i går": [
+      {
+        "category": "Tekstilkunst",
+        "title": "Baldisholteppet",
+        "url": "https://snl.no/Baldisholteppet"
+      },
+      {
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
+      },
+      {
+        "category": "Amerikansk politikk",
+        "title": "mellomvalg – USA",
+        "url": "https://snl.no/mellomvalg_-_USA"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Hinduisme",
+        "title": "hinduisme",
+        "url": "https://snl.no/hinduisme"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Galathea",
+        "title": "krinakrabbe",
+        "url": "https://snl.no/krinakrabbe"
+      },
+      {
+        "category": "Fransk politikk",
+        "title": "de gule vestene",
+        "url": "https://snl.no/de_gule_vestene"
+      },
+      {
+        "category": "Lyn og torden",
+        "title": "Sankt Elms ild",
+        "url": "https://snl.no/Sankt_Elms_ild"
+      },
+      {
+        "category": "FN",
+        "title": "FN – Forente nasjoner",
+        "url": "https://snl.no/FN_-_Forente_nasjoner"
+      },
+      {
+        "category": "Verdens dyreliv",
+        "title": "Dyreliv i Australia",
+        "url": "https://snl.no/Dyreliv_i_Australia"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "De ortodokse kirker",
+        "title": "Aleksij 1.",
+        "url": "https://snl.no/Aleksij_1."
+      },
+      {
+        "category": "Kulturhistorikere, etnologer og folklorister",
+        "title": "Rikard Berge",
+        "url": "https://snl.no/Rikard_Berge"
+      },
+      {
+        "category": "Norges historie fra 1300 til 1660",
+        "title": "Margreta Petersdatter",
+        "url": "https://snl.no/Margreta_Petersdatter"
+      },
+      {
+        "category": "FNs generalsekretærer",
+        "title": "Javier Pérez de Cuéllar",
+        "url": "https://snl.no/Javier_P%C3%A9rez_de_Cu%C3%A9llar"
+      },
+      {
+        "category": "Middelalderkunst",
+        "title": "gotikken – skulptur og maleri",
+        "url": "https://snl.no/gotikken_-_skulptur_og_maleri"
+      }
+    ]
   }
 }
