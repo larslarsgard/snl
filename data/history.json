@@ -12682,5 +12682,88 @@
         "url": "https://snl.no/gotikken_-_skulptur_og_maleri"
       }
     ]
+  },
+  "2026-10-21": {
+    "Mest lest i går": [
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Norske militære biografier",
+        "title": "Torolf Rein",
+        "url": "https://snl.no/Torolf_Rein"
+      },
+      {
+        "category": "Amerikansk politikk",
+        "title": "mellomvalg – USA",
+        "url": "https://snl.no/mellomvalg_-_USA"
+      },
+      {
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
+      },
+      {
+        "category": "Hinduisme",
+        "title": "hinduisme",
+        "url": "https://snl.no/hinduisme"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Kristtornslekta",
+        "title": "mate",
+        "url": "https://snl.no/mate"
+      },
+      {
+        "category": "Tekster i islam",
+        "title": "haram",
+        "url": "https://snl.no/haram"
+      },
+      {
+        "category": "Den demokratiske republikken Kongos historie",
+        "title": "Fristaten Kongo",
+        "url": "https://snl.no/Fristaten_Kongo"
+      },
+      {
+        "category": "Norske diplomater",
+        "title": "Kai Eide",
+        "url": "https://snl.no/Kai_Eide"
+      },
+      {
+        "category": "Fransk politikk",
+        "title": "de gule vestene",
+        "url": "https://snl.no/de_gule_vestene"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Lesothos geografi",
+        "title": "Økonomi og næringsliv i Lesotho",
+        "url": "https://snl.no/%C3%98konomi_og_n%C3%A6ringsliv_i_Lesotho"
+      },
+      {
+        "category": "Postimpresjonisme, symbolisme og art nouveau",
+        "title": "Matthijs Maris",
+        "url": "https://snl.no/Matthijs_Maris"
+      },
+      {
+        "category": "Personer i IT-historie",
+        "title": "Pål Spilling",
+        "url": "https://snl.no/P%C3%A5l_Spilling"
+      },
+      {
+        "category": "Animasjonsfilm",
+        "title": "Mikrofilm – animasjonsstudio",
+        "url": "https://snl.no/Mikrofilm_-_animasjonsstudio"
+      },
+      {
+        "category": "De ortodokse kirker",
+        "title": "Den gresk-ortodokse kirke i Jerusalem",
+        "url": "https://snl.no/Den_gresk-ortodokse_kirke_i_Jerusalem"
+      }
+    ]
   }
 }

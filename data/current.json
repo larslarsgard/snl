@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Tekstilkunst",
-        "title": "Baldisholteppet",
-        "url": "https://snl.no/Baldisholteppet"
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
       },
       {
-        "category": "Vind og atmosfæriske bølger",
-        "title": "Beauforts vindskala",
-        "url": "https://snl.no/Beauforts_vindskala"
+        "category": "Norske militære biografier",
+        "title": "Torolf Rein",
+        "url": "https://snl.no/Torolf_Rein"
       },
       {
         "category": "Amerikansk politikk",
@@ -18,9 +18,9 @@
         "url": "https://snl.no/mellomvalg_-_USA"
       },
       {
-        "category": "Første verdenskrig",
-        "title": "første verdenskrig",
-        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
       },
       {
         "category": "Hinduisme",
@@ -30,56 +30,56 @@
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Galathea",
-        "title": "krinakrabbe",
-        "url": "https://snl.no/krinakrabbe"
+        "category": "Kristtornslekta",
+        "title": "mate",
+        "url": "https://snl.no/mate"
+      },
+      {
+        "category": "Tekster i islam",
+        "title": "haram",
+        "url": "https://snl.no/haram"
+      },
+      {
+        "category": "Den demokratiske republikken Kongos historie",
+        "title": "Fristaten Kongo",
+        "url": "https://snl.no/Fristaten_Kongo"
+      },
+      {
+        "category": "Norske diplomater",
+        "title": "Kai Eide",
+        "url": "https://snl.no/Kai_Eide"
       },
       {
         "category": "Fransk politikk",
         "title": "de gule vestene",
         "url": "https://snl.no/de_gule_vestene"
-      },
-      {
-        "category": "Lyn og torden",
-        "title": "Sankt Elms ild",
-        "url": "https://snl.no/Sankt_Elms_ild"
-      },
-      {
-        "category": "FN",
-        "title": "FN – Forente nasjoner",
-        "url": "https://snl.no/FN_-_Forente_nasjoner"
-      },
-      {
-        "category": "Verdens dyreliv",
-        "title": "Dyreliv i Australia",
-        "url": "https://snl.no/Dyreliv_i_Australia"
       }
     ],
     "Sørgelig lite lest": [
       {
+        "category": "Lesothos geografi",
+        "title": "Økonomi og næringsliv i Lesotho",
+        "url": "https://snl.no/%C3%98konomi_og_n%C3%A6ringsliv_i_Lesotho"
+      },
+      {
+        "category": "Postimpresjonisme, symbolisme og art nouveau",
+        "title": "Matthijs Maris",
+        "url": "https://snl.no/Matthijs_Maris"
+      },
+      {
+        "category": "Personer i IT-historie",
+        "title": "Pål Spilling",
+        "url": "https://snl.no/P%C3%A5l_Spilling"
+      },
+      {
+        "category": "Animasjonsfilm",
+        "title": "Mikrofilm – animasjonsstudio",
+        "url": "https://snl.no/Mikrofilm_-_animasjonsstudio"
+      },
+      {
         "category": "De ortodokse kirker",
-        "title": "Aleksij 1.",
-        "url": "https://snl.no/Aleksij_1."
-      },
-      {
-        "category": "Kulturhistorikere, etnologer og folklorister",
-        "title": "Rikard Berge",
-        "url": "https://snl.no/Rikard_Berge"
-      },
-      {
-        "category": "Norges historie fra 1300 til 1660",
-        "title": "Margreta Petersdatter",
-        "url": "https://snl.no/Margreta_Petersdatter"
-      },
-      {
-        "category": "FNs generalsekretærer",
-        "title": "Javier Pérez de Cuéllar",
-        "url": "https://snl.no/Javier_P%C3%A9rez_de_Cu%C3%A9llar"
-      },
-      {
-        "category": "Middelalderkunst",
-        "title": "gotikken – skulptur og maleri",
-        "url": "https://snl.no/gotikken_-_skulptur_og_maleri"
+        "title": "Den gresk-ortodokse kirke i Jerusalem",
+        "url": "https://snl.no/Den_gresk-ortodokse_kirke_i_Jerusalem"
       }
     ]
   }
