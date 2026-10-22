@@ -12765,5 +12765,88 @@
         "url": "https://snl.no/Den_gresk-ortodokse_kirke_i_Jerusalem"
       }
     ]
+  },
+  "2026-10-22": {
+    "Mest lest i går": [
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Amerikansk politikk",
+        "title": "mellomvalg – USA",
+        "url": "https://snl.no/mellomvalg_-_USA"
+      },
+      {
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
+      },
+      {
+        "category": "Programmeringsspråk",
+        "title": "PHP",
+        "url": "https://snl.no/PHP"
+      },
+      {
+        "category": "Hinduisme",
+        "title": "hinduisme",
+        "url": "https://snl.no/hinduisme"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Kristtornslekta",
+        "title": "mate",
+        "url": "https://snl.no/mate"
+      },
+      {
+        "category": "Norsk lyrikk 1960–2000",
+        "title": "Arne Ruste",
+        "url": "https://snl.no/Arne_Ruste"
+      },
+      {
+        "category": "Norske militære biografier",
+        "title": "Torolf Rein",
+        "url": "https://snl.no/Torolf_Rein"
+      },
+      {
+        "category": "Norske diplomater",
+        "title": "Cecilie Annette Willoch",
+        "url": "https://snl.no/Cecilie_Annette_Willoch"
+      },
+      {
+        "category": "Verdens dyreliv",
+        "title": "Dyreliv i Australia",
+        "url": "https://snl.no/Dyreliv_i_Australia"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Glasskunstnere og keramikere",
+        "title": "Nora Gulbrandsen",
+        "url": "https://snl.no/Nora_Gulbrandsen"
+      },
+      {
+        "category": "Skulptur og mosaikk i renessansen og barokken",
+        "title": "Adriaen de Vries",
+        "url": "https://snl.no/Adriaen_de_Vries"
+      },
+      {
+        "category": "Republikken Kinas historie (1912–1949)",
+        "title": "Wang Jingwei",
+        "url": "https://snl.no/Wang_Jingwei"
+      },
+      {
+        "category": "Bokkunst",
+        "title": "Hypnerotomachia Poliphili",
+        "url": "https://snl.no/Hypnerotomachia_Poliphili"
+      },
+      {
+        "category": "Tidligere aviser på Østlandet",
+        "title": "Hedemarkens Amtstidende",
+        "url": "https://snl.no/Hedemarkens_Amtstidende"
+      }
+    ]
   }
 }
