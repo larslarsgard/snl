@@ -1,11 +1,16 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "categories": {
     "Mest lest i går": [
       {
         "category": "Første verdenskrig",
         "title": "første verdenskrig",
         "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "FN",
+        "title": "FN – Forente nasjoner",
+        "url": "https://snl.no/FN_-_Forente_nasjoner"
       },
       {
         "category": "Amerikansk politikk",
@@ -18,11 +23,6 @@
         "url": "https://snl.no/periodesystemet"
       },
       {
-        "category": "Programmeringsspråk",
-        "title": "PHP",
-        "url": "https://snl.no/PHP"
-      },
-      {
         "category": "Hinduisme",
         "title": "hinduisme",
         "url": "https://snl.no/hinduisme"
@@ -30,24 +30,24 @@
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Kristtornslekta",
-        "title": "mate",
-        "url": "https://snl.no/mate"
+        "category": "Realisme og impresjonisme",
+        "title": "Berit Bratland",
+        "url": "https://snl.no/Berit_Bratland"
       },
       {
-        "category": "Norsk lyrikk 1960–2000",
-        "title": "Arne Ruste",
-        "url": "https://snl.no/Arne_Ruste"
+        "category": "Programmeringsspråk",
+        "title": "PHP",
+        "url": "https://snl.no/PHP"
       },
       {
-        "category": "Norske militære biografier",
-        "title": "Torolf Rein",
-        "url": "https://snl.no/Torolf_Rein"
+        "category": "Fransk politikk",
+        "title": "de gule vestene",
+        "url": "https://snl.no/de_gule_vestene"
       },
       {
-        "category": "Norske diplomater",
-        "title": "Cecilie Annette Willoch",
-        "url": "https://snl.no/Cecilie_Annette_Willoch"
+        "category": "Motstandskampen i Norge",
+        "title": "Max Manus",
+        "url": "https://snl.no/Max_Manus"
       },
       {
         "category": "Verdens dyreliv",
@@ -57,29 +57,29 @@
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Glasskunstnere og keramikere",
-        "title": "Nora Gulbrandsen",
-        "url": "https://snl.no/Nora_Gulbrandsen"
+        "category": "Madagaskars litteratur",
+        "title": "Flavien Ranaivo",
+        "url": "https://snl.no/Flavien_Ranaivo"
       },
       {
-        "category": "Skulptur og mosaikk i renessansen og barokken",
-        "title": "Adriaen de Vries",
-        "url": "https://snl.no/Adriaen_de_Vries"
+        "category": "USAs litteratur 1900–1950",
+        "title": "Wallace Stevens",
+        "url": "https://snl.no/Wallace_Stevens"
       },
       {
-        "category": "Republikken Kinas historie (1912–1949)",
-        "title": "Wang Jingwei",
-        "url": "https://snl.no/Wang_Jingwei"
+        "category": "Ulike lands kunst og kunsttradisjoner",
+        "title": "Kunst i Storbritannia",
+        "url": "https://snl.no/Kunst_i_Storbritannia"
       },
       {
-        "category": "Bokkunst",
-        "title": "Hypnerotomachia Poliphili",
-        "url": "https://snl.no/Hypnerotomachia_Poliphili"
+        "category": "Tidligere aviser på Vestlandet",
+        "title": "Molde Annonceblad",
+        "url": "https://snl.no/Molde_Annonceblad"
       },
       {
-        "category": "Tidligere aviser på Østlandet",
-        "title": "Hedemarkens Amtstidende",
-        "url": "https://snl.no/Hedemarkens_Amtstidende"
+        "category": "Interstellart stoff",
+        "title": "stjernedannelse",
+        "url": "https://snl.no/stjernedannelse"
       }
     ]
   }

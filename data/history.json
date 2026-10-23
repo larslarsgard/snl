@@ -12848,5 +12848,88 @@
         "url": "https://snl.no/Hedemarkens_Amtstidende"
       }
     ]
+  },
+  "2026-10-23": {
+    "Mest lest i går": [
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "FN",
+        "title": "FN – Forente nasjoner",
+        "url": "https://snl.no/FN_-_Forente_nasjoner"
+      },
+      {
+        "category": "Amerikansk politikk",
+        "title": "mellomvalg – USA",
+        "url": "https://snl.no/mellomvalg_-_USA"
+      },
+      {
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
+      },
+      {
+        "category": "Hinduisme",
+        "title": "hinduisme",
+        "url": "https://snl.no/hinduisme"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Realisme og impresjonisme",
+        "title": "Berit Bratland",
+        "url": "https://snl.no/Berit_Bratland"
+      },
+      {
+        "category": "Programmeringsspråk",
+        "title": "PHP",
+        "url": "https://snl.no/PHP"
+      },
+      {
+        "category": "Fransk politikk",
+        "title": "de gule vestene",
+        "url": "https://snl.no/de_gule_vestene"
+      },
+      {
+        "category": "Motstandskampen i Norge",
+        "title": "Max Manus",
+        "url": "https://snl.no/Max_Manus"
+      },
+      {
+        "category": "Verdens dyreliv",
+        "title": "Dyreliv i Australia",
+        "url": "https://snl.no/Dyreliv_i_Australia"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Madagaskars litteratur",
+        "title": "Flavien Ranaivo",
+        "url": "https://snl.no/Flavien_Ranaivo"
+      },
+      {
+        "category": "USAs litteratur 1900–1950",
+        "title": "Wallace Stevens",
+        "url": "https://snl.no/Wallace_Stevens"
+      },
+      {
+        "category": "Ulike lands kunst og kunsttradisjoner",
+        "title": "Kunst i Storbritannia",
+        "url": "https://snl.no/Kunst_i_Storbritannia"
+      },
+      {
+        "category": "Tidligere aviser på Vestlandet",
+        "title": "Molde Annonceblad",
+        "url": "https://snl.no/Molde_Annonceblad"
+      },
+      {
+        "category": "Interstellart stoff",
+        "title": "stjernedannelse",
+        "url": "https://snl.no/stjernedannelse"
+      }
+    ]
   }
 }
