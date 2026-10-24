@@ -12931,5 +12931,88 @@
         "url": "https://snl.no/stjernedannelse"
       }
     ]
+  },
+  "2026-10-24": {
+    "Mest lest i går": [
+      {
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
+      },
+      {
+        "category": "Norske skuespillere",
+        "title": "Bente Børsum",
+        "url": "https://snl.no/Bente_B%C3%B8rsum"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "FN",
+        "title": "FN – Forente nasjoner",
+        "url": "https://snl.no/FN_-_Forente_nasjoner"
+      },
+      {
+        "category": "Jødedom",
+        "title": "jødedom",
+        "url": "https://snl.no/j%C3%B8dedom"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Storbritannia og Nord-Irlands litteratur på 1600-tallet",
+        "title": "John Wilmot Rochester",
+        "url": "https://snl.no/John_Wilmot_Rochester"
+      },
+      {
+        "category": "Kinas litteratur",
+        "title": "De store kinesiske klassiske romanene",
+        "url": "https://snl.no/De_store_kinesiske_klassiske_romanene"
+      },
+      {
+        "category": "Tidligere politikere",
+        "title": "Libe Rieber-Mohn",
+        "url": "https://snl.no/Libe_Rieber-Mohn"
+      },
+      {
+        "category": "Norske sakprosaforfattere",
+        "title": "Lise Børsum",
+        "url": "https://snl.no/Lise_B%C3%B8rsum"
+      },
+      {
+        "category": "Norske militære biografier",
+        "title": "John Olav Fuglem",
+        "url": "https://snl.no/John_Olav_Fuglem"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "eksplosjon",
+        "url": "https://snl.no/eksplosjon"
+      },
+      {
+        "category": "Smykkekunstnere",
+        "title": "Camilla Luihn",
+        "url": "https://snl.no/Camilla_Luihn"
+      },
+      {
+        "category": "Tysklands nyere litteratur",
+        "title": "Alina Bronsky",
+        "url": "https://snl.no/Alina_Bronsky"
+      },
+      {
+        "category": "Sykepleie",
+        "title": "intensivsykepleier",
+        "url": "https://sml.snl.no/intensivsykepleier"
+      },
+      {
+        "category": "Sjørøveriets historie",
+        "title": "sjørøveriets historie",
+        "url": "https://snl.no/sj%C3%B8r%C3%B8veriets_historie"
+      }
+    ]
   }
 }
