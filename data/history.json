@@ -13014,5 +13014,88 @@
         "url": "https://snl.no/sj%C3%B8r%C3%B8veriets_historie"
       }
     ]
+  },
+  "2026-10-25": {
+    "Mest lest i går": [
+      {
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
+      },
+      {
+        "category": "Samfunnsgeografiske prosesser",
+        "title": "gentrifisering",
+        "url": "https://snl.no/gentrifisering"
+      },
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
+      },
+      {
+        "category": "Byer og områder i Tyskland",
+        "title": "Berchtesgaden",
+        "url": "https://snl.no/Berchtesgaden"
+      },
+      {
+        "category": "Norske skuespillere",
+        "title": "Bente Børsum",
+        "url": "https://snl.no/Bente_B%C3%B8rsum"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "TV- og radioprogrammer",
+        "title": "Maskorama",
+        "url": "https://snl.no/Maskorama"
+      },
+      {
+        "category": "Hattfjelldal",
+        "title": "Hattfjelldal",
+        "url": "https://snl.no/Hattfjelldal"
+      },
+      {
+        "category": "Kinas litteratur",
+        "title": "De store kinesiske klassiske romanene",
+        "url": "https://snl.no/De_store_kinesiske_klassiske_romanene"
+      },
+      {
+        "category": "Tidsregning",
+        "title": "sommertid",
+        "url": "https://snl.no/sommertid"
+      },
+      {
+        "category": "Løp",
+        "title": "Christina Vukicevic Demidov",
+        "url": "https://snl.no/Christina_Vukicevic_Demidov"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Kunstsamlere, kuratorer og museumsledere",
+        "title": "Henning Marius Alsvik",
+        "url": "https://snl.no/Henning_Marius_Alsvik"
+      },
+      {
+        "category": "Guatemalas historie",
+        "title": "Tikal",
+        "url": "https://snl.no/Tikal"
+      },
+      {
+        "category": "Energi og ressurs",
+        "title": "energireserver",
+        "url": "https://snl.no/energireserver"
+      },
+      {
+        "category": "Solsystemet",
+        "title": "Jarkovskij-effekten",
+        "url": "https://snl.no/Jarkovskij-effekten"
+      },
+      {
+        "category": "Rettskrivingsreformer i norsk",
+        "title": "Rettskrivingsreforma av 1959",
+        "url": "https://snl.no/Rettskrivingsreforma_av_1959"
+      }
+    ]
   }
 }
