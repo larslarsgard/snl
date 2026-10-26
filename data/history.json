@@ -13097,5 +13097,88 @@
         "url": "https://snl.no/Rettskrivingsreforma_av_1959"
       }
     ]
+  },
+  "2026-10-26": {
+    "Mest lest i går": [
+      {
+        "category": "Samfunnsgeografiske prosesser",
+        "title": "gentrifisering",
+        "url": "https://snl.no/gentrifisering"
+      },
+      {
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
+      },
+      {
+        "category": "Amerikansk politikk",
+        "title": "mellomvalg – USA",
+        "url": "https://snl.no/mellomvalg_-_USA"
+      },
+      {
+        "category": "Tidsregning",
+        "title": "sommertid",
+        "url": "https://snl.no/sommertid"
+      },
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Sør-Afrikas samtidshistorie",
+        "title": "Winnie Mandela",
+        "url": "https://snl.no/Winnie_Mandela"
+      },
+      {
+        "category": "Turn",
+        "title": "Åge Storhaug",
+        "url": "https://snl.no/%C3%85ge_Storhaug"
+      },
+      {
+        "category": "Skogbiologi",
+        "title": "gadd",
+        "url": "https://snl.no/gadd"
+      },
+      {
+        "category": "Kinas litteratur",
+        "title": "De store kinesiske klassiske romanene",
+        "url": "https://snl.no/De_store_kinesiske_klassiske_romanene"
+      },
+      {
+        "category": "Hattfjelldal",
+        "title": "Hattfjelldal",
+        "url": "https://snl.no/Hattfjelldal"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Kristendommens historie",
+        "title": "Johan Ernst Gunnerus – 1818–1876",
+        "url": "https://snl.no/Johan_Ernst_Gunnerus_-_1818%E2%80%931876"
+      },
+      {
+        "category": "Bibliotek",
+        "title": "Gerhard Munthe – bibliotekar",
+        "url": "https://snl.no/Gerhard_Munthe_-_bibliotekar"
+      },
+      {
+        "category": "Kirkemusikk",
+        "title": "messe – musikkverk",
+        "url": "https://snl.no/messe_-_musikkverk"
+      },
+      {
+        "category": "Svalbard",
+        "title": "Nathorst Land",
+        "url": "https://snl.no/Nathorst_Land"
+      },
+      {
+        "category": "Genetikk",
+        "title": "virusgenetikk",
+        "url": "https://snl.no/virusgenetikk"
+      }
+    ]
   }
 }
