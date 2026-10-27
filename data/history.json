@@ -13180,5 +13180,88 @@
         "url": "https://snl.no/virusgenetikk"
       }
     ]
+  },
+  "2026-10-27": {
+    "Mest lest i går": [
+      {
+        "category": "Amerikansk politikk",
+        "title": "mellomvalg – USA",
+        "url": "https://snl.no/mellomvalg_-_USA"
+      },
+      {
+        "category": "Folketro",
+        "title": "halloween",
+        "url": "https://snl.no/halloween"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Ballon d'Or",
+        "url": "https://snl.no/Ballon_d'Or"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Sogndal",
+        "title": "Supphellebreen",
+        "url": "https://snl.no/Supphellebreen"
+      },
+      {
+        "category": "Norske entreprenører og næringslivsledere",
+        "title": "Olav Nils Sunde",
+        "url": "https://snl.no/Olav_Nils_Sunde"
+      },
+      {
+        "category": "Turn",
+        "title": "Åge Storhaug",
+        "url": "https://snl.no/%C3%85ge_Storhaug"
+      },
+      {
+        "category": "Kjønnsidentitet",
+        "title": "ciskjønnet",
+        "url": "https://sml.snl.no/ciskj%C3%B8nnet"
+      },
+      {
+        "category": "Serbias samtidshistorie",
+        "title": "Serbia",
+        "url": "https://snl.no/Serbia"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Kvinnebevegelsen i Norge",
+        "title": "Margarete Bonnevie",
+        "url": "https://snl.no/Margarete_Bonnevie"
+      },
+      {
+        "category": "Tysklands litteratur 1950–2000",
+        "title": "Marieluise Fleißer",
+        "url": "https://snl.no/Marieluise_Flei%C3%9Fer"
+      },
+      {
+        "category": "Libanons samtidshistorie",
+        "title": "Hassan Nasrallah",
+        "url": "https://snl.no/Hassan_Nasrallah"
+      },
+      {
+        "category": "Tidligere aviser på Østlandet",
+        "title": "Akershus – avis",
+        "url": "https://snl.no/Akershus_-_avis"
+      },
+      {
+        "category": "Tysklands nyere litteratur",
+        "title": "Katerina Poladjan",
+        "url": "https://snl.no/Katerina_Poladjan"
+      }
+    ]
   }
 }

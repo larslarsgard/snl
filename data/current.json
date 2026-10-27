@@ -1,38 +1,43 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Samfunnsgeografiske prosesser",
-        "title": "gentrifisering",
-        "url": "https://snl.no/gentrifisering"
-      },
-      {
-        "category": "Vind og atmosfæriske bølger",
-        "title": "Beauforts vindskala",
-        "url": "https://snl.no/Beauforts_vindskala"
-      },
       {
         "category": "Amerikansk politikk",
         "title": "mellomvalg – USA",
         "url": "https://snl.no/mellomvalg_-_USA"
       },
       {
-        "category": "Tidsregning",
-        "title": "sommertid",
-        "url": "https://snl.no/sommertid"
+        "category": "Folketro",
+        "title": "halloween",
+        "url": "https://snl.no/halloween"
       },
       {
-        "category": "Norges historie fra 1940 til 1945",
-        "title": "Henry Rinnan",
-        "url": "https://snl.no/Henry_Rinnan"
+        "category": "Internasjonal fotball",
+        "title": "Ballon d'Or",
+        "url": "https://snl.no/Ballon_d'Or"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Vind og atmosfæriske bølger",
+        "title": "Beauforts vindskala",
+        "url": "https://snl.no/Beauforts_vindskala"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Sør-Afrikas samtidshistorie",
-        "title": "Winnie Mandela",
-        "url": "https://snl.no/Winnie_Mandela"
+        "category": "Sogndal",
+        "title": "Supphellebreen",
+        "url": "https://snl.no/Supphellebreen"
+      },
+      {
+        "category": "Norske entreprenører og næringslivsledere",
+        "title": "Olav Nils Sunde",
+        "url": "https://snl.no/Olav_Nils_Sunde"
       },
       {
         "category": "Turn",
@@ -40,46 +45,41 @@
         "url": "https://snl.no/%C3%85ge_Storhaug"
       },
       {
-        "category": "Skogbiologi",
-        "title": "gadd",
-        "url": "https://snl.no/gadd"
+        "category": "Kjønnsidentitet",
+        "title": "ciskjønnet",
+        "url": "https://sml.snl.no/ciskj%C3%B8nnet"
       },
       {
-        "category": "Kinas litteratur",
-        "title": "De store kinesiske klassiske romanene",
-        "url": "https://snl.no/De_store_kinesiske_klassiske_romanene"
-      },
-      {
-        "category": "Hattfjelldal",
-        "title": "Hattfjelldal",
-        "url": "https://snl.no/Hattfjelldal"
+        "category": "Serbias samtidshistorie",
+        "title": "Serbia",
+        "url": "https://snl.no/Serbia"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Kristendommens historie",
-        "title": "Johan Ernst Gunnerus – 1818–1876",
-        "url": "https://snl.no/Johan_Ernst_Gunnerus_-_1818%E2%80%931876"
+        "category": "Kvinnebevegelsen i Norge",
+        "title": "Margarete Bonnevie",
+        "url": "https://snl.no/Margarete_Bonnevie"
       },
       {
-        "category": "Bibliotek",
-        "title": "Gerhard Munthe – bibliotekar",
-        "url": "https://snl.no/Gerhard_Munthe_-_bibliotekar"
+        "category": "Tysklands litteratur 1950–2000",
+        "title": "Marieluise Fleißer",
+        "url": "https://snl.no/Marieluise_Flei%C3%9Fer"
       },
       {
-        "category": "Kirkemusikk",
-        "title": "messe – musikkverk",
-        "url": "https://snl.no/messe_-_musikkverk"
+        "category": "Libanons samtidshistorie",
+        "title": "Hassan Nasrallah",
+        "url": "https://snl.no/Hassan_Nasrallah"
       },
       {
-        "category": "Svalbard",
-        "title": "Nathorst Land",
-        "url": "https://snl.no/Nathorst_Land"
+        "category": "Tidligere aviser på Østlandet",
+        "title": "Akershus – avis",
+        "url": "https://snl.no/Akershus_-_avis"
       },
       {
-        "category": "Genetikk",
-        "title": "virusgenetikk",
-        "url": "https://snl.no/virusgenetikk"
+        "category": "Tysklands nyere litteratur",
+        "title": "Katerina Poladjan",
+        "url": "https://snl.no/Katerina_Poladjan"
       }
     ]
   }
