@@ -13263,5 +13263,88 @@
         "url": "https://snl.no/Katerina_Poladjan"
       }
     ]
+  },
+  "2026-10-28": {
+    "Mest lest i går": [
+      {
+        "category": "Amerikansk politikk",
+        "title": "mellomvalg – USA",
+        "url": "https://snl.no/mellomvalg_-_USA"
+      },
+      {
+        "category": "Folketro",
+        "title": "halloween",
+        "url": "https://snl.no/halloween"
+      },
+      {
+        "category": "Karpefamilien",
+        "title": "sørv",
+        "url": "https://snl.no/s%C3%B8rv"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Styreform",
+        "title": "fylke",
+        "url": "https://lille.snl.no/fylke"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Norske skuespillere",
+        "title": "Herbert Nordrum",
+        "url": "https://snl.no/Herbert_Nordrum"
+      },
+      {
+        "category": "Israels samtidshistorie",
+        "title": "Israels politiske system",
+        "url": "https://snl.no/Israels_politiske_system"
+      },
+      {
+        "category": "Engelske fotballspillere",
+        "title": "Harry Kane",
+        "url": "https://snl.no/Harry_Kane"
+      },
+      {
+        "category": "TV- og radiopersoner",
+        "title": "Trond-Viggo Torgersen",
+        "url": "https://snl.no/Trond-Viggo_Torgersen"
+      },
+      {
+        "category": "Ordforklaringer samfunn",
+        "title": "konflikt",
+        "url": "https://snl.no/konflikt"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Norsk jordeiendomshistorie",
+        "title": "buslitsmann",
+        "url": "https://snl.no/buslitsmann"
+      },
+      {
+        "category": "Saudi-Arabias historie",
+        "title": "Saudi-Arabias historie",
+        "url": "https://snl.no/Saudi-Arabias_historie"
+      },
+      {
+        "category": "Internasjonal scene- og teaterhistorie",
+        "title": "Helene Weigel",
+        "url": "https://snl.no/Helene_Weigel"
+      },
+      {
+        "category": "Kraftselskaper og kraftverk",
+        "title": "Tysso I kraftverk – Kraftmuseet",
+        "url": "https://snl.no/Tysso_I_kraftverk_-_Kraftmuseet"
+      },
+      {
+        "category": "Filmmusikk",
+        "title": "Jóhann Jóhannsson",
+        "url": "https://snl.no/J%C3%B3hann_J%C3%B3hannsson"
+      }
+    ]
   }
 }

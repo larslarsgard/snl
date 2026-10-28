@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "categories": {
     "Mest lest i går": [
       {
@@ -13,9 +13,9 @@
         "url": "https://snl.no/halloween"
       },
       {
-        "category": "Internasjonal fotball",
-        "title": "Ballon d'Or",
-        "url": "https://snl.no/Ballon_d'Or"
+        "category": "Karpefamilien",
+        "title": "sørv",
+        "url": "https://snl.no/s%C3%B8rv"
       },
       {
         "category": "Første verdenskrig",
@@ -23,63 +23,63 @@
         "url": "https://snl.no/f%C3%B8rste_verdenskrig"
       },
       {
-        "category": "Vind og atmosfæriske bølger",
-        "title": "Beauforts vindskala",
-        "url": "https://snl.no/Beauforts_vindskala"
+        "category": "Styreform",
+        "title": "fylke",
+        "url": "https://lille.snl.no/fylke"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Sogndal",
-        "title": "Supphellebreen",
-        "url": "https://snl.no/Supphellebreen"
+        "category": "Norske skuespillere",
+        "title": "Herbert Nordrum",
+        "url": "https://snl.no/Herbert_Nordrum"
       },
       {
-        "category": "Norske entreprenører og næringslivsledere",
-        "title": "Olav Nils Sunde",
-        "url": "https://snl.no/Olav_Nils_Sunde"
+        "category": "Israels samtidshistorie",
+        "title": "Israels politiske system",
+        "url": "https://snl.no/Israels_politiske_system"
       },
       {
-        "category": "Turn",
-        "title": "Åge Storhaug",
-        "url": "https://snl.no/%C3%85ge_Storhaug"
+        "category": "Engelske fotballspillere",
+        "title": "Harry Kane",
+        "url": "https://snl.no/Harry_Kane"
       },
       {
-        "category": "Kjønnsidentitet",
-        "title": "ciskjønnet",
-        "url": "https://sml.snl.no/ciskj%C3%B8nnet"
+        "category": "TV- og radiopersoner",
+        "title": "Trond-Viggo Torgersen",
+        "url": "https://snl.no/Trond-Viggo_Torgersen"
       },
       {
-        "category": "Serbias samtidshistorie",
-        "title": "Serbia",
-        "url": "https://snl.no/Serbia"
+        "category": "Ordforklaringer samfunn",
+        "title": "konflikt",
+        "url": "https://snl.no/konflikt"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Kvinnebevegelsen i Norge",
-        "title": "Margarete Bonnevie",
-        "url": "https://snl.no/Margarete_Bonnevie"
+        "category": "Norsk jordeiendomshistorie",
+        "title": "buslitsmann",
+        "url": "https://snl.no/buslitsmann"
       },
       {
-        "category": "Tysklands litteratur 1950–2000",
-        "title": "Marieluise Fleißer",
-        "url": "https://snl.no/Marieluise_Flei%C3%9Fer"
+        "category": "Saudi-Arabias historie",
+        "title": "Saudi-Arabias historie",
+        "url": "https://snl.no/Saudi-Arabias_historie"
       },
       {
-        "category": "Libanons samtidshistorie",
-        "title": "Hassan Nasrallah",
-        "url": "https://snl.no/Hassan_Nasrallah"
+        "category": "Internasjonal scene- og teaterhistorie",
+        "title": "Helene Weigel",
+        "url": "https://snl.no/Helene_Weigel"
       },
       {
-        "category": "Tidligere aviser på Østlandet",
-        "title": "Akershus – avis",
-        "url": "https://snl.no/Akershus_-_avis"
+        "category": "Kraftselskaper og kraftverk",
+        "title": "Tysso I kraftverk – Kraftmuseet",
+        "url": "https://snl.no/Tysso_I_kraftverk_-_Kraftmuseet"
       },
       {
-        "category": "Tysklands nyere litteratur",
-        "title": "Katerina Poladjan",
-        "url": "https://snl.no/Katerina_Poladjan"
+        "category": "Filmmusikk",
+        "title": "Jóhann Jóhannsson",
+        "url": "https://snl.no/J%C3%B3hann_J%C3%B3hannsson"
       }
     ]
   }
