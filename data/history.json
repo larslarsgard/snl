@@ -13346,5 +13346,88 @@
         "url": "https://snl.no/J%C3%B3hann_J%C3%B3hannsson"
       }
     ]
+  },
+  "2026-10-29": {
+    "Mest lest i går": [
+      {
+        "category": "Norges historie fra 1660 til 1814",
+        "title": "tyttebærkrigen",
+        "url": "https://snl.no/tytteb%C3%A6rkrigen"
+      },
+      {
+        "category": "Folketro",
+        "title": "halloween",
+        "url": "https://snl.no/halloween"
+      },
+      {
+        "category": "Amerikansk politikk",
+        "title": "mellomvalg – USA",
+        "url": "https://snl.no/mellomvalg_-_USA"
+      },
+      {
+        "category": "Karpefamilien",
+        "title": "sørv",
+        "url": "https://snl.no/s%C3%B8rv"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Norsk bildende kunst fra 1945 til 1990",
+        "title": "Ragnar Kraugerud",
+        "url": "https://snl.no/Ragnar_Kraugerud"
+      },
+      {
+        "category": "Kortspill",
+        "title": "blackjack",
+        "url": "https://snl.no/blackjack"
+      },
+      {
+        "category": "Jernbane og sporvei",
+        "title": "Åsta-ulykken",
+        "url": "https://snl.no/%C3%85sta-ulykken"
+      },
+      {
+        "category": "Israels samtidshistorie",
+        "title": "Israels politiske system",
+        "url": "https://snl.no/Israels_politiske_system"
+      },
+      {
+        "category": "Idrettskonkurranser og -priser",
+        "title": "Idrettsmerket",
+        "url": "https://snl.no/Idrettsmerket"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "heksogen",
+        "url": "https://snl.no/heksogen"
+      },
+      {
+        "category": "Ulike lands kunst og kunsttradisjoner",
+        "title": "Kunst i Italia før 1900",
+        "url": "https://snl.no/Kunst_i_Italia_f%C3%B8r_1900"
+      },
+      {
+        "category": "Japans litteratur",
+        "title": "Masuji Ibuse",
+        "url": "https://snl.no/Masuji_Ibuse"
+      },
+      {
+        "category": "Jentenavn",
+        "title": "Paula – kvinnenamn",
+        "url": "https://snl.no/Paula_-_kvinnenamn"
+      },
+      {
+        "category": "Sør-Afrikas geografi",
+        "title": "Msunduzi",
+        "url": "https://snl.no/Msunduzi"
+      }
+    ]
   }
 }
