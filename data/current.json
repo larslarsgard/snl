@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Norges historie fra 1660 til 1814",
-        "title": "tyttebærkrigen",
-        "url": "https://snl.no/tytteb%C3%A6rkrigen"
-      },
       {
         "category": "Folketro",
         "title": "halloween",
         "url": "https://snl.no/halloween"
+      },
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
       },
       {
         "category": "Amerikansk politikk",
@@ -18,26 +18,21 @@
         "url": "https://snl.no/mellomvalg_-_USA"
       },
       {
-        "category": "Karpefamilien",
-        "title": "sørv",
-        "url": "https://snl.no/s%C3%B8rv"
-      },
-      {
         "category": "Første verdenskrig",
         "title": "første verdenskrig",
         "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Norsk bildende kunst fra 1945 til 1990",
-        "title": "Ragnar Kraugerud",
-        "url": "https://snl.no/Ragnar_Kraugerud"
-      },
-      {
-        "category": "Kortspill",
-        "title": "blackjack",
-        "url": "https://snl.no/blackjack"
+        "category": "Rundormer",
+        "title": "rundormer",
+        "url": "https://snl.no/rundormer"
       },
       {
         "category": "Jernbane og sporvei",
@@ -45,41 +40,46 @@
         "url": "https://snl.no/%C3%85sta-ulykken"
       },
       {
-        "category": "Israels samtidshistorie",
-        "title": "Israels politiske system",
-        "url": "https://snl.no/Israels_politiske_system"
+        "category": "Kristne ritualer og symboler",
+        "title": "allehelgensdag",
+        "url": "https://snl.no/allehelgensdag"
       },
       {
-        "category": "Idrettskonkurranser og -priser",
-        "title": "Idrettsmerket",
-        "url": "https://snl.no/Idrettsmerket"
+        "category": "Folketro",
+        "title": "de dødes dag",
+        "url": "https://snl.no/de_d%C3%B8des_dag"
+      },
+      {
+        "category": "Straffemetoder",
+        "title": "giljotin",
+        "url": "https://snl.no/giljotin"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Energetiske materialer og sprengningsteknikk",
-        "title": "heksogen",
-        "url": "https://snl.no/heksogen"
+        "category": "Østerrikes nyere litteratur",
+        "title": "Norbert Gstrein",
+        "url": "https://snl.no/Norbert_Gstrein"
       },
       {
-        "category": "Ulike lands kunst og kunsttradisjoner",
-        "title": "Kunst i Italia før 1900",
-        "url": "https://snl.no/Kunst_i_Italia_f%C3%B8r_1900"
+        "category": "Borgerkrigstiden",
+        "title": "Munån Biskopsson",
+        "url": "https://snl.no/Mun%C3%A5n_Biskopsson"
       },
       {
-        "category": "Japans litteratur",
-        "title": "Masuji Ibuse",
-        "url": "https://snl.no/Masuji_Ibuse"
+        "category": "Interiørarkitektur",
+        "title": "interiørarkitektur i Norge",
+        "url": "https://snl.no/interi%C3%B8rarkitektur_i_Norge"
       },
       {
-        "category": "Jentenavn",
-        "title": "Paula – kvinnenamn",
-        "url": "https://snl.no/Paula_-_kvinnenamn"
+        "category": "Underholdningsmusikk",
+        "title": "underholdningsmusikk",
+        "url": "https://snl.no/underholdningsmusikk"
       },
       {
-        "category": "Sør-Afrikas geografi",
-        "title": "Msunduzi",
-        "url": "https://snl.no/Msunduzi"
+        "category": "Interstellart stoff",
+        "title": "stjernedannelse",
+        "url": "https://snl.no/stjernedannelse"
       }
     ]
   }

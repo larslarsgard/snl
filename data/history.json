@@ -13429,5 +13429,88 @@
         "url": "https://snl.no/Msunduzi"
       }
     ]
+  },
+  "2026-10-30": {
+    "Mest lest i går": [
+      {
+        "category": "Folketro",
+        "title": "halloween",
+        "url": "https://snl.no/halloween"
+      },
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
+      },
+      {
+        "category": "Amerikansk politikk",
+        "title": "mellomvalg – USA",
+        "url": "https://snl.no/mellomvalg_-_USA"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Rundormer",
+        "title": "rundormer",
+        "url": "https://snl.no/rundormer"
+      },
+      {
+        "category": "Jernbane og sporvei",
+        "title": "Åsta-ulykken",
+        "url": "https://snl.no/%C3%85sta-ulykken"
+      },
+      {
+        "category": "Kristne ritualer og symboler",
+        "title": "allehelgensdag",
+        "url": "https://snl.no/allehelgensdag"
+      },
+      {
+        "category": "Folketro",
+        "title": "de dødes dag",
+        "url": "https://snl.no/de_d%C3%B8des_dag"
+      },
+      {
+        "category": "Straffemetoder",
+        "title": "giljotin",
+        "url": "https://snl.no/giljotin"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Østerrikes nyere litteratur",
+        "title": "Norbert Gstrein",
+        "url": "https://snl.no/Norbert_Gstrein"
+      },
+      {
+        "category": "Borgerkrigstiden",
+        "title": "Munån Biskopsson",
+        "url": "https://snl.no/Mun%C3%A5n_Biskopsson"
+      },
+      {
+        "category": "Interiørarkitektur",
+        "title": "interiørarkitektur i Norge",
+        "url": "https://snl.no/interi%C3%B8rarkitektur_i_Norge"
+      },
+      {
+        "category": "Underholdningsmusikk",
+        "title": "underholdningsmusikk",
+        "url": "https://snl.no/underholdningsmusikk"
+      },
+      {
+        "category": "Interstellart stoff",
+        "title": "stjernedannelse",
+        "url": "https://snl.no/stjernedannelse"
+      }
+    ]
   }
 }
