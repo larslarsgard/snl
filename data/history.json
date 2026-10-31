@@ -13512,5 +13512,88 @@
         "url": "https://snl.no/stjernedannelse"
       }
     ]
+  },
+  "2026-10-31": {
+    "Mest lest i går": [
+      {
+        "category": "Folketro",
+        "title": "halloween",
+        "url": "https://snl.no/halloween"
+      },
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
+      },
+      {
+        "category": "Amerikansk politikk",
+        "title": "mellomvalg – USA",
+        "url": "https://snl.no/mellomvalg_-_USA"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Rinnan-banden",
+        "url": "https://snl.no/Rinnan-banden"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Forfattere i romerrikets litteratur",
+        "title": "Lucius Apuleius",
+        "url": "https://snl.no/Lucius_Apuleius"
+      },
+      {
+        "category": "Vin i Frankrike",
+        "title": "Gevrey-Chambertin",
+        "url": "https://snl.no/Gevrey-Chambertin"
+      },
+      {
+        "category": "Nervesystemets anatomi",
+        "title": "grensestrengen",
+        "url": "https://sml.snl.no/grensestrengen"
+      },
+      {
+        "category": "Metall- og smykkekunst",
+        "title": "hodevannsegg",
+        "url": "https://snl.no/hodevannsegg"
+      },
+      {
+        "category": "Rundormer",
+        "title": "rundormer",
+        "url": "https://snl.no/rundormer"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Midtøstens gamle kulturer",
+        "title": "Gibea",
+        "url": "https://snl.no/Gibea"
+      },
+      {
+        "category": "Kirkemusikk",
+        "title": "messe – musikkverk",
+        "url": "https://snl.no/messe_-_musikkverk"
+      },
+      {
+        "category": "Flyselskaper",
+        "title": "Air Greenland",
+        "url": "https://snl.no/Air_Greenland"
+      },
+      {
+        "category": "Havrett",
+        "title": "havrettskonvensjonen",
+        "url": "https://snl.no/havrettskonvensjonen"
+      },
+      {
+        "category": "Norsk interiør- og møbeldesign",
+        "title": "Kaspar Bjørkavåg",
+        "url": "https://snl.no/Kaspar_Bj%C3%B8rkav%C3%A5g"
+      }
+    ]
   }
 }

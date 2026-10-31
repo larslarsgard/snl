@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "categories": {
     "Mest lest i går": [
       {
@@ -23,63 +23,63 @@
         "url": "https://snl.no/f%C3%B8rste_verdenskrig"
       },
       {
-        "category": "Periodesystemet",
-        "title": "periodesystemet",
-        "url": "https://snl.no/periodesystemet"
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Rinnan-banden",
+        "url": "https://snl.no/Rinnan-banden"
       }
     ],
     "Uvanlig mye lest": [
       {
+        "category": "Forfattere i romerrikets litteratur",
+        "title": "Lucius Apuleius",
+        "url": "https://snl.no/Lucius_Apuleius"
+      },
+      {
+        "category": "Vin i Frankrike",
+        "title": "Gevrey-Chambertin",
+        "url": "https://snl.no/Gevrey-Chambertin"
+      },
+      {
+        "category": "Nervesystemets anatomi",
+        "title": "grensestrengen",
+        "url": "https://sml.snl.no/grensestrengen"
+      },
+      {
+        "category": "Metall- og smykkekunst",
+        "title": "hodevannsegg",
+        "url": "https://snl.no/hodevannsegg"
+      },
+      {
         "category": "Rundormer",
         "title": "rundormer",
         "url": "https://snl.no/rundormer"
-      },
-      {
-        "category": "Jernbane og sporvei",
-        "title": "Åsta-ulykken",
-        "url": "https://snl.no/%C3%85sta-ulykken"
-      },
-      {
-        "category": "Kristne ritualer og symboler",
-        "title": "allehelgensdag",
-        "url": "https://snl.no/allehelgensdag"
-      },
-      {
-        "category": "Folketro",
-        "title": "de dødes dag",
-        "url": "https://snl.no/de_d%C3%B8des_dag"
-      },
-      {
-        "category": "Straffemetoder",
-        "title": "giljotin",
-        "url": "https://snl.no/giljotin"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Østerrikes nyere litteratur",
-        "title": "Norbert Gstrein",
-        "url": "https://snl.no/Norbert_Gstrein"
+        "category": "Midtøstens gamle kulturer",
+        "title": "Gibea",
+        "url": "https://snl.no/Gibea"
       },
       {
-        "category": "Borgerkrigstiden",
-        "title": "Munån Biskopsson",
-        "url": "https://snl.no/Mun%C3%A5n_Biskopsson"
+        "category": "Kirkemusikk",
+        "title": "messe – musikkverk",
+        "url": "https://snl.no/messe_-_musikkverk"
       },
       {
-        "category": "Interiørarkitektur",
-        "title": "interiørarkitektur i Norge",
-        "url": "https://snl.no/interi%C3%B8rarkitektur_i_Norge"
+        "category": "Flyselskaper",
+        "title": "Air Greenland",
+        "url": "https://snl.no/Air_Greenland"
       },
       {
-        "category": "Underholdningsmusikk",
-        "title": "underholdningsmusikk",
-        "url": "https://snl.no/underholdningsmusikk"
+        "category": "Havrett",
+        "title": "havrettskonvensjonen",
+        "url": "https://snl.no/havrettskonvensjonen"
       },
       {
-        "category": "Interstellart stoff",
-        "title": "stjernedannelse",
-        "url": "https://snl.no/stjernedannelse"
+        "category": "Norsk interiør- og møbeldesign",
+        "title": "Kaspar Bjørkavåg",
+        "url": "https://snl.no/Kaspar_Bj%C3%B8rkav%C3%A5g"
       }
     ]
   }
