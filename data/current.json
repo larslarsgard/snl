@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "categories": {
     "Mest lest i går": [
       {
@@ -18,68 +18,68 @@
         "url": "https://snl.no/mellomvalg_-_USA"
       },
       {
-        "category": "Første verdenskrig",
-        "title": "første verdenskrig",
-        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
-      },
-      {
         "category": "Norges historie fra 1940 til 1945",
         "title": "Rinnan-banden",
         "url": "https://snl.no/Rinnan-banden"
+      },
+      {
+        "category": "Tekstiler",
+        "title": "mulesing",
+        "url": "https://snl.no/mulesing"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Forfattere i romerrikets litteratur",
-        "title": "Lucius Apuleius",
-        "url": "https://snl.no/Lucius_Apuleius"
+        "category": "Romanias samtidshistorie",
+        "title": "Politiske partier i Romania",
+        "url": "https://snl.no/Politiske_partier_i_Romania"
       },
       {
-        "category": "Vin i Frankrike",
-        "title": "Gevrey-Chambertin",
-        "url": "https://snl.no/Gevrey-Chambertin"
+        "category": "Uttrykk og ordtak",
+        "title": "knask eller knep",
+        "url": "https://snl.no/knask_eller_knep"
       },
       {
-        "category": "Nervesystemets anatomi",
-        "title": "grensestrengen",
-        "url": "https://sml.snl.no/grensestrengen"
+        "category": "Vesener i folketroen",
+        "title": "julebukk",
+        "url": "https://snl.no/julebukk"
       },
       {
-        "category": "Metall- og smykkekunst",
-        "title": "hodevannsegg",
-        "url": "https://snl.no/hodevannsegg"
+        "category": "Kristne ritualer og symboler",
+        "title": "allehelgensdag",
+        "url": "https://snl.no/allehelgensdag"
       },
       {
-        "category": "Rundormer",
-        "title": "rundormer",
-        "url": "https://snl.no/rundormer"
+        "category": "Merkedager",
+        "title": "allehelgensaften",
+        "url": "https://snl.no/allehelgensaften"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Midtøstens gamle kulturer",
-        "title": "Gibea",
-        "url": "https://snl.no/Gibea"
+        "category": "Personer innen astronomi",
+        "title": "Jocelyn Bell Burnell",
+        "url": "https://snl.no/Jocelyn_Bell_Burnell"
       },
       {
-        "category": "Kirkemusikk",
-        "title": "messe – musikkverk",
-        "url": "https://snl.no/messe_-_musikkverk"
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "heksogen",
+        "url": "https://snl.no/heksogen"
       },
       {
-        "category": "Flyselskaper",
-        "title": "Air Greenland",
-        "url": "https://snl.no/Air_Greenland"
+        "category": "Romersk arkeologi",
+        "title": "romersk kunst",
+        "url": "https://snl.no/romersk_kunst"
       },
       {
-        "category": "Havrett",
-        "title": "havrettskonvensjonen",
-        "url": "https://snl.no/havrettskonvensjonen"
+        "category": "Malawis samtidshistorie",
+        "title": "Medier i Malawi",
+        "url": "https://snl.no/Medier_i_Malawi"
       },
       {
-        "category": "Norsk interiør- og møbeldesign",
-        "title": "Kaspar Bjørkavåg",
-        "url": "https://snl.no/Kaspar_Bj%C3%B8rkav%C3%A5g"
+        "category": "Kroatias litteratur",
+        "title": "Vladimir Nazor",
+        "url": "https://snl.no/Vladimir_Nazor"
       }
     ]
   }
