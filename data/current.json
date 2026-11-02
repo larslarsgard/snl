@@ -1,12 +1,7 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Folketro",
-        "title": "halloween",
-        "url": "https://snl.no/halloween"
-      },
       {
         "category": "Norges historie fra 1940 til 1945",
         "title": "Henry Rinnan",
@@ -14,8 +9,13 @@
       },
       {
         "category": "Amerikansk politikk",
-        "title": "mellomvalg – USA",
-        "url": "https://snl.no/mellomvalg_-_USA"
+        "title": "mellomvalg i USA",
+        "url": "https://snl.no/mellomvalg_i_USA"
+      },
+      {
+        "category": "Folketro",
+        "title": "halloween",
+        "url": "https://snl.no/halloween"
       },
       {
         "category": "Norges historie fra 1940 til 1945",
@@ -23,63 +23,63 @@
         "url": "https://snl.no/Rinnan-banden"
       },
       {
-        "category": "Tekstiler",
-        "title": "mulesing",
-        "url": "https://snl.no/mulesing"
+        "category": "Kristne ritualer og symboler",
+        "title": "allehelgensdag",
+        "url": "https://snl.no/allehelgensdag"
       }
     ],
     "Uvanlig mye lest": [
+      {
+        "category": "Norske dirigenter",
+        "title": "Torbjørn Dyrud",
+        "url": "https://snl.no/Torbj%C3%B8rn_Dyrud"
+      },
+      {
+        "category": "Norske dirigenter",
+        "title": "Tabita Berglund",
+        "url": "https://snl.no/Tabita_Berglund"
+      },
+      {
+        "category": "Norske filmregissører",
+        "title": "Marie Blokhus",
+        "url": "https://snl.no/Marie_Blokhus"
+      },
       {
         "category": "Romanias samtidshistorie",
         "title": "Politiske partier i Romania",
         "url": "https://snl.no/Politiske_partier_i_Romania"
       },
       {
-        "category": "Uttrykk og ordtak",
-        "title": "knask eller knep",
-        "url": "https://snl.no/knask_eller_knep"
-      },
-      {
-        "category": "Vesener i folketroen",
-        "title": "julebukk",
-        "url": "https://snl.no/julebukk"
-      },
-      {
-        "category": "Kristne ritualer og symboler",
-        "title": "allehelgensdag",
-        "url": "https://snl.no/allehelgensdag"
-      },
-      {
-        "category": "Merkedager",
-        "title": "allehelgensaften",
-        "url": "https://snl.no/allehelgensaften"
+        "category": "Jus generelt",
+        "title": "forfordele",
+        "url": "https://snl.no/forfordele"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Personer innen astronomi",
-        "title": "Jocelyn Bell Burnell",
-        "url": "https://snl.no/Jocelyn_Bell_Burnell"
+        "category": "Norske arkitekter og arkitektkontorer fra 1900 til i dag",
+        "title": "Lars Backer",
+        "url": "https://snl.no/Lars_Backer"
       },
       {
-        "category": "Energetiske materialer og sprengningsteknikk",
-        "title": "heksogen",
-        "url": "https://snl.no/heksogen"
+        "category": "Polare ekspedisjoner og oppdagere",
+        "title": "Wilhelm August Graah",
+        "url": "https://snl.no/Wilhelm_August_Graah"
       },
       {
-        "category": "Romersk arkeologi",
-        "title": "romersk kunst",
-        "url": "https://snl.no/romersk_kunst"
+        "category": "Storbritannia og Nord-Irlands litteratur på 1800-tallet",
+        "title": "Thomas Hardy",
+        "url": "https://snl.no/Thomas_Hardy"
       },
       {
-        "category": "Malawis samtidshistorie",
-        "title": "Medier i Malawi",
-        "url": "https://snl.no/Medier_i_Malawi"
+        "category": "Serbia og det gamle Jugoslavias litteratur",
+        "title": "Branko Radičević",
+        "url": "https://snl.no/Branko_Radi%C4%8Devi%C4%87"
       },
       {
-        "category": "Kroatias litteratur",
-        "title": "Vladimir Nazor",
-        "url": "https://snl.no/Vladimir_Nazor"
+        "category": "Skulptur og mosaikk i renessansen og barokken",
+        "title": "Peter Scheemakers",
+        "url": "https://snl.no/Peter_Scheemakers"
       }
     ]
   }
