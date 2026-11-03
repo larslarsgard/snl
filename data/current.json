@@ -1,7 +1,12 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Amerikansk politikk",
+        "title": "mellomvalg i USA",
+        "url": "https://snl.no/mellomvalg_i_USA"
+      },
       {
         "category": "Norges historie fra 1940 til 1945",
         "title": "Henry Rinnan",
@@ -9,77 +14,72 @@
       },
       {
         "category": "Amerikansk politikk",
-        "title": "mellomvalg i USA",
-        "url": "https://snl.no/mellomvalg_i_USA"
+        "title": "USAs politiske system",
+        "url": "https://snl.no/USAs_politiske_system"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
       },
       {
         "category": "Folketro",
         "title": "halloween",
         "url": "https://snl.no/halloween"
-      },
-      {
-        "category": "Norges historie fra 1940 til 1945",
-        "title": "Rinnan-banden",
-        "url": "https://snl.no/Rinnan-banden"
-      },
-      {
-        "category": "Kristne ritualer og symboler",
-        "title": "allehelgensdag",
-        "url": "https://snl.no/allehelgensdag"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Norske dirigenter",
-        "title": "Torbjørn Dyrud",
-        "url": "https://snl.no/Torbj%C3%B8rn_Dyrud"
+        "category": "Biografier i høyere utdanning",
+        "title": "Gunnar Bovim",
+        "url": "https://snl.no/Gunnar_Bovim"
       },
       {
-        "category": "Norske dirigenter",
-        "title": "Tabita Berglund",
-        "url": "https://snl.no/Tabita_Berglund"
+        "category": "Hode og hals",
+        "title": "tungebeinet",
+        "url": "https://sml.snl.no/tungebeinet"
       },
       {
-        "category": "Norske filmregissører",
-        "title": "Marie Blokhus",
-        "url": "https://snl.no/Marie_Blokhus"
+        "category": "Biografier i Englands historie",
+        "title": "Oliver Cromwell",
+        "url": "https://snl.no/Oliver_Cromwell"
       },
       {
-        "category": "Romanias samtidshistorie",
-        "title": "Politiske partier i Romania",
-        "url": "https://snl.no/Politiske_partier_i_Romania"
+        "category": "Norges historie fram til 1050",
+        "title": "Gunnhild kongsmor",
+        "url": "https://snl.no/Gunnhild_kongsmor"
       },
       {
-        "category": "Jus generelt",
-        "title": "forfordele",
-        "url": "https://snl.no/forfordele"
+        "category": "Norske militære biografier",
+        "title": "John Olav Fuglem",
+        "url": "https://snl.no/John_Olav_Fuglem"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Norske arkitekter og arkitektkontorer fra 1900 til i dag",
-        "title": "Lars Backer",
-        "url": "https://snl.no/Lars_Backer"
+        "category": "Midtøstens gamle kulturer",
+        "title": "Gezer",
+        "url": "https://snl.no/Gezer"
       },
       {
-        "category": "Polare ekspedisjoner og oppdagere",
-        "title": "Wilhelm August Graah",
-        "url": "https://snl.no/Wilhelm_August_Graah"
+        "category": "Tysklands litteratur 1950–2000",
+        "title": "Sarah Kirsch",
+        "url": "https://snl.no/Sarah_Kirsch"
       },
       {
-        "category": "Storbritannia og Nord-Irlands litteratur på 1800-tallet",
-        "title": "Thomas Hardy",
-        "url": "https://snl.no/Thomas_Hardy"
+        "category": "Stavkirker",
+        "title": "Røldal stavkirke",
+        "url": "https://snl.no/R%C3%B8ldal_stavkirke"
       },
       {
-        "category": "Serbia og det gamle Jugoslavias litteratur",
-        "title": "Branko Radičević",
-        "url": "https://snl.no/Branko_Radi%C4%8Devi%C4%87"
+        "category": "Hogstformer",
+        "title": "tynning – skogbruk",
+        "url": "https://snl.no/tynning_-_skogbruk"
       },
       {
-        "category": "Skulptur og mosaikk i renessansen og barokken",
-        "title": "Peter Scheemakers",
-        "url": "https://snl.no/Peter_Scheemakers"
+        "category": "Jagerfly og kampfly",
+        "title": "Sopwith Triplane",
+        "url": "https://snl.no/Sopwith_Triplane"
       }
     ]
   }
