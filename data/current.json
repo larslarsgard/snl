@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "categories": {
     "Mest lest i går": [
       {
@@ -8,78 +8,78 @@
         "url": "https://snl.no/mellomvalg_i_USA"
       },
       {
-        "category": "Norges historie fra 1940 til 1945",
-        "title": "Henry Rinnan",
-        "url": "https://snl.no/Henry_Rinnan"
-      },
-      {
         "category": "Amerikansk politikk",
         "title": "USAs politiske system",
         "url": "https://snl.no/USAs_politiske_system"
       },
       {
-        "category": "Første verdenskrig",
-        "title": "første verdenskrig",
-        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
       },
       {
-        "category": "Folketro",
-        "title": "halloween",
-        "url": "https://snl.no/halloween"
+        "category": "Videreføring av Norsk kunstnerleksikon",
+        "title": "Frida Kahlo",
+        "url": "https://snl.no/Frida_Kahlo"
+      },
+      {
+        "category": "Amerikansk politikk",
+        "title": "Senatet i USA",
+        "url": "https://snl.no/Senatet_i_USA"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Biografier i høyere utdanning",
-        "title": "Gunnar Bovim",
-        "url": "https://snl.no/Gunnar_Bovim"
+        "category": "Streik og konflikt",
+        "title": "demonstrasjonsstreik",
+        "url": "https://snl.no/demonstrasjonsstreik"
       },
       {
-        "category": "Hode og hals",
-        "title": "tungebeinet",
-        "url": "https://sml.snl.no/tungebeinet"
+        "category": "Nisjeaviser",
+        "title": "Manifest Media",
+        "url": "https://snl.no/Manifest_Media"
       },
       {
-        "category": "Biografier i Englands historie",
-        "title": "Oliver Cromwell",
-        "url": "https://snl.no/Oliver_Cromwell"
+        "category": "Amerikansk politikk",
+        "title": "Kongressen i USA",
+        "url": "https://snl.no/Kongressen_i_USA"
       },
       {
-        "category": "Norges historie fram til 1050",
-        "title": "Gunnhild kongsmor",
-        "url": "https://snl.no/Gunnhild_kongsmor"
+        "category": "Amerikansk politikk",
+        "title": "Det demokratiske partiet",
+        "url": "https://snl.no/Det_demokratiske_partiet"
       },
       {
-        "category": "Norske militære biografier",
-        "title": "John Olav Fuglem",
-        "url": "https://snl.no/John_Olav_Fuglem"
+        "category": "Begreper i populærmusikk",
+        "title": "popmusikk",
+        "url": "https://snl.no/popmusikk"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Midtøstens gamle kulturer",
-        "title": "Gezer",
-        "url": "https://snl.no/Gezer"
-      },
-      {
-        "category": "Tysklands litteratur 1950–2000",
-        "title": "Sarah Kirsch",
-        "url": "https://snl.no/Sarah_Kirsch"
+        "category": "USAs historie",
+        "title": "Emily Greene Balch",
+        "url": "https://snl.no/Emily_Greene_Balch"
       },
       {
         "category": "Stavkirker",
-        "title": "Røldal stavkirke",
-        "url": "https://snl.no/R%C3%B8ldal_stavkirke"
+        "title": "Hedalen stavkirke",
+        "url": "https://snl.no/Hedalen_stavkirke"
       },
       {
-        "category": "Hogstformer",
-        "title": "tynning – skogbruk",
-        "url": "https://snl.no/tynning_-_skogbruk"
+        "category": "Internasjonale tegnekunstnere",
+        "title": "Herluf Jensenius",
+        "url": "https://snl.no/Herluf_Jensenius"
       },
       {
-        "category": "Jagerfly og kampfly",
-        "title": "Sopwith Triplane",
-        "url": "https://snl.no/Sopwith_Triplane"
+        "category": "Amerikanske urfolkspråk",
+        "title": "ojibwe – språk",
+        "url": "https://snl.no/ojibwe_-_spr%C3%A5k"
+      },
+      {
+        "category": "Samfunnsgeografiske prosesser",
+        "title": "energifattigdom",
+        "url": "https://snl.no/energifattigdom"
       }
     ]
   }

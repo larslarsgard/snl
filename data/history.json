@@ -13844,5 +13844,88 @@
         "url": "https://snl.no/Sopwith_Triplane"
       }
     ]
+  },
+  "2026-11-04": {
+    "Mest lest i går": [
+      {
+        "category": "Amerikansk politikk",
+        "title": "mellomvalg i USA",
+        "url": "https://snl.no/mellomvalg_i_USA"
+      },
+      {
+        "category": "Amerikansk politikk",
+        "title": "USAs politiske system",
+        "url": "https://snl.no/USAs_politiske_system"
+      },
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
+      },
+      {
+        "category": "Videreføring av Norsk kunstnerleksikon",
+        "title": "Frida Kahlo",
+        "url": "https://snl.no/Frida_Kahlo"
+      },
+      {
+        "category": "Amerikansk politikk",
+        "title": "Senatet i USA",
+        "url": "https://snl.no/Senatet_i_USA"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Streik og konflikt",
+        "title": "demonstrasjonsstreik",
+        "url": "https://snl.no/demonstrasjonsstreik"
+      },
+      {
+        "category": "Nisjeaviser",
+        "title": "Manifest Media",
+        "url": "https://snl.no/Manifest_Media"
+      },
+      {
+        "category": "Amerikansk politikk",
+        "title": "Kongressen i USA",
+        "url": "https://snl.no/Kongressen_i_USA"
+      },
+      {
+        "category": "Amerikansk politikk",
+        "title": "Det demokratiske partiet",
+        "url": "https://snl.no/Det_demokratiske_partiet"
+      },
+      {
+        "category": "Begreper i populærmusikk",
+        "title": "popmusikk",
+        "url": "https://snl.no/popmusikk"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "USAs historie",
+        "title": "Emily Greene Balch",
+        "url": "https://snl.no/Emily_Greene_Balch"
+      },
+      {
+        "category": "Stavkirker",
+        "title": "Hedalen stavkirke",
+        "url": "https://snl.no/Hedalen_stavkirke"
+      },
+      {
+        "category": "Internasjonale tegnekunstnere",
+        "title": "Herluf Jensenius",
+        "url": "https://snl.no/Herluf_Jensenius"
+      },
+      {
+        "category": "Amerikanske urfolkspråk",
+        "title": "ojibwe – språk",
+        "url": "https://snl.no/ojibwe_-_spr%C3%A5k"
+      },
+      {
+        "category": "Samfunnsgeografiske prosesser",
+        "title": "energifattigdom",
+        "url": "https://snl.no/energifattigdom"
+      }
+    ]
   }
 }
