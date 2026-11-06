@@ -1,7 +1,12 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
+      },
       {
         "category": "Amerikansk politikk",
         "title": "USAs politiske system",
@@ -13,73 +18,68 @@
         "url": "https://snl.no/mellomvalg_i_USA"
       },
       {
-        "category": "Amerikansk politikk",
-        "title": "Senatet i USA",
-        "url": "https://snl.no/Senatet_i_USA"
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
       },
       {
-        "category": "Amerikansk politikk",
-        "title": "Representantenes hus i USA",
-        "url": "https://snl.no/Representantenes_hus_i_USA"
-      },
-      {
-        "category": "Norges historie fra 1940 til 1945",
-        "title": "Henry Rinnan",
-        "url": "https://snl.no/Henry_Rinnan"
+        "category": "Det gamle testamentet",
+        "title": "De ti bud",
+        "url": "https://snl.no/De_ti_bud"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Politiske organer",
-        "title": "guvernør",
-        "url": "https://snl.no/guvern%C3%B8r"
+        "category": "Biografier i Englands historie",
+        "title": "Guy Fawkes",
+        "url": "https://snl.no/Guy_Fawkes"
       },
       {
-        "category": "Internasjonal pop og rock",
-        "title": "k.d. lang",
-        "url": "https://snl.no/k.d._lang"
+        "category": "Midtøstens samtidshistorie",
+        "title": "Oslo-prosessen",
+        "url": "https://snl.no/Oslo-prosessen"
       },
       {
-        "category": "Internasjonal pop og rock",
-        "title": "Leonard Cohen",
-        "url": "https://snl.no/Leonard_Cohen"
+        "category": "Pengespill",
+        "title": "Norsk Rikstoto",
+        "url": "https://snl.no/Norsk_Rikstoto"
       },
       {
-        "category": "Amerikansk politikk",
-        "title": "Det demokratiske partiet",
-        "url": "https://snl.no/Det_demokratiske_partiet"
+        "category": "Sitrusslekta",
+        "title": "bergamott – sitrusfrukt",
+        "url": "https://snl.no/bergamott_-_sitrusfrukt"
       },
       {
-        "category": "Amerikansk politikk",
-        "title": "Kongressen i USA",
-        "url": "https://snl.no/Kongressen_i_USA"
+        "category": "Portulakkslekta",
+        "title": "portulakk",
+        "url": "https://snl.no/portulakk"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Kristen misjonsvirksomhet",
-        "title": "Church Mission Society",
-        "url": "https://snl.no/Church_Mission_Society"
+        "category": "Renessansen",
+        "title": "Sofonisba Anguissola",
+        "url": "https://snl.no/Sofonisba_Anguissola"
       },
       {
-        "category": "Energi og ressurs",
-        "title": "energistatistikk",
-        "url": "https://snl.no/energistatistikk"
+        "category": "Motiver i bildende kunst",
+        "title": "død – bildekunst",
+        "url": "https://snl.no/d%C3%B8d_-_bildekunst"
       },
       {
-        "category": "Folkemusikk",
-        "title": "Kåre Korneliussen",
-        "url": "https://snl.no/K%C3%A5re_Korneliussen"
+        "category": "Biologer",
+        "title": "Aslaug Sverdrup Sømme",
+        "url": "https://snl.no/Aslaug_Sverdrup_S%C3%B8mme"
       },
       {
-        "category": "Biografier medisinsk historie",
-        "title": "Korbinian Brodmann",
-        "url": "https://snl.no/Korbinian_Brodmann"
+        "category": "Økonomisk kriminalitet",
+        "title": "skatteamnesti",
+        "url": "https://snl.no/skatteamnesti"
       },
       {
-        "category": "Animasjonsfilm",
-        "title": "Mikrofilm – animasjonsstudio",
-        "url": "https://snl.no/Mikrofilm_-_animasjonsstudio"
+        "category": "Fotografi",
+        "title": "Rollei",
+        "url": "https://snl.no/Rollei"
       }
     ]
   }

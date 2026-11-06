@@ -14010,5 +14010,88 @@
         "url": "https://snl.no/Mikrofilm_-_animasjonsstudio"
       }
     ]
+  },
+  "2026-11-06": {
+    "Mest lest i går": [
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
+      },
+      {
+        "category": "Amerikansk politikk",
+        "title": "USAs politiske system",
+        "url": "https://snl.no/USAs_politiske_system"
+      },
+      {
+        "category": "Amerikansk politikk",
+        "title": "mellomvalg i USA",
+        "url": "https://snl.no/mellomvalg_i_USA"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Det gamle testamentet",
+        "title": "De ti bud",
+        "url": "https://snl.no/De_ti_bud"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Biografier i Englands historie",
+        "title": "Guy Fawkes",
+        "url": "https://snl.no/Guy_Fawkes"
+      },
+      {
+        "category": "Midtøstens samtidshistorie",
+        "title": "Oslo-prosessen",
+        "url": "https://snl.no/Oslo-prosessen"
+      },
+      {
+        "category": "Pengespill",
+        "title": "Norsk Rikstoto",
+        "url": "https://snl.no/Norsk_Rikstoto"
+      },
+      {
+        "category": "Sitrusslekta",
+        "title": "bergamott – sitrusfrukt",
+        "url": "https://snl.no/bergamott_-_sitrusfrukt"
+      },
+      {
+        "category": "Portulakkslekta",
+        "title": "portulakk",
+        "url": "https://snl.no/portulakk"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Renessansen",
+        "title": "Sofonisba Anguissola",
+        "url": "https://snl.no/Sofonisba_Anguissola"
+      },
+      {
+        "category": "Motiver i bildende kunst",
+        "title": "død – bildekunst",
+        "url": "https://snl.no/d%C3%B8d_-_bildekunst"
+      },
+      {
+        "category": "Biologer",
+        "title": "Aslaug Sverdrup Sømme",
+        "url": "https://snl.no/Aslaug_Sverdrup_S%C3%B8mme"
+      },
+      {
+        "category": "Økonomisk kriminalitet",
+        "title": "skatteamnesti",
+        "url": "https://snl.no/skatteamnesti"
+      },
+      {
+        "category": "Fotografi",
+        "title": "Rollei",
+        "url": "https://snl.no/Rollei"
+      }
+    ]
   }
 }
