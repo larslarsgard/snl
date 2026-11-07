@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "categories": {
     "Mest lest i går": [
       {
@@ -8,19 +8,19 @@
         "url": "https://snl.no/Henry_Rinnan"
       },
       {
-        "category": "Amerikansk politikk",
-        "title": "USAs politiske system",
-        "url": "https://snl.no/USAs_politiske_system"
-      },
-      {
-        "category": "Amerikansk politikk",
-        "title": "mellomvalg i USA",
-        "url": "https://snl.no/mellomvalg_i_USA"
+        "category": "Sportsdans",
+        "title": "Espen Salberg",
+        "url": "https://snl.no/Espen_Salberg"
       },
       {
         "category": "Første verdenskrig",
         "title": "første verdenskrig",
         "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Amerikansk politikk",
+        "title": "mellomvalg i USA",
+        "url": "https://snl.no/mellomvalg_i_USA"
       },
       {
         "category": "Det gamle testamentet",
@@ -30,56 +30,56 @@
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Biografier i Englands historie",
-        "title": "Guy Fawkes",
-        "url": "https://snl.no/Guy_Fawkes"
+        "category": "Sportsdans",
+        "title": "Kirsten Salberg",
+        "url": "https://snl.no/Kirsten_Salberg"
       },
       {
-        "category": "Midtøstens samtidshistorie",
-        "title": "Oslo-prosessen",
-        "url": "https://snl.no/Oslo-prosessen"
+        "category": "Dyrenes fysiologi",
+        "title": "vekselvarme dyr",
+        "url": "https://snl.no/vekselvarme_dyr"
       },
       {
-        "category": "Pengespill",
-        "title": "Norsk Rikstoto",
-        "url": "https://snl.no/Norsk_Rikstoto"
+        "category": "Luftforsvaret",
+        "title": "NASAMS",
+        "url": "https://snl.no/NASAMS"
       },
       {
-        "category": "Sitrusslekta",
-        "title": "bergamott – sitrusfrukt",
-        "url": "https://snl.no/bergamott_-_sitrusfrukt"
+        "category": "TV- og radiopersoner",
+        "title": "Christer Falck",
+        "url": "https://snl.no/Christer_Falck"
       },
       {
-        "category": "Portulakkslekta",
-        "title": "portulakk",
-        "url": "https://snl.no/portulakk"
+        "category": "Norsk bildende kunst fra 1945 til 1990",
+        "title": "Ivan Storm Juliussen",
+        "url": "https://snl.no/Ivan_Storm_Juliussen"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Renessansen",
-        "title": "Sofonisba Anguissola",
-        "url": "https://snl.no/Sofonisba_Anguissola"
+        "category": "Qatar historie",
+        "title": "Qatars historie",
+        "url": "https://snl.no/Qatars_historie"
       },
       {
-        "category": "Motiver i bildende kunst",
-        "title": "død – bildekunst",
-        "url": "https://snl.no/d%C3%B8d_-_bildekunst"
+        "category": "Tsjekkias samtidshistorie",
+        "title": "TOP 09",
+        "url": "https://snl.no/TOP_09"
       },
       {
-        "category": "Biologer",
-        "title": "Aslaug Sverdrup Sømme",
-        "url": "https://snl.no/Aslaug_Sverdrup_S%C3%B8mme"
+        "category": "Paraguays samtidshistorie",
+        "title": "Horacio Cartes",
+        "url": "https://snl.no/Horacio_Cartes"
       },
       {
-        "category": "Økonomisk kriminalitet",
-        "title": "skatteamnesti",
-        "url": "https://snl.no/skatteamnesti"
+        "category": "Leddbladordenen",
+        "title": "leddbladfamilien",
+        "url": "https://snl.no/leddbladfamilien"
       },
       {
-        "category": "Fotografi",
-        "title": "Rollei",
-        "url": "https://snl.no/Rollei"
+        "category": "1600-tallets filosofi",
+        "title": "Pascals veddemål",
+        "url": "https://snl.no/Pascals_veddem%C3%A5l"
       }
     ]
   }
