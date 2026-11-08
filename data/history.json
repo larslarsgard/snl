@@ -14176,5 +14176,88 @@
         "url": "https://snl.no/Pascals_veddem%C3%A5l"
       }
     ]
+  },
+  "2026-11-08": {
+    "Mest lest i går": [
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
+      },
+      {
+        "category": "Genetiske sykdommer og syndromer",
+        "title": "Huntingtons sykdom",
+        "url": "https://sml.snl.no/Huntingtons_sykdom"
+      },
+      {
+        "category": "Norsk kunstnerleksikon",
+        "title": "John Thørrisen",
+        "url": "https://nkl.snl.no/John_Th%C3%B8rrisen"
+      },
+      {
+        "category": "Hjerte- og kretsløpsfysiologi",
+        "title": "hjertefrekvensvariabilitet – HRV",
+        "url": "https://sml.snl.no/hjertefrekvensvariabilitet_-_HRV"
+      },
+      {
+        "category": "TV- og radioprogrammer",
+        "title": "Skal vi danse",
+        "url": "https://snl.no/Skal_vi_danse"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Norske skuespillere",
+        "title": "Anne Marit Jacobsen",
+        "url": "https://snl.no/Anne_Marit_Jacobsen"
+      },
+      {
+        "category": "Norsk pop og rock",
+        "title": "DumDum Boys",
+        "url": "https://snl.no/DumDum_Boys"
+      },
+      {
+        "category": "Luftforsvaret",
+        "title": "NASAMS",
+        "url": "https://snl.no/NASAMS"
+      },
+      {
+        "category": "TV- og radiopersoner",
+        "title": "Fetisha Williams",
+        "url": "https://snl.no/Fetisha_Williams"
+      },
+      {
+        "category": "TV- og radioprogrammer",
+        "title": "Maskorama",
+        "url": "https://snl.no/Maskorama"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Internasjonale dirigenter",
+        "title": "Karl Böhm",
+        "url": "https://snl.no/Karl_B%C3%B6hm"
+      },
+      {
+        "category": "Estlands samtidshistorie",
+        "title": "Medier i Estland",
+        "url": "https://snl.no/Medier_i_Estland"
+      },
+      {
+        "category": "Iraks historie",
+        "title": "Iraks samtidshistorie",
+        "url": "https://snl.no/Iraks_samtidshistorie"
+      },
+      {
+        "category": "Fast eiendoms rettsforhold",
+        "title": "kraftledningsregisteret",
+        "url": "https://snl.no/kraftledningsregisteret"
+      },
+      {
+        "category": "Ølbrygging",
+        "title": "ølbrygging",
+        "url": "https://snl.no/%C3%B8lbrygging"
+      }
+    ]
   }
 }
