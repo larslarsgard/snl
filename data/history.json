@@ -14259,5 +14259,88 @@
         "url": "https://snl.no/%C3%B8lbrygging"
       }
     ]
+  },
+  "2026-11-09": {
+    "Mest lest i går": [
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
+      },
+      {
+        "category": "Hjerte- og kretsløpsfysiologi",
+        "title": "hjertefrekvensvariabilitet – HRV",
+        "url": "https://sml.snl.no/hjertefrekvensvariabilitet_-_HRV"
+      },
+      {
+        "category": "Genetiske sykdommer og syndromer",
+        "title": "Huntingtons sykdom",
+        "url": "https://sml.snl.no/Huntingtons_sykdom"
+      },
+      {
+        "category": "Merkedager",
+        "title": "farsdag",
+        "url": "https://snl.no/farsdag"
+      },
+      {
+        "category": "Musikk",
+        "title": "Mari Boine",
+        "url": "https://nbl.snl.no/Mari_Boine"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Merkedager",
+        "title": "morsdag",
+        "url": "https://snl.no/morsdag"
+      },
+      {
+        "category": "Verdensmusikk",
+        "title": "Mari Boine",
+        "url": "https://snl.no/Mari_Boine"
+      },
+      {
+        "category": "Glasskunstnere og keramikere",
+        "title": "Willy Johansson",
+        "url": "https://snl.no/Willy_Johansson"
+      },
+      {
+        "category": "Genetiske sykdommer og syndromer",
+        "title": "Duchennes muskeldystrofi",
+        "url": "https://sml.snl.no/Duchennes_muskeldystrofi"
+      },
+      {
+        "category": "Motstandskampen i Norge",
+        "title": "Oslogjengen",
+        "url": "https://snl.no/Oslogjengen"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Indonesias historie",
+        "title": "Bacharuddin Jusuf Habibie",
+        "url": "https://snl.no/Bacharuddin_Jusuf_Habibie"
+      },
+      {
+        "category": "Svalbard",
+        "title": "Nathorst Land",
+        "url": "https://snl.no/Nathorst_Land"
+      },
+      {
+        "category": "Stavkirker",
+        "title": "Uvdal stavkirke",
+        "url": "https://snl.no/Uvdal_stavkirke"
+      },
+      {
+        "category": "Argentinas samtidshistorie",
+        "title": "Mauricio Macri",
+        "url": "https://snl.no/Mauricio_Macri"
+      },
+      {
+        "category": "Saudi-Arabias samtidshistorie",
+        "title": "Saudi-Arabias utenrikspolitikk",
+        "url": "https://snl.no/Saudi-Arabias_utenrikspolitikk"
+      }
+    ]
   }
 }

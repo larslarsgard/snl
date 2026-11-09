@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "categories": {
     "Mest lest i går": [
       {
@@ -8,78 +8,78 @@
         "url": "https://snl.no/Henry_Rinnan"
       },
       {
-        "category": "Genetiske sykdommer og syndromer",
-        "title": "Huntingtons sykdom",
-        "url": "https://sml.snl.no/Huntingtons_sykdom"
-      },
-      {
-        "category": "Norsk kunstnerleksikon",
-        "title": "John Thørrisen",
-        "url": "https://nkl.snl.no/John_Th%C3%B8rrisen"
-      },
-      {
         "category": "Hjerte- og kretsløpsfysiologi",
         "title": "hjertefrekvensvariabilitet – HRV",
         "url": "https://sml.snl.no/hjertefrekvensvariabilitet_-_HRV"
       },
       {
-        "category": "TV- og radioprogrammer",
-        "title": "Skal vi danse",
-        "url": "https://snl.no/Skal_vi_danse"
+        "category": "Genetiske sykdommer og syndromer",
+        "title": "Huntingtons sykdom",
+        "url": "https://sml.snl.no/Huntingtons_sykdom"
+      },
+      {
+        "category": "Merkedager",
+        "title": "farsdag",
+        "url": "https://snl.no/farsdag"
+      },
+      {
+        "category": "Musikk",
+        "title": "Mari Boine",
+        "url": "https://nbl.snl.no/Mari_Boine"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Norske skuespillere",
-        "title": "Anne Marit Jacobsen",
-        "url": "https://snl.no/Anne_Marit_Jacobsen"
+        "category": "Merkedager",
+        "title": "morsdag",
+        "url": "https://snl.no/morsdag"
       },
       {
-        "category": "Norsk pop og rock",
-        "title": "DumDum Boys",
-        "url": "https://snl.no/DumDum_Boys"
+        "category": "Verdensmusikk",
+        "title": "Mari Boine",
+        "url": "https://snl.no/Mari_Boine"
       },
       {
-        "category": "Luftforsvaret",
-        "title": "NASAMS",
-        "url": "https://snl.no/NASAMS"
+        "category": "Glasskunstnere og keramikere",
+        "title": "Willy Johansson",
+        "url": "https://snl.no/Willy_Johansson"
       },
       {
-        "category": "TV- og radiopersoner",
-        "title": "Fetisha Williams",
-        "url": "https://snl.no/Fetisha_Williams"
+        "category": "Genetiske sykdommer og syndromer",
+        "title": "Duchennes muskeldystrofi",
+        "url": "https://sml.snl.no/Duchennes_muskeldystrofi"
       },
       {
-        "category": "TV- og radioprogrammer",
-        "title": "Maskorama",
-        "url": "https://snl.no/Maskorama"
+        "category": "Motstandskampen i Norge",
+        "title": "Oslogjengen",
+        "url": "https://snl.no/Oslogjengen"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Internasjonale dirigenter",
-        "title": "Karl Böhm",
-        "url": "https://snl.no/Karl_B%C3%B6hm"
+        "category": "Indonesias historie",
+        "title": "Bacharuddin Jusuf Habibie",
+        "url": "https://snl.no/Bacharuddin_Jusuf_Habibie"
       },
       {
-        "category": "Estlands samtidshistorie",
-        "title": "Medier i Estland",
-        "url": "https://snl.no/Medier_i_Estland"
+        "category": "Svalbard",
+        "title": "Nathorst Land",
+        "url": "https://snl.no/Nathorst_Land"
       },
       {
-        "category": "Iraks historie",
-        "title": "Iraks samtidshistorie",
-        "url": "https://snl.no/Iraks_samtidshistorie"
+        "category": "Stavkirker",
+        "title": "Uvdal stavkirke",
+        "url": "https://snl.no/Uvdal_stavkirke"
       },
       {
-        "category": "Fast eiendoms rettsforhold",
-        "title": "kraftledningsregisteret",
-        "url": "https://snl.no/kraftledningsregisteret"
+        "category": "Argentinas samtidshistorie",
+        "title": "Mauricio Macri",
+        "url": "https://snl.no/Mauricio_Macri"
       },
       {
-        "category": "Ølbrygging",
-        "title": "ølbrygging",
-        "url": "https://snl.no/%C3%B8lbrygging"
+        "category": "Saudi-Arabias samtidshistorie",
+        "title": "Saudi-Arabias utenrikspolitikk",
+        "url": "https://snl.no/Saudi-Arabias_utenrikspolitikk"
       }
     ]
   }
