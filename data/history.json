@@ -14425,5 +14425,88 @@
         "url": "https://snl.no/Thesevs'_skip"
       }
     ]
+  },
+  "2026-11-11": {
+    "Mest lest i går": [
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Hinduisme",
+        "title": "hinduisme",
+        "url": "https://snl.no/hinduisme"
+      },
+      {
+        "category": "Den franske revolusjon",
+        "title": "den franske revolusjon",
+        "url": "https://snl.no/den_franske_revolusjon"
+      },
+      {
+        "category": "Periodesystemet",
+        "title": "periodesystemet",
+        "url": "https://snl.no/periodesystemet"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Øyesykdommer",
+        "title": "papilleødem",
+        "url": "https://sml.snl.no/papille%C3%B8dem"
+      },
+      {
+        "category": "Norske skuespillere",
+        "title": "Lars Andreas Larssen",
+        "url": "https://snl.no/Lars_Andreas_Larssen"
+      },
+      {
+        "category": "Merkedager",
+        "title": "mortensmesse",
+        "url": "https://snl.no/mortensmesse"
+      },
+      {
+        "category": "Jødeforfølgelse i moderne tid",
+        "title": "Novemberpogromen",
+        "url": "https://snl.no/Novemberpogromen"
+      },
+      {
+        "category": "Norsk bildende kunst fra 1945 til 1990",
+        "title": "Ivan Storm Juliussen",
+        "url": "https://snl.no/Ivan_Storm_Juliussen"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Stavkirker",
+        "title": "Hedalen stavkirke",
+        "url": "https://snl.no/Hedalen_stavkirke"
+      },
+      {
+        "category": "Internasjonal pop og rock",
+        "title": "Richard Thompson",
+        "url": "https://snl.no/Richard_Thompson"
+      },
+      {
+        "category": "Norske fotografer og fotokunstnere",
+        "title": "Boris Mikhailov",
+        "url": "https://snl.no/Boris_Mikhailov"
+      },
+      {
+        "category": "Middelalderkunst",
+        "title": "gotikken – skulptur og maleri",
+        "url": "https://snl.no/gotikken_-_skulptur_og_maleri"
+      },
+      {
+        "category": "Storbritannia og Nord-Irlands litteratur på 1800-tallet",
+        "title": "Letitia Landon",
+        "url": "https://snl.no/Letitia_Landon"
+      }
+    ]
   }
 }
