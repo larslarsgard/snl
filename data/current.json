@@ -1,21 +1,16 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Norges historie fra 1940 til 1945",
-        "title": "Henry Rinnan",
-        "url": "https://snl.no/Henry_Rinnan"
-      },
       {
         "category": "Første verdenskrig",
         "title": "første verdenskrig",
         "url": "https://snl.no/f%C3%B8rste_verdenskrig"
       },
       {
-        "category": "Hinduisme",
-        "title": "hinduisme",
-        "url": "https://snl.no/hinduisme"
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
       },
       {
         "category": "Den franske revolusjon",
@@ -23,21 +18,21 @@
         "url": "https://snl.no/den_franske_revolusjon"
       },
       {
-        "category": "Periodesystemet",
-        "title": "periodesystemet",
-        "url": "https://snl.no/periodesystemet"
+        "category": "Hinduisme",
+        "title": "hinduisme",
+        "url": "https://snl.no/hinduisme"
+      },
+      {
+        "category": "Den kalde krigen",
+        "title": "den kalde krigen",
+        "url": "https://snl.no/den_kalde_krigen"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Øyesykdommer",
-        "title": "papilleødem",
-        "url": "https://sml.snl.no/papille%C3%B8dem"
-      },
-      {
-        "category": "Norske skuespillere",
-        "title": "Lars Andreas Larssen",
-        "url": "https://snl.no/Lars_Andreas_Larssen"
+        "category": "Danmarks litteratur på 1700-tallet",
+        "title": "Jacob Nicolaj Wilse",
+        "url": "https://snl.no/Jacob_Nicolaj_Wilse"
       },
       {
         "category": "Merkedager",
@@ -45,41 +40,46 @@
         "url": "https://snl.no/mortensmesse"
       },
       {
-        "category": "Jødeforfølgelse i moderne tid",
-        "title": "Novemberpogromen",
-        "url": "https://snl.no/Novemberpogromen"
+        "category": "Stormsvalefamilien",
+        "title": "havsvale",
+        "url": "https://snl.no/havsvale"
       },
       {
-        "category": "Norsk bildende kunst fra 1945 til 1990",
-        "title": "Ivan Storm Juliussen",
-        "url": "https://snl.no/Ivan_Storm_Juliussen"
+        "category": "Surrealisme i bildende kunst",
+        "title": "dadaisme",
+        "url": "https://snl.no/dadaisme"
+      },
+      {
+        "category": "Vatikanstatens geografi",
+        "title": "Vatikanstaten",
+        "url": "https://snl.no/Vatikanstaten"
       }
     ],
     "Sørgelig lite lest": [
       {
         "category": "Stavkirker",
-        "title": "Hedalen stavkirke",
-        "url": "https://snl.no/Hedalen_stavkirke"
+        "title": "Høyjord stavkirke",
+        "url": "https://snl.no/H%C3%B8yjord_stavkirke"
       },
       {
-        "category": "Internasjonal pop og rock",
-        "title": "Richard Thompson",
-        "url": "https://snl.no/Richard_Thompson"
+        "category": "Skulptur og mosaikk i renessansen og barokken",
+        "title": "Antonio Rossellino",
+        "url": "https://snl.no/Antonio_Rossellino"
       },
       {
-        "category": "Norske fotografer og fotokunstnere",
-        "title": "Boris Mikhailov",
-        "url": "https://snl.no/Boris_Mikhailov"
+        "category": "Ekspresjonisme og fauvisme",
+        "title": "Axel Törneman",
+        "url": "https://snl.no/Axel_T%C3%B6rneman"
       },
       {
-        "category": "Middelalderkunst",
-        "title": "gotikken – skulptur og maleri",
-        "url": "https://snl.no/gotikken_-_skulptur_og_maleri"
+        "category": "De forente arabiske emiraters historie",
+        "title": "De forente arabiske emiraters eldre historie",
+        "url": "https://snl.no/De_forente_arabiske_emiraters_eldre_historie"
       },
       {
-        "category": "Storbritannia og Nord-Irlands litteratur på 1800-tallet",
-        "title": "Letitia Landon",
-        "url": "https://snl.no/Letitia_Landon"
+        "category": "Konseptkunst og postkonseptualisme",
+        "title": "Miriam Schapiro",
+        "url": "https://snl.no/Miriam_Schapiro"
       }
     ]
   }

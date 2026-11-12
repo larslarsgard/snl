@@ -14508,5 +14508,88 @@
         "url": "https://snl.no/Letitia_Landon"
       }
     ]
+  },
+  "2026-11-12": {
+    "Mest lest i går": [
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
+      },
+      {
+        "category": "Den franske revolusjon",
+        "title": "den franske revolusjon",
+        "url": "https://snl.no/den_franske_revolusjon"
+      },
+      {
+        "category": "Hinduisme",
+        "title": "hinduisme",
+        "url": "https://snl.no/hinduisme"
+      },
+      {
+        "category": "Den kalde krigen",
+        "title": "den kalde krigen",
+        "url": "https://snl.no/den_kalde_krigen"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Danmarks litteratur på 1700-tallet",
+        "title": "Jacob Nicolaj Wilse",
+        "url": "https://snl.no/Jacob_Nicolaj_Wilse"
+      },
+      {
+        "category": "Merkedager",
+        "title": "mortensmesse",
+        "url": "https://snl.no/mortensmesse"
+      },
+      {
+        "category": "Stormsvalefamilien",
+        "title": "havsvale",
+        "url": "https://snl.no/havsvale"
+      },
+      {
+        "category": "Surrealisme i bildende kunst",
+        "title": "dadaisme",
+        "url": "https://snl.no/dadaisme"
+      },
+      {
+        "category": "Vatikanstatens geografi",
+        "title": "Vatikanstaten",
+        "url": "https://snl.no/Vatikanstaten"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Stavkirker",
+        "title": "Høyjord stavkirke",
+        "url": "https://snl.no/H%C3%B8yjord_stavkirke"
+      },
+      {
+        "category": "Skulptur og mosaikk i renessansen og barokken",
+        "title": "Antonio Rossellino",
+        "url": "https://snl.no/Antonio_Rossellino"
+      },
+      {
+        "category": "Ekspresjonisme og fauvisme",
+        "title": "Axel Törneman",
+        "url": "https://snl.no/Axel_T%C3%B6rneman"
+      },
+      {
+        "category": "De forente arabiske emiraters historie",
+        "title": "De forente arabiske emiraters eldre historie",
+        "url": "https://snl.no/De_forente_arabiske_emiraters_eldre_historie"
+      },
+      {
+        "category": "Konseptkunst og postkonseptualisme",
+        "title": "Miriam Schapiro",
+        "url": "https://snl.no/Miriam_Schapiro"
+      }
+    ]
   }
 }
