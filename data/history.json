@@ -14591,5 +14591,88 @@
         "url": "https://snl.no/Miriam_Schapiro"
       }
     ]
+  },
+  "2026-11-13": {
+    "Mest lest i går": [
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
+      },
+      {
+        "category": "Østerrikes historie",
+        "title": "Elisabeth – keiserinne av Østerrike",
+        "url": "https://snl.no/Elisabeth_-_keiserinne_av_%C3%98sterrike"
+      },
+      {
+        "category": "Den franske revolusjon",
+        "title": "den franske revolusjon",
+        "url": "https://snl.no/den_franske_revolusjon"
+      },
+      {
+        "category": "Hinduisme",
+        "title": "hinduisme",
+        "url": "https://snl.no/hinduisme"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Spolebuskslekta",
+        "title": "spolebusk",
+        "url": "https://snl.no/spolebusk"
+      },
+      {
+        "category": "Miljøbevegelsen",
+        "title": "Framtiden i våre hender",
+        "url": "https://snl.no/Framtiden_i_v%C3%A5re_hender"
+      },
+      {
+        "category": "Internasjonal scene- og teaterhistorie",
+        "title": "Sarah Bernhardt",
+        "url": "https://snl.no/Sarah_Bernhardt"
+      },
+      {
+        "category": "Hær og landforsvar",
+        "title": "skyttergrav",
+        "url": "https://snl.no/skyttergrav"
+      },
+      {
+        "category": "Miljøbevegelsen",
+        "title": "Greta Thunberg",
+        "url": "https://snl.no/Greta_Thunberg"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Kålslekta",
+        "title": "blomkål",
+        "url": "https://snl.no/blomk%C3%A5l"
+      },
+      {
+        "category": "Svalbard",
+        "title": "Danskegattet",
+        "url": "https://snl.no/Danskegattet"
+      },
+      {
+        "category": "Jentenavn",
+        "title": "Gunnbjørg – kvinnenamn",
+        "url": "https://snl.no/Gunnbj%C3%B8rg_-_kvinnenamn"
+      },
+      {
+        "category": "Biografier i nyere norsk historie",
+        "title": "Oscar Torp",
+        "url": "https://snl.no/Oscar_Torp"
+      },
+      {
+        "category": "Irlands engelskspråklige litteratur",
+        "title": "Eavan Boland",
+        "url": "https://snl.no/Eavan_Boland"
+      }
+    ]
   }
 }

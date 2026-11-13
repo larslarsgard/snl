@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "categories": {
     "Mest lest i går": [
       {
@@ -13,6 +13,11 @@
         "url": "https://snl.no/Henry_Rinnan"
       },
       {
+        "category": "Østerrikes historie",
+        "title": "Elisabeth – keiserinne av Østerrike",
+        "url": "https://snl.no/Elisabeth_-_keiserinne_av_%C3%98sterrike"
+      },
+      {
         "category": "Den franske revolusjon",
         "title": "den franske revolusjon",
         "url": "https://snl.no/den_franske_revolusjon"
@@ -21,65 +26,60 @@
         "category": "Hinduisme",
         "title": "hinduisme",
         "url": "https://snl.no/hinduisme"
-      },
-      {
-        "category": "Den kalde krigen",
-        "title": "den kalde krigen",
-        "url": "https://snl.no/den_kalde_krigen"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Danmarks litteratur på 1700-tallet",
-        "title": "Jacob Nicolaj Wilse",
-        "url": "https://snl.no/Jacob_Nicolaj_Wilse"
+        "category": "Spolebuskslekta",
+        "title": "spolebusk",
+        "url": "https://snl.no/spolebusk"
       },
       {
-        "category": "Merkedager",
-        "title": "mortensmesse",
-        "url": "https://snl.no/mortensmesse"
+        "category": "Miljøbevegelsen",
+        "title": "Framtiden i våre hender",
+        "url": "https://snl.no/Framtiden_i_v%C3%A5re_hender"
       },
       {
-        "category": "Stormsvalefamilien",
-        "title": "havsvale",
-        "url": "https://snl.no/havsvale"
+        "category": "Internasjonal scene- og teaterhistorie",
+        "title": "Sarah Bernhardt",
+        "url": "https://snl.no/Sarah_Bernhardt"
       },
       {
-        "category": "Surrealisme i bildende kunst",
-        "title": "dadaisme",
-        "url": "https://snl.no/dadaisme"
+        "category": "Hær og landforsvar",
+        "title": "skyttergrav",
+        "url": "https://snl.no/skyttergrav"
       },
       {
-        "category": "Vatikanstatens geografi",
-        "title": "Vatikanstaten",
-        "url": "https://snl.no/Vatikanstaten"
+        "category": "Miljøbevegelsen",
+        "title": "Greta Thunberg",
+        "url": "https://snl.no/Greta_Thunberg"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Stavkirker",
-        "title": "Høyjord stavkirke",
-        "url": "https://snl.no/H%C3%B8yjord_stavkirke"
+        "category": "Kålslekta",
+        "title": "blomkål",
+        "url": "https://snl.no/blomk%C3%A5l"
       },
       {
-        "category": "Skulptur og mosaikk i renessansen og barokken",
-        "title": "Antonio Rossellino",
-        "url": "https://snl.no/Antonio_Rossellino"
+        "category": "Svalbard",
+        "title": "Danskegattet",
+        "url": "https://snl.no/Danskegattet"
       },
       {
-        "category": "Ekspresjonisme og fauvisme",
-        "title": "Axel Törneman",
-        "url": "https://snl.no/Axel_T%C3%B6rneman"
+        "category": "Jentenavn",
+        "title": "Gunnbjørg – kvinnenamn",
+        "url": "https://snl.no/Gunnbj%C3%B8rg_-_kvinnenamn"
       },
       {
-        "category": "De forente arabiske emiraters historie",
-        "title": "De forente arabiske emiraters eldre historie",
-        "url": "https://snl.no/De_forente_arabiske_emiraters_eldre_historie"
+        "category": "Biografier i nyere norsk historie",
+        "title": "Oscar Torp",
+        "url": "https://snl.no/Oscar_Torp"
       },
       {
-        "category": "Konseptkunst og postkonseptualisme",
-        "title": "Miriam Schapiro",
-        "url": "https://snl.no/Miriam_Schapiro"
+        "category": "Irlands engelskspråklige litteratur",
+        "title": "Eavan Boland",
+        "url": "https://snl.no/Eavan_Boland"
       }
     ]
   }
