@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Første verdenskrig",
-        "title": "første verdenskrig",
-        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+        "category": "Østerrikes historie",
+        "title": "Elisabeth – keiserinne av Østerrike",
+        "url": "https://snl.no/Elisabeth_-_keiserinne_av_%C3%98sterrike"
       },
       {
         "category": "Norges historie fra 1940 til 1945",
@@ -13,73 +13,73 @@
         "url": "https://snl.no/Henry_Rinnan"
       },
       {
-        "category": "Østerrikes historie",
-        "title": "Elisabeth – keiserinne av Østerrike",
-        "url": "https://snl.no/Elisabeth_-_keiserinne_av_%C3%98sterrike"
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
       },
       {
-        "category": "Den franske revolusjon",
-        "title": "den franske revolusjon",
-        "url": "https://snl.no/den_franske_revolusjon"
+        "category": "Våler",
+        "title": "Våler – Innlandet",
+        "url": "https://snl.no/V%C3%A5ler_-_Innlandet"
       },
       {
-        "category": "Hinduisme",
-        "title": "hinduisme",
-        "url": "https://snl.no/hinduisme"
+        "category": "Våler",
+        "title": "Våler – Østfold",
+        "url": "https://snl.no/V%C3%A5ler_-_%C3%98stfold"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Spolebuskslekta",
-        "title": "spolebusk",
-        "url": "https://snl.no/spolebusk"
+        "category": "Norges historie fra 1884 til 1940",
+        "title": "Jenny Emilie Pettersen",
+        "url": "https://snl.no/Jenny_Emilie_Pettersen"
       },
       {
-        "category": "Miljøbevegelsen",
-        "title": "Framtiden i våre hender",
-        "url": "https://snl.no/Framtiden_i_v%C3%A5re_hender"
+        "category": "Nasjonale minoriteter i Norge",
+        "title": "tater",
+        "url": "https://snl.no/tater"
       },
       {
-        "category": "Internasjonal scene- og teaterhistorie",
-        "title": "Sarah Bernhardt",
-        "url": "https://snl.no/Sarah_Bernhardt"
+        "category": "Nasjonale minoriteter i Norge",
+        "title": "romani – folkegruppe",
+        "url": "https://snl.no/romani_-_folkegruppe"
       },
       {
-        "category": "Hær og landforsvar",
-        "title": "skyttergrav",
-        "url": "https://snl.no/skyttergrav"
+        "category": "Norske militære biografier",
+        "title": "John Olav Fuglem",
+        "url": "https://snl.no/John_Olav_Fuglem"
       },
       {
-        "category": "Miljøbevegelsen",
-        "title": "Greta Thunberg",
-        "url": "https://snl.no/Greta_Thunberg"
+        "category": "Jødedom",
+        "title": "synagoge",
+        "url": "https://snl.no/synagoge"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Kålslekta",
-        "title": "blomkål",
-        "url": "https://snl.no/blomk%C3%A5l"
+        "category": "Biografier i grunnopplæringen",
+        "title": "Caroline Bauer",
+        "url": "https://snl.no/Caroline_Bauer"
       },
       {
-        "category": "Svalbard",
-        "title": "Danskegattet",
-        "url": "https://snl.no/Danskegattet"
+        "category": "Kristen misjonsvirksomhet",
+        "title": "Hans Peter Børresen",
+        "url": "https://snl.no/Hans_Peter_B%C3%B8rresen"
       },
       {
-        "category": "Jentenavn",
-        "title": "Gunnbjørg – kvinnenamn",
-        "url": "https://snl.no/Gunnbj%C3%B8rg_-_kvinnenamn"
+        "category": "Stavkirker",
+        "title": "Flesberg stavkirke",
+        "url": "https://snl.no/Flesberg_stavkirke"
       },
       {
-        "category": "Biografier i nyere norsk historie",
-        "title": "Oscar Torp",
-        "url": "https://snl.no/Oscar_Torp"
+        "category": "Eubalaena",
+        "title": "nordkaper",
+        "url": "https://snl.no/nordkaper"
       },
       {
-        "category": "Irlands engelskspråklige litteratur",
-        "title": "Eavan Boland",
-        "url": "https://snl.no/Eavan_Boland"
+        "category": "Slavistikk og slavister",
+        "title": "Evgenij Polivanov",
+        "url": "https://snl.no/Evgenij_Polivanov"
       }
     ]
   }

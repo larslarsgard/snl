@@ -14674,5 +14674,88 @@
         "url": "https://snl.no/Eavan_Boland"
       }
     ]
+  },
+  "2026-11-14": {
+    "Mest lest i går": [
+      {
+        "category": "Østerrikes historie",
+        "title": "Elisabeth – keiserinne av Østerrike",
+        "url": "https://snl.no/Elisabeth_-_keiserinne_av_%C3%98sterrike"
+      },
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Våler",
+        "title": "Våler – Innlandet",
+        "url": "https://snl.no/V%C3%A5ler_-_Innlandet"
+      },
+      {
+        "category": "Våler",
+        "title": "Våler – Østfold",
+        "url": "https://snl.no/V%C3%A5ler_-_%C3%98stfold"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Norges historie fra 1884 til 1940",
+        "title": "Jenny Emilie Pettersen",
+        "url": "https://snl.no/Jenny_Emilie_Pettersen"
+      },
+      {
+        "category": "Nasjonale minoriteter i Norge",
+        "title": "tater",
+        "url": "https://snl.no/tater"
+      },
+      {
+        "category": "Nasjonale minoriteter i Norge",
+        "title": "romani – folkegruppe",
+        "url": "https://snl.no/romani_-_folkegruppe"
+      },
+      {
+        "category": "Norske militære biografier",
+        "title": "John Olav Fuglem",
+        "url": "https://snl.no/John_Olav_Fuglem"
+      },
+      {
+        "category": "Jødedom",
+        "title": "synagoge",
+        "url": "https://snl.no/synagoge"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Biografier i grunnopplæringen",
+        "title": "Caroline Bauer",
+        "url": "https://snl.no/Caroline_Bauer"
+      },
+      {
+        "category": "Kristen misjonsvirksomhet",
+        "title": "Hans Peter Børresen",
+        "url": "https://snl.no/Hans_Peter_B%C3%B8rresen"
+      },
+      {
+        "category": "Stavkirker",
+        "title": "Flesberg stavkirke",
+        "url": "https://snl.no/Flesberg_stavkirke"
+      },
+      {
+        "category": "Eubalaena",
+        "title": "nordkaper",
+        "url": "https://snl.no/nordkaper"
+      },
+      {
+        "category": "Slavistikk og slavister",
+        "title": "Evgenij Polivanov",
+        "url": "https://snl.no/Evgenij_Polivanov"
+      }
+    ]
   }
 }
