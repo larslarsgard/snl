@@ -14757,5 +14757,88 @@
         "url": "https://snl.no/Evgenij_Polivanov"
       }
     ]
+  },
+  "2026-11-15": {
+    "Mest lest i går": [
+      {
+        "category": "Tidligere politikere",
+        "title": "Gro Harlem Brundtland",
+        "url": "https://snl.no/Gro_Harlem_Brundtland"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Nasjonsligaen",
+        "url": "https://snl.no/Nasjonsligaen"
+      },
+      {
+        "category": "Østerrikes historie",
+        "title": "Elisabeth – keiserinne av Østerrike",
+        "url": "https://snl.no/Elisabeth_-_keiserinne_av_%C3%98sterrike"
+      },
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
+      },
+      {
+        "category": "Ukrainas geografi",
+        "title": "Donbas",
+        "url": "https://snl.no/Donbas"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Billedkunst",
+        "title": "Anna Sofie Brunchorst Ibsen",
+        "url": "https://snl.no/Anna_Sofie_Brunchorst_Ibsen"
+      },
+      {
+        "category": "Visesang",
+        "title": "Svein Tang Wa",
+        "url": "https://snl.no/Svein_Tang_Wa"
+      },
+      {
+        "category": "Biografier i nyere norsk historie",
+        "title": "Gudmund Harlem",
+        "url": "https://snl.no/Gudmund_Harlem"
+      },
+      {
+        "category": "Personer, bedrifter og organisasjoner innen romvirksomhet",
+        "title": "Jannicke Mikkelsen",
+        "url": "https://snl.no/Jannicke_Mikkelsen"
+      },
+      {
+        "category": "TV- og radiopersoner",
+        "title": "Fetisha Williams",
+        "url": "https://snl.no/Fetisha_Williams"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Fyrvesen",
+        "title": "fyr",
+        "url": "https://snl.no/fyr"
+      },
+      {
+        "category": "Stavkirker",
+        "title": "Røldal stavkirke",
+        "url": "https://snl.no/R%C3%B8ldal_stavkirke"
+      },
+      {
+        "category": "Internasjonale dirigenter",
+        "title": "Hermann Scherchen",
+        "url": "https://snl.no/Hermann_Scherchen"
+      },
+      {
+        "category": "Biografier i Englands historie",
+        "title": "Richard Neville",
+        "url": "https://snl.no/Richard_Neville"
+      },
+      {
+        "category": "Orgel",
+        "title": "Jeanne Demessieux",
+        "url": "https://snl.no/Jeanne_Demessieux"
+      }
+    ]
   }
 }
