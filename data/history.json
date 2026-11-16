@@ -14840,5 +14840,88 @@
         "url": "https://snl.no/Jeanne_Demessieux"
       }
     ]
+  },
+  "2026-11-16": {
+    "Mest lest i går": [
+      {
+        "category": "Østerrikes historie",
+        "title": "Elisabeth – keiserinne av Østerrike",
+        "url": "https://snl.no/Elisabeth_-_keiserinne_av_%C3%98sterrike"
+      },
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Nasjonsligaen",
+        "url": "https://snl.no/Nasjonsligaen"
+      },
+      {
+        "category": "Tidligere politikere",
+        "title": "Gro Harlem Brundtland",
+        "url": "https://snl.no/Gro_Harlem_Brundtland"
+      },
+      {
+        "category": "Norske fotballspillere",
+        "title": "Antonio Nusa",
+        "url": "https://snl.no/Antonio_Nusa"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Erteblomstfamilien",
+        "title": "tonkabønner",
+        "url": "https://snl.no/tonkab%C3%B8nner"
+      },
+      {
+        "category": "Billedkunst",
+        "title": "Anna Sofie Brunchorst Ibsen",
+        "url": "https://snl.no/Anna_Sofie_Brunchorst_Ibsen"
+      },
+      {
+        "category": "Norske skuespillere",
+        "title": "Alfred Maurstad",
+        "url": "https://snl.no/Alfred_Maurstad"
+      },
+      {
+        "category": "Biografier i nyere norsk historie",
+        "title": "Gudmund Harlem",
+        "url": "https://snl.no/Gudmund_Harlem"
+      },
+      {
+        "category": "Norske skuespillere",
+        "title": "Mari Maurstad",
+        "url": "https://snl.no/Mari_Maurstad"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Verdensmusikk",
+        "title": "arabisk musikk",
+        "url": "https://snl.no/arabisk_musikk"
+      },
+      {
+        "category": "Den tyske okkupasjonsmakten",
+        "title": "Georg Angerer",
+        "url": "https://snl.no/Georg_Angerer"
+      },
+      {
+        "category": "Musikkterapi",
+        "title": "musikkterapi",
+        "url": "https://snl.no/musikkterapi"
+      },
+      {
+        "category": "Tidligere aviser i Nord-Norge",
+        "title": "Salten – avis",
+        "url": "https://snl.no/Salten_-_avis"
+      },
+      {
+        "category": "Internasjonale klassiske instrumentalister",
+        "title": "Teresa Carreño",
+        "url": "https://snl.no/Teresa_Carre%C3%B1o"
+      }
+    ]
   }
 }
