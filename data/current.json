@@ -1,7 +1,12 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
       {
         "category": "Østerrikes historie",
         "title": "Elisabeth – keiserinne av Østerrike",
@@ -13,73 +18,68 @@
         "url": "https://snl.no/Henry_Rinnan"
       },
       {
-        "category": "Internasjonal fotball",
-        "title": "Nasjonsligaen",
-        "url": "https://snl.no/Nasjonsligaen"
+        "category": "Den franske revolusjon",
+        "title": "den franske revolusjon",
+        "url": "https://snl.no/den_franske_revolusjon"
       },
       {
-        "category": "Tidligere politikere",
-        "title": "Gro Harlem Brundtland",
-        "url": "https://snl.no/Gro_Harlem_Brundtland"
-      },
-      {
-        "category": "Norske fotballspillere",
-        "title": "Antonio Nusa",
-        "url": "https://snl.no/Antonio_Nusa"
+        "category": "Radioøkologi og strålevern",
+        "title": "Tsjernobyl-ulykken",
+        "url": "https://snl.no/Tsjernobyl-ulykken"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Erteblomstfamilien",
-        "title": "tonkabønner",
-        "url": "https://snl.no/tonkab%C3%B8nner"
+        "category": "Norsk samtidslitteratur",
+        "title": "Henrik H. Langeland",
+        "url": "https://snl.no/Henrik_H._Langeland"
       },
       {
-        "category": "Billedkunst",
-        "title": "Anna Sofie Brunchorst Ibsen",
-        "url": "https://snl.no/Anna_Sofie_Brunchorst_Ibsen"
+        "category": "Polare ekspedisjoner og oppdagere",
+        "title": "Robert Falcon Scott",
+        "url": "https://snl.no/Robert_Falcon_Scott"
       },
       {
-        "category": "Norske skuespillere",
-        "title": "Alfred Maurstad",
-        "url": "https://snl.no/Alfred_Maurstad"
+        "category": "Genetiske sykdommer og syndromer",
+        "title": "hermafrodittisme – hos mennesket",
+        "url": "https://sml.snl.no/hermafrodittisme_-_hos_mennesket"
       },
       {
-        "category": "Biografier i nyere norsk historie",
-        "title": "Gudmund Harlem",
-        "url": "https://snl.no/Gudmund_Harlem"
+        "category": "Symptomer fra fordøyelsessystemet",
+        "title": "forstoppelse",
+        "url": "https://sml.snl.no/forstoppelse"
       },
       {
-        "category": "Norske skuespillere",
-        "title": "Mari Maurstad",
-        "url": "https://snl.no/Mari_Maurstad"
+        "category": "Jus generelt",
+        "title": "forfordele",
+        "url": "https://snl.no/forfordele"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Verdensmusikk",
-        "title": "arabisk musikk",
-        "url": "https://snl.no/arabisk_musikk"
+        "category": "Sveriges litteratur på 1500- og 1600-tallet",
+        "title": "Olaus Magnus",
+        "url": "https://snl.no/Olaus_Magnus"
       },
       {
-        "category": "Den tyske okkupasjonsmakten",
-        "title": "Georg Angerer",
-        "url": "https://snl.no/Georg_Angerer"
+        "category": "Norske språkforskere og språkfolk",
+        "title": "Ludvig Vibe",
+        "url": "https://snl.no/Ludvig_Vibe"
       },
       {
-        "category": "Musikkterapi",
-        "title": "musikkterapi",
-        "url": "https://snl.no/musikkterapi"
+        "category": "Mexicos litteratur",
+        "title": "Hugo Hiriart",
+        "url": "https://snl.no/Hugo_Hiriart"
       },
       {
-        "category": "Tidligere aviser i Nord-Norge",
-        "title": "Salten – avis",
-        "url": "https://snl.no/Salten_-_avis"
+        "category": "Middelalderkunst",
+        "title": "gotikken – skulptur og maleri",
+        "url": "https://snl.no/gotikken_-_skulptur_og_maleri"
       },
       {
-        "category": "Internasjonale klassiske instrumentalister",
-        "title": "Teresa Carreño",
-        "url": "https://snl.no/Teresa_Carre%C3%B1o"
+        "category": "Nord-Irlands historie",
+        "title": "Basil Brooke",
+        "url": "https://snl.no/Basil_Brooke"
       }
     ]
   }

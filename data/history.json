@@ -14923,5 +14923,88 @@
         "url": "https://snl.no/Teresa_Carre%C3%B1o"
       }
     ]
+  },
+  "2026-11-17": {
+    "Mest lest i går": [
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Østerrikes historie",
+        "title": "Elisabeth – keiserinne av Østerrike",
+        "url": "https://snl.no/Elisabeth_-_keiserinne_av_%C3%98sterrike"
+      },
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
+      },
+      {
+        "category": "Den franske revolusjon",
+        "title": "den franske revolusjon",
+        "url": "https://snl.no/den_franske_revolusjon"
+      },
+      {
+        "category": "Radioøkologi og strålevern",
+        "title": "Tsjernobyl-ulykken",
+        "url": "https://snl.no/Tsjernobyl-ulykken"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Norsk samtidslitteratur",
+        "title": "Henrik H. Langeland",
+        "url": "https://snl.no/Henrik_H._Langeland"
+      },
+      {
+        "category": "Polare ekspedisjoner og oppdagere",
+        "title": "Robert Falcon Scott",
+        "url": "https://snl.no/Robert_Falcon_Scott"
+      },
+      {
+        "category": "Genetiske sykdommer og syndromer",
+        "title": "hermafrodittisme – hos mennesket",
+        "url": "https://sml.snl.no/hermafrodittisme_-_hos_mennesket"
+      },
+      {
+        "category": "Symptomer fra fordøyelsessystemet",
+        "title": "forstoppelse",
+        "url": "https://sml.snl.no/forstoppelse"
+      },
+      {
+        "category": "Jus generelt",
+        "title": "forfordele",
+        "url": "https://snl.no/forfordele"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Sveriges litteratur på 1500- og 1600-tallet",
+        "title": "Olaus Magnus",
+        "url": "https://snl.no/Olaus_Magnus"
+      },
+      {
+        "category": "Norske språkforskere og språkfolk",
+        "title": "Ludvig Vibe",
+        "url": "https://snl.no/Ludvig_Vibe"
+      },
+      {
+        "category": "Mexicos litteratur",
+        "title": "Hugo Hiriart",
+        "url": "https://snl.no/Hugo_Hiriart"
+      },
+      {
+        "category": "Middelalderkunst",
+        "title": "gotikken – skulptur og maleri",
+        "url": "https://snl.no/gotikken_-_skulptur_og_maleri"
+      },
+      {
+        "category": "Nord-Irlands historie",
+        "title": "Basil Brooke",
+        "url": "https://snl.no/Basil_Brooke"
+      }
+    ]
   }
 }
