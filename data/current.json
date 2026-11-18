@@ -1,7 +1,12 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "categories": {
     "Mest lest i går": [
+      {
+        "category": "Internasjonal fotball",
+        "title": "Nasjonsligaen",
+        "url": "https://snl.no/Nasjonsligaen"
+      },
       {
         "category": "Første verdenskrig",
         "title": "første verdenskrig",
@@ -13,31 +18,21 @@
         "url": "https://snl.no/Elisabeth_-_keiserinne_av_%C3%98sterrike"
       },
       {
-        "category": "Norges historie fra 1940 til 1945",
-        "title": "Henry Rinnan",
-        "url": "https://snl.no/Henry_Rinnan"
-      },
-      {
         "category": "Den franske revolusjon",
         "title": "den franske revolusjon",
         "url": "https://snl.no/den_franske_revolusjon"
       },
       {
-        "category": "Radioøkologi og strålevern",
-        "title": "Tsjernobyl-ulykken",
-        "url": "https://snl.no/Tsjernobyl-ulykken"
+        "category": "Ukrainas geografi",
+        "title": "Krim",
+        "url": "https://snl.no/Krim"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Norsk samtidslitteratur",
-        "title": "Henrik H. Langeland",
-        "url": "https://snl.no/Henrik_H._Langeland"
-      },
-      {
-        "category": "Polare ekspedisjoner og oppdagere",
-        "title": "Robert Falcon Scott",
-        "url": "https://snl.no/Robert_Falcon_Scott"
+        "category": "Helse og livsstil",
+        "title": "looksmaxxing",
+        "url": "https://sml.snl.no/looksmaxxing"
       },
       {
         "category": "Genetiske sykdommer og syndromer",
@@ -45,41 +40,46 @@
         "url": "https://sml.snl.no/hermafrodittisme_-_hos_mennesket"
       },
       {
-        "category": "Symptomer fra fordøyelsessystemet",
-        "title": "forstoppelse",
-        "url": "https://sml.snl.no/forstoppelse"
+        "category": "Nyere norsk litteratur",
+        "title": "Lars Saabye Christensen",
+        "url": "https://snl.no/Lars_Saabye_Christensen"
       },
       {
-        "category": "Jus generelt",
-        "title": "forfordele",
-        "url": "https://snl.no/forfordele"
+        "category": "Norske fotballspillere",
+        "title": "Antonio Nusa",
+        "url": "https://snl.no/Antonio_Nusa"
+      },
+      {
+        "category": "Søvn",
+        "title": "søvn",
+        "url": "https://sml.snl.no/s%C3%B8vn"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Sveriges litteratur på 1500- og 1600-tallet",
-        "title": "Olaus Magnus",
-        "url": "https://snl.no/Olaus_Magnus"
+        "category": "Stavkirker",
+        "title": "Haltdalen stavkirke",
+        "url": "https://snl.no/Haltdalen_stavkirke"
       },
       {
-        "category": "Norske språkforskere og språkfolk",
-        "title": "Ludvig Vibe",
-        "url": "https://snl.no/Ludvig_Vibe"
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "heksogen",
+        "url": "https://snl.no/heksogen"
       },
       {
-        "category": "Mexicos litteratur",
-        "title": "Hugo Hiriart",
-        "url": "https://snl.no/Hugo_Hiriart"
+        "category": "Storbritannias samtidshistorie",
+        "title": "Nigel Lawson",
+        "url": "https://snl.no/Nigel_Lawson"
       },
       {
-        "category": "Middelalderkunst",
-        "title": "gotikken – skulptur og maleri",
-        "url": "https://snl.no/gotikken_-_skulptur_og_maleri"
+        "category": "Romanias samtidshistorie",
+        "title": "Victor Ponta",
+        "url": "https://snl.no/Victor_Ponta"
       },
       {
-        "category": "Nord-Irlands historie",
-        "title": "Basil Brooke",
-        "url": "https://snl.no/Basil_Brooke"
+        "category": "Klesdesignere og motehus",
+        "title": "Emilio Pucci",
+        "url": "https://snl.no/Emilio_Pucci"
       }
     ]
   }

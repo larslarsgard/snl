@@ -15006,5 +15006,88 @@
         "url": "https://snl.no/Basil_Brooke"
       }
     ]
+  },
+  "2026-11-18": {
+    "Mest lest i går": [
+      {
+        "category": "Internasjonal fotball",
+        "title": "Nasjonsligaen",
+        "url": "https://snl.no/Nasjonsligaen"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Østerrikes historie",
+        "title": "Elisabeth – keiserinne av Østerrike",
+        "url": "https://snl.no/Elisabeth_-_keiserinne_av_%C3%98sterrike"
+      },
+      {
+        "category": "Den franske revolusjon",
+        "title": "den franske revolusjon",
+        "url": "https://snl.no/den_franske_revolusjon"
+      },
+      {
+        "category": "Ukrainas geografi",
+        "title": "Krim",
+        "url": "https://snl.no/Krim"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Helse og livsstil",
+        "title": "looksmaxxing",
+        "url": "https://sml.snl.no/looksmaxxing"
+      },
+      {
+        "category": "Genetiske sykdommer og syndromer",
+        "title": "hermafrodittisme – hos mennesket",
+        "url": "https://sml.snl.no/hermafrodittisme_-_hos_mennesket"
+      },
+      {
+        "category": "Nyere norsk litteratur",
+        "title": "Lars Saabye Christensen",
+        "url": "https://snl.no/Lars_Saabye_Christensen"
+      },
+      {
+        "category": "Norske fotballspillere",
+        "title": "Antonio Nusa",
+        "url": "https://snl.no/Antonio_Nusa"
+      },
+      {
+        "category": "Søvn",
+        "title": "søvn",
+        "url": "https://sml.snl.no/s%C3%B8vn"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Stavkirker",
+        "title": "Haltdalen stavkirke",
+        "url": "https://snl.no/Haltdalen_stavkirke"
+      },
+      {
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "heksogen",
+        "url": "https://snl.no/heksogen"
+      },
+      {
+        "category": "Storbritannias samtidshistorie",
+        "title": "Nigel Lawson",
+        "url": "https://snl.no/Nigel_Lawson"
+      },
+      {
+        "category": "Romanias samtidshistorie",
+        "title": "Victor Ponta",
+        "url": "https://snl.no/Victor_Ponta"
+      },
+      {
+        "category": "Klesdesignere og motehus",
+        "title": "Emilio Pucci",
+        "url": "https://snl.no/Emilio_Pucci"
+      }
+    ]
   }
 }
