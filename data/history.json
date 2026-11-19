@@ -15089,5 +15089,88 @@
         "url": "https://snl.no/Emilio_Pucci"
       }
     ]
+  },
+  "2026-11-19": {
+    "Mest lest i går": [
+      {
+        "category": "Internasjonal fotball",
+        "title": "Nasjonsligaen",
+        "url": "https://snl.no/Nasjonsligaen"
+      },
+      {
+        "category": "Ekstremisme",
+        "title": "voldelig nihilistisk ekstremisme",
+        "url": "https://snl.no/voldelig_nihilistisk_ekstremisme"
+      },
+      {
+        "category": "Eksistensialisme",
+        "title": "nihilisme",
+        "url": "https://snl.no/nihilisme"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Østerrikes historie",
+        "title": "Elisabeth – keiserinne av Østerrike",
+        "url": "https://snl.no/Elisabeth_-_keiserinne_av_%C3%98sterrike"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Helse og livsstil",
+        "title": "looksmaxxing",
+        "url": "https://sml.snl.no/looksmaxxing"
+      },
+      {
+        "category": "Petroleumsselskaper",
+        "title": "Equinor",
+        "url": "https://snl.no/Equinor"
+      },
+      {
+        "category": "Dyphavsgroper",
+        "title": "Marianegropa",
+        "url": "https://snl.no/Marianegropa"
+      },
+      {
+        "category": "Slagskip og slagkryssere",
+        "title": "Blücher",
+        "url": "https://snl.no/Bl%C3%BCcher"
+      },
+      {
+        "category": "Merkedager",
+        "title": "Thanksgiving",
+        "url": "https://snl.no/Thanksgiving"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Kristen misjonsvirksomhet",
+        "title": "Church Mission Society",
+        "url": "https://snl.no/Church_Mission_Society"
+      },
+      {
+        "category": "Skotsk fotball",
+        "title": "Kenny Dalglish",
+        "url": "https://snl.no/Kenny_Dalglish"
+      },
+      {
+        "category": "Jagerfly og kampfly",
+        "title": "Brewster Buffalo",
+        "url": "https://snl.no/Brewster_Buffalo"
+      },
+      {
+        "category": "Musikkterapi",
+        "title": "musikkterapi",
+        "url": "https://snl.no/musikkterapi"
+      },
+      {
+        "category": "Belarus’ samtidshistorie",
+        "title": "Koordineringsrådet – Belarus",
+        "url": "https://snl.no/Koordineringsr%C3%A5det_-_Belarus"
+      }
+    ]
   }
 }

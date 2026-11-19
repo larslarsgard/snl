@@ -1,11 +1,21 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "categories": {
     "Mest lest i går": [
       {
         "category": "Internasjonal fotball",
         "title": "Nasjonsligaen",
         "url": "https://snl.no/Nasjonsligaen"
+      },
+      {
+        "category": "Ekstremisme",
+        "title": "voldelig nihilistisk ekstremisme",
+        "url": "https://snl.no/voldelig_nihilistisk_ekstremisme"
+      },
+      {
+        "category": "Eksistensialisme",
+        "title": "nihilisme",
+        "url": "https://snl.no/nihilisme"
       },
       {
         "category": "Første verdenskrig",
@@ -16,16 +26,6 @@
         "category": "Østerrikes historie",
         "title": "Elisabeth – keiserinne av Østerrike",
         "url": "https://snl.no/Elisabeth_-_keiserinne_av_%C3%98sterrike"
-      },
-      {
-        "category": "Den franske revolusjon",
-        "title": "den franske revolusjon",
-        "url": "https://snl.no/den_franske_revolusjon"
-      },
-      {
-        "category": "Ukrainas geografi",
-        "title": "Krim",
-        "url": "https://snl.no/Krim"
       }
     ],
     "Uvanlig mye lest": [
@@ -35,51 +35,51 @@
         "url": "https://sml.snl.no/looksmaxxing"
       },
       {
-        "category": "Genetiske sykdommer og syndromer",
-        "title": "hermafrodittisme – hos mennesket",
-        "url": "https://sml.snl.no/hermafrodittisme_-_hos_mennesket"
+        "category": "Petroleumsselskaper",
+        "title": "Equinor",
+        "url": "https://snl.no/Equinor"
       },
       {
-        "category": "Nyere norsk litteratur",
-        "title": "Lars Saabye Christensen",
-        "url": "https://snl.no/Lars_Saabye_Christensen"
+        "category": "Dyphavsgroper",
+        "title": "Marianegropa",
+        "url": "https://snl.no/Marianegropa"
       },
       {
-        "category": "Norske fotballspillere",
-        "title": "Antonio Nusa",
-        "url": "https://snl.no/Antonio_Nusa"
+        "category": "Slagskip og slagkryssere",
+        "title": "Blücher",
+        "url": "https://snl.no/Bl%C3%BCcher"
       },
       {
-        "category": "Søvn",
-        "title": "søvn",
-        "url": "https://sml.snl.no/s%C3%B8vn"
+        "category": "Merkedager",
+        "title": "Thanksgiving",
+        "url": "https://snl.no/Thanksgiving"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Stavkirker",
-        "title": "Haltdalen stavkirke",
-        "url": "https://snl.no/Haltdalen_stavkirke"
+        "category": "Kristen misjonsvirksomhet",
+        "title": "Church Mission Society",
+        "url": "https://snl.no/Church_Mission_Society"
       },
       {
-        "category": "Energetiske materialer og sprengningsteknikk",
-        "title": "heksogen",
-        "url": "https://snl.no/heksogen"
+        "category": "Skotsk fotball",
+        "title": "Kenny Dalglish",
+        "url": "https://snl.no/Kenny_Dalglish"
       },
       {
-        "category": "Storbritannias samtidshistorie",
-        "title": "Nigel Lawson",
-        "url": "https://snl.no/Nigel_Lawson"
+        "category": "Jagerfly og kampfly",
+        "title": "Brewster Buffalo",
+        "url": "https://snl.no/Brewster_Buffalo"
       },
       {
-        "category": "Romanias samtidshistorie",
-        "title": "Victor Ponta",
-        "url": "https://snl.no/Victor_Ponta"
+        "category": "Musikkterapi",
+        "title": "musikkterapi",
+        "url": "https://snl.no/musikkterapi"
       },
       {
-        "category": "Klesdesignere og motehus",
-        "title": "Emilio Pucci",
-        "url": "https://snl.no/Emilio_Pucci"
+        "category": "Belarus’ samtidshistorie",
+        "title": "Koordineringsrådet – Belarus",
+        "url": "https://snl.no/Koordineringsr%C3%A5det_-_Belarus"
       }
     ]
   }
