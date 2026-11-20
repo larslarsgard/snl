@@ -15172,5 +15172,88 @@
         "url": "https://snl.no/Koordineringsr%C3%A5det_-_Belarus"
       }
     ]
+  },
+  "2026-11-20": {
+    "Mest lest i går": [
+      {
+        "category": "Ordforklaringer i samfunn",
+        "title": "fellesskapet – ordforklaring",
+        "url": "https://lille.snl.no/fellesskapet_-_ordforklaring"
+      },
+      {
+        "category": "Nasjonalsanger",
+        "title": "Kongesangen",
+        "url": "https://snl.no/Kongesangen"
+      },
+      {
+        "category": "Morbærfamilien",
+        "title": "morbær",
+        "url": "https://snl.no/morb%C3%A6r"
+      },
+      {
+        "category": "Helse og livsstil",
+        "title": "looksmaxxing",
+        "url": "https://sml.snl.no/looksmaxxing"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Hest",
+        "title": "lofothest",
+        "url": "https://snl.no/lofothest"
+      },
+      {
+        "category": "Journalistiske begreper",
+        "title": "nyhetsartikkel",
+        "url": "https://snl.no/nyhetsartikkel"
+      },
+      {
+        "category": "Biografier i Den norske kirke",
+        "title": "Gustav Jensen",
+        "url": "https://snl.no/Gustav_Jensen"
+      },
+      {
+        "category": "Fremmedord og lånord",
+        "title": "sympati",
+        "url": "https://snl.no/sympati"
+      },
+      {
+        "category": "Norske entreprenører og næringslivsledere",
+        "title": "Hilde Merete Aasheim",
+        "url": "https://snl.no/Hilde_Merete_Aasheim"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Haitis litteratur",
+        "title": "René Depestre",
+        "url": "https://snl.no/Ren%C3%A9_Depestre"
+      },
+      {
+        "category": "Forsvar i verden",
+        "title": "Filippinenes forsvar",
+        "url": "https://snl.no/Filippinenes_forsvar"
+      },
+      {
+        "category": "Bokkunst",
+        "title": "illustrasjon",
+        "url": "https://snl.no/illustrasjon"
+      },
+      {
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "termitt",
+        "url": "https://snl.no/termitt"
+      },
+      {
+        "category": "Sovjetunionens historie",
+        "title": "Georgij Tsjitsjerin",
+        "url": "https://snl.no/Georgij_Tsjitsjerin"
+      }
+    ]
   }
 }

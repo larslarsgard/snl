@@ -1,85 +1,85 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Internasjonal fotball",
-        "title": "Nasjonsligaen",
-        "url": "https://snl.no/Nasjonsligaen"
+        "category": "Ordforklaringer i samfunn",
+        "title": "fellesskapet – ordforklaring",
+        "url": "https://lille.snl.no/fellesskapet_-_ordforklaring"
       },
       {
-        "category": "Ekstremisme",
-        "title": "voldelig nihilistisk ekstremisme",
-        "url": "https://snl.no/voldelig_nihilistisk_ekstremisme"
+        "category": "Nasjonalsanger",
+        "title": "Kongesangen",
+        "url": "https://snl.no/Kongesangen"
       },
       {
-        "category": "Eksistensialisme",
-        "title": "nihilisme",
-        "url": "https://snl.no/nihilisme"
+        "category": "Morbærfamilien",
+        "title": "morbær",
+        "url": "https://snl.no/morb%C3%A6r"
       },
-      {
-        "category": "Første verdenskrig",
-        "title": "første verdenskrig",
-        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
-      },
-      {
-        "category": "Østerrikes historie",
-        "title": "Elisabeth – keiserinne av Østerrike",
-        "url": "https://snl.no/Elisabeth_-_keiserinne_av_%C3%98sterrike"
-      }
-    ],
-    "Uvanlig mye lest": [
       {
         "category": "Helse og livsstil",
         "title": "looksmaxxing",
         "url": "https://sml.snl.no/looksmaxxing"
       },
       {
-        "category": "Petroleumsselskaper",
-        "title": "Equinor",
-        "url": "https://snl.no/Equinor"
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Hest",
+        "title": "lofothest",
+        "url": "https://snl.no/lofothest"
       },
       {
-        "category": "Dyphavsgroper",
-        "title": "Marianegropa",
-        "url": "https://snl.no/Marianegropa"
+        "category": "Journalistiske begreper",
+        "title": "nyhetsartikkel",
+        "url": "https://snl.no/nyhetsartikkel"
       },
       {
-        "category": "Slagskip og slagkryssere",
-        "title": "Blücher",
-        "url": "https://snl.no/Bl%C3%BCcher"
+        "category": "Biografier i Den norske kirke",
+        "title": "Gustav Jensen",
+        "url": "https://snl.no/Gustav_Jensen"
       },
       {
-        "category": "Merkedager",
-        "title": "Thanksgiving",
-        "url": "https://snl.no/Thanksgiving"
+        "category": "Fremmedord og lånord",
+        "title": "sympati",
+        "url": "https://snl.no/sympati"
+      },
+      {
+        "category": "Norske entreprenører og næringslivsledere",
+        "title": "Hilde Merete Aasheim",
+        "url": "https://snl.no/Hilde_Merete_Aasheim"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Kristen misjonsvirksomhet",
-        "title": "Church Mission Society",
-        "url": "https://snl.no/Church_Mission_Society"
+        "category": "Haitis litteratur",
+        "title": "René Depestre",
+        "url": "https://snl.no/Ren%C3%A9_Depestre"
       },
       {
-        "category": "Skotsk fotball",
-        "title": "Kenny Dalglish",
-        "url": "https://snl.no/Kenny_Dalglish"
+        "category": "Forsvar i verden",
+        "title": "Filippinenes forsvar",
+        "url": "https://snl.no/Filippinenes_forsvar"
       },
       {
-        "category": "Jagerfly og kampfly",
-        "title": "Brewster Buffalo",
-        "url": "https://snl.no/Brewster_Buffalo"
+        "category": "Bokkunst",
+        "title": "illustrasjon",
+        "url": "https://snl.no/illustrasjon"
       },
       {
-        "category": "Musikkterapi",
-        "title": "musikkterapi",
-        "url": "https://snl.no/musikkterapi"
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "termitt",
+        "url": "https://snl.no/termitt"
       },
       {
-        "category": "Belarus’ samtidshistorie",
-        "title": "Koordineringsrådet – Belarus",
-        "url": "https://snl.no/Koordineringsr%C3%A5det_-_Belarus"
+        "category": "Sovjetunionens historie",
+        "title": "Georgij Tsjitsjerin",
+        "url": "https://snl.no/Georgij_Tsjitsjerin"
       }
     ]
   }
