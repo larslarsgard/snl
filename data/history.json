@@ -15255,5 +15255,88 @@
         "url": "https://snl.no/Georgij_Tsjitsjerin"
       }
     ]
+  },
+  "2026-11-21": {
+    "Mest lest i går": [
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Nasjonsligaen",
+        "url": "https://snl.no/Nasjonsligaen"
+      },
+      {
+        "category": "Nyere norsk litteratur",
+        "title": "Jon Fosse",
+        "url": "https://snl.no/Jon_Fosse"
+      },
+      {
+        "category": "Kunstig intelligens",
+        "title": "kunstig intelligens",
+        "url": "https://snl.no/kunstig_intelligens"
+      },
+      {
+        "category": "Østerrikes historie",
+        "title": "Elisabeth – keiserinne av Østerrike",
+        "url": "https://snl.no/Elisabeth_-_keiserinne_av_%C3%98sterrike"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Metall- og smykkekunst",
+        "title": "juveler",
+        "url": "https://snl.no/juveler"
+      },
+      {
+        "category": "Bombefly",
+        "title": "Tu-160",
+        "url": "https://snl.no/Tu-160"
+      },
+      {
+        "category": "Epikk",
+        "title": "pikareskroman",
+        "url": "https://snl.no/pikareskroman"
+      },
+      {
+        "category": "Nyere norsk litteratur",
+        "title": "Gerd Brantenberg",
+        "url": "https://snl.no/Gerd_Brantenberg"
+      },
+      {
+        "category": "El Salvadors historie",
+        "title": "Nayib Bukele",
+        "url": "https://snl.no/Nayib_Bukele"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Barokk billedkunst",
+        "title": "Elias Fiigenschoug",
+        "url": "https://snl.no/Elias_Fiigenschoug"
+      },
+      {
+        "category": "Lesothos geografi",
+        "title": "Økonomi og næringsliv i Lesotho",
+        "url": "https://snl.no/%C3%98konomi_og_n%C3%A6ringsliv_i_Lesotho"
+      },
+      {
+        "category": "Militant islamisme",
+        "title": "Palestinsk islamsk jihad",
+        "url": "https://snl.no/Palestinsk_islamsk_jihad"
+      },
+      {
+        "category": "Tidligere aviser i Trøndelag",
+        "title": "Thrønderen",
+        "url": "https://snl.no/Thr%C3%B8nderen"
+      },
+      {
+        "category": "Demografi",
+        "title": "befolkningsbonus",
+        "url": "https://snl.no/befolkningsbonus"
+      }
+    ]
   }
 }

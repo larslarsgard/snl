@@ -1,85 +1,85 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Ordforklaringer i samfunn",
-        "title": "fellesskapet – ordforklaring",
-        "url": "https://lille.snl.no/fellesskapet_-_ordforklaring"
-      },
-      {
-        "category": "Nasjonalsanger",
-        "title": "Kongesangen",
-        "url": "https://snl.no/Kongesangen"
-      },
-      {
-        "category": "Morbærfamilien",
-        "title": "morbær",
-        "url": "https://snl.no/morb%C3%A6r"
-      },
-      {
-        "category": "Helse og livsstil",
-        "title": "looksmaxxing",
-        "url": "https://sml.snl.no/looksmaxxing"
-      },
       {
         "category": "Første verdenskrig",
         "title": "første verdenskrig",
         "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Internasjonal fotball",
+        "title": "Nasjonsligaen",
+        "url": "https://snl.no/Nasjonsligaen"
+      },
+      {
+        "category": "Nyere norsk litteratur",
+        "title": "Jon Fosse",
+        "url": "https://snl.no/Jon_Fosse"
+      },
+      {
+        "category": "Kunstig intelligens",
+        "title": "kunstig intelligens",
+        "url": "https://snl.no/kunstig_intelligens"
+      },
+      {
+        "category": "Østerrikes historie",
+        "title": "Elisabeth – keiserinne av Østerrike",
+        "url": "https://snl.no/Elisabeth_-_keiserinne_av_%C3%98sterrike"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Hest",
-        "title": "lofothest",
-        "url": "https://snl.no/lofothest"
+        "category": "Metall- og smykkekunst",
+        "title": "juveler",
+        "url": "https://snl.no/juveler"
       },
       {
-        "category": "Journalistiske begreper",
-        "title": "nyhetsartikkel",
-        "url": "https://snl.no/nyhetsartikkel"
+        "category": "Bombefly",
+        "title": "Tu-160",
+        "url": "https://snl.no/Tu-160"
       },
       {
-        "category": "Biografier i Den norske kirke",
-        "title": "Gustav Jensen",
-        "url": "https://snl.no/Gustav_Jensen"
+        "category": "Epikk",
+        "title": "pikareskroman",
+        "url": "https://snl.no/pikareskroman"
       },
       {
-        "category": "Fremmedord og lånord",
-        "title": "sympati",
-        "url": "https://snl.no/sympati"
+        "category": "Nyere norsk litteratur",
+        "title": "Gerd Brantenberg",
+        "url": "https://snl.no/Gerd_Brantenberg"
       },
       {
-        "category": "Norske entreprenører og næringslivsledere",
-        "title": "Hilde Merete Aasheim",
-        "url": "https://snl.no/Hilde_Merete_Aasheim"
+        "category": "El Salvadors historie",
+        "title": "Nayib Bukele",
+        "url": "https://snl.no/Nayib_Bukele"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Haitis litteratur",
-        "title": "René Depestre",
-        "url": "https://snl.no/Ren%C3%A9_Depestre"
+        "category": "Barokk billedkunst",
+        "title": "Elias Fiigenschoug",
+        "url": "https://snl.no/Elias_Fiigenschoug"
       },
       {
-        "category": "Forsvar i verden",
-        "title": "Filippinenes forsvar",
-        "url": "https://snl.no/Filippinenes_forsvar"
+        "category": "Lesothos geografi",
+        "title": "Økonomi og næringsliv i Lesotho",
+        "url": "https://snl.no/%C3%98konomi_og_n%C3%A6ringsliv_i_Lesotho"
       },
       {
-        "category": "Bokkunst",
-        "title": "illustrasjon",
-        "url": "https://snl.no/illustrasjon"
+        "category": "Militant islamisme",
+        "title": "Palestinsk islamsk jihad",
+        "url": "https://snl.no/Palestinsk_islamsk_jihad"
       },
       {
-        "category": "Energetiske materialer og sprengningsteknikk",
-        "title": "termitt",
-        "url": "https://snl.no/termitt"
+        "category": "Tidligere aviser i Trøndelag",
+        "title": "Thrønderen",
+        "url": "https://snl.no/Thr%C3%B8nderen"
       },
       {
-        "category": "Sovjetunionens historie",
-        "title": "Georgij Tsjitsjerin",
-        "url": "https://snl.no/Georgij_Tsjitsjerin"
+        "category": "Demografi",
+        "title": "befolkningsbonus",
+        "url": "https://snl.no/befolkningsbonus"
       }
     ]
   }
