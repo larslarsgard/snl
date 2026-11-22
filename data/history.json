@@ -15338,5 +15338,88 @@
         "url": "https://snl.no/befolkningsbonus"
       }
     ]
+  },
+  "2026-11-22": {
+    "Mest lest i går": [
+      {
+        "category": "Østerrikes historie",
+        "title": "Elisabeth – keiserinne av Østerrike",
+        "url": "https://snl.no/Elisabeth_-_keiserinne_av_%C3%98sterrike"
+      },
+      {
+        "category": "Tallteori",
+        "title": "Riemanns hypotese",
+        "url": "https://snl.no/Riemanns_hypotese"
+      },
+      {
+        "category": "Nyere norsk litteratur",
+        "title": "Odd Børretzen",
+        "url": "https://snl.no/Odd_B%C3%B8rretzen"
+      },
+      {
+        "category": "TV- og radiopersoner",
+        "title": "Fetisha Williams",
+        "url": "https://snl.no/Fetisha_Williams"
+      },
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Gjøkfamilien",
+        "title": "asiagjøk",
+        "url": "https://snl.no/asiagj%C3%B8k"
+      },
+      {
+        "category": "Norsk hiphop",
+        "title": "Lars Vaular",
+        "url": "https://snl.no/Lars_Vaular"
+      },
+      {
+        "category": "Internasjonal pop og rock",
+        "title": "Westlife",
+        "url": "https://snl.no/Westlife"
+      },
+      {
+        "category": "Verdenshavene",
+        "title": "Finskebukta",
+        "url": "https://snl.no/Finskebukta"
+      },
+      {
+        "category": "Epikk",
+        "title": "pikareskroman",
+        "url": "https://snl.no/pikareskroman"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Belarus’ litteratur",
+        "title": "Janka Kupala",
+        "url": "https://snl.no/Janka_Kupala"
+      },
+      {
+        "category": "Norske fotografer og fotokunstnere",
+        "title": "Anders Beer Wilse",
+        "url": "https://snl.no/Anders_Beer_Wilse"
+      },
+      {
+        "category": "Klesdesignere og motehus",
+        "title": "Emilio Pucci",
+        "url": "https://snl.no/Emilio_Pucci"
+      },
+      {
+        "category": "Lydkunst",
+        "title": "lydkunst",
+        "url": "https://snl.no/lydkunst"
+      },
+      {
+        "category": "Tidligere aviser på Vestlandet",
+        "title": "Folkebladet for Sogn og Fjordane",
+        "url": "https://snl.no/Folkebladet_for_Sogn_og_Fjordane"
+      }
+    ]
   }
 }

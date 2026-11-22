@@ -1,85 +1,85 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Første verdenskrig",
-        "title": "første verdenskrig",
-        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
-      },
-      {
-        "category": "Internasjonal fotball",
-        "title": "Nasjonsligaen",
-        "url": "https://snl.no/Nasjonsligaen"
-      },
-      {
-        "category": "Nyere norsk litteratur",
-        "title": "Jon Fosse",
-        "url": "https://snl.no/Jon_Fosse"
-      },
-      {
-        "category": "Kunstig intelligens",
-        "title": "kunstig intelligens",
-        "url": "https://snl.no/kunstig_intelligens"
-      },
       {
         "category": "Østerrikes historie",
         "title": "Elisabeth – keiserinne av Østerrike",
         "url": "https://snl.no/Elisabeth_-_keiserinne_av_%C3%98sterrike"
+      },
+      {
+        "category": "Tallteori",
+        "title": "Riemanns hypotese",
+        "url": "https://snl.no/Riemanns_hypotese"
+      },
+      {
+        "category": "Nyere norsk litteratur",
+        "title": "Odd Børretzen",
+        "url": "https://snl.no/Odd_B%C3%B8rretzen"
+      },
+      {
+        "category": "TV- og radiopersoner",
+        "title": "Fetisha Williams",
+        "url": "https://snl.no/Fetisha_Williams"
+      },
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Metall- og smykkekunst",
-        "title": "juveler",
-        "url": "https://snl.no/juveler"
+        "category": "Gjøkfamilien",
+        "title": "asiagjøk",
+        "url": "https://snl.no/asiagj%C3%B8k"
       },
       {
-        "category": "Bombefly",
-        "title": "Tu-160",
-        "url": "https://snl.no/Tu-160"
+        "category": "Norsk hiphop",
+        "title": "Lars Vaular",
+        "url": "https://snl.no/Lars_Vaular"
+      },
+      {
+        "category": "Internasjonal pop og rock",
+        "title": "Westlife",
+        "url": "https://snl.no/Westlife"
+      },
+      {
+        "category": "Verdenshavene",
+        "title": "Finskebukta",
+        "url": "https://snl.no/Finskebukta"
       },
       {
         "category": "Epikk",
         "title": "pikareskroman",
         "url": "https://snl.no/pikareskroman"
-      },
-      {
-        "category": "Nyere norsk litteratur",
-        "title": "Gerd Brantenberg",
-        "url": "https://snl.no/Gerd_Brantenberg"
-      },
-      {
-        "category": "El Salvadors historie",
-        "title": "Nayib Bukele",
-        "url": "https://snl.no/Nayib_Bukele"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Barokk billedkunst",
-        "title": "Elias Fiigenschoug",
-        "url": "https://snl.no/Elias_Fiigenschoug"
+        "category": "Belarus’ litteratur",
+        "title": "Janka Kupala",
+        "url": "https://snl.no/Janka_Kupala"
       },
       {
-        "category": "Lesothos geografi",
-        "title": "Økonomi og næringsliv i Lesotho",
-        "url": "https://snl.no/%C3%98konomi_og_n%C3%A6ringsliv_i_Lesotho"
+        "category": "Norske fotografer og fotokunstnere",
+        "title": "Anders Beer Wilse",
+        "url": "https://snl.no/Anders_Beer_Wilse"
       },
       {
-        "category": "Militant islamisme",
-        "title": "Palestinsk islamsk jihad",
-        "url": "https://snl.no/Palestinsk_islamsk_jihad"
+        "category": "Klesdesignere og motehus",
+        "title": "Emilio Pucci",
+        "url": "https://snl.no/Emilio_Pucci"
       },
       {
-        "category": "Tidligere aviser i Trøndelag",
-        "title": "Thrønderen",
-        "url": "https://snl.no/Thr%C3%B8nderen"
+        "category": "Lydkunst",
+        "title": "lydkunst",
+        "url": "https://snl.no/lydkunst"
       },
       {
-        "category": "Demografi",
-        "title": "befolkningsbonus",
-        "url": "https://snl.no/befolkningsbonus"
+        "category": "Tidligere aviser på Vestlandet",
+        "title": "Folkebladet for Sogn og Fjordane",
+        "url": "https://snl.no/Folkebladet_for_Sogn_og_Fjordane"
       }
     ]
   }
