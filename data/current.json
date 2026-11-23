@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "categories": {
     "Mest lest i går": [
       {
@@ -8,36 +8,31 @@
         "url": "https://snl.no/Elisabeth_-_keiserinne_av_%C3%98sterrike"
       },
       {
-        "category": "Tallteori",
-        "title": "Riemanns hypotese",
-        "url": "https://snl.no/Riemanns_hypotese"
-      },
-      {
-        "category": "Nyere norsk litteratur",
-        "title": "Odd Børretzen",
-        "url": "https://snl.no/Odd_B%C3%B8rretzen"
-      },
-      {
-        "category": "TV- og radiopersoner",
-        "title": "Fetisha Williams",
-        "url": "https://snl.no/Fetisha_Williams"
+        "category": "Lungemedisin",
+        "title": "EILO",
+        "url": "https://sml.snl.no/EILO"
       },
       {
         "category": "Norges historie fra 1940 til 1945",
         "title": "Henry Rinnan",
         "url": "https://snl.no/Henry_Rinnan"
+      },
+      {
+        "category": "Norske skuespillere",
+        "title": "Lars Andreas Larssen",
+        "url": "https://snl.no/Lars_Andreas_Larssen"
+      },
+      {
+        "category": "Morbærfamilien",
+        "title": "morbær",
+        "url": "https://snl.no/morb%C3%A6r"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Gjøkfamilien",
-        "title": "asiagjøk",
-        "url": "https://snl.no/asiagj%C3%B8k"
-      },
-      {
-        "category": "Norsk hiphop",
-        "title": "Lars Vaular",
-        "url": "https://snl.no/Lars_Vaular"
+        "category": "Verdenshavene",
+        "title": "Finskebukta",
+        "url": "https://snl.no/Finskebukta"
       },
       {
         "category": "Internasjonal pop og rock",
@@ -45,41 +40,46 @@
         "url": "https://snl.no/Westlife"
       },
       {
-        "category": "Verdenshavene",
-        "title": "Finskebukta",
-        "url": "https://snl.no/Finskebukta"
+        "category": "Nyere norsk litteratur",
+        "title": "Vetle Lid Larssen",
+        "url": "https://snl.no/Vetle_Lid_Larssen"
       },
       {
-        "category": "Epikk",
-        "title": "pikareskroman",
-        "url": "https://snl.no/pikareskroman"
+        "category": "Nyere norsk litteratur",
+        "title": "Odd Børretzen",
+        "url": "https://snl.no/Odd_B%C3%B8rretzen"
+      },
+      {
+        "category": "Norske politikere",
+        "title": "Sigrun Aasland",
+        "url": "https://snl.no/Sigrun_Aasland"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Belarus’ litteratur",
-        "title": "Janka Kupala",
-        "url": "https://snl.no/Janka_Kupala"
+        "category": "Serbia og det gamle Jugoslavias litteratur",
+        "title": "Borisav Stanković",
+        "url": "https://snl.no/Borisav_Stankovi%C4%87"
       },
       {
-        "category": "Norske fotografer og fotokunstnere",
-        "title": "Anders Beer Wilse",
-        "url": "https://snl.no/Anders_Beer_Wilse"
+        "category": "Komorenes litteratur",
+        "title": "Komorenes litteratur",
+        "url": "https://snl.no/Komorenes_litteratur"
       },
       {
-        "category": "Klesdesignere og motehus",
-        "title": "Emilio Pucci",
-        "url": "https://snl.no/Emilio_Pucci"
+        "category": "Filmsjangre",
+        "title": "norsk skrekkfilm",
+        "url": "https://snl.no/norsk_skrekkfilm"
       },
       {
-        "category": "Lydkunst",
-        "title": "lydkunst",
-        "url": "https://snl.no/lydkunst"
+        "category": "Havrett",
+        "title": "havrettskonvensjonen",
+        "url": "https://snl.no/havrettskonvensjonen"
       },
       {
-        "category": "Tidligere aviser på Vestlandet",
-        "title": "Folkebladet for Sogn og Fjordane",
-        "url": "https://snl.no/Folkebladet_for_Sogn_og_Fjordane"
+        "category": "Strålefinnefisker",
+        "title": "Hulefisker – omtaler stygobiontene",
+        "url": "https://snl.no/Hulefisker_-_omtaler_stygobiontene"
       }
     ]
   }

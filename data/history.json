@@ -15421,5 +15421,88 @@
         "url": "https://snl.no/Folkebladet_for_Sogn_og_Fjordane"
       }
     ]
+  },
+  "2026-11-23": {
+    "Mest lest i går": [
+      {
+        "category": "Østerrikes historie",
+        "title": "Elisabeth – keiserinne av Østerrike",
+        "url": "https://snl.no/Elisabeth_-_keiserinne_av_%C3%98sterrike"
+      },
+      {
+        "category": "Lungemedisin",
+        "title": "EILO",
+        "url": "https://sml.snl.no/EILO"
+      },
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
+      },
+      {
+        "category": "Norske skuespillere",
+        "title": "Lars Andreas Larssen",
+        "url": "https://snl.no/Lars_Andreas_Larssen"
+      },
+      {
+        "category": "Morbærfamilien",
+        "title": "morbær",
+        "url": "https://snl.no/morb%C3%A6r"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Verdenshavene",
+        "title": "Finskebukta",
+        "url": "https://snl.no/Finskebukta"
+      },
+      {
+        "category": "Internasjonal pop og rock",
+        "title": "Westlife",
+        "url": "https://snl.no/Westlife"
+      },
+      {
+        "category": "Nyere norsk litteratur",
+        "title": "Vetle Lid Larssen",
+        "url": "https://snl.no/Vetle_Lid_Larssen"
+      },
+      {
+        "category": "Nyere norsk litteratur",
+        "title": "Odd Børretzen",
+        "url": "https://snl.no/Odd_B%C3%B8rretzen"
+      },
+      {
+        "category": "Norske politikere",
+        "title": "Sigrun Aasland",
+        "url": "https://snl.no/Sigrun_Aasland"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Serbia og det gamle Jugoslavias litteratur",
+        "title": "Borisav Stanković",
+        "url": "https://snl.no/Borisav_Stankovi%C4%87"
+      },
+      {
+        "category": "Komorenes litteratur",
+        "title": "Komorenes litteratur",
+        "url": "https://snl.no/Komorenes_litteratur"
+      },
+      {
+        "category": "Filmsjangre",
+        "title": "norsk skrekkfilm",
+        "url": "https://snl.no/norsk_skrekkfilm"
+      },
+      {
+        "category": "Havrett",
+        "title": "havrettskonvensjonen",
+        "url": "https://snl.no/havrettskonvensjonen"
+      },
+      {
+        "category": "Strålefinnefisker",
+        "title": "Hulefisker – omtaler stygobiontene",
+        "url": "https://snl.no/Hulefisker_-_omtaler_stygobiontene"
+      }
+    ]
   }
 }
