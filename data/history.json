@@ -15504,5 +15504,88 @@
         "url": "https://snl.no/Hulefisker_-_omtaler_stygobiontene"
       }
     ]
+  },
+  "2026-11-24": {
+    "Mest lest i går": [
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Østerrikes historie",
+        "title": "Elisabeth – keiserinne av Østerrike",
+        "url": "https://snl.no/Elisabeth_-_keiserinne_av_%C3%98sterrike"
+      },
+      {
+        "category": "Nyere norsk litteratur",
+        "title": "Karl Ove Knausgård",
+        "url": "https://snl.no/Karl_Ove_Knausg%C3%A5rd"
+      },
+      {
+        "category": "Den franske revolusjon",
+        "title": "den franske revolusjon",
+        "url": "https://snl.no/den_franske_revolusjon"
+      },
+      {
+        "category": "Norges historie fra 1940 til 1945",
+        "title": "Henry Rinnan",
+        "url": "https://snl.no/Henry_Rinnan"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Nyklassisisme og historisme i arkitekturhistorien",
+        "title": "Stiftsgården i Trondheim",
+        "url": "https://snl.no/Stiftsg%C3%A5rden_i_Trondheim"
+      },
+      {
+        "category": "Avisredaktører",
+        "title": "Frode Hansen",
+        "url": "https://snl.no/Frode_Hansen"
+      },
+      {
+        "category": "Internasjonale entreprenører og næringslivsledere",
+        "title": "Jensen Huang",
+        "url": "https://snl.no/Jensen_Huang"
+      },
+      {
+        "category": "Taiwans geografi",
+        "title": "Taiwan",
+        "url": "https://snl.no/Taiwan"
+      },
+      {
+        "category": "Epidemiologi og folkehelse",
+        "title": "livsstilssykdommer",
+        "url": "https://sml.snl.no/livsstilssykdommer"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Fotohistoriske biografier",
+        "title": "Mathew Benjamin Brady",
+        "url": "https://snl.no/Mathew_Benjamin_Brady"
+      },
+      {
+        "category": "Jagerfly og kampfly",
+        "title": "Beaufighter",
+        "url": "https://snl.no/Beaufighter"
+      },
+      {
+        "category": "Genetikk",
+        "title": "Nettie Stevens",
+        "url": "https://snl.no/Nettie_Stevens"
+      },
+      {
+        "category": "Barne- og ungdomslitteratur",
+        "title": "guttebøker",
+        "url": "https://snl.no/gutteb%C3%B8ker"
+      },
+      {
+        "category": "Broddvepser",
+        "title": "broddløse bier",
+        "url": "https://snl.no/broddl%C3%B8se_bier"
+      }
+    ]
   }
 }
