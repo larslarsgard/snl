@@ -15587,5 +15587,88 @@
         "url": "https://snl.no/broddl%C3%B8se_bier"
       }
     ]
+  },
+  "2026-11-25": {
+    "Mest lest i går": [
+      {
+        "category": "Norske country- og bluegrassartister",
+        "title": "Tobias Sten",
+        "url": "https://snl.no/Tobias_Sten"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Stord",
+        "title": "Stord – øy",
+        "url": "https://snl.no/Stord_-_%C3%B8y"
+      },
+      {
+        "category": "Sosiolingvistikk",
+        "title": "dialekt",
+        "url": "https://snl.no/dialekt"
+      },
+      {
+        "category": "Litterære uttrykk",
+        "title": "språklig virkemiddel",
+        "url": "https://snl.no/spr%C3%A5klig_virkemiddel"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Langrenn",
+        "title": "Astrid Uhrenholdt Jacobsen",
+        "url": "https://snl.no/Astrid_Uhrenholdt_Jacobsen"
+      },
+      {
+        "category": "Stord",
+        "title": "Stord",
+        "url": "https://snl.no/Stord"
+      },
+      {
+        "category": "Fremmedord med latinsk og gresk opphav",
+        "title": "tema",
+        "url": "https://snl.no/tema"
+      },
+      {
+        "category": "Norske dialekter",
+        "title": "vestlandsk",
+        "url": "https://snl.no/vestlandsk"
+      },
+      {
+        "category": "Norske ord og uttrykk",
+        "title": "virkemiddel",
+        "url": "https://snl.no/virkemiddel"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Odontologi",
+        "title": "tannrengjøring",
+        "url": "https://sml.snl.no/tannrengj%C3%B8ring"
+      },
+      {
+        "category": "Tidligere aviser på Østlandet",
+        "title": "Kragerø Blad",
+        "url": "https://snl.no/Krager%C3%B8_Blad"
+      },
+      {
+        "category": "Den demokratiske republikken Kongos historie",
+        "title": "Mobutu Sese Seko",
+        "url": "https://snl.no/Mobutu_Sese_Seko"
+      },
+      {
+        "category": "Romanias samtidshistorie",
+        "title": "Klaus Iohannis",
+        "url": "https://snl.no/Klaus_Iohannis"
+      },
+      {
+        "category": "Språkfilosofi",
+        "title": "Jennifer Hornsby",
+        "url": "https://snl.no/Jennifer_Hornsby"
+      }
+    ]
   }
 }
