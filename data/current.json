@@ -1,85 +1,85 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "categories": {
     "Mest lest i går": [
-      {
-        "category": "Norske country- og bluegrassartister",
-        "title": "Tobias Sten",
-        "url": "https://snl.no/Tobias_Sten"
-      },
       {
         "category": "Første verdenskrig",
         "title": "første verdenskrig",
         "url": "https://snl.no/f%C3%B8rste_verdenskrig"
       },
       {
-        "category": "Stord",
-        "title": "Stord – øy",
-        "url": "https://snl.no/Stord_-_%C3%B8y"
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "blyazid",
+        "url": "https://snl.no/blyazid"
       },
       {
-        "category": "Sosiolingvistikk",
-        "title": "dialekt",
-        "url": "https://snl.no/dialekt"
+        "category": "Den franske revolusjon",
+        "title": "den franske revolusjon",
+        "url": "https://snl.no/den_franske_revolusjon"
       },
       {
-        "category": "Litterære uttrykk",
-        "title": "språklig virkemiddel",
-        "url": "https://snl.no/spr%C3%A5klig_virkemiddel"
+        "category": "Sex",
+        "title": "demiseksuell",
+        "url": "https://snl.no/demiseksuell"
+      },
+      {
+        "category": "Østerrikes historie",
+        "title": "Elisabeth – keiserinne av Østerrike",
+        "url": "https://snl.no/Elisabeth_-_keiserinne_av_%C3%98sterrike"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Langrenn",
-        "title": "Astrid Uhrenholdt Jacobsen",
-        "url": "https://snl.no/Astrid_Uhrenholdt_Jacobsen"
+        "category": "Byer og steder i Italia",
+        "title": "Castel Gandolfo",
+        "url": "https://snl.no/Castel_Gandolfo"
       },
       {
-        "category": "Stord",
-        "title": "Stord",
-        "url": "https://snl.no/Stord"
+        "category": "Norske politikere",
+        "title": "Ingrid Liland",
+        "url": "https://snl.no/Ingrid_Liland"
       },
       {
-        "category": "Fremmedord med latinsk og gresk opphav",
-        "title": "tema",
-        "url": "https://snl.no/tema"
+        "category": "Politiske begreper",
+        "title": "kabinettsspørsmål",
+        "url": "https://snl.no/kabinettssp%C3%B8rsm%C3%A5l"
       },
       {
-        "category": "Norske dialekter",
-        "title": "vestlandsk",
-        "url": "https://snl.no/vestlandsk"
+        "category": "Syrias samtidshistorie",
+        "title": "Syria",
+        "url": "https://snl.no/Syria"
       },
       {
-        "category": "Norske ord og uttrykk",
-        "title": "virkemiddel",
-        "url": "https://snl.no/virkemiddel"
+        "category": "Norske politikere",
+        "title": "Marthe Hammer",
+        "url": "https://snl.no/Marthe_Hammer"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Odontologi",
-        "title": "tannrengjøring",
-        "url": "https://sml.snl.no/tannrengj%C3%B8ring"
+        "category": "Den store nordiske krigen",
+        "title": "Nils Ehrenskiöld",
+        "url": "https://snl.no/Nils_Ehrenski%C3%B6ld"
       },
       {
-        "category": "Tidligere aviser på Østlandet",
-        "title": "Kragerø Blad",
-        "url": "https://snl.no/Krager%C3%B8_Blad"
+        "category": "Biologisk psykologi",
+        "title": "løgndetektor",
+        "url": "https://snl.no/l%C3%B8gndetektor"
       },
       {
-        "category": "Den demokratiske republikken Kongos historie",
-        "title": "Mobutu Sese Seko",
-        "url": "https://snl.no/Mobutu_Sese_Seko"
+        "category": "Postverk",
+        "title": "postkasse",
+        "url": "https://snl.no/postkasse"
       },
       {
-        "category": "Romanias samtidshistorie",
-        "title": "Klaus Iohannis",
-        "url": "https://snl.no/Klaus_Iohannis"
+        "category": "Tidligere aviser på Vestlandet",
+        "title": "Bondebladet – avis 1914–1935",
+        "url": "https://snl.no/Bondebladet_-_avis_1914%E2%80%931935"
       },
       {
-        "category": "Språkfilosofi",
-        "title": "Jennifer Hornsby",
-        "url": "https://snl.no/Jennifer_Hornsby"
+        "category": "Norske kirkebygg",
+        "title": "Gimmestad kirke",
+        "url": "https://snl.no/Gimmestad_kirke"
       }
     ]
   }

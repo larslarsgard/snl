@@ -15670,5 +15670,88 @@
         "url": "https://snl.no/Jennifer_Hornsby"
       }
     ]
+  },
+  "2026-11-26": {
+    "Mest lest i går": [
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "blyazid",
+        "url": "https://snl.no/blyazid"
+      },
+      {
+        "category": "Den franske revolusjon",
+        "title": "den franske revolusjon",
+        "url": "https://snl.no/den_franske_revolusjon"
+      },
+      {
+        "category": "Sex",
+        "title": "demiseksuell",
+        "url": "https://snl.no/demiseksuell"
+      },
+      {
+        "category": "Østerrikes historie",
+        "title": "Elisabeth – keiserinne av Østerrike",
+        "url": "https://snl.no/Elisabeth_-_keiserinne_av_%C3%98sterrike"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Byer og steder i Italia",
+        "title": "Castel Gandolfo",
+        "url": "https://snl.no/Castel_Gandolfo"
+      },
+      {
+        "category": "Norske politikere",
+        "title": "Ingrid Liland",
+        "url": "https://snl.no/Ingrid_Liland"
+      },
+      {
+        "category": "Politiske begreper",
+        "title": "kabinettsspørsmål",
+        "url": "https://snl.no/kabinettssp%C3%B8rsm%C3%A5l"
+      },
+      {
+        "category": "Syrias samtidshistorie",
+        "title": "Syria",
+        "url": "https://snl.no/Syria"
+      },
+      {
+        "category": "Norske politikere",
+        "title": "Marthe Hammer",
+        "url": "https://snl.no/Marthe_Hammer"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Den store nordiske krigen",
+        "title": "Nils Ehrenskiöld",
+        "url": "https://snl.no/Nils_Ehrenski%C3%B6ld"
+      },
+      {
+        "category": "Biologisk psykologi",
+        "title": "løgndetektor",
+        "url": "https://snl.no/l%C3%B8gndetektor"
+      },
+      {
+        "category": "Postverk",
+        "title": "postkasse",
+        "url": "https://snl.no/postkasse"
+      },
+      {
+        "category": "Tidligere aviser på Vestlandet",
+        "title": "Bondebladet – avis 1914–1935",
+        "url": "https://snl.no/Bondebladet_-_avis_1914%E2%80%931935"
+      },
+      {
+        "category": "Norske kirkebygg",
+        "title": "Gimmestad kirke",
+        "url": "https://snl.no/Gimmestad_kirke"
+      }
+    ]
   }
 }
