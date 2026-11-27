@@ -15753,5 +15753,88 @@
         "url": "https://snl.no/Gimmestad_kirke"
       }
     ]
+  },
+  "2026-11-27": {
+    "Mest lest i går": [
+      {
+        "category": "Sex",
+        "title": "demiseksuell",
+        "url": "https://snl.no/demiseksuell"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Merkedager",
+        "title": "Thanksgiving",
+        "url": "https://snl.no/Thanksgiving"
+      },
+      {
+        "category": "Den franske revolusjon",
+        "title": "den franske revolusjon",
+        "url": "https://snl.no/den_franske_revolusjon"
+      },
+      {
+        "category": "Jødedom",
+        "title": "jødedom",
+        "url": "https://snl.no/j%C3%B8dedom"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Norske språkforskere og språkfolk",
+        "title": "Arne Torp",
+        "url": "https://snl.no/Arne_Torp"
+      },
+      {
+        "category": "Energetiske materialer og sprengningsteknikk",
+        "title": "blyazid",
+        "url": "https://snl.no/blyazid"
+      },
+      {
+        "category": "Konspirasjonsteorier",
+        "title": "den store utskiftningen – konspirasjonsteori",
+        "url": "https://snl.no/den_store_utskiftningen_-_konspirasjonsteori"
+      },
+      {
+        "category": "Norske filmer og TV-serier",
+        "title": "Skam – TV-serie",
+        "url": "https://snl.no/Skam_-_TV-serie"
+      },
+      {
+        "category": "Kristne ritualer og symboler",
+        "title": "advent",
+        "url": "https://snl.no/advent"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Internasjonale klassiske komponister på 1800-tallet",
+        "title": "William Sterndale Bennett",
+        "url": "https://snl.no/William_Sterndale_Bennett"
+      },
+      {
+        "category": "Bokkunst",
+        "title": "illustrasjon",
+        "url": "https://snl.no/illustrasjon"
+      },
+      {
+        "category": "Bibliotek",
+        "title": "Gerhard Munthe – bibliotekar",
+        "url": "https://snl.no/Gerhard_Munthe_-_bibliotekar"
+      },
+      {
+        "category": "Kroatias litteratur",
+        "title": "Tin Ujević",
+        "url": "https://snl.no/Tin_Ujevi%C4%87"
+      },
+      {
+        "category": "Broddvepser",
+        "title": "broddløse bier",
+        "url": "https://snl.no/broddl%C3%B8se_bier"
+      }
+    ]
   }
 }
