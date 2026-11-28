@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "categories": {
     "Mest lest i går": [
       {
-        "category": "Sex",
-        "title": "demiseksuell",
-        "url": "https://snl.no/demiseksuell"
+        "category": "Kinas eldre historie",
+        "title": "den kinesiske mur",
+        "url": "https://snl.no/den_kinesiske_mur"
       },
       {
         "category": "Første verdenskrig",
@@ -13,73 +13,73 @@
         "url": "https://snl.no/f%C3%B8rste_verdenskrig"
       },
       {
+        "category": "Utstilling, organisering og kategorisering av kunstgjenstander",
+        "title": "verdens sju underverker",
+        "url": "https://snl.no/verdens_sju_underverker"
+      },
+      {
         "category": "Merkedager",
         "title": "Thanksgiving",
         "url": "https://snl.no/Thanksgiving"
       },
       {
-        "category": "Den franske revolusjon",
-        "title": "den franske revolusjon",
-        "url": "https://snl.no/den_franske_revolusjon"
-      },
-      {
-        "category": "Jødedom",
-        "title": "jødedom",
-        "url": "https://snl.no/j%C3%B8dedom"
+        "category": "Østerrikes historie",
+        "title": "Elisabeth – keiserinne av Østerrike",
+        "url": "https://snl.no/Elisabeth_-_keiserinne_av_%C3%98sterrike"
       }
     ],
     "Uvanlig mye lest": [
       {
-        "category": "Norske språkforskere og språkfolk",
-        "title": "Arne Torp",
-        "url": "https://snl.no/Arne_Torp"
+        "category": "Norske arkitekter og arkitektkontorer fra 1900 til i dag",
+        "title": "Gudmund Stokke – arkitekt",
+        "url": "https://snl.no/Gudmund_Stokke_-_arkitekt"
       },
       {
-        "category": "Energetiske materialer og sprengningsteknikk",
-        "title": "blyazid",
-        "url": "https://snl.no/blyazid"
+        "category": "Flyselskaper",
+        "title": "Norse Atlantic Airways",
+        "url": "https://snl.no/Norse_Atlantic_Airways"
       },
       {
-        "category": "Konspirasjonsteorier",
-        "title": "den store utskiftningen – konspirasjonsteori",
-        "url": "https://snl.no/den_store_utskiftningen_-_konspirasjonsteori"
+        "category": "Nyere norsk litteratur",
+        "title": "Anne B. Ragde",
+        "url": "https://snl.no/Anne_B._Ragde"
       },
       {
-        "category": "Norske filmer og TV-serier",
-        "title": "Skam – TV-serie",
-        "url": "https://snl.no/Skam_-_TV-serie"
+        "category": "Legemidler som virker på blod og bloddannende organer",
+        "title": "EPO – erytropoietin",
+        "url": "https://sml.snl.no/EPO_-_erytropoietin"
       },
       {
-        "category": "Kristne ritualer og symboler",
-        "title": "advent",
-        "url": "https://snl.no/advent"
+        "category": "Markedsføring",
+        "title": "Black Friday",
+        "url": "https://snl.no/Black_Friday"
       }
     ],
     "Sørgelig lite lest": [
       {
-        "category": "Internasjonale klassiske komponister på 1800-tallet",
-        "title": "William Sterndale Bennett",
-        "url": "https://snl.no/William_Sterndale_Bennett"
+        "category": "Fiskeutstyr og -metoder",
+        "title": "fluefiske",
+        "url": "https://snl.no/fluefiske"
       },
       {
-        "category": "Bokkunst",
-        "title": "illustrasjon",
-        "url": "https://snl.no/illustrasjon"
+        "category": "Qatar historie",
+        "title": "Qatars historie",
+        "url": "https://snl.no/Qatars_historie"
       },
       {
-        "category": "Bibliotek",
-        "title": "Gerhard Munthe – bibliotekar",
-        "url": "https://snl.no/Gerhard_Munthe_-_bibliotekar"
+        "category": "Republikken Kongos litteratur",
+        "title": "Sony Lab'ou Tansi",
+        "url": "https://snl.no/Sony_Lab'ou_Tansi"
       },
       {
-        "category": "Kroatias litteratur",
-        "title": "Tin Ujević",
-        "url": "https://snl.no/Tin_Ujevi%C4%87"
+        "category": "Tidligere aviser på Østlandet",
+        "title": "Eidsiva",
+        "url": "https://snl.no/Eidsiva"
       },
       {
-        "category": "Broddvepser",
-        "title": "broddløse bier",
-        "url": "https://snl.no/broddl%C3%B8se_bier"
+        "category": "Afrikanske språk",
+        "title": "tamasjek",
+        "url": "https://snl.no/tamasjek"
       }
     ]
   }

@@ -15836,5 +15836,88 @@
         "url": "https://snl.no/broddl%C3%B8se_bier"
       }
     ]
+  },
+  "2026-11-28": {
+    "Mest lest i går": [
+      {
+        "category": "Kinas eldre historie",
+        "title": "den kinesiske mur",
+        "url": "https://snl.no/den_kinesiske_mur"
+      },
+      {
+        "category": "Første verdenskrig",
+        "title": "første verdenskrig",
+        "url": "https://snl.no/f%C3%B8rste_verdenskrig"
+      },
+      {
+        "category": "Utstilling, organisering og kategorisering av kunstgjenstander",
+        "title": "verdens sju underverker",
+        "url": "https://snl.no/verdens_sju_underverker"
+      },
+      {
+        "category": "Merkedager",
+        "title": "Thanksgiving",
+        "url": "https://snl.no/Thanksgiving"
+      },
+      {
+        "category": "Østerrikes historie",
+        "title": "Elisabeth – keiserinne av Østerrike",
+        "url": "https://snl.no/Elisabeth_-_keiserinne_av_%C3%98sterrike"
+      }
+    ],
+    "Uvanlig mye lest": [
+      {
+        "category": "Norske arkitekter og arkitektkontorer fra 1900 til i dag",
+        "title": "Gudmund Stokke – arkitekt",
+        "url": "https://snl.no/Gudmund_Stokke_-_arkitekt"
+      },
+      {
+        "category": "Flyselskaper",
+        "title": "Norse Atlantic Airways",
+        "url": "https://snl.no/Norse_Atlantic_Airways"
+      },
+      {
+        "category": "Nyere norsk litteratur",
+        "title": "Anne B. Ragde",
+        "url": "https://snl.no/Anne_B._Ragde"
+      },
+      {
+        "category": "Legemidler som virker på blod og bloddannende organer",
+        "title": "EPO – erytropoietin",
+        "url": "https://sml.snl.no/EPO_-_erytropoietin"
+      },
+      {
+        "category": "Markedsføring",
+        "title": "Black Friday",
+        "url": "https://snl.no/Black_Friday"
+      }
+    ],
+    "Sørgelig lite lest": [
+      {
+        "category": "Fiskeutstyr og -metoder",
+        "title": "fluefiske",
+        "url": "https://snl.no/fluefiske"
+      },
+      {
+        "category": "Qatar historie",
+        "title": "Qatars historie",
+        "url": "https://snl.no/Qatars_historie"
+      },
+      {
+        "category": "Republikken Kongos litteratur",
+        "title": "Sony Lab'ou Tansi",
+        "url": "https://snl.no/Sony_Lab'ou_Tansi"
+      },
+      {
+        "category": "Tidligere aviser på Østlandet",
+        "title": "Eidsiva",
+        "url": "https://snl.no/Eidsiva"
+      },
+      {
+        "category": "Afrikanske språk",
+        "title": "tamasjek",
+        "url": "https://snl.no/tamasjek"
+      }
+    ]
   }
 }
